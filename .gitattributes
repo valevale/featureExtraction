@@ -1,0 +1,2 @@
+citiesIndex.tar.gz filter=lfs diff=lfs merge=lfs -text
+IndexDirectory.tar.gz filter=lfs diff=lfs merge=lfs -text

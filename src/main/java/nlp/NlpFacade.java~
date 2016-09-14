@@ -1,0 +1,35 @@
+package lib.nlp;
+
+import model.GenericCard;
+import storage.mongo.MorphiaSingleton;
+
+import java.util.HashMap;
+import java.util.List;
+
+/**
+ * Created by lorenzoluce on 04/08/16.
+ */
+public class NlpFacade {
+
+    public static GenericCard enrich(GenericCard card) {
+        String text = card.textToEnrich();
+        String pageBody = "";
+        HashMap<String, List<String>> entities = new HashMap<>();
+
+        String languageCode = LanguageDetectionFacade.getInstance().detectLanguage(text);
+
+        if (!card.isWrapper()) {
+            pageBody = card.getPage().getBody();
+            entities = PolyglotFacade.extractNamedEntities(languageCode, text, card.getStringId());
+        }
+
+        entities.putAll(PatternExtractor.getInstance().extractFeatures(text, pageBody));
+
+        card.setEntities(entities);
+        card.setLanguage(languageCode);
+
+        MorphiaSingleton.getInstance().save(card);
+        return card;
+    }
+
+}
