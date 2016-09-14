@@ -7,8 +7,7 @@ import database.MongoFacade;
 import de.l3s.boilerpipe.BoilerpipeProcessingException;
 import de.l3s.boilerpipe.extractors.ArticleExtractor;
 import lib.utils.BoilerController;
-import model.Page;
-import model.Source;
+import model.PageEntry;
 
 public class TextExtractor {
 	MongoFacade facade = new MongoFacade("profiles_development");
@@ -29,10 +28,7 @@ public class TextExtractor {
 		return ArticleExtractor.INSTANCE.getText(html);
 	}
 	
-	public String getTextWithCleanHTMLTree(Page page) throws Exception {
-		Source site = facade.getSite(page);	
-		if (site != null)
-			return boiler.boilPages(page);
-		return "no sites";
+	public String getTextWithCleanHTMLTree(PageEntry page) throws Exception {
+		return boiler.boilPages(page);
 	}
 }

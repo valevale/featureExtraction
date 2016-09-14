@@ -1,53 +1,26 @@
 package model;
 
-import org.bson.types.ObjectId;
-import org.mongodb.morphia.annotations.Entity;
-import org.mongodb.morphia.annotations.Field;
-import org.mongodb.morphia.annotations.Id;
-import org.mongodb.morphia.annotations.Index;
-import org.mongodb.morphia.annotations.Indexes;
+import org.mongodb.morphia.annotations.Embedded;
 
-@Entity("pages")
-@Indexes(@Index(value = "url", fields = @Field("url")))
+@Embedded
 public class Page {
-    @Id
-    private ObjectId id;
+
     private String url;
-    private String html;
-    
-    public Page() {
-    }
-
-    public Page(final String url, final String content) {
-        this.url = url;
-        this.html = content;
-    }
-
-    public ObjectId getId() {
-        return id;
-    }
-
+    private String body;
+ 
     public String getUrl() {
         return url;
     }
-
-    public void setUrl(final String url) {
+ 
+    public void setUrl(String url) {
         this.url = url;
     }
-    
-    public String getHtml() {
-        return html;
+ 
+    public String getBody() {
+        return body;
     }
-
-    public void setHtml(final String content) {
-        this.html = content;
+ 
+    public void setBody(String body) {
+        this.body = body;
     }
-    
-    public String toPrettyString() {
-    	String pretty ="";
-    	pretty += "url: " + this.url + "\n";
-    	//pretty += "content: " + this.html;
-    	return pretty;
-    }
-
 }
