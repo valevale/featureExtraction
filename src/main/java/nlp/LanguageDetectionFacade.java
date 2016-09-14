@@ -15,6 +15,8 @@ import com.optimaize.langdetect.text.TextObjectFactory;
 import java.io.IOException;
 import java.util.List;
 
+import org.apache.log4j.Logger;
+
 /**
  * Created by valerio on 7/22/16.
  */
@@ -23,6 +25,7 @@ public class LanguageDetectionFacade {
     private static LanguageDetectionFacade instace;
     private static TextObjectFactory textObjectFactory;
     private static LanguageDetector languageDetector;
+    final static Logger log = Logger.getLogger(nlp.LanguageDetectionFacade.class);
 
     private LanguageDetectionFacade() {
         try {
@@ -32,7 +35,7 @@ public class LanguageDetectionFacade {
                     .build();
             textObjectFactory = CommonTextObjectFactories.forDetectingOnLargeText();
         } catch (IOException e) {
-            //log.error("Loading LanguageDetectionFacade failed", e);
+            log.error("Loading LanguageDetectionFacade failed", e);
         }
     }
 

@@ -8,7 +8,6 @@ import com.bericotech.clavin.gazetteer.GeoName;
 import com.bericotech.clavin.gazetteer.query.LuceneGazetteer;
 import com.bericotech.clavin.resolver.ClavinLocationResolver;
 import com.bericotech.clavin.resolver.ResolvedLocation;
-//import lombok.extern.log4j.Log4j;
 
 import java.io.File;
 import java.util.ArrayList;
@@ -16,12 +15,15 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
+import org.apache.log4j.Logger;
+
 /**
  * Created by lorenzoluce on 07/09/16.
  */
 public class ClavinFacade {
 
     private static ClavinFacade ourInstance = new ClavinFacade();
+    final static Logger log = Logger.getLogger(nlp.ClavinFacade.class);
     
     private static final String CITIES_INDEX = "./citiesIndex";
     private static final String ALL_LOCATIONS_INDEX = "./IndexDirectory";
@@ -47,7 +49,7 @@ public class ClavinFacade {
             gazetteer = new LuceneGazetteer(new File(ALL_LOCATIONS_INDEX));
             locationResolver = new ClavinLocationResolver(gazetteer);
         } catch (ClavinException e) {
-            //log.error("cannot load clavin index");
+            log.error("cannot load clavin index");
         	System.out.println("cannot load clavin index");
         }
     }
@@ -63,14 +65,14 @@ public class ClavinFacade {
                     try {
                         return gazetteer.getGeoName(loc.getGeoname().getGeonameID());
                     } catch (ClavinException e) {
-                        //log.error("cannot load parent for "+loc.getGeoname().getGeonameID());
+                        log.error("cannot load parent for "+loc.getGeoname().getGeonameID());
                         System.out.println("cannot load parent for "+loc.getGeoname().getGeonameID());
                         return loc.getGeoname();
                     }
                 }).collect(Collectors.toList());
             }
         } catch (Exception e) {
-            //log.error("cannot extract locations from "+string);
+            log.error("cannot extract locations from "+string);
             System.out.println("cannot extract locations from "+string);
         }
         return new ArrayList<>();

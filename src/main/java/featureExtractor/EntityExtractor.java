@@ -5,6 +5,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 
+import org.apache.log4j.Logger;
 import org.mongodb.morphia.query.MorphiaIterator;
 
 import database.MongoFacade;
@@ -18,6 +19,7 @@ public class EntityExtractor {
 	final static int N_LIMIT=30;
 	final static MongoFacade FACADE = new MongoFacade("profiles_development");
 	final static String FILENAME = "resultExtraction4.txt";
+    final static Logger log = Logger.getLogger(featureExtractor.EntityExtractor.class);
 
 	//TODO il vero metodo estrae le entità e le restituisce
 
@@ -50,6 +52,7 @@ public class EntityExtractor {
 					if (FACADE.isPageMonitored(page)) {
 						html = page.getHtml();
 						System.out.println("getting entity " +(i+1));
+						log.debug("------------------------------GETTING ENTITY " +(i+1));
 						TextExtractor te = new TextExtractor();
 
 
