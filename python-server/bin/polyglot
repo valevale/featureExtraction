@@ -1,0 +1,16 @@
+#!/bin/bash
+
+sudo pip install virtualenv
+sudo apt-get install python-numpy libicu-dev
+
+echo "Create Polyglot Folder"
+cd polyglot-server
+virtualenv flask
+flask/bin/pip install flask
+flask/bin/pip install polyglot
+
+echo "Set Polyglot Resource Folder"
+wget https://www.dropbox.com/s/olr0916jn5aaezl/polyglot_data.zip?dl=0 -P ~ -O polyglot_data.zip
+unzip ~/polyglot_data.zip
+rm ~/polyglot_data.zip
+chmod a+x app.py
