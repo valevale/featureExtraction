@@ -15,8 +15,8 @@ import nlp.NlpFacade;
 
 public class EntityExtractor {
 
-	final static int N_LIMIT=30;
-	final static MongoFacade FACADE = new MongoFacade("profiles_development");
+	final static int N_LIMIT=20;
+	final static MongoFacade FACADE = new MongoFacade("crawler_db");
 	final static Logger log = Logger.getLogger(featureExtractor.EntityExtractor.class);
 
 	//TODO il vero metodo estrae le entità e le restituisce

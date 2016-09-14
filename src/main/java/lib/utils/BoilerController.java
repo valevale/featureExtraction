@@ -18,7 +18,7 @@ public class BoilerController {
 	private List<PageEntry> usedPagesForCleaning;
 	//numero di pagine utilizzare per la pulizia
 	private int numberCleanedPages = 5;
-	MongoFacade facade = new MongoFacade("METTI IL NOME DEL DB");
+	MongoFacade facade = new MongoFacade("crawler_db");
 
 	public BoilerController() {
 	}

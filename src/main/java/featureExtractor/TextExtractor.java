@@ -10,7 +10,7 @@ import lib.utils.BoilerController;
 import model.PageEntry;
 
 public class TextExtractor {
-	MongoFacade facade = new MongoFacade("profiles_development");
+	MongoFacade facade = new MongoFacade("crawler_db");
 	BoilerController boiler = new BoilerController();
 
 	public TextExtractor() {
