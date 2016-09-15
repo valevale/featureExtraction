@@ -42,7 +42,7 @@ public class BoilerController {
 			while (iterator.hasNext() && counter<numberCleanedPages) {
 				System.out.println("NUMERO DI PAGINE PRESE "+counter);
 				PageEntry page = iterator.next();
-				if (page.getId() != pageToClean.getId()) {
+				if (!page.getId().equals(pageToClean.getId())) {
 					this.usedPagesForCleaning.add(page);
 					counter++;
 				}
@@ -62,6 +62,8 @@ public class BoilerController {
 		CleanHTMLTree.travers(documentToClean, blacklistedTxt, blacklistedImg);
 		Document docToCleanParsed = Jsoup.parse(documentToClean.text());
 
+		this.usedPagesForCleaning.clear();
+		
 		return docToCleanParsed.text();
 	}
 
