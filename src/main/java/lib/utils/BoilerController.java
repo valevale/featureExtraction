@@ -69,7 +69,7 @@ public class BoilerController {
 		//pageEntry che già abbiamo!
 		try {
 			int i=0;
-			while (iterator.hasNext() && i<=numberCleanedPages) {
+			while (iterator.hasNext() && i<=numberCleanedPages && iterator.next() != null) {
 				PageEntry page = iterator.next();
 				if (page.getId() != pageToClean.getId()) {
 					this.usedPagesForCleaning.add(page);
