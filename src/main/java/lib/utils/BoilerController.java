@@ -23,6 +23,10 @@ public class BoilerController {
 
 	public BoilerController() {
 	}
+	
+	public List<PageEntry> getUsedPagesForCleaning() {
+		return this.usedPagesForCleaning;
+	}
 
 	/*prende una pagina e individua il template da eliminare*/
 	public String boilPages(PageEntry pageToClean) throws Exception {

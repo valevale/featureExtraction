@@ -11,7 +11,6 @@ import model.PageEntry;
 
 public class TextExtractor {
 	MongoFacade facade = new MongoFacade("crawler_db");
-	BoilerController boiler = new BoilerController();
 
 	public TextExtractor() {
 	}
@@ -28,7 +27,7 @@ public class TextExtractor {
 		return ArticleExtractor.INSTANCE.getText(html);
 	}
 	
-	public String getTextWithCleanHTMLTree(PageEntry page) throws Exception {
+	public String getTextWithCleanHTMLTree(PageEntry page, BoilerController boiler) throws Exception {
 		return boiler.boilPages(page);
 	}
 }

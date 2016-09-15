@@ -9,6 +9,7 @@ import org.apache.log4j.Logger;
 import org.mongodb.morphia.query.MorphiaIterator;
 
 import database.MongoFacade;
+import lib.utils.BoilerController;
 import lib.utils.PrettyPrintMap;
 import model.PageEntry;
 import nlp.NlpFacade;
@@ -18,6 +19,7 @@ public class EntityExtractor {
 	final static int N_LIMIT=20;
 	final static MongoFacade FACADE = new MongoFacade("crawler_db");
 	final static Logger log = Logger.getLogger(featureExtractor.EntityExtractor.class);
+	final static BoilerController bc = new BoilerController();
 
 	//TODO il vero metodo estrae le entità e le restituisce
 
@@ -62,11 +64,13 @@ public class EntityExtractor {
 				textPrinter.println(id);
 				entitiesPrinter.println(id);
 				locationsPrinter.println(id);
-				//TODO metti l'url delle pagine utilizzate per la pulizia
-//				int pagesToCleanSize = FACADE.getSourcePages(site.getId().toString(), 5).size();
-//				textPrinter.println("PAGINE UTILIZZATE PER LA PULIZIA: "+pagesToCleanSize+"\n");
-//				entitiesPrinter.println("PAGINE UTILIZZATE PER LA PULIZIA: "+pagesToCleanSize+"\n");
-//				locationsPrinter.println("PAGINE UTILIZZATE PER LA PULIZIA: "+pagesToCleanSize+"\n");
+				String textClean = te.getTextWithCleanHTMLTree(page, bc);
+				List<PageEntry> pagesToClean = bc.getUsedPagesForCleaning();
+				for (int j=0;j<pagesToClean.size();j++) {
+					textPrinter.println("PAGINE UTILIZZATE PER LA PULIZIA: "+j+" "+pagesToClean.get(j).getPage().getUrl()+"\n");
+					entitiesPrinter.println("PAGINE UTILIZZATE PER LA PULIZIA: "+j+" "+pagesToClean.get(j).getPage().getUrl()+"\n");
+					locationsPrinter.println("PAGINE UTILIZZATE PER LA PULIZIA: "+j+" "+pagesToClean.get(j).getPage().getUrl()+"\n");
+				}
 
 				/*JSOUP*/
 				textPrinter.println("JSOUP\n");
@@ -83,7 +87,7 @@ public class EntityExtractor {
 				textPrinter.println("CLEAN\n");
 				entitiesPrinter.println("CLEAN\n");
 				locationsPrinter.println("CLEAN\n");
-				String textClean = te.getTextWithCleanHTMLTree(page);
+
 				textPrinter.println(textClean+"\n\n\n");
 				HashMap<String, List<String>> entitiesClean = NlpFacade.getEntities(textClean, html);
 				HashMap<String, List<String>> locationsClean = NlpFacade.getLocations(textClean, html);
