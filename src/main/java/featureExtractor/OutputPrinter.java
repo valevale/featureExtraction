@@ -9,17 +9,17 @@ import java.util.List;
 import org.jsoup.nodes.Document;
 
 import lib.utils.PrettyPrintMap;
-import model.Page;
+import model.PageEntry;
 import nlp.NlpFacade;
 
 public class OutputPrinter {
 
-	public static void print(String fileName, List<Page> pages) throws Exception {
+	public static void print(String fileName, List<PageEntry> pages) throws Exception {
 		PrintWriter printer = new PrintWriter(fileName, "UTF-8");
 		String html;
 		for(int i=0; i<pages.size(); i++) {
 
-			html = pages.get(i).getHtml();
+			html = pages.get(i).getPage().getBody();
 			System.out.println("getting entity " +(i+1));
 
 			TextExtractor te = new TextExtractor();
