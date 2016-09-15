@@ -10,12 +10,13 @@ import org.mongodb.morphia.query.MorphiaIterator;
 
 import database.MongoFacade;
 
+import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
 
 public class BoilerController {
-	private List<PageEntry> usedPagesForCleaning;
+	private List<PageEntry> usedPagesForCleaning = new ArrayList<>();
 	//numero di pagine utilizzare per la pulizia
 	private int numberCleanedPages = 5;
 	MongoFacade facade = new MongoFacade("crawler_db");
