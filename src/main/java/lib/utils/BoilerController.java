@@ -27,6 +27,10 @@ public class BoilerController {
 	public List<PageEntry> getUsedPagesForCleaning() {
 		return this.usedPagesForCleaning;
 	}
+	
+	public void setUsedPagesForCleaning(List<PageEntry> usedPagesForCleaning) {
+		this.usedPagesForCleaning = usedPagesForCleaning;
+	}
 
 	/*prende una pagina e individua il template da eliminare*/
 	@SuppressWarnings("rawtypes")
@@ -61,8 +65,9 @@ public class BoilerController {
 		Document documentToClean = Jsoup.parse(pageToClean.getPage().getBody());
 		CleanHTMLTree.travers(documentToClean, blacklistedTxt, blacklistedImg);
 		Document docToCleanParsed = Jsoup.parse(documentToClean.text());
-
-		this.usedPagesForCleaning.clear();
+		
+		//TODO rimettilo!
+		//this.usedPagesForCleaning.clear();
 		
 		return docToCleanParsed.text();
 	}
