@@ -74,7 +74,7 @@ public class NlpFacade {
 		locations.put("CLAVIN-EXTRACTOR", occurrencesExtractedToString);
 		if (entities.get("I-LOC") != null) {
 			locations.put("POLYGLOT", entities.get("I-LOC"));
-			locations.put("CLAVIN-RESOLUTOR", resolve(entities.get("I-LOC")));
+			//locations.put("CLAVIN-RESOLUTOR", resolve(entities.get("I-LOC")));
 		}
 		return locations;
 	}
