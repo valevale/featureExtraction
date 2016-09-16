@@ -41,7 +41,7 @@ public class NlpFacade {
 		
 		entities.put("CLAVIN-EXTRACTOR", occurrencesExtractedToString);
 		if (entities.get("I-LOC") != null) {
-			entities.put("CLAVIN-RESOLUTOR", resolve(entities.get("I-LOC")));
+			//entities.put("CLAVIN-RESOLUTOR", resolve(entities.get("I-LOC")));
 		}
 
 		return entities;
