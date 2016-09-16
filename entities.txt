@@ -1,0 +1,1004 @@
+------------------------1------------------------
+http://cinema.ilsole24ore.com/biografia/armando-migliari/
+575c401b3ceacfc09d002e62
+PAGINE UTILIZZATE PER LA PULIZIA: 0 http://cinema.ilsole24ore.com/biografia/clara-auteri-pepe/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 1 http://cinema.ilsole24ore.com/biografia/oreste-biancoli/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 2 http://cinema.ilsole24ore.com/biografia/mattia-cicinelli/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 3 http://cinema.ilsole24ore.com/biografia/vera-talchi/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 4 http://cinema.ilsole24ore.com/biografia/marco-calvani/
+
+JSOUP
+
+CLAVIN-EXTRACTOR="[IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, Como = Como (Italy, 09) [pop: 81975] <3178229>, Miami Beach = Miami Beach (United States, FL) [pop: 87779] <4164143>]6", 
+
+I-PER="[Armando Migliari, Cinematografo.it Armando Migliari, Don Camillo, Don Camillo monsignore . . ., LAMBERTINI, Don Camillo, . ., Totò, Angelina, Giacomo l'idealista, LUISA SANFELICE, Teresa Venerdì, Martin, Antonio Meucci, VARGAS, Alessandro, ., Jeanne Doré, CASTIGLIONI, NINA, Alice, Alice Kingsleigh, incontr . ., Pelé, Apocalisse]25", 
+
+I-LOC="[-, Matera, CASTIGLIONE, LUCERA, Agrigento Alessandria Ancona Aosta Arezzo Ascoli Piceno Asti Avellino Bari Belluno Benevento Bergamo Biella Bologna Bolzano Brescia Brindisi Cagliari Caltanissetta Campobasso Caserta Catania Catanzaro Chieti Como Cosenza Cremona Crotone Cuneo Enna Ferrara Firenze Foggia Forlì, Cesena Frosinone Genova Gorizia Grosseto Imperia Isernia L'Aquila, Spezia Latina Lecce Lecco Livorno Lodi Lucca Macerata Mantova Massa - Carrara Matera Messina Milano Modena Napoli Novara Nuoro Oristano Padova Palermo Parma Pavia Perugia Pesaro, Urbino Pescara Piacenza Pisa Pistoia Pordenone Potenza Prato Ragusa Ravenna Reggio Calabria Reggio Emilia Rieti Rimini Roma Rovigo S.Marino Salerno Sassari Savona Siena Siracusa Sondrio Taranto Teramo Terni Torino Trapani Trento Treviso Trieste Udine Varese Venezia Verbano, Cusio - Ossola Vercelli Verona Vibo Valentia Vicenza Viterbo Città, Londra, My24]11", 
+
+I-ORG="[Spezia, Miami Beach, Civil War]3"
+
+
+
+CLEAN
+
+CLAVIN-EXTRACTOR="[IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>]4", 
+
+I-PER="[Armando Migliari, Migliari, Don Camillo, Don Camillo monsignore . . ., LAMBERTINI, Don Camillo, . ., Totò, Angelina, Giacomo l'idealista, LUISA SANFELICE, Teresa Venerdì, Martin, Antonio Meucci, VARGAS, Alessandro, ., Jeanne Doré, CASTIGLIONI, NINA]20", 
+
+I-LOC="[-, Matera, CASTIGLIONE, LUCERA]4"
+
+
+
+BOILER
+
+CLAVIN-EXTRACTOR="[]0"
+------------------------2------------------------
+http://iltaccodibacco.it/puglia/eventi/2016-10-01//
+575c46e43ceacf712f009796
+PAGINE UTILIZZATE PER LA PULIZIA: 0 http://iltaccodibacco.it/puglia/eventi/156043.html
+
+PAGINE UTILIZZATE PER LA PULIZIA: 1 http://iltaccodibacco.it/puglia/eventi/2016-10-16//
+
+PAGINE UTILIZZATE PER LA PULIZIA: 2 http://iltaccodibacco.it/puglia/eventi/156309.html
+
+PAGINE UTILIZZATE PER LA PULIZIA: 3 http://iltaccodibacco.it/puglia/eventi/155357.html
+
+PAGINE UTILIZZATE PER LA PULIZIA: 4 http://iltaccodibacco.it/puglia/eventi/156334.html
+
+JSOUP
+
+CLAVIN-EXTRACTOR="[Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, le = Leh (India, 12) [pop: 37475] <1264976>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>]6", 
+
+I-PER="[Bacco, Vito, Vito, . ., PalaFlorio, PalaFlorio Bari Emma, Emma, P . ., Palazzo, Cesar Franck, Bari Alessandra Amoroso, Alessandra Amoroso, ., Palazzo, Vito, ., ., PalaFlorio, ., Johnny DalBasso, Johnny DalBasso, Johnny DalBasso, Johnny DalBasso, Johnny DalBasso, l’armonicista, Johnny DalBasso … . ., Martina, Damiano Nicolella, Peppe Ciciriello, . ., ., House Lecce Alice, Bacco, recycle bin, Tacco, Bacco]36", 
+
+I-LOC="[Puglia, Puglia, Basilicata, Campania, Calabria, Puglia, Molise, Roma, Altamura Andria Bari Barletta Bitonto Brindisi Ceglie Messapica Foggia Francavilla Fontana Gallipoli Gioia del Colle Gravina in Puglia Lecce Manduria Martina Franca Monopoli Ostuni Otranto Peschici Ruvo di Puglia Taranto Trani, Botte, Bari, Crispiano, Botte, Puglia, PalaFlorio Bari, Mola, Bari, Francia, Roma, Milano, Mola, Bari, Milano, Torre, Martina, House Lecce, Platea, di Ravello, Italia, recycle]30", 
+
+I-ORG="[F, Lirica, Bari, Mediolanum Forum, Lirica, Martina Franca Tradizionale, House, artists Piano City Napoli]8"
+
+
+
+CLEAN
+
+CLAVIN-EXTRACTOR="[Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, le = Leh (India, 12) [pop: 37475] <1264976>]4", 
+
+I-PER="[Bacco, Vito, Vito, . ., PalaFlorio, PalaFlorio Bari Emma, Emma, P . ., Palazzo, Cesar Franck, Bari Alessandra Amoroso, Alessandra Amoroso, ., Palazzo, Vito, ., ., PalaFlorio, ., Johnny DalBasso, Johnny DalBasso, Johnny DalBasso, Johnny DalBasso, Johnny DalBasso, l’armonicista, Johnny DalBasso … . ., Martina, Damiano Nicolella, Peppe Ciciriello, . ., ., House Lecce Alice]32", 
+
+I-LOC="[Puglia Puglia, Basilicata, Campania, Calabria, Puglia, Molise, Roma, Botte, Botte, Puglia, PalaFlorio Bari, Mola, Bari, Francia, Roma, Milano, Mola, Bari, Milano, Torre, Martina, House Lecce, Platea, di Ravello]24", 
+
+I-ORG="[F, Bari, Mediolanum Forum, Martina Franca Tradizionale, House, artists Piano City Napoli]6"
+
+
+
+BOILER
+
+CLAVIN-EXTRACTOR="[]0", 
+
+I-PER="[Pooh, ., Johnny DalBasso, Johnny DalBasso, Johnny DalBasso, Johnny DalBasso, Johnny DalBasso, l’armonicista, Johnny DalBasso … . ., Damiano Nicolella, Peppe Ciciriello, . .]12", 
+
+I-LOC="[Milano, Martina]2"
+------------------------3------------------------
+http://aziende.virgilio.it/avvocato/bari-ba/studio-legale-avv-lepore-domenica
+575c48ed3ceacff7a900b188
+PAGINE UTILIZZATE PER LA PULIZIA: 0 http://aziende.virgilio.it/bari-ba/innamorato-dr-francesco
+
+PAGINE UTILIZZATE PER LA PULIZIA: 1 http://aziende.virgilio.it/agente-commercio/bari-ba/de-sario-basilio
+
+PAGINE UTILIZZATE PER LA PULIZIA: 2 http://aziende.virgilio.it/cancelli-automatici/bari-ba/de-leonardis-emilio
+
+PAGINE UTILIZZATE PER LA PULIZIA: 3 http://aziende.virgilio.it/medico/bari-ba/romano-francesco
+
+PAGINE UTILIZZATE PER LA PULIZIA: 4 http://aziende.virgilio.it/avvocato/bari-ba/caponio_4
+
+JSOUP
+
+CLAVIN-EXTRACTOR="[IL = Israel (Israel, 00) [pop: 7353985] <294640>]1", 
+
+I-PER="[. LEPORE, Saverio Lioce, . LEPORE, ., Saverio Lioce, Saverio Lioce, . SPARAPANO SALVATORE, . Che Guevara, GIANNELLI AVV . GIUSEPPE, V . Melo, DOTT, Vl, Einaudi, V . Sabotino, Virgilio, Enoteche, Virgilio]17", 
+
+I-LOC="[Bari, Roma Milano Napoli Palermo Torino Genova Bologna Firenze Bari, Bari, Bari, Bari, BARI, BARI, BARI, BARI, Bari, BARI, BARI, BARI, Avvocati, Valenzano, Capurso, Bitetto, Noicattaro, intermodali Autonoleggio, Bari, Triggiano Modugno Valenzano Capurso Bitritto Cellamare Adelfia Bitetto Noicattaro Bitonto Sannicandro Di Bari Palo Del Colle Binetto Puglia, Bari Barletta Brindisi Foggia Lecce Taranto, Abruzzo Basilicata Calabria Campania Emilia Romagna Friuli Venezia Giulia Lazio Liguria Lombardia Marche Molise Piemonte Puglia Sardegna Sicilia Toscana Trentino Alto Adige Umbria Valle d, Aosta Veneto]24", 
+
+PHONE="[ 080 5615321 ]1", 
+
+I-ORG="[Finanza, BA, Bari, Triggiano, Modugno, Bitritto, Cellamare, Adelfia, Bari Barletta Brindisi Foggia Lecce Taranto Imprese, P.S]10"
+
+
+
+CLEAN
+
+CLAVIN-EXTRACTOR="[]0", 
+
+I-PER="[. LEPORE, Saverio Lioce, . LEPORE, ., Saverio Lioce, Saverio Lioce, . SPARAPANO SALVATORE, . Che Guevara, GIANNELLI AVV . GIUSEPPE, V . Melo, DOTT, Vl, Einaudi, V . Sabotino]14", 
+
+I-LOC="[Bari, BARI, BARI, . Che Guevara BARI, Bari, BARI, BARI, Avvocati]8", 
+
+PHONE="[ 080 5615321 ]1", 
+
+I-ORG="[Finanza, BA, V . Sabotino BARI]3"
+
+
+
+BOILER
+
+CLAVIN-EXTRACTOR="[]0", 
+
+I-LOC="[Bari]1"
+------------------------4------------------------
+http://www.ilcalciomagazine.it/2016/06/06/shevchenko-problemi-del-milan-societa/
+575c4c383ceacf7d8e00ccee
+PAGINE UTILIZZATE PER LA PULIZIA: 0 http://www.ilcalciomagazine.it/2016/05/27/pele-la-mia-partita-piu-importante-messico-70-litalia/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 1 http://www.ilcalciomagazine.it/2016/05/26/classifica-forbes-cristiano-ronaldo-calciatore-piu-pagato/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 2 http://www.ilcalciomagazine.it/2016/05/26/muscoli-ossa-la-maglietta-discutere/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 3 http://www.ilcalciomagazine.it/2016/05/17/lovazione-san-siro-allingresso-campo-francesco-totti/
+
+JSOUP
+
+CLAVIN-EXTRACTOR="[milan = Milan (Italy, 09) [pop: 1236837] <3173435>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, milan = Milan (Italy, 09) [pop: 1236837] <3173435>, San Siro = San Siro (Italy, 09) [pop: 1712] <6534436>]7", 
+
+DATE="[10/02/2015]1", 
+
+I-PER="[Shevchenko, Vero, Vero, Vero, Shevchenko, L’ex, Pelé, “, l’Italia ”, Cristiano Ronaldo, Francesco Totti, . Boglietti, Luca]13", 
+
+I-LOC="[LAZIO Lazio NAPOLI Napoli, Messico, San Siro all’ingresso, Biella, Biella]5", 
+
+I-ORG="[Milan, Channel Lady Channel Plus, Glamour, Calcio Magazine, Vero, Calcio Magazine, Vero, MILAN INTER JUVE Juventus, Champions League Europa League TIM Cup, Milan, Forbes, Glamour, Calcio, Calcio, Glamour, Calcio, Calcio, Delta Pictures, Delta Press, Tribunale]20"
+
+
+
+CLEAN
+
+CLAVIN-EXTRACTOR="[milan = Milan (Italy, 09) [pop: 1236837] <3173435>, milan = Milan (Italy, 09) [pop: 1236837] <3173435>, San Siro = San Siro (Italy, 09) [pop: 1712] <6534436>]3", 
+
+I-PER="[Shevchenko, Shevchenko, L’ex, … Pelé, “, l’Italia ”, Cristiano Ronaldo, Francesco Totti]8", 
+
+I-LOC="[Messico, San Siro all’ingresso]2", 
+
+I-ORG="[Milan, Milan, Forbes]3"
+
+
+
+BOILER
+
+CLAVIN-EXTRACTOR="[]0", 
+
+DATE="[10/02/2015]1", 
+
+I-PER="[. Boglietti, Luca]2", 
+
+I-LOC="[Biella, Biella]2", 
+
+I-ORG="[Calcio, Delta Pictures, Delta Press, Tribunale]4"
+------------------------5------------------------
+http://www.haisentito.it/articolo/noemi-letizia-silvio-berlusconi-non-e-il-mio-vero-papi/14997/
+575c4f603ceacfb9d300e282
+PAGINE UTILIZZATE PER LA PULIZIA: 0 http://www.haisentito.it/tag/partito-socialista/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 1 http://www.haisentito.it/articolo/veronica-lario-vuole-divorziare-da-silvio-berlusconi/14865/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 2 http://www.haisentito.it/tag/festival-cinema-roma/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 3 http://www.haisentito.it/articolo/valentino-rossi-ritorno-in-pista-al-gran-premio-di-germania/28677/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 4 http://www.haisentito.it/utenti/patchi/
+
+JSOUP
+
+CLAVIN-EXTRACTOR="[IL = Israel (Israel, 00) [pop: 7353985] <294640>]1", 
+
+DATE="[11/05/2009]1", 
+
+I-PER="[Noemi Letizia, Silvio Berlusconi, Papi, Noemi Letizia, Silvio Berlusconi, Noemi Letizia, Silvio Berlusconi, noemi, letizia, silvio, berlusconi, Noemi Letizia, Veronica Lario, Silvio Berlusconi, Noemi Letizia, Papi Silvio Berlusconi, all’estero, Times Noemi Letizia, Noemi Letizia, Papi, Berlusconi, “, image.excite.it, Noemi Letizia Silvio Berlusconi, Patrizia Chimera Lun, Patrizia Chimera, Silvio Berlusconi, Simona, bè, Luciana Soc, Stefano, alllargata, Letizia, berlusconi, daniela melchiorre]35", 
+
+I-LOC="[Londra, Repubblica, interessarti, arcore, Casoria … …, Milano]6", 
+
+PHONE="[ 13059540156 ]1", 
+
+I-ORG="[Times, Times, Tribunale]3"
+
+
+
+CLEAN
+
+CLAVIN-EXTRACTOR="[]0", 
+
+DATE="[11/05/2009]1", 
+
+I-PER="[Noemi Letizia, Silvio Berlusconi, Papi, Noemi Letizia, Silvio Berlusconi, Noemi Letizia, Silvio Berlusconi, noemi, letizia, silvio, berlusconi, Noemi Letizia, Veronica Lario, Silvio Berlusconi, Noemi Letizia, Papi Silvio Berlusconi, all’estero, Times Noemi Letizia, Noemi Letizia, Papi, Berlusconi, “, image.excite.it, Noemi Letizia Silvio Berlusconi, Patrizia Chimera Lun, Patrizia Chimera, Silvio Berlusconi, Simona, bè, Luciana Soc, Stefano, alllargata, Letizia, berlusconi, daniela melchiorre]35", 
+
+I-LOC="[Londra, Repubblica, interessarti, arcore, Casoria … …]5", 
+
+I-ORG="[Times, Times]2"
+
+
+
+BOILER
+
+CLAVIN-EXTRACTOR="[]0"
+------------------------6------------------------
+http://www.edizionisanpaolo.it/autore/pierdomenico-baccalario.aspx
+575c53723ceacf549b00fdc3
+PAGINE UTILIZZATE PER LA PULIZIA: 0 http://www.edizionisanpaolo.it/autore/bianchi-enzo.aspx
+
+PAGINE UTILIZZATE PER LA PULIZIA: 1 http://www.edizionisanpaolo.it/autore/martini-carlo-maria-cur.aspx
+
+PAGINE UTILIZZATE PER LA PULIZIA: 2 http://www.edizionisanpaolo.it/autore/antonio-ferrara.aspx
+
+PAGINE UTILIZZATE PER LA PULIZIA: 3 http://www.edizionisanpaolo.it/autore/christian-de-cherge.aspx
+
+PAGINE UTILIZZATE PER LA PULIZIA: 4 http://www.edizionisanpaolo.it/autore/maraga-dino.aspx
+
+JSOUP
+
+CLAVIN-EXTRACTOR="[LA = Laos (Laos, 00) [pop: 6368162] <1655842>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Museo dei Mezzi di Comunicazione = Museo dei Mezzi di Comunicazione (Italy, 16) [pop: 0] <10288022>, Piazza = Piazza (Italy, 09) [pop: 13507] <3170899>, Piazza San Leonardu = Piazza San Leonardu (Malta, 35) [pop: 0] <2564272>]13", 
+
+I-PER="[Paolo, Baccalario, Paolo, Maddalena Gerli, L'avversario, Baccalario, Maddalena Gerli, Pierdomenico Baccalario, San Paolo, Paolo, San Paolo, Domenica, Dio, San Paolo Paulus.net Cooperatore, Paolina, Paolo S.r.l ., Cinisello Balsamo, Paolo, Cod . Fisc, . Iva, . Tribunale Alba, Paolo S.r.l ., San Paolo, Cod . Fisc, . Iva, Iscr, Reg . Impr]27", 
+
+I-LOC="[San Paolo, Acqui Terme, londinese, Bergamo Paderno di Seriate, San, San Paolo BibleWorld, Paolo San, Editoriale San Paolo, Paolo, Paolo Telenova, San Paolo Paulus.net, San Paolo Paulus.net Cooperatore Paolino Istituto, Paolo, Soncino, Cinisello, Alba, Cn, Cod, Cap ., Cuneo, Milano, San, Alba, Cn, Cod, CN]26", 
+
+PHONE="[ 01719060046 ,  01660660042 ]2", 
+
+I-ORG="[Rights, Bologna, Paolo, Paolo San Paolo, San, San Paolo Famiglia Cristiana, Gazzetta, Editoriale San, Editoriale San Paolo Auditorium, Paolo Digital Multimedia, San Paolo Paulus.net Cooperatore Paolino Istituto Santa Famiglia, ., Editoriale]13"
+
+
+
+CLEAN
+
+CLAVIN-EXTRACTOR="[LA = Laos (Laos, 00) [pop: 6368162] <1655842>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]8", 
+
+I-PER="[San Paolo, Paolo, Baccalario, Paolo, Maddalena Gerli, L'avversario, Baccalario, Maddalena Gerli, Pierdomenico Baccalario]9", 
+
+I-LOC="[San, Acqui Terme, londinese, Bergamo Paderno di Seriate]4", 
+
+I-ORG="[Bologna]1"
+
+
+
+BOILER
+
+CLAVIN-EXTRACTOR="[LA = Laos (Laos, 00) [pop: 6368162] <1655842>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]4", 
+
+I-PER="[Baccalario, Paolo, Maddalena Gerli, L'avversario]4", 
+
+I-LOC="[Acqui Terme, londinese]2"
+------------------------7------------------------
+http://www.cityfan.com/asti/loc/dottor-sacco-botto-federico-e-medico-chirurgo
+575c57d13ceacf038801196a
+PAGINE UTILIZZATE PER LA PULIZIA: 0 http://www.cityfan.com/asti/loc/dottor-valpreda-bruno-e-valpreda-francesco-medici-chirurghi
+
+PAGINE UTILIZZATE PER LA PULIZIA: 1 http://www.cityfan.com/portacomaro-at/loc/dottor-ruta-rosario-medico-chirurgo
+
+PAGINE UTILIZZATE PER LA PULIZIA: 2 http://www.cityfan.com/nizza-monferrato-at/loc/dottor-torello-carlo-medico-chirurgo
+
+PAGINE UTILIZZATE PER LA PULIZIA: 3 http://www.cityfan.com/nizza-monferrato-at/loc/dottor-roggero-fossati-alfredo-medico-chirurgo-0
+
+PAGINE UTILIZZATE PER LA PULIZIA: 4 http://www.cityfan.com/asti/loc/studio-medico-di-gruppo-prim
+
+JSOUP
+
+CLAVIN-EXTRACTOR="[Szkolka Stus tel. 603113912 = Szkółka Stus tel. 603113912 (Poland, 83) [pop: 0] <6621374>, le = Leh (India, 12) [pop: 37475] <1264976>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Cuba = Cuba (Cuba, 00) [pop: 11423000] <3562981>]4", 
+
+I-PER="[Sacco Botto Federico E ., Cityfan, Dottor Sacco Botto Federico E ., Dottor Sacco Botto Federico E ., Carducci, ., ., aperitivi, Oz Milano, Re Salomone, Armando Picchi, Gianluca Raglianti Todos]12", 
+
+I-LOC="[Asti, Asti, Asti, Tel, Amalfitana, €, Lambrate, Italia, Livorno, Cuba, Milano]11", 
+
+PHONE="[ 0141593896 ,  10236760012 ]2", 
+
+I-ORG="[Cityfan Asti, Hotel Europa Minori, Milano, Network]4"
+
+
+
+CLEAN
+
+CLAVIN-EXTRACTOR="[Szkolka Stus tel. 603113912 = Szkółka Stus tel. 603113912 (Poland, 83) [pop: 0] <6621374>]1", 
+
+I-PER="[Sacco Botto Federico E ., AstiDottor Sacco Botto Federico E ., Dottor Sacco Botto Federico E ., Carducci]4", 
+
+I-LOC="[Asti, Asti, Asti, Tel]4"
+
+
+
+BOILER
+
+CLAVIN-EXTRACTOR="[Szkolka Stus tel. 603113912 = Szkółka Stus tel. 603113912 (Poland, 83) [pop: 0] <6621374>]1", 
+
+I-PER="[Dottor Sacco Botto Federico E ., Dottor Sacco Botto Federico E ., Carducci]3", 
+
+I-LOC="[Asti, Asti, Tel]3", 
+
+PHONE="[ 0141593896
+]1"
+------------------------8------------------------
+http://www.syloslabini.info/online/fernando-vianello-il-manifesto/
+575c5aff3ceacf7a4c012c1d
+PAGINE UTILIZZATE PER LA PULIZIA: 0 http://www.syloslabini.info/online/l%E2%80%99intransigenza-e-il-sorriso-di-paolo-sylos-labini-di-luciano-barca-il-ponte-anno-lxvi-n-2-febbraio-2010/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 1 http://www.syloslabini.info/online/una-lezione-di-paolo-sylos-labini-giorgio-lunghini-il-ponte-anno-lxvi-n-2-febbraio-2010/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 2 http://www.syloslabini.info/online/parlando-con-paolo-giacomo-becattini-il-ponte-anno-lxvi-n-2-febbraio-2010/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 3 http://www.syloslabini.info/online/il-messaggio-di-paolo-sylos-labini-di-alessandro-pizzorusso-da-il-ponte-gennaio-2010/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 4 http://www.syloslabini.info/online/thinking-of-sylos-labini-or-sylos-labini%E2%80%99s-thinking-marcella-corsi/
+
+JSOUP
+
+CLAVIN-EXTRACTOR="[IL = Israel (Israel, 00) [pop: 7353985] <294640>, Centro Commerciale Via Ugo la Malfa = Centro Commerciale Via Ugo la Malfa (Italy, 07) [pop: 0] <10292243>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]7", 
+
+DATE="[08.12.2005]1", 
+
+I-PER="[Paolo Sylos Labini, Paolo Sylos Labini, Paolo Sylos Labini, Sylos, Paolo Sylos Labini, Paolo Sylos Labini, Paolo Sylos Labini, Paolo Sylos, Sylos, Paolo Sylos Labini, Cittadino Moneta, Paolo Sylos Labini Obituary Paolo Sylos Labini, Paolo Sylos Labini, FERNANDO VIANELLO, Paolo Sylos Labini, . Sylos, Samuelson dell’economia, Sylos, Sylos, Piero Sraffa, Sylos, . Sylos, Smith, Ricardo, Marx, Marx, Schumpeter, Sraffa, Sylos, ‘, Sylos, gora, Pietro Nenni, Natalia Ginzburg, Ugo La Malfa, Marcello De Cecco . Bene . Sylos, Giorgio Fuà, Sylos, Lui, Dove, Sylos, Ernesto Rossi, Gaetano Salvemini, Giustino Fortunato, Leo Valiani, Carlo Levi ., Sylos, Ernesto Rossi, FERNANDO VIANELLO, Gaetano Salvemini, Giorgio Fuà, Marcello De Cecco, marginalismo, Marx, Oligopolio, Paolo Sylos Labini, Piero Sraffa, Pietro Nenni, Ricardo, Smith, Ugo La Malfa, Sylos Labini, Carlo Clericetti, Francesco Saraceno, Francesco Sylos Labini, Gennaro Zezza, Corsaro, Riccardo Bellofiore, Giovanna Vertova, World Economics Association Tag Adam Smith, Ernesto Rossi, Germania Giorgio Ruffolo Grecia, Jobs, Keynes, Luciano Gallino Marcello De Cecco Mariana Mazzucato Marx Matteo Renzi, Paolo Sylos Labini, Silvio Berlusconi, Stefano, Paolo Sylos Labini]79", 
+
+I-LOC="[Economia di Modena, Bologna, Italia, Oxford, Schumpeter, reperirle, Europa, Germania]8", 
+
+I-ORG="[Cittadino, Credito, Quarterly, economic thought, Sylos, economic thought, Economia di, italiana, Liberale, Sociale, World Economics Association Tag]11"
+
+
+
+CLEAN
+
+CLAVIN-EXTRACTOR="[IL = Israel (Israel, 00) [pop: 7353985] <294640>, Centro Commerciale Via Ugo la Malfa = Centro Commerciale Via Ugo la Malfa (Italy, 07) [pop: 0] <10292243>, Centro Commerciale Via Ugo la Malfa = Centro Commerciale Via Ugo la Malfa (Italy, 07) [pop: 0] <10292243>]3", 
+
+DATE="[08.12.2005]1", 
+
+I-PER="[Paolo Sylos Labini, Paolo Sylos Labini Paolo Sylos Labini, FERNANDO VIANELLO, Paolo Sylos Labini, . Sylos, Samuelson dell’economia, Sylos, Sylos, Piero Sraffa, Sylos, . Sylos, Smith, Ricardo, Marx, Marx, Schumpeter, Sraffa, Sylos, ‘, Sylos, gora, Pietro Nenni, Natalia Ginzburg, Ugo La Malfa, Marcello De Cecco . Bene . Sylos, Giorgio Fuà, Sylos, Lui, Dove, Sylos, Ernesto Rossi, Gaetano Salvemini, Giustino Fortunato, Leo Valiani, Carlo Levi ., Sylos, Tags, Ernesto Rossi, FERNANDO VIANELLO, Gaetano Salvemini, Giorgio Fuà, Marcello De Cecco, marginalismo, Marx, Oligopolio, Paolo Sylos Labini, Piero Sraffa, Pietro Nenni, Ricardo, Smith, Ugo La Malfa]51", 
+
+I-LOC="[Economia di Modena, Bologna, Italia, Oxford, Schumpeter, reperirle]6", 
+
+I-ORG="[Economia di]1"
+
+
+
+BOILER
+
+CLAVIN-EXTRACTOR="[IL = Israel (Israel, 00) [pop: 7353985] <294640>, Centro Commerciale Via Ugo la Malfa = Centro Commerciale Via Ugo la Malfa (Italy, 07) [pop: 0] <10292243>]2", 
+
+DATE="[08.12.2005]1", 
+
+I-PER="[FERNANDO VIANELLO, Paolo Sylos Labini, . Sylos, Samuelson dell’economia, Sylos, Sylos, Piero Sraffa, Sylos, . Sylos, Smith, Ricardo, Marx, Marx, Schumpeter, Sraffa, Sylos, ‘, Sylos, gora, Pietro Nenni, Natalia Ginzburg, Ugo La Malfa, Marcello De Cecco . Bene . Sylos, Giorgio Fuà, Sylos, Lui, Dove, Sylos, Ernesto Rossi, Gaetano Salvemini, Giustino Fortunato, Leo Valiani, Carlo Levi ., Sylos]34", 
+
+I-LOC="[Economia di Modena, Bologna, Italia, Oxford, Schumpeter, reperirle]6", 
+
+I-ORG="[Economia di]1"
+------------------------9------------------------
+http://www.mondoreality.com/tag/mauro-marin/
+575c5c7f3ceacf538b0135a7
+PAGINE UTILIZZATE PER LA PULIZIA: 0 http://www.mondoreality.com/category/italias-got-talent/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 1 http://www.mondoreality.com/tag/marco-mengoni/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 2 http://www.mondoreality.com/category/grande-fratello/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 3 http://www.mondoreality.com/tag/francesco-facchinetti/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 4 http://www.mondoreality.com/tag/emma-marrone/
+
+JSOUP
+
+CLAVIN-EXTRACTOR="[]0", 
+
+I-PER="[Mauro Marin, MondoReality, Mauro Marin Mauro Marin mauro marin Grande Fratello, Mauro Marin, Fabiana, Mauro Marin, Barbara D’Urso, l’ex, Grande, Mauro Marin, Renzi Di Fabiana, Mauro Marin . L’ex, Grande, Barbara D’Urso, Mauro Marin, Fabiana, Mauro Marin, Mauro Marin, Melania Biolchi, tant’è, Mauro Marin, Melania Biolchi, Silvia Toffanin, Maurizio Costanzo, Alessia Marcuzzi, Augusto De Megni, Mauro Marin, Andrea Cocco, Alfonso Signorini, Sara Bianchessi, Alfonso Signorini, Mauro Marin, Alessandro Ribaldi, Mauro Marin, Mauro Marin, “, Sara Bianchessi, Mauro Marin, Lele Mora, Mauro Marin, Cristina, Sara Bianchessi, Mauro Marin, Cristina Landi, gieffino, Mauro Marin, Fabio Morasca, Mauro Marin ., Mara Adriani, Giorgio Alfieri, Ramona, Marco Stabile, Fabio Morasca, Mauro Marin, Giorgio Alfieri, Mauro Marin, Fabio Morasca, Mauro Marin, Elsa, Mauro Marin, Elsa Di Fabio Morasca, Mauro Marin, Elsa, Mauro Marin, Olivia Lechner, Gelfo, Mauro Marin, Olivia Lechner, Mauro Marin, . . ., Manfredi, Flavia Fiadone Germana Meli Noemi Ceccacci Laura, . ., Antonella Ventura, Alessandra Angeli, Michael Lewis, Luca Betti, Immigrate, Mariana Rodriguez, Romina Giamminelli, La Pina, Emiliano Pepe, Cougar, Eva Grimaldi, Roberta Garzia I Fratelli, Roberta Garzia I Fratelli - Clementino, Paolo Maccaro, Alessandra Velentano, Corrado Giordani I, Umberto Marchesi, Sofia Odescalchi View, . ., dur ., tron, ., Amedeo Barbato . ., . . ., . Belen Rodriguez, . . Francesco, Roby Facchinetti, ., Maria De Filippi, Emma Marrone Alessandra Amoroso Valerio Scanu Marco Carta Marco Mengoni Noemi Fabrizio Corona Stefano De Martino Annalisa Scarrone Tina Cipollari Luca Napolitano, Maria De Filippi Simona Ventura Morgan Mara Maionchi Alessia Marcuzzi Francesco Facchinetti Elio, Belen Rodriguez, Alex, Andrea]107", 
+
+I-LOC="[Padova, Bolzano, Pechino, Ibiza, Mirabilandia]5", 
+
+I-ORG="[Grande, Grande, Carabinieri, Roberta Garzia I Fratelli -, Ibiza Pechino, Pechino, Nectivity]7"
+
+
+
+CLEAN
+
+CLAVIN-EXTRACTOR="[]0", 
+
+I-PER="[Mauro Marin - MondoReality, Mauro Marin Mauro Marin mauro marin Grande Fratello, Mauro Marin, Fabiana, Mauro Marin, Barbara D’Urso, l’ex, Grande, Mauro Marin, Renzi Di Fabiana, Mauro Marin . L’ex, Grande, Barbara D’Urso, Mauro Marin, Fabiana, Mauro Marin, Mauro Marin, Melania Biolchi, tant’è, Mauro Marin, Melania Biolchi, Silvia Toffanin, Maurizio Costanzo, Alessia Marcuzzi, Augusto De Megni, Mauro Marin, Andrea Cocco, Alfonso Signorini, Alfonso Signorini, Mauro Marin, Alessandro Ribaldi, Mauro Marin, Mauro Marin, “, Mauro Marin, Lele Mora, Mauro Marin, Cristina, Mauro Marin, Cristina Landi, gieffino, Mauro Marin, Fabio Morasca, Mauro Marin ., Mara Adriani, Giorgio Alfieri, Ramona, Marco Stabile, Fabio Morasca, Mauro Marin, Giorgio Alfieri, Mauro Marin, Fabio Morasca, Mauro Marin, Elsa, Mauro Marin, Elsa Di Fabio Morasca, Mauro Marin, Elsa, Mauro Marin, Olivia Lechner, Gelfo, Mauro Marin, Olivia Lechner, Mauro Marin]65", 
+
+I-LOC="[Padova, Bolzano]2", 
+
+I-ORG="[Grande, Mediaset, Grande, Carabinieri, Carabinieri]5"
+
+
+
+BOILER
+
+CLAVIN-EXTRACTOR="[]0", 
+
+I-PER="[Mauro Marin Grande Fratello, Mauro Marin, Fabiana, Mauro Marin, Barbara D’Urso, l’ex, Grande, Mauro Marin, Renzi Di Fabiana, Mauro Marin . L’ex, Grande, Barbara D’Urso, Mauro Marin, Fabiana, Mauro Marin, Mauro Marin, Melania Biolchi, tant’è, Mauro Marin, Melania Biolchi, Silvia Toffanin, Maurizio Costanzo, Alessia Marcuzzi, Augusto De Megni, Mauro Marin, Andrea Cocco, Alfonso Signorini, Sara Bianchessi, Alfonso Signorini, Mauro Marin, Alessandro Ribaldi, Mauro Marin, Mauro Marin, “, Sara Bianchessi, Mauro Marin, Lele Mora, Mauro Marin, Cristina, Sara Bianchessi, Mauro Marin, Cristina Landi, gieffino, Mauro Marin, Fabio Morasca, Mauro Marin ., Mara Adriani, Giorgio Alfieri, Ramona, Marco Stabile, Fabio Morasca, Mauro Marin, Giorgio Alfieri, Mauro Marin, Fabio Morasca, Mauro Marin, Elsa, Mauro Marin, Elsa Di Fabio Morasca, Mauro Marin, Elsa, Mauro Marin, Olivia Lechner, Gelfo, Mauro Marin, Olivia Lechner, Mauro Marin, Manfredi, Antonella Ventura, Alessandra Angeli, Michael Lewis, Luca Betti, Immigrate, Mariana Rodriguez, Romina Giamminelli, La Pina, Emiliano Pepe, Cougar, Eva Grimaldi, Roberta Garzia I Fratelli, Roberta Garzia I Fratelli - Clementino, Paolo Maccaro, Alessandra Velentano, Corrado Giordani I, Umberto Marchesi, Sofia Odescalchi]86", 
+
+I-LOC="[Padova, Bolzano, Pechino]3", 
+
+I-ORG="[Grande, Mediaset, Grande, Carabinieri, Carabinieri, Roberta Garzia I Fratelli -]6"
+------------------------10------------------------
+http://www.wittytv.it/amici/vorrei-ma-non-posto-fedez-j-ax-semifinale-18-maggio/
+575c5cb33ceacf39e601370c
+PAGINE UTILIZZATE PER LA PULIZIA: 0 http://www.wittytv.it/amici/piove-massimo-ranieri-sergio-la-semifinale-18-maggio/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 1 http://www.wittytv.it/amici/you-make-me-feel-like-a-natural-woman-elodie-emma-semifinale-18-maggio/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 2 http://www.wittytv.it/amici/luca-lo-stesso-lele-luca-carboni-30-aprile/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 3 https://www.wittytv.it/temptation-island/arrivederci-3/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 4 https://www.wittytv.it/temptation-island/isabella-e-mauro-lultimo-falo/
+
+JSOUP
+
+CLAVIN-EXTRACTOR="[IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]12", 
+
+DATE="[18/05/2016, 27/05/2016, 27/05/2016, 27/05/2016, 27/05/2016, 27/05/2016, 27/05/2016, 27/05/2016, 27/05/2016, 26/05/2016, 26/05/2016, 26/05/2016]12", 
+
+I-PER="[Maurizio Costanzo, Stefano, Marcello –, Chiara Grispo Stefano, Marcello –, Maurizio Costanzo, Maurizio Costanzo, Maurizio Costanzo, Maurizio Costanzo, Stefano, Marcello –, Chiara Grispo Stefano, Marcello –, Jax, Stefano, Marcello –, Chiara Grispo Stefano, Marcello –, Amici15, Lele, Sergio, . ., Gabriele, . ., Amici16 . . . . . ., Sergio . . . ., Amici15, ., Maurizio Costanzo Show, S.R.L, Maria De Filippi, S.R.L]32", 
+
+I-LOC="[WittyTv, WittyTv, Island Coca - Cola, Island Coca - Cola, WittyTv, Island Coca - Cola, - Cola]7", 
+
+PHONE="[ 03632721001 ,  03632721001 ]2", 
+
+I-ORG="[Privacy, Island Coca -, Enel, Island Coca -, Island Coca -, Maurizio Costanzo Show, Maurizio Costanzo Show, Enel, serale, Enel, Finale, Finale, Finale, Finale, Vodafone]15"
+
+
+
+CLEAN
+
+CLAVIN-EXTRACTOR="[IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]5", 
+
+DATE="[18/05/2016, 27/05/2016, 27/05/2016, 27/05/2016, 27/05/2016, 27/05/2016, 27/05/2016, 27/05/2016, 27/05/2016, 26/05/2016, 26/05/2016, 26/05/2016]12", 
+
+I-PER="[Jax, Amici15, family Lele, Sergio, . ., Gabriele, . ., Amici16 . . . . . ., Sergio . . . ., Amici15, .]11", 
+
+I-ORG="[serale, Finale, Finale, Finale, Finale]5"
+
+
+
+BOILER
+
+CLAVIN-EXTRACTOR="[IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]3", 
+
+DATE="[27/05/2016, 27/05/2016, 27/05/2016, 27/05/2016, 27/05/2016, 27/05/2016, 26/05/2016, 26/05/2016]8", 
+
+I-PER="[Lele, Sergio, . ., Gabriele, . ., ., ., Amici15, ., S.R.L]10", 
+
+PHONE="[ 03632721001
+]1", 
+
+I-ORG="[Finale, Finale, Finale, Finale]4"
+------------------------11------------------------
+http://www.neveitalia.it/sport/scialpino/coppaeuropa/news/vittoria-per-due-nella-discesa-femminile-di-coppa-europa-di-saalbach-hinterglemm
+575c5cb93ceacff54201373a
+PAGINE UTILIZZATE PER LA PULIZIA: 0 http://www.neveitalia.it/sport/scialpino/coppaeuropa/news/annullato-il-superg-di-coppa-europa-di-saalbach-hinterglemm-per-problemi-al-cronometraggio
+
+PAGINE UTILIZZATE PER LA PULIZIA: 1 http://www.neveitalia.it/sport/scialpino/coppaeuropa/news/stephanie-brunner-vince-il-primo-dei-due-giganti-di-coppa-europa-di-borovets
+
+PAGINE UTILIZZATE PER LA PULIZIA: 2 http://www.neveitalia.it/sport/scialpino/coppaeuropa/news/paolo-pangrazzi-quarto-nel-superg-di-coppa-europa-della-val-sarentino
+
+PAGINE UTILIZZATE PER LA PULIZIA: 3 http://www.neveitalia.it/sport/scialpino/coppaeuropa/news/doppietta-azzurra-nella-seconda-discesa-di-coppa-europa-di-davos-prima-anna-hofer-seconda-verena-gasslitter
+
+PAGINE UTILIZZATE PER LA PULIZIA: 4 http://www.neveitalia.it/sport/scialpino/coppaeuropa/news/maren-skjold-vince-la-coppa-europa-femminile-a-la-molina-lultimo-gigante-va-a-ricarda-haaser
+
+JSOUP
+
+CLAVIN-EXTRACTOR="[le = Leh (India, 12) [pop: 37475] <1264976>, Pittsburgh = Pittsburgh (United States, PA) [pop: 305704] <5206379>, Las Vegas = Las Vegas (United States, NV) [pop: 583756] <5506956>, alaska = Alaska (United States, AK) [pop: 660633] <5879092>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, le = Leh (India, 12) [pop: 37475] <1264976>, Canton Ticino = Ticino (Switzerland, TI) [pop: 317006] <2658370>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Sierra Nevada = Sierra Nevada (Argentina, 04) [pop: 0] <3835293>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]10", 
+
+I-PER="[Jessica Lindell Vikarby, Florent Claude, belga Franziska Hildebrand, Justine Braisaz, Fischer, Ole Einar Bjørndalen, Ruka, Evgenia Medvedeva, Königssee, Tina Hermann, Marc Girardelli, Pippa Middleton, Robert Antonioli, Laetitia, Kilian, Laetitia Roux, Max Valle, Getty, Saalbach - Hinterglemm, Christina Ager, Levi all’esordio, norvegese Kristin Anna Lysdahl, Innerkrems, Christine Scheyer, Canton Ticino Beatrice Scalvedi, Elisabeth Reisinger, Stefanie Moser, Verena Gasslitter, tedesca Kira Weidle, Scalvedi, Sabrina Maier, Nicol Delago, Skjåld, Anna Hofer, Laura Pirovano, Alessia Timon, Galli, Nadia Delago, Valentina Cillara Rossi, Lisa Magdalena Agerer, statunitense Will Brandenburg, Jan Hudec, Eva - Maria Brem Kristian Ghedina, Daniela Merighetti, Pietro Canzio, Sofia, Nina Løseth, Völkl, Max Valle, Roberto, Roberto Gal, Jessica Lindell Vikarby]52", 
+
+I-LOC="[Europa, Saalbach -, Cortina d'Ampezzo, Italia, belga, Rossignol, Anterselva, Spokane, Pittsburgh, Las Vegas, Verbier, Alaska Freeride, Cortina d ,  Alaska, Formia, Merano, Courmayeur, Cervinia, Valtournenche, Europa, Saalbach -, Europa, Saalbach -, Europa, Tirolo, norvegese, Bærum, Akershus, Coppa Europa, l’altra austriaca, svizzera, Canton Ticino Beatrice, austriache, tedesca, norvegese, Davos, europa, Sci Alpino, statunitense, Repubblica Ceca, Cortina, Germania, Formia, Sierra Nevada, Sci Alpino, Formia, trentino, adige, d'aosta piemonte lombardia appennini svizzera francia austria]49", 
+
+PHONE="[ 08383290965 ]1", 
+
+I-ORG="[Facebook, Alpino, FIS, Cortina, World Cup Ibu Cup, Nazionale, biathlon, Sci, Sci, Lahti, ISU, Team Challenge Cup, Team Challenge Cup, Skeleton, Skeleton, Bob, Track, Skating, Curling Hockey NHL, Stanley Cup, Sharks, Stanley Cup, Penguins, NHL, Sharks, NHL, Extreme, Tour, Freeride, Freeride, Alaska Freeride Challenge, Nera, World Tour, , Stelvio, News, Pista Internazionale, Plateau Rosà, Pista, Vittoria, Coppa, Ager, l’altra, Sci, Rossignol, Sci, Roberto Gal, Roberto Gal Sci, sciistiche, &, Winter Sport, Sci, Sci Alpino Sci, Sci, Hockey, NHL NHL, FIS, Lahti]58", 
+
+EMAIL="[partners@neveitalia.it, redazione@neveitalia.it, partners@neveitalia.it, redazione@neveitalia.it]4"
+
+
+
+CLEAN
+
+CLAVIN-EXTRACTOR="[Canton Ticino = Ticino (Switzerland, TI) [pop: 317006] <2658370>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Sierra Nevada = Sierra Nevada (Argentina, 04) [pop: 0] <3835293>]3", 
+
+I-PER="[Getty, Saalbach - Hinterglemm, Christina Ager, Levi all’esordio, norvegese Kristin Anna Lysdahl, Innerkrems, Christine Scheyer, Canton Ticino Beatrice Scalvedi, Elisabeth Reisinger, Stefanie Moser, Verena Gasslitter, tedesca Kira Weidle, Scalvedi, Sabrina Maier, Nicol Delago, Skjåld, Anna Hofer, Laura Pirovano, Alessia Timon, Galli, Nadia Delago, Valentina Cillara Rossi, Lisa Magdalena Agerer, Nina Løseth, Völkl, Max Valle]26", 
+
+I-LOC="[Europa, Saalbach -, Italia, Europa, Saalbach -, Europa, Saalbach -, Europa, Tirolo, norvegese, Bærum, Akershus, Coppa Europa, l’altra austriaca, svizzera, Canton Ticino Beatrice, austriache, tedesca, norvegese, Davos, europa, Germania, Formia, Sierra Nevada]24", 
+
+I-ORG="[Vittoria, Coppa, Ager, l’altra, Rossignol]5", 
+
+EMAIL="[partners@neveitalia.it, redazione@neveitalia.it]2"
+
+
+
+BOILER
+
+CLAVIN-EXTRACTOR="[Canton Ticino = Ticino (Switzerland, TI) [pop: 317006] <2658370>]1", 
+
+I-PER="[Saalbach - Hinterglemm, Christina Ager, Levi all’esordio, norvegese Kristin Anna Lysdahl, Innerkrems, Christine Scheyer, Canton Ticino Beatrice Scalvedi, Elisabeth Reisinger, Stefanie Moser, Verena Gasslitter, tedesca Kira Weidle, Scalvedi, Sabrina Maier, Nicol Delago, Skjåld, Anna Hofer, Laura Pirovano, Alessia Timon, Galli, Nadia Delago, Valentina Cillara Rossi, Lisa Magdalena Agerer]22", 
+
+I-LOC="[Europa, Saalbach -, Europa, Saalbach -, Europa, Tirolo, norvegese, Bærum, Akershus, Coppa Europa, l’altra austriaca, svizzera, Canton Ticino Beatrice, austriache, tedesca, norvegese, Davos]17", 
+
+I-ORG="[Coppa, Ager, l’altra]3", 
+
+EMAIL="[partners@neveitalia.it, redazione@neveitalia.it]2"
+------------------------12------------------------
+https://www.tracktvlinks.com/actors/Angelo_Amoroso_D'Aragona
+575c5d4e3ceacf402b013b43
+PAGINE UTILIZZATE PER LA PULIZIA: 0 https://www.tracktvlinks.com/actors/Enzo_Del_Re
+
+PAGINE UTILIZZATE PER LA PULIZIA: 1 https://www.tracktvlinks.com/actors/Isabella_Ciarchi
+
+PAGINE UTILIZZATE PER LA PULIZIA: 2 https://www.tracktvlinks.com/actors/Paolo_Ciarchi
+
+PAGINE UTILIZZATE PER LA PULIZIA: 3 https://www.tracktvlinks.com/actors/Pier_Maria_Cecchini
+
+PAGINE UTILIZZATE PER LA PULIZIA: 4 https://www.tracktvlinks.com/actors/Barbara_Begala
+
+JSOUP
+
+CLAVIN-EXTRACTOR="[IL = Israel (Israel, 00) [pop: 7353985] <294640>, Madonna della Pioggia = Madonna della Pioggia (Libya, 03) [pop: 0] <2215560>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]3"
+
+
+
+CLEAN
+
+CLAVIN-EXTRACTOR="[IL = Israel (Israel, 00) [pop: 7353985] <294640>, Madonna della Pioggia = Madonna della Pioggia (Libya, 03) [pop: 0] <2215560>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]3", 
+
+I-PER="[Angelo Amoroso D'Aragona, Angelo Amoroso D'Aragona, Angelo Amoroso D'Aragona Angelo Amoroso D'Aragona, Desiderio, Angelo Amoroso, Angelo Amoroso D'Aragona, Ang . ., vent . ., Julia Ponzio, Angelo Amoroso D'Aragona]10", 
+
+I-LOC="[vent]1", 
+
+I-ORG="[del Levante, Antenna]2"
+
+
+
+BOILER
+
+CLAVIN-EXTRACTOR="[]0"
+------------------------13------------------------
+http://www.calcioweb.eu/author/consuelo-motta/
+575c60b53ceacfc2d20152e3
+PAGINE UTILIZZATE PER LA PULIZIA: 0 http://www.calcioweb.eu/author/stefano-vitetta/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 1 http://www.calcioweb.eu/author/vincenzo-curro/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 2 http://www.calcioweb.eu/author/francesco-formica/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 3 http://www.calcioweb.eu/author/federico-gottero/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 4 http://www.calcioweb.eu/author/kekkog/
+
+JSOUP
+
+CLAVIN-EXTRACTOR="[IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, milan = Milan (Italy, 09) [pop: 1236837] <3173435>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]6", 
+
+I-PER="[Consuelo Motta, Consuelo Motta, Wilmots, Conte ” Consuelo Motta, . . . Carpi, Consuelo Motta, . . ., Gasperini, Pinilla, Consuelo Motta, Mauricio Pinilla, attualm . ., Muriel Consuelo Motta, Luis ., Rodrigo Ely, Cagliari Consuelo Motta, Rodrigo Ely, . ., Silvestre - Toro Consuelo Motta, Matias SIlvestre, ., Giampaolo a Zielinski, Tonelli Consuelo Motta, Marco Giampaolo, . Rudiger, Euro2016, Consuelo Motta, Antonio Rudiger, . ., Tabarez, Suarez, Consuelo Motta, Copa America Luis Suar . . ., Oddo, Consuelo Motta, Massimo Oddo, . . .]37", 
+
+I-LOC="[calcioweb.eu Belgio, Belgio, Carpi, attualm, Torino, . Empoli, Roma, . . Uruguay, Copa America, Copa America Luis Suar . . . Pescara, Reggio, Messina, Partners]13", 
+
+PHONE="[ 02901400800 ]1", 
+
+I-ORG="[Serie B, News, Champions League Europa League, Serie B, News, Champions League Europa League, calcioweb.eu, . . . Atalanta, Torino, Milan, Cagliari, Sampdoria, Serie B, News, Champions League Europa League, Reg ., Sport]17", 
+
+EMAIL="[redazione@calcioweb.eu, redazione@calcioweb.eu, redazione@calcioweb.eu]3"
+
+
+
+CLEAN
+
+CLAVIN-EXTRACTOR="[IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, milan = Milan (Italy, 09) [pop: 1236837] <3173435>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>]5", 
+
+I-PER="[Consuelo Motta, Consuelo Motta, Wilmots, Conte ” Consuelo Motta, . . . Carpi, Consuelo Motta, . . ., Gasperini, Pinilla, Consuelo Motta, Mauricio Pinilla, attualm . ., Muriel Consuelo Motta, Luis ., Rodrigo Ely, Cagliari Consuelo Motta, Rodrigo Ely, . ., Silvestre - Toro Consuelo Motta, Matias SIlvestre, ., Giampaolo a Zielinski, Tonelli Consuelo Motta, Marco Giampaolo, . Rudiger, Euro2016, Consuelo Motta, Antonio Rudiger, . ., Tabarez, Suarez, Consuelo Motta, Copa America Luis Suar . . ., Oddo, Consuelo Motta, Massimo Oddo, . .]37", 
+
+I-LOC="[calcioweb.eu Belgio, Belgio, Carpi, attualm, Torino, . Empoli, Roma, . . Uruguay, Copa America, Copa America Luis Suar . . . Pescara]10", 
+
+I-ORG="[calcioweb.eu, . . . Atalanta, Torino, Milan, Cagliari, Sampdoria]6", 
+
+EMAIL="[redazione@calcioweb.eu, redazione@calcioweb.eu]2"
+
+
+
+BOILER
+
+EMAIL="[redazione@calcioweb.eu, redazione@calcioweb.eu, redazione@calcioweb.eu]3", 
+
+CLAVIN-EXTRACTOR="[]0"
+------------------------14------------------------
+http://www.gossipetv.com/alessandro-del-piero-diventa-attore-in-australia-113574
+575c61253ceacfdde001559c
+PAGINE UTILIZZATE PER LA PULIZIA: 0 http://www.gossipetv.com/una-vita-anticipazioni-spagnole-cayetana-ha-rubato-lidentita-di-teresa-mistero-svelato-223534
+
+PAGINE UTILIZZATE PER LA PULIZIA: 1 http://www.gossipetv.com/ilaria-damico-e-incinta-di-gigi-buffon-pancino-sospetto-126137
+
+PAGINE UTILIZZATE PER LA PULIZIA: 2 http://www.gossipetv.com/tag/angela-viviani-e-fabio-pellegrini/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 3 http://www.gossipetv.com/tag/fabio-pellegrini/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 4 http://www.gossipetv.com/fabrizio-corona-novita-pomeriggio-5-parla-il-suo-avvocato-148199
+
+JSOUP
+
+CLAVIN-EXTRACTOR="[Australia = Australia (Australia, 00) [pop: 21515754] <2077456>, Australia = Australia (Australia, 00) [pop: 21515754] <2077456>, Bondi Beach = Bondi Beach (Australia, 02) [pop: 10748] <9972618>, Sydney = Sydney (Australia, 02) [pop: 4627345] <2147714>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]6", 
+
+I-PER="[Alessandro Del Piero, Maria De Filippi, Maria De Filippi, Alessandro Del Piero, Australia Alessandro Del Piero, Daniele Federico, Alessandro Del Piero, Bondi, Bondi Beach . Alessandro Del Piero, Alessandro Del Piero, Paris Hilton . L’ex, Alessandro Del Piero, “ Pinturicchio ”, Alessandro Del Piero, Cristina Chiabotto, Alex, Babbo Natale, Alessandro Del Piero, . L’ex, Alessandro Del Piero, Alessandro Del Piero, Sonia Amoruso, Sonia Amoruso ?, Piero, Alessandro Del Piero, tranquilizzarla, guarderanno abbracciati “ Bondi, australiano Bondi, “, Alessandro Del Piero, Francesco Monte, Teresanna, Cecilia Next, Simonetta Lein, . . Alessandro Del Piero, Sonia, Piero, Reply, Anna Montesano, . . Anna Montesano, Jonas Berami, Roberta Scarpa, Giorgio Manetti, Gemma Galgani, Roberta Scarpa, Buffon, Alena Seredova, Antonella Latilla, Stefano]49", 
+
+I-LOC="[Australia, Australia, Australia, Bondi Beach ., Baywatch australiano, Paris Hilton ., Sydney, australiana, Europa, Torino, australiano, Torino]12", 
+
+PHONE="[ 02366380067 ]1", 
+
+I-ORG="[Fratello, Pechino Express, Temptation Island Fiction, Tv, Serie Tv, Serie Tv, Pechino Express, Island Fiction, Tv, Tv Italiane, Bondi, Sydney FC, Sky Blues, Harlem, Gossip, Island, Island, Privacy]18"
+
+
+
+CLEAN
+
+CLAVIN-EXTRACTOR="[Australia = Australia (Australia, 00) [pop: 21515754] <2077456>, Australia = Australia (Australia, 00) [pop: 21515754] <2077456>, Australia = Australia (Australia, 00) [pop: 21515754] <2077456>, Bondi Beach = Bondi Beach (Australia, 02) [pop: 10748] <9972618>, Sydney = Sydney (Australia, 02) [pop: 4627345] <2147714>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]6", 
+
+I-PER="[Alessandro Del Piero, Alessandro Del Piero, Australia Alessandro Del Piero, Daniele Federico, Alessandro Del Piero, Bondi, Bondi Beach . Alessandro Del Piero, Alessandro Del Piero, Paris Hilton . L’ex, Alessandro Del Piero, “ Pinturicchio ”, Alessandro Del Piero, Cristina Chiabotto, Alex, Babbo Natale, Alessandro Del Piero, . L’ex, Alessandro Del Piero, Alessandro Del Piero, Sonia Amoruso, Sonia Amoruso ?, Piero, Alessandro Del Piero, tranquilizzarla, guarderanno abbracciati “ Bondi, australiano Bondi, “, Alessandro Del Piero, Francesco Monte, Teresanna, Cecilia Next, Simonetta Lein, . . Alessandro Del Piero, Sonia, Piero, Reply]36", 
+
+I-LOC="[Australia, Australia, Australia, Bondi Beach ., Baywatch australiano, Paris Hilton ., Sydney, australiana, Europa, Torino, australiano, Torino]12", 
+
+I-ORG="[Bondi, Sydney FC, Sky Blues, Harlem, Gossip]5"
+
+
+
+BOILER
+
+CLAVIN-EXTRACTOR="[Australia = Australia (Australia, 00) [pop: 21515754] <2077456>, Australia = Australia (Australia, 00) [pop: 21515754] <2077456>, Bondi Beach = Bondi Beach (Australia, 02) [pop: 10748] <9972618>, Sydney = Sydney (Australia, 02) [pop: 4627345] <2147714>]4", 
+
+I-PER="[Alessandro Del Piero, Australia Alessandro Del Piero, Daniele Federico, Alessandro Del Piero, Bondi, Bondi Beach . Alessandro Del Piero, Alessandro Del Piero, Paris Hilton . L’ex, Alessandro Del Piero, “ Pinturicchio ”, Alessandro Del Piero, Cristina Chiabotto, Alex, Babbo Natale, Alessandro Del Piero, . L’ex, Alessandro Del Piero, Alessandro Del Piero, Sonia Amoruso, Sonia Amoruso ?, Piero, Alessandro Del Piero, tranquilizzarla, guarderanno abbracciati “ Bondi, australiano Bondi, “, Alessandro Del Piero]27", 
+
+I-LOC="[Australia, Australia, Bondi Beach ., Baywatch australiano, Paris Hilton ., Sydney, australiana, Europa, Torino, australiano]10", 
+
+I-ORG="[Bondi, Sydney FC, Sky Blues, Harlem]4"
+------------------------15------------------------
+http://www.filmtv.it/film/69540/latin-lover/
+575c6ac73ceacf024c019963
+PAGINE UTILIZZATE PER LA PULIZIA: 0 http://www.filmtv.it/film/45756/benvenuti-al-nord/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 1 http://www.filmtv.it/film/20790/chiedimi-se-sono-felice/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 2 http://www.filmtv.it/film/43869/baciato-dalla-fortuna/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 3 http://www.filmtv.it/film/73723/se-dio-vuole/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 4 http://www.filmtv.it/persona/66933/giancarlo-rolandi/
+
+JSOUP
+
+CLAVIN-EXTRACTOR="[IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, Miami = Miami (United States, FL) [pop: 399457] <4164138>, le = Leh (India, 12) [pop: 37475] <1264976>, le = Leh (India, 12) [pop: 37475] <1264976>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, le = Leh (India, 12) [pop: 37475] <1264976>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Spring = Spring (United States, TX) [pop: 54298] <4733624>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, le = Leh (India, 12) [pop: 37475] <1264976>]17", 
+
+I-PER="[Alice, Pelé, Cristina Comencini, Angela Finocchiaro, Valeria Bruni Tedeschi, Virna Lisi, Marisa Paredes, Jordi Mollà, Lluís Homar, Neri Marcoré . ., - Ray, Ray, Saverio Crispo, Virna Lisi, Cristina Comencini, Luigi Comencini, ., Saverio, ., Saverio, ., alan smithee, Crispo, Saverio Crispo ., ., - Ray, Cristina Comencini, Luigi Comencini, ., FilmTV mm40, alan smithee, memo, Apocalisse, distancia, Apocalisse, Marco Poggi, Sky, alan smithee, Riccardo III, .]40", 
+
+I-LOC="[Pelé Miami, Candela Peña, €, Puglia, spagnola, francese, Spring, lussemburgo]8", 
+
+PHONE="[ 05791120966 ]1", 
+
+I-ORG="[Cinema, Pelé Miami Beach, Sky, Sky, -, -, Banzai, Mondadori]8", 
+
+EMAIL="[staff@film.tv.it, staff@film.tv.it]2"
+
+
+
+CLEAN
+
+CLAVIN-EXTRACTOR="[LA = Laos (Laos, 00) [pop: 6368162] <1655842>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Spring = Spring (United States, TX) [pop: 54298] <4733624>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>]9", 
+
+I-PER="[Cristina Comencini Angela Finocchiaro, Valeria Bruni Tedeschi, Virna Lisi, Marisa Paredes, Jordi Mollà, Lluís Homar, Neri Marcoré . ., - Ray, Ray, Saverio Crispo, Virna Lisi, Cristina Comencini, Luigi Comencini, ., Saverio, ., Saverio, ., alan smithee, Crispo, Saverio Crispo ., ., - Ray, Cristina Comencini, Luigi Comencini, ., FilmTV mm40, alan smithee, Apocalisse, distancia, Apocalisse, Marco Poggi Iron Sky, alan smithee, Riccardo III]34", 
+
+I-LOC="[Candela Peña, €, Puglia, spagnola, francese, Spring, lussemburgo]7", 
+
+I-ORG="[Sky, -, -]3", 
+
+EMAIL="[staff@film.tv.it]1"
+
+
+
+BOILER
+
+CLAVIN-EXTRACTOR="[]0", 
+
+I-PER="[Saverio Crispo, Virna Lisi]2", 
+
+I-LOC="[Puglia, spagnola]2", 
+
+EMAIL="[staff@film.tv.it]1"
+------------------------16------------------------
+http://www.internazionale.it/tag/autori/annamaria-testa
+575c6c533ceacf133e01a378
+PAGINE UTILIZZATE PER LA PULIZIA: 0 http://www.internazionale.it/tag/autori/angelo-mastrandrea
+
+PAGINE UTILIZZATE PER LA PULIZIA: 1 http://www.internazionale.it/tag/autori/andrea-de-georgio
+
+PAGINE UTILIZZATE PER LA PULIZIA: 2 http://www.internazionale.it/tag/lavoro
+
+PAGINE UTILIZZATE PER LA PULIZIA: 3 http://www.internazionale.it/tag/paesi/iran
+
+PAGINE UTILIZZATE PER LA PULIZIA: 4 http://www.internazionale.it/tag/autori/giovanni-ansaldo
+
+JSOUP
+
+CLAVIN-EXTRACTOR="[le = Leh (India, 12) [pop: 37475] <1264976>, le = Leh (India, 12) [pop: 37475] <1264976>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, La Francia = La Francia (Argentina, 05) [pop: 3503] <3851181>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, le = Leh (India, 12) [pop: 37475] <1264976>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, Venezuela = Venezuela (Venezuela, 00) [pop: 27223228] <3625428>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, Macedonia = Macedonia (Macedonia, 00) [pop: 2062294] <718075>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, Papua Nuova Guinea = Papua New Guinea (Papua New Guinea, 00) [pop: 6064515] <2088628>, Le Monde Hotel = Le Monde Hotel (United Kingdom, SCT) [pop: 0] <6943696>, le = Leh (India, 12) [pop: 37475] <1264976>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, florida = Florida (United States, FL) [pop: 17671452] <4155751>, Miami = Miami (United States, FL) [pop: 399457] <4164138>, Miami Beach = Miami Beach (United States, FL) [pop: 87779] <4164143>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, Rangoon = Yangon (Myanmar, 17) [pop: 4477638] <1298824>, India = India (India, 00) [pop: 1173108018] <1269750>, India = India (India, 00) [pop: 1173108018] <1269750>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Rangoon = Yangon (Myanmar, 17) [pop: 4477638] <1298824>, Heho = Heho (Myanmar, 11) [pop: 0] <1325259>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]39", 
+
+I-PER="[Annamaria Testa, Claudia Grisanti, Goffredo Fofi, Amina Ismail, Giovanni Ansaldo, Tullio De Mauro, Ginevra Marina, Jia Zhang, Francesco, Claudio Rossi Marcelli, Macedonia Gwynne Dyer, Hillary Ida Dominijanni, Annalisa Camilli, l’apocalisse Francesco Zardo, Salvatore Aloïse, Spagna Podemos, Piero Zardo, Fiore, Goffredo Fofi, Giovanni De Mauro, Ian Wong, Testa, L’italiano, l’OK, O, guidi, Lee, -, Roma . Ratti, l’obiettivo, Aristotele, Aristotele, l’India, augurarsi, Entrarci, iva]36", 
+
+I-LOC="[Damasco, Francia, Ginevra, Venezuela, Macedonia, Mediterraneo, Rosarno, Stato islamico, Papua Nuova Guinea, Spagna, Danimarca, Corea del Sud, Bocconi di Milano, Florida del, Miami, Miami Beach, Stati Uniti, - dol, cinese, Roma, Birmania, Birmania, Birmania, Oro birmano, Rangoon, c’era, birmano, Myanmar, Cina, India, Birmania, Birmania, Milano, Inle, Birmania, Birmania, Rangoon, Heho, Birmania]39", 
+
+PHONE="[ 04003131002 ,  04850721004 ]2", 
+
+I-ORG="[Catanzaro, Amina Ismail Reuters, Economist, Bocconi di, Miami, Treccani, Oro, Partito democratico, Partito democratico]9"
+
+
+
+CLEAN
+
+CLAVIN-EXTRACTOR="[LA = Laos (Laos, 00) [pop: 6368162] <1655842>, florida = Florida (United States, FL) [pop: 17671452] <4155751>, Miami = Miami (United States, FL) [pop: 399457] <4164138>, Miami Beach = Miami Beach (United States, FL) [pop: 87779] <4164143>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, Rangoon = Yangon (Myanmar, 17) [pop: 4477638] <1298824>, India = India (India, 00) [pop: 1173108018] <1269750>, India = India (India, 00) [pop: 1173108018] <1269750>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Rangoon = Yangon (Myanmar, 17) [pop: 4477638] <1298824>, Heho = Heho (Myanmar, 11) [pop: 0] <1325259>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]18", 
+
+I-PER="[Annamaria Testa, Annamaria Testa, l’informazione, L’italiano, l’OK, O, guidi, Lee, -, Roma . Ratti, capocchia, l’obiettivo, Aristotele, Aristotele, l’India, augurarsi, Entrarci]17", 
+
+I-LOC="[Bocconi di Milano, Florida del, Miami, Miami Beach, Uniti, - dol, cinese, Roma, Birmania, Birmania, Birmania, Oro birmano, Rangoon, c’era, birmano, Myanmar, Cina, India, Birmania, Birmania, Milano, Inle, Birmania, Birmania, Rangoon, Heho, Birmania]27", 
+
+I-ORG="[Bocconi di, Miami, Treccani, Oro, Partito democratico, Partito democratico, cinquant’anni]7"
+
+
+
+BOILER
+
+CLAVIN-EXTRACTOR="[LA = Laos (Laos, 00) [pop: 6368162] <1655842>, florida = Florida (United States, FL) [pop: 17671452] <4155751>, Miami = Miami (United States, FL) [pop: 399457] <4164138>, Miami Beach = Miami Beach (United States, FL) [pop: 87779] <4164143>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Rangoon = Yangon (Myanmar, 17) [pop: 4477638] <1298824>, India = India (India, 00) [pop: 1173108018] <1269750>, India = India (India, 00) [pop: 1173108018] <1269750>]11", 
+
+I-PER="[Testa, l’OK, O, guidi, Lee, -, Ratti, l’obiettivo, Aristotele, Aristotele, l’India, augurarsi]12", 
+
+I-LOC="[Bocconi di Milano, Florida del, Miami, Miami Beach, - dol, cinese, Roma, Birmania, Birmania, birmano, Rangoon, c’era, birmano, Myanmar, Cina, India, Birmania, Milano]18", 
+
+I-ORG="[Bocconi di, Miami, Treccani, Partito democratico, Partito democratico]5"
+------------------------17------------------------
+http://www.melty.it/temptation-island-fabio-ferrara-avvistato-in-spiaggia-con-una-tentatrice-ludovica-valli-gia-furiosa-foto-a201915.html
+575c6df73ceacfe68c01ad6e
+PAGINE UTILIZZATE PER LA PULIZIA: 0 http://www.melty.it/dinamo-sassari-elisabetta-canalis-madrina-della-stagione-2014-2015-a131102.html
+
+PAGINE UTILIZZATE PER LA PULIZIA: 1 http://www.melty.it/uomini-e-donne-andrea-damante-tratta-male-giulia-de-lellis-la-risposta-dell-ex-corteggiatrice-a201082.html
+
+PAGINE UTILIZZATE PER LA PULIZIA: 2 http://www.melty.it/christina-bertevello-esulta-su-facebook-per-l-oscar-a-leonardo-dicaprio-a193273.html
+
+PAGINE UTILIZZATE PER LA PULIZIA: 3 http://www.melty.it/leonardo-dicaprio-fidanzata-flirt-rihanna-blake-lively-kelly-rohrbach-a193068.html
+
+PAGINE UTILIZZATE PER LA PULIZIA: 4 http://www.melty.it/chiara-biasi-belen-marco-mengoni-l-oroscopo-delle-stelle-di-melty-a190496.html
+
+JSOUP
+
+CLAVIN-EXTRACTOR="[LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]4", 
+
+I-PER="[Fabio Ferrara, Ludovica Valli, Fabio Ferrara, Ludovica Valli, Alice G ., Fabio Ferrara, Ludovica Valli, Ludovica Valli, Fabio Ferrara, Roberta Mercurio, Flavio Zerella, Irene Casartelli, Francesca Serra, Andrea Franchini, un’indiscrezione, Ludovica - Fabio, “, Ludovica Valli, Fabio Ferrara, Teresa Cilia gelosissima, Salvatore, Ludovica, Fabio, –, Beatrice Valli, Marco Fantini, Fabio, rumor, Ludovica, Georgette Polizzi, Davide Tresse, Fabio Ferrara, Ludovica Valli, Fabio Ferrara, Irene Casartelli, Francesca Serra, Andrea Franchini, Ludovica Valli, Fabio Ferrara, Manuel Vallicella tentatore, Ludovica Valli, Fabio Ferrara, Aurora, Stefano De Martino, Andrea Damante, Giulia De Lellis, Ludovica Valli, Fabio Ferrara]48", 
+
+I-LOC="[campano, Formentera, Pequenos, TelevisioneTemptation]4", 
+
+I-ORG="[Island, Island, News, Island, Island]5"
+
+
+
+CLEAN
+
+CLAVIN-EXTRACTOR="[IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]3", 
+
+I-PER="[Fabio Ferrara, Ludovica Valli, Fabio Ferrara, Ludovica Valli, Alice G ., Fabio Ferrara, Ludovica Valli, Ludovica Valli, Fabio Ferrara, Roberta Mercurio, Flavio Zerella, Irene Casartelli, Francesca Serra, Andrea Franchini, un’indiscrezione, Ludovica - Fabio, “, Ludovica Valli, Fabio Ferrara, Teresa Cilia gelosissima, Salvatore, Ludovica, Fabio, –, Beatrice Valli, Marco Fantini, Fabio, rumor, Ludovica, Georgette Polizzi, Davide Tresse, Fabio Ferrara, Ludovica Valli, Fabio Ferrara, Irene Casartelli, Francesca Serra, Andrea Franchini, Ludovica Valli, Fabio Ferrara, Manuel Vallicella tentatore, Ludovica Valli, Fabio Ferrara, Aurora, Stefano De Martino, Andrea Damante, Giulia De Lellis, Ludovica Valli, Fabio Ferrara]48", 
+
+I-LOC="[campano, Formentera, Pequenos, TelevisioneTemptation]4", 
+
+I-ORG="[Island, Island, News, News Temptation Island, Island, Island]6"
+
+
+
+BOILER
+
+CLAVIN-EXTRACTOR="[IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]3", 
+
+I-PER="[Fabio Ferrara, Ludovica Valli, Alice G ., Fabio Ferrara, Ludovica Valli, Ludovica Valli, Fabio Ferrara, Roberta Mercurio, Flavio Zerella, Irene Casartelli, Francesca Serra, Andrea Franchini, un’indiscrezione, Ludovica - Fabio, “, Ludovica Valli, Fabio Ferrara, Teresa Cilia gelosissima, Salvatore, Ludovica, Fabio, –, Beatrice Valli, Marco Fantini, Fabio, rumor, Ludovica, Georgette Polizzi, Davide Tresse, Fabio Ferrara]30", 
+
+I-LOC="[campano, Formentera]2", 
+
+I-ORG="[Island, News]2"
+------------------------18------------------------
+http://www.h2biz.eu/
+575c715b3ceacfd78201c138
+PAGINE UTILIZZATE PER LA PULIZIA: 0 http://www.h2biz.eu/professionisti/NICOLA-MAVIGLIA/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 1 http://www.h2biz.eu/professionisti/Massimo-Del-Rosso/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 2 http://www.h2biz.eu/professionisti/Francesco-Arcieri/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 3 http://www.h2biz.eu/statistiche.asp
+
+PAGINE UTILIZZATE PER LA PULIZIA: 4 http://www.h2biz.eu/Professionisti/antonio-cesarini/
+
+JSOUP
+
+CLAVIN-EXTRACTOR="[Italy = Italy (Italy, 00) [pop: 60340328] <3175395>, Nicaragua = Nicaragua (Nicaragua, 00) [pop: 5995928] <3617476>, Panama = Panama (Panama, 00) [pop: 3410676] <3703430>, Iran = Iran (Iran, 00) [pop: 76923300] <130758>, Italy = Italy (Italy, 00) [pop: 60340328] <3175395>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, Iran = Iran (Iran, 00) [pop: 76923300] <130758>, Italy = Italy (Italy, 00) [pop: 60340328] <3175395>, Italy = Italy (Italy, 00) [pop: 60340328] <3175395>, Italy = Italy (Italy, 00) [pop: 60340328] <3175395>, Italy = Italy (Italy, 00) [pop: 60340328] <3175395>, indonesia = Indonesia (Indonesia, 00) [pop: 242968342] <1643084>, Singapore = Singapore (Singapore, 00) [pop: 4701069] <1880251>, indonesia = Indonesia (Indonesia, 00) [pop: 242968342] <1643084>, Singapore = Singapore (Singapore, 00) [pop: 4701069] <1880251>, Iran = Iran (Iran, 00) [pop: 76923300] <130758>, Russia = Russia (Russia, 00) [pop: 140702000] <2017370>, Cuba = Cuba (Cuba, 00) [pop: 11423000] <3562981>, Italy = Italy (Italy, 00) [pop: 60340328] <3175395>, Russia = Russia (Russia, 00) [pop: 140702000] <2017370>, ankara = Ankara (Turkey, 68) [pop: 3517182] <323786>, Russia = Russia (Russia, 00) [pop: 140702000] <2017370>, Rio Sud America = Río Sur América (Argentina, 23) [pop: 0] <3834919>, le = Leh (India, 12) [pop: 37475] <1264976>, Russia = Russia (Russia, 00) [pop: 140702000] <2017370>, Brasile = Brazil (Brazil, 00) [pop: 201103330] <3469034>, Argentina = Argentina (Argentina, 00) [pop: 41343201] <3865483>, Algeria = Algeria (Algeria, 00) [pop: 34586184] <2589581>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, New York = New York City (United States, NY) [pop: 8175133] <5128581>, New York = New York City (United States, NY) [pop: 8175133] <5128581>, Arroyo Regus Salad = Arroyo Regus Salad (Spain, 56) [pop: 0] <3112087>, asia = Asia (No Man's Land, ) [pop: 3812366000] <6255147>, Africa = Africa (No Man's Land, ) [pop: 1031833000] <6255146>, Argentina = Argentina (Argentina, 00) [pop: 41343201] <3865483>, Paraguay = Paraguay (Paraguay, 00) [pop: 6375830] <3437598>, Venezuela = Venezuela (Venezuela, 00) [pop: 27223228] <3625428>, Italia = Italy (Italy, 00) [pop: 60340328] <3175395>, Russia = Russia (Russia, 00) [pop: 140702000] <2017370>, India = India (India, 00) [pop: 1173108018] <1269750>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, New York = New York City (United States, NY) [pop: 8175133] <5128581>, Washington = Washington, D.C. (United States, DC) [pop: 601723] <4140963>, Boston = Boston (United States, MA) [pop: 617594] <4930956>, Denver = Denver (United States, CO) [pop: 600158] <5419384>, dallas = Dallas (United States, TX) [pop: 1197816] <4684888>, Atlantic City = Atlantic City (United States, NJ) [pop: 39558] <4500546>, Chicago = Chicago (United States, IL) [pop: 2695598] <4887398>, Los Angeles = Los Angeles (United States, CA) [pop: 3792621] <5368361>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Madison Avenue = Madison Avenue (United Kingdom, ENG) [pop: 0] <7701249>, New York = New York City (United States, NY) [pop: 8175133] <5128581>, New York = New York City (United States, NY) [pop: 8175133] <5128581>, serbia = Serbia (Serbia, 00) [pop: 7344847] <6290252>, albania = Albania (Albania, 00) [pop: 2986952] <783754>, Tunisia = Tunisia (Tunisia, 00) [pop: 10589025] <2464461>, Algeria = Algeria (Algeria, 00) [pop: 34586184] <2589581>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>]61", 
+
+DATE="[06/11/2016, 06/10/2016, 06/10/2016, 06/10/2016, 06/10/2016, 06/10/2016, 06/10/2016, 06/10/2016, 06/10/2016]9", 
+
+I-PER="[Preziosi, ., H2biz, ., MotorSponsor, H2biz, H2biz, Luigi De Falco, prevedo . ., ricezione:I, ., ., H2biz, ., NewsFood.com H2biz, H2biz H2biz, monitora, H2biz, BeStartup, . ., H2biz, ., H2biz, fatturazione, H2biz, ., H2biz, Emirati Arabi Uniti.Dal, mercat . ., H2biz, H2biz, H2biz, ., Oberdan Bezzi, ., ., ., H2biz, anal . ., Addis, l'Europa.L'operazione, ., . ., Black, Black, Iva, . ., Addis, ., uten . ., H2biz, ., ., Mon ., ., Paolo Pugni, H2biz, GruppoPaolo Pugni, . ., . ., . ., Vademecum H2biz, H2biz, ., ., . ., ., ., H2biz, . ., H2biz H2biz, . ., relazio . ., H2biz, ., H2biz, ., ., Mario Rossi, . ., FashionBiz, Villa Borghese, H2biz, . ., accoun . ., distrett . ., H2biz, all'estero.L'obiettivo, ., H2biz, . ., Randy De Puniet, . ., approvvigiona . ., ., EurAmerica . ., Mark . ., Carmen Astorino, Rosa Borgia, ALESSANDRO RINALDI, ALESSANDRO RINALDI, Giovanni Giorgetti, . . Recruiting Liana Gabriela Rotariu, lorenzo, matteo CityGuide, Cecchini IDA, Charles Herisson, Daniela Cini, Dot, Carmen Astorino Fabio Daverio LUIGIANTONIO, DAVIDE Roberto Ghidini Galimberti Davide Davide Galimberti fran cerreto Fabio Capriotti Silvestro De Palma, TK, Emilio Menichini Alessandro Grassi Michele Santorre mario, Mattia, Vanni, Vanni Donato Limited Sergio Omobono Evgenii, Laura De Rosa Mara, Gianluca Zelli RAUL SCIURPA Gennaro Pepe Renato Bagarolo Marco Virgilio De Paola, Cava, Cava Maria MICHELE DE RUVO Giovanni Sandrelli Nicola Fusco Alessandro Rosa, .]121", 
+
+I-LOC="[AG AL, AG AL AN AO AP, BO, FC FE, LO, TE, TP, Iran, rischio:Centramerica‬, Nicaragua, Panama, Honduras, Iran, Italy, Roma, Iran, Italy, Italy, Iran, prevedo, Iran, Italia, Iran, Italy, Indonesia, Singapore, Indonesia, Singapore, H2biz, Iran, Russia, Nord Africa, Sud America, Emirati Arabi, USA, Cina, Turchia, Cuba, Teheran, NewsFood.com, Italy, H2biz, Turchia, Russia, Nord Africa, Sud America, Emirati Arabi, USA, Ankara, USA, Cina, Russia, Nord Africa, Sud America, Emirati Arabi, USA, H2biz, Stati Uniti, Cina, USA, Stati Uniti, Dubai, Dubai, Emirati Arabi, Dubai, Emirati Arabi UnitiGli, Emirati Arabi Uniti, H2biz, Sud America, Russia, Nord Africa, Sud, Brasile, Argentina, Uruguay, Nord Africa, Nord Africa, Tangeri, Marocco, Algeri, Algeria, Tunisi, Tunisia, H2biz, Parigi, FashionBiz, Mosca, Mosca, rappresentarli, Addis Abeba, Corno d'Africa, Addis Abeba, Etiopia, Mare -, Italia, Stati Uniti, H2biz, USA, USA, Napoli, Parigi, New York, Budva, Tangeri, Iran, Italia, Iran, Cielo, Mare, Napoli, Parigi, New York, Budva, Tangeri, Montenegro, Mediterraneo Orientale, Budva, Montenegro, Mediterraneo, Mon, Tangeri, Tangeri, H2biz, H2biz, Nord Africa, Tangeri, H2biz City Club Milano, USA, Cipro, H2biz, Cipro, Europa, Asia, Africa, Golfo Persico, Iran, USA, Argentina, Uruguay, Paraguay, Venezuela, Italia, Brasile, Russia, India, Cina, Sudafrica, Europa, USA, USA, Stati Uniti, New York, Washington, Boston, Denver, Dallas, Chicago, Los Angeles, Francisco.Un, statunitensi, USA, USA, Madison Avenue, New York, FashionBiz, Qatar, Doha, H2biz, Mediterraneo, Mediterraneo, Italia, Francia, Spagna, Grecia, Croazia, Serbia, Albania, Turchia, Egitto, Libia, Tunisia, Algeria, H2biz, Villa, Villa, Roma, Haute Couture, H2biz.L'evento, distrett, Italia, H2biz.I, Fondi, Portogallo, Estoril, EurAmerica, H2biz, Europa, Fondi, Roma, Ascoli Piceno, Forte dei, Fondi, Roma, Carmen Astorino Fabio Daverio LUIGIANTONIO TREVISI, Vanni Donato, Cava Maria MICHELE DE RUVO, Napoli]207", 
+
+PHONE="[ 06149921212 ]1", 
+
+I-ORG="[Automotive Avvocati, Credito, Immobiliare, Trasporti, AG AL AN, BA, BS, CZ, FC, GE GO, ST SV, VA, VR, Generale Community Manager, Commerciale, Rete, Premium, Rete Italia, Made, Iran Business Forum, Rete Italia, Rete, Made, Beacon, H2biz, Beacon Italy, Beacon, Giustizia Europea, UE, UE, Premium, Premium, Made, ec ., Emirati Arabi UnitiGli EAU, H2biz, H2biz Racing, Gruppo, H2biz Racing, ., H2biz, Focus, Premium, Gruppo, Black, EU, EU, MERCOSUR, Gruppo, Gruppo, Rete Italia, Rete, Rete, Gruppo, Gruppo, Med, H2biz City, Milano, H2biz City Club, GruppoPaolo, Club meneghino, UE, Libero, UE, Trade and Investment Partnership, Med, Med, H2biz.Il, H2biz, Rete, Impresa, MED, Rete Italia, Mercosur, Gallery, Art Gallery, Gallery, Atlantic City, International, Club, Club, Club, H2biz Aerospace, Gruppo, Space, Madison, Gruppo, Camera, Commercio, Camera, Commercio, H2biz, H2biz, Network, MED, MED, Centrale Operativa, Gruppo, Mercato, H2biz, Rete, Rete, Rete, H2biz City, City Club, H2biz.I City, partnership.I City Club, territorio.Ogni City Club, Credito, Merchant Bank, Private Equity, Venture Capital, MotoGP, LCR Honda, Team LCR Honda, MotoGP, Honda, Premium, MED, H2biz City Club Milano, H2biz City Club Milano, Risk Management, H2biz City Club Milano, Apple, Wi, Digital, SELECTION, Città, Large, Network, PMI, A15, Large Solutions, Forte dei Marmi, School, DotCom, City Club Genova, Nazionale Italiana Marketing, Vanni Donato Limited, Laura De Rosa Mara Zanzi, ., .]142", 
+
+EMAIL="[info@h2biz.eu, info@h2biz.eu, info@h2biz.eu]3"
+
+
+
+CLEAN
+
+CLAVIN-EXTRACTOR="[Nicaragua = Nicaragua (Nicaragua, 00) [pop: 5995928] <3617476>, Panama = Panama (Panama, 00) [pop: 3410676] <3703430>, Iran = Iran (Iran, 00) [pop: 76923300] <130758>, Italy = Italy (Italy, 00) [pop: 60340328] <3175395>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, Iran = Iran (Iran, 00) [pop: 76923300] <130758>, Italy = Italy (Italy, 00) [pop: 60340328] <3175395>, Italy = Italy (Italy, 00) [pop: 60340328] <3175395>, Italy = Italy (Italy, 00) [pop: 60340328] <3175395>, Italy = Italy (Italy, 00) [pop: 60340328] <3175395>, indonesia = Indonesia (Indonesia, 00) [pop: 242968342] <1643084>, Singapore = Singapore (Singapore, 00) [pop: 4701069] <1880251>, indonesia = Indonesia (Indonesia, 00) [pop: 242968342] <1643084>, Singapore = Singapore (Singapore, 00) [pop: 4701069] <1880251>, Iran = Iran (Iran, 00) [pop: 76923300] <130758>, Russia = Russia (Russia, 00) [pop: 140702000] <2017370>, Cuba = Cuba (Cuba, 00) [pop: 11423000] <3562981>, Italy = Italy (Italy, 00) [pop: 60340328] <3175395>, Russia = Russia (Russia, 00) [pop: 140702000] <2017370>, ankara = Ankara (Turkey, 68) [pop: 3517182] <323786>, Russia = Russia (Russia, 00) [pop: 140702000] <2017370>, Rio Sud America = Río Sur América (Argentina, 23) [pop: 0] <3834919>, le = Leh (India, 12) [pop: 37475] <1264976>, Russia = Russia (Russia, 00) [pop: 140702000] <2017370>, Brasile = Brazil (Brazil, 00) [pop: 201103330] <3469034>, Argentina = Argentina (Argentina, 00) [pop: 41343201] <3865483>, Algeria = Algeria (Algeria, 00) [pop: 34586184] <2589581>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, New York = New York City (United States, NY) [pop: 8175133] <5128581>, New York = New York City (United States, NY) [pop: 8175133] <5128581>, Arroyo Regus Salad = Arroyo Regus Salad (Spain, 56) [pop: 0] <3112087>, asia = Asia (No Man's Land, ) [pop: 3812366000] <6255147>, Africa = Africa (No Man's Land, ) [pop: 1031833000] <6255146>, Argentina = Argentina (Argentina, 00) [pop: 41343201] <3865483>, Paraguay = Paraguay (Paraguay, 00) [pop: 6375830] <3437598>, Venezuela = Venezuela (Venezuela, 00) [pop: 27223228] <3625428>, Italia = Italy (Italy, 00) [pop: 60340328] <3175395>, Russia = Russia (Russia, 00) [pop: 140702000] <2017370>, India = India (India, 00) [pop: 1173108018] <1269750>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, New York = New York City (United States, NY) [pop: 8175133] <5128581>, Washington = Washington, D.C. (United States, DC) [pop: 601723] <4140963>, Boston = Boston (United States, MA) [pop: 617594] <4930956>, Denver = Denver (United States, CO) [pop: 600158] <5419384>, dallas = Dallas (United States, TX) [pop: 1197816] <4684888>, Atlantic City = Atlantic City (United States, NJ) [pop: 39558] <4500546>, Chicago = Chicago (United States, IL) [pop: 2695598] <4887398>, Los Angeles = Los Angeles (United States, CA) [pop: 3792621] <5368361>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Madison Avenue = Madison Avenue (United Kingdom, ENG) [pop: 0] <7701249>, New York = New York City (United States, NY) [pop: 8175133] <5128581>, New York = New York City (United States, NY) [pop: 8175133] <5128581>, serbia = Serbia (Serbia, 00) [pop: 7344847] <6290252>, albania = Albania (Albania, 00) [pop: 2986952] <783754>, Tunisia = Tunisia (Tunisia, 00) [pop: 10589025] <2464461>, Algeria = Algeria (Algeria, 00) [pop: 34586184] <2589581>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>]59", 
+
+DATE="[06/11/2016, 06/10/2016, 06/10/2016, 06/10/2016, 06/10/2016, 06/10/2016, 06/10/2016, 06/10/2016, 06/10/2016]9", 
+
+I-PER="[., H2biz, ., MotorSponsor, H2biz, H2biz, Luigi De Falco, prevedo . ., ricezione:I, ., ., H2biz, ., NewsFood.com H2biz, H2biz H2biz, monitora, H2biz, BeStartup, . ., H2biz, ., H2biz, fatturazione, H2biz, ., H2biz, Emirati Arabi Uniti.Dal, mercat . ., H2biz, H2biz, H2biz, ., Oberdan Bezzi, ., ., ., H2biz, anal . ., Addis, l'Europa.L'operazione, ., . ., Black, Black, Iva, . ., Addis, ., uten . ., H2biz, ., ., Mon ., ., Paolo Pugni, H2biz, GruppoPaolo Pugni, . ., . ., . ., Vademecum H2biz, H2biz, ., ., . ., ., ., H2biz, . ., H2biz H2biz, . ., relazio . ., H2biz, ., H2biz, ., ., Mario Rossi, . ., FashionBiz, Villa Borghese, H2biz, . ., accoun . ., distrett . ., H2biz, all'estero.L'obiettivo, ., H2biz, . ., Randy De Puniet, . ., approvvigiona . ., ., EurAmerica . ., Mark . ., Carmen Astorino, Rosa Borgia, ALESSANDRO RINALDI, ALESSANDRO RINALDI, Giovanni Giorgetti, . . Recruiting Liana Gabriela Rotariu, lorenzo, matteo CityGuide, Cecchini IDA, Charles]106", 
+
+I-LOC="[Iran, rischio:Centramerica‬, Nicaragua, Panama, Honduras, Iran, Italy, Roma, Iran, Italy, Italy, Iran, prevedo, Iran, Italia, Iran, Italy, Indonesia, Singapore, Indonesia, Singapore, H2biz, Iran, Russia, Nord Africa, Sud America, Emirati Arabi, USA, Cina, Turchia, Cuba, Teheran, NewsFood.com, Italy, H2biz, Turchia, Russia, Nord Africa, Sud America, Emirati Arabi, USA, Ankara, USA, Cina, Russia, Nord Africa, Sud America, Emirati Arabi, USA, H2biz, Stati Uniti, Cina, USA, Stati Uniti, Dubai, Dubai, Emirati Arabi, Dubai, Emirati Arabi UnitiGli, Emirati Arabi Uniti, H2biz, Sud America, Russia, Nord Africa, Sud, Brasile, Argentina, Uruguay, Nord Africa, Nord Africa, Tangeri, Marocco, Algeri, Algeria, Tunisi, Tunisia, H2biz, Parigi, FashionBiz, Mosca, Mosca, rappresentarli, Addis Abeba, Corno d'Africa, Addis Abeba, Etiopia, Mare -, Italia, Stati Uniti, H2biz, USA, USA, Napoli, Parigi, New York, Budva, Tangeri, Iran, Italia, Iran, Cielo, Mare, Napoli, Parigi, New York, Budva, Tangeri, Montenegro, Mediterraneo Orientale, Budva, Montenegro, Mediterraneo, Mon, Tangeri, Tangeri, H2biz, H2biz, Nord Africa, Tangeri, H2biz City Club Milano, USA, Cipro, H2biz, Cipro, Europa, Asia, Africa, Golfo Persico, Iran, USA, Argentina, Uruguay, Paraguay, Venezuela, Italia, Brasile, Russia, India, Cina, Sudafrica, Europa, USA, USA, Stati Uniti, New York, Washington, Boston, Denver, Dallas, Chicago, Los Angeles, Francisco.Un, statunitensi, USA, USA, Madison Avenue, New York, FashionBiz, Qatar, Doha, H2biz, Mediterraneo, Mediterraneo, Italia, Francia, Spagna, Grecia, Croazia, Serbia, Albania, Turchia, Egitto, Libia, Tunisia, Algeria, H2biz, Villa, Villa, Roma, Haute Couture, H2biz.L'evento, distrett, Italia, H2biz.I, Fondi, Portogallo, Estoril, EurAmerica, H2biz, Europa, Fondi, Roma, Ascoli Piceno, Forte dei]194", 
+
+I-ORG="[Premium, Rete Italia, Made, Iran Business Forum, Rete Italia, Rete, Made, Beacon, H2biz, Beacon Italy, Beacon, Giustizia Europea, UE, UE, Premium, Premium, Made, ec ., Emirati Arabi UnitiGli EAU, H2biz, H2biz Racing, Gruppo, H2biz Racing, ., H2biz, Focus, Premium, Gruppo, Black, EU, EU, MERCOSUR, Gruppo, Gruppo, Rete Italia, Rete, Rete, Gruppo, Gruppo, Med, H2biz City, Milano, H2biz City Club, GruppoPaolo, Club meneghino, UE, Libero, UE, Trade and Investment Partnership, Med, Med, H2biz.Il, H2biz, Rete, Impresa, MED, Rete Italia, Mercosur, Gallery, Art Gallery, Gallery, Atlantic City, International, Club, Club, Club, H2biz Aerospace, Gruppo, Space, Madison, Gruppo, Camera, Commercio, Camera, Commercio, H2biz, H2biz, Network, MED, MED, Centrale Operativa, Gruppo, Mercato, H2biz, Rete, Rete, Rete, H2biz City, City Club, H2biz.I City, partnership.I City Club, territorio.Ogni City Club, Credito, Merchant Bank, Private Equity, Venture Capital, MotoGP, LCR Honda, Team LCR Honda, MotoGP, Honda, Premium, MED, H2biz City Club Milano, H2biz City Club Milano, Risk Management, H2biz City Club Milano, Apple, Wi, Digital, SELECTION, Città, Large, Network, PMI, A15, Large Solutions, Forte dei Marmi, City Club Genova, Nazionale Italiana Marketing]120", 
+
+EMAIL="[info@h2biz.eu, info@h2biz.eu]2"
+
+
+
+BOILER
+
+CLAVIN-EXTRACTOR="[Nicaragua = Nicaragua (Nicaragua, 00) [pop: 5995928] <3617476>, Panama = Panama (Panama, 00) [pop: 3410676] <3703430>, Iran = Iran (Iran, 00) [pop: 76923300] <130758>, Italy = Italy (Italy, 00) [pop: 60340328] <3175395>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, Iran = Iran (Iran, 00) [pop: 76923300] <130758>, Italy = Italy (Italy, 00) [pop: 60340328] <3175395>, Italy = Italy (Italy, 00) [pop: 60340328] <3175395>, Italy = Italy (Italy, 00) [pop: 60340328] <3175395>, Italy = Italy (Italy, 00) [pop: 60340328] <3175395>, indonesia = Indonesia (Indonesia, 00) [pop: 242968342] <1643084>, Singapore = Singapore (Singapore, 00) [pop: 4701069] <1880251>, indonesia = Indonesia (Indonesia, 00) [pop: 242968342] <1643084>, Singapore = Singapore (Singapore, 00) [pop: 4701069] <1880251>, Iran = Iran (Iran, 00) [pop: 76923300] <130758>, Russia = Russia (Russia, 00) [pop: 140702000] <2017370>, Cuba = Cuba (Cuba, 00) [pop: 11423000] <3562981>, Italy = Italy (Italy, 00) [pop: 60340328] <3175395>, Russia = Russia (Russia, 00) [pop: 140702000] <2017370>, ankara = Ankara (Turkey, 68) [pop: 3517182] <323786>, Russia = Russia (Russia, 00) [pop: 140702000] <2017370>, Rio Sud America = Río Sur América (Argentina, 23) [pop: 0] <3834919>, le = Leh (India, 12) [pop: 37475] <1264976>, Russia = Russia (Russia, 00) [pop: 140702000] <2017370>, Brasile = Brazil (Brazil, 00) [pop: 201103330] <3469034>, Argentina = Argentina (Argentina, 00) [pop: 41343201] <3865483>, Algeria = Algeria (Algeria, 00) [pop: 34586184] <2589581>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, New York = New York City (United States, NY) [pop: 8175133] <5128581>, New York = New York City (United States, NY) [pop: 8175133] <5128581>, Arroyo Regus Salad = Arroyo Regus Salad (Spain, 56) [pop: 0] <3112087>, asia = Asia (No Man's Land, ) [pop: 3812366000] <6255147>, Africa = Africa (No Man's Land, ) [pop: 1031833000] <6255146>, Argentina = Argentina (Argentina, 00) [pop: 41343201] <3865483>, Paraguay = Paraguay (Paraguay, 00) [pop: 6375830] <3437598>, Venezuela = Venezuela (Venezuela, 00) [pop: 27223228] <3625428>, Italia = Italy (Italy, 00) [pop: 60340328] <3175395>, Russia = Russia (Russia, 00) [pop: 140702000] <2017370>, India = India (India, 00) [pop: 1173108018] <1269750>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, New York = New York City (United States, NY) [pop: 8175133] <5128581>, Washington = Washington, D.C. (United States, DC) [pop: 601723] <4140963>, Boston = Boston (United States, MA) [pop: 617594] <4930956>, Denver = Denver (United States, CO) [pop: 600158] <5419384>, dallas = Dallas (United States, TX) [pop: 1197816] <4684888>, Atlantic City = Atlantic City (United States, NJ) [pop: 39558] <4500546>, Chicago = Chicago (United States, IL) [pop: 2695598] <4887398>, Los Angeles = Los Angeles (United States, CA) [pop: 3792621] <5368361>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Madison Avenue = Madison Avenue (United Kingdom, ENG) [pop: 0] <7701249>, New York = New York City (United States, NY) [pop: 8175133] <5128581>, New York = New York City (United States, NY) [pop: 8175133] <5128581>, serbia = Serbia (Serbia, 00) [pop: 7344847] <6290252>, albania = Albania (Albania, 00) [pop: 2986952] <783754>, Tunisia = Tunisia (Tunisia, 00) [pop: 10589025] <2464461>, Algeria = Algeria (Algeria, 00) [pop: 34586184] <2589581>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]58", 
+
+DATE="[06/11/2016, 06/10/2016]2", 
+
+I-PER="[., H2biz, ., MotorSponsor, H2biz, H2biz, Luigi De Falco, prevedo . ., ricezione:I, ., ., H2biz, ., NewsFood.com H2biz, H2biz H2biz, monitora, H2biz, BeStartup, . ., H2biz, ., H2biz, fatturazione, H2biz, ., H2biz, Emirati Arabi Uniti.Dal, mercat . ., H2biz, H2biz, H2biz, ., Oberdan Bezzi, ., ., ., H2biz, anal . ., Addis, l'Europa.L'operazione, ., . ., Black, Black, Iva, . ., Addis, ., uten . ., H2biz, ., ., Mon ., ., Paolo Pugni, H2biz, GruppoPaolo Pugni, . ., . ., . ., Vademecum H2biz, H2biz, ., ., . ., ., ., H2biz, . ., H2biz H2biz, . ., relazio . ., H2biz, ., H2biz, ., ., Mario Rossi, . ., FashionBiz, Villa Borghese, H2biz, . ., accoun . ., distrett . ., H2biz, all'estero.L'obiettivo, ., H2biz, . ., Randy De Puniet, . ., approvvigiona . ., ., EurAmerica . ., Mark . ., Carmen Astorino, Rosa Borgia]98", 
+
+I-LOC="[Iran, rischio:Centramerica‬, Nicaragua, Panama, Honduras, Iran, Italy, Roma, Iran, Italy, Italy, Iran, prevedo, Iran, Italia, Iran, Italy, Indonesia, Singapore, Indonesia, Singapore, H2biz, Iran, Russia, Nord Africa, Sud America, Emirati Arabi, USA, Cina, Turchia, Cuba, Teheran, NewsFood.com, Italy, H2biz, Turchia, Russia, Nord Africa, Sud America, Emirati Arabi, USA, Ankara, USA, Cina, Russia, Nord Africa, Sud America, Emirati Arabi, USA, H2biz, Stati Uniti, Cina, USA, Stati Uniti, Dubai, Dubai, Emirati Arabi, Dubai, Emirati Arabi UnitiGli, Emirati Arabi Uniti, H2biz, Sud America, Russia, Nord Africa, Sud, Brasile, Argentina, Uruguay, Nord Africa, Nord Africa, Tangeri, Marocco, Algeri, Algeria, Tunisi, Tunisia, H2biz, Parigi, FashionBiz, Mosca, Mosca, rappresentarli, Addis Abeba, Corno d'Africa, Addis Abeba, Etiopia, Mare -, Italia, Stati Uniti, H2biz, USA, USA, Napoli, Parigi, New York, Budva, Tangeri, Iran, Italia, Iran, Cielo, Mare, Napoli, Parigi, New York, Budva, Tangeri, Montenegro, Mediterraneo Orientale, Budva, Montenegro, Mediterraneo, Mon, Tangeri, Tangeri, H2biz, H2biz, Nord Africa, Tangeri, H2biz City Club Milano, USA, Cipro, H2biz, Cipro, Europa, Asia, Africa, Golfo Persico, Iran, USA, Argentina, Uruguay, Paraguay, Venezuela, Italia, Brasile, Russia, India, Cina, Sudafrica, Europa, USA, USA, Stati Uniti, New York, Washington, Boston, Denver, Dallas, Chicago, Los Angeles, Francisco.Un, statunitensi, USA, USA, Madison Avenue, New York, FashionBiz, Qatar, Doha, H2biz, Mediterraneo, Mediterraneo, Italia, Francia, Spagna, Grecia, Croazia, Serbia, Albania, Turchia, Egitto, Libia, Tunisia, Algeria, H2biz, Villa, Villa, Roma, Haute Couture, H2biz.L'evento, distrett, Italia, H2biz.I, Fondi, Portogallo, Estoril, EurAmerica, H2biz]189", 
+
+I-ORG="[Premium, Rete Italia, Made, Iran Business Forum, Rete Italia, Rete, Made, Beacon, H2biz, Beacon Italy, Beacon, Giustizia Europea, UE, UE, Premium, Premium, Made, ec ., Emirati Arabi UnitiGli EAU, H2biz, H2biz Racing, Gruppo, H2biz Racing, ., H2biz, Focus, Premium, Gruppo, Black, EU, EU, MERCOSUR, Gruppo, Gruppo, Rete Italia, Rete, Rete, Gruppo, Gruppo, Med, H2biz City, Milano, H2biz City Club, GruppoPaolo, Club meneghino, UE, Libero, UE, Trade and Investment Partnership, Med, Med, H2biz.Il, H2biz, Rete, Impresa, MED, Rete Italia, Mercosur, Gallery, Art Gallery, Gallery, Atlantic City, International, Club, Club, Club, H2biz Aerospace, Gruppo, Space, Madison, Gruppo, Camera, Commercio, Camera, Commercio, H2biz, H2biz, Network, MED, MED, Centrale Operativa, Gruppo, Mercato, H2biz, Rete, Rete, Rete, H2biz City, City Club, H2biz.I City, partnership.I City Club, territorio.Ogni City Club, Credito, Merchant Bank, Private Equity, Venture Capital, MotoGP, LCR Honda, Team LCR Honda, MotoGP, Honda, Premium, MED]103", 
+
+EMAIL="[info@h2biz.eu, info@h2biz.eu]2"
+------------------------19------------------------
+http://tv.fanpage.it/ad-amore-criminale-il-caso-di-angelo-niemen-ucciso-dall-amante-della-moglie/
+575c798d3ceacffb5c01f68a
+PAGINE UTILIZZATE PER LA PULIZIA: 0 http://autori.fanpage.it/angelo-andrea-vegliante/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 1 http://music.fanpage.it/alessandra-amoroso-presenta-vivere-a-colori-io-ed-elisa-siamo-due-matte/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 2 http://tv.fanpage.it/alessandra-amoroso-rassicura-i-fan-io-e-emma-marrone-non-abbiamo-assolutamente-litigato/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 3 http://tv.fanpage.it/svolta-in-rai-cancellato-ti-lascio-una-canzone-via-la-cronaca-nera-da-domenica-in/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 4 http://tv.fanpage.it/katy-perry-sara-il-nuovo-giudice-di-x-factor-10/
+
+JSOUP
+
+CLAVIN-EXTRACTOR="[Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, San Giacomo = Shijak (Albania, 42) [pop: 14138] <3184099>]4", 
+
+DATE="[26/07/2011]1", 
+
+I-PER="[Angelo Niemen, Angelo Niemen, Angelo Niemen, Giovanna Rossi . Franco Boselli, ., Daniela Seclì, Angelo Guglielmo Niemen ., giostrai, Angelo, – Giovanna Rossi –, Giovanna, Francesco Boselli, Franco, . Boselli, Francesco, Giovanna, Boselli, Giovanna, Boselli, Daniela Seclì, Fiorenza, Mariella Anastasi, Barbara, Tiziana Olivieri, Teresa Buonocore, Marianna, Barbara De Rossi, Scarface, Cinzia Oscar, Gomorra, Ciro Di Marzio, Alessandra, Roberto Saviano, Alberto Angela incanta, Cinzia Oscar, Gomorra, Pollon, Apollo, Ciro, Genny, Gemma, Giorgio, Angelo Andrea Vegliante, Luigi Briganti I, Fedez, Biagio, Fanpage, . Fanpage, .]49", 
+
+I-LOC="[Roma Milano, San Giacomo Vercellese, carabinieri, Firenze, Napoli, www.fanpage.it]6", 
+
+I-ORG="[Amore Criminale, Criminale, Criminale, Criminale, Sky, Facebook, GM, Napoli, Rai, JACKAL F4, Tribunale, Getty, Privacy]13", 
+
+EMAIL="[info@fanpage.it, info@fanpage.it, info@fanpage.it, info@fanpage.it, info@fanpage.it, info@fanpage.it]6"
+
+
+
+CLEAN
+
+CLAVIN-EXTRACTOR="[IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, San Giacomo = Shijak (Albania, 42) [pop: 14138] <3184099>]3", 
+
+I-PER="[Angelo Niemen, Angelo Niemen, Angelo Niemen, Giovanna Rossi . Franco Boselli, ., Daniela Seclì, Angelo Guglielmo Niemen ., giostrai, Angelo, – Giovanna Rossi –, Giovanna, Francesco Boselli, Franco, . Boselli, Francesco, Giovanna, Boselli, Giovanna, Boselli, Daniela Seclì, Fiorenza, Mariella Anastasi, Barbara, Tiziana Olivieri, Teresa Buonocore, Marianna, Barbara De Rossi, Scarface, Cinzia Oscar, Gomorra, Ciro Di Marzio, Alessandra, Roberto Saviano, Alberto Angela incanta, Cinzia Oscar, Gomorra, Pollon, Apollo, Ciro, Genny, Gemma, Giorgio, Angelo Andrea Vegliante, Luigi Briganti I, Fedez, Biagio]46", 
+
+I-LOC="[San Giacomo Vercellese, carabinieri, Firenze]3", 
+
+I-ORG="[Amore Criminale, Criminale, Criminale, Criminale, Sky, Facebook, GM, Napoli, Rai]9", 
+
+EMAIL="[info@fanpage.it, info@fanpage.it, info@fanpage.it, info@fanpage.it]4"
+
+
+
+BOILER
+
+CLAVIN-EXTRACTOR="[IL = Israel (Israel, 00) [pop: 7353985] <294640>, San Giacomo = Shijak (Albania, 42) [pop: 14138] <3184099>]2", 
+
+I-PER="[Angelo Niemen, Angelo Niemen, Giovanna Rossi . Franco Boselli, Daniela Seclì, Angelo Guglielmo Niemen ., giostrai, Angelo, – Giovanna Rossi –, Giovanna, Francesco Boselli, Franco, . Boselli, Francesco, Giovanna, Boselli, Giovanna, Boselli]17", 
+
+I-LOC="[San Giacomo Vercellese, carabinieri]2", 
+
+EMAIL="[info@fanpage.it, info@fanpage.it, info@fanpage.it, info@fanpage.it]4"
+------------------------20------------------------
+http://www.nonmidire.it/s/emma-marrone/
+575c7f563ceacf4ff6021b57
+PAGINE UTILIZZATE PER LA PULIZIA: 0 http://www.nonmidire.it/articolo/laura-torrisi-incinta-le-prime-foto-col-pancione/8717/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 1 http://www.nonmidire.it/articolo/e-finita-tra-leonardo-pieraccioni-e-laura-torrisi/1499/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 2 http://www.nonmidire.it/s/laura-torrisi/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 3 http://www.nonmidire.it/s/alessandra-amoroso/
+
+PAGINE UTILIZZATE PER LA PULIZIA: 4 http://www.nonmidire.it/s/pettegolezzi/
+
+JSOUP
+
+CLAVIN-EXTRACTOR="[Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, Santiago = Santiago (Chile, 12) [pop: 4837295] <3871336>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, New York = New York City (United States, NY) [pop: 8175133] <5128581>, New York = New York City (United States, NY) [pop: 8175133] <5128581>, San Foca = San Foca (Italy, 06) [pop: 530] <3220330>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]15", 
+
+I-PER="[Emma Marrone, Emma Marrone, Emma Marrone, Maria De Filippi . Scoprite, Laura Chiatti, Marco Bocci, Emma Marrone, Laura Chiatti, Marco Bocci ?, Laura Chiatti, Marco Bocci, Selvaggia Lucarelli, Marco Bocci, pugliese Emma Marrone, Emma Marrone, Marco Bocci, Emma Marrone, Marco Bocci, L’attore, Laura Chiatti, Giulia Michelini, Emma Marrone, Emma Marrone sirenetta, Giulia Calcaterra all’attaccante, Fabio Quagliarella, Emma, Stefano De Martino, Belen Rodriguez, Emma, Nesli, Emma, Nesli, . Lei, Nesli, Emma Marrone, Stefano de Martino, Belen . T.T, Stefano De Martino, Belen Rodriguez, Maria De Filippi, Stefano De Martino, argentina Belen Rodriguez . Stefano, Emma Marrone, Stefano, rumor, Stefano, Belen Rodriguez, argentina Belen Rodriguez, Maria De Filippi, Emma Marrone, Stefano De Martino, Belen, Stefano De Martino, Simone Annichiarico ., l’ultimo rumor, Belen, Stefano, Stefano De Martino, D.G, Stefano de Martino, Mara Maionchi, Mara Maionchi, argentina Belen Rodriguez, Emma Marrone, Stefano De Martino, Maria De Filippi, Mara Maionchi, argentina Belen Rodriguez, Antonino, Emma Marrone, L’ho, Stefano De Martino, Antonino, Emma Marrone, Maria De Filippi, Stefano De Martino, Gaetano, Paolo, Emma Marrone, Alessandra Amoroso, Paolo, ”, Antonella Clerici, ” ., Justine Mattera, Emma Marrone, Arisa, Alessandra Amoroso, Noemi, ”, Stefano De Martino, Stefano De Martino, scoppiettanti rumor, argentina Belen Rodriguez, Stefano De Martino ., L’indiscrezione, un’avventura, Emma Marrone flirta, Andrea Montovoli, Maria De Filippi, Stefano De Martino, argentina Belen Rodriguez . L’ex, Emma Marrone, Emma, Andrea Montovoli, Alessandra Amoroso, Alessandra Amoroso, Maria De Filippi, ”, Luca De Salvatore, Alessandra Amoroso, Marco Carta, Ottavio De Stefano, Ottavio De Stefano, Marco Carta, Maria De Filippi, Annalisa Scarrone rassicurata, Emma Marrone, Alessandra Amoroso, Annalisa Scarrone, “, L’artista, Maria De Filippi, ”, Alessandra Amoroso, Emma Marrone, .]127", 
+
+I-LOC="[Perugia, pugliese, L’attore umbro, Perugia, Roma, Formentera, spagnola, Sanremo, Santiago, Milano, napoletano, argentina, argentina, napoletano, argentina, Colorado Cafè, Factor, argentina, “ Vero, quest’anno, argentina, Sanremo, Albano, Sanremo, argentina, Sanremo, argentina, New York, New York, San Foca, Lecce, americano, Sanremo, “ Vero, Milano]35", 
+
+PHONE="[ 13059540156 ]1", 
+
+I-ORG="[Facebook, salentina, nazionale italiana, Novella, Club Dogo ., “, “, Raiuno, “, Stampa ”, Rete, Tribunale]12"
+
+
+
+CLEAN
+
+CLAVIN-EXTRACTOR="[Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, Santiago = Santiago (Chile, 12) [pop: 4837295] <3871336>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, New York = New York City (United States, NY) [pop: 8175133] <5128581>, New York = New York City (United States, NY) [pop: 8175133] <5128581>, San Foca = San Foca (Italy, 06) [pop: 530] <3220330>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>]14", 
+
+I-PER="[Emma Marrone, Gossip, Emma Marrone, Emma Marrone, Maria De Filippi . Scoprite, Laura Chiatti, Marco Bocci, Emma Marrone, Laura Chiatti, Marco Bocci ?, Laura Chiatti, Marco Bocci, Selvaggia Lucarelli, Marco Bocci, pugliese Emma Marrone, Emma Marrone, Marco Bocci, Emma Marrone, Marco Bocci, L’attore, Laura Chiatti, Giulia Michelini, Emma Marrone, Emma Marrone sirenetta, Giulia Calcaterra all’attaccante, Fabio Quagliarella, Emma, Stefano De Martino, Belen Rodriguez, Emma, Nesli, Emma, Nesli, . Lei, Nesli, Emma Marrone, Stefano de Martino, Belen . T.T, Stefano De Martino, Belen Rodriguez, Maria De Filippi, Stefano De Martino, argentina Belen Rodriguez . Stefano, Emma Marrone, Stefano, rumor, Stefano, Belen Rodriguez, argentina Belen Rodriguez, Maria De Filippi, Emma Marrone, Stefano De Martino, Belen, Stefano De Martino, Simone Annichiarico ., l’ultimo rumor, Belen, Stefano, Stefano De Martino, D.G, Stefano de Martino, Mara Maionchi, Mara Maionchi, argentina Belen Rodriguez, Emma Marrone, Stefano De Martino, Maria De Filippi, Mara Maionchi, argentina Belen Rodriguez, Antonino, Emma Marrone, L’ho, Stefano De Martino, Antonino, Emma Marrone, Maria De Filippi, Stefano De Martino, Gaetano, Paolo, Emma Marrone, Alessandra Amoroso, Paolo, ”, Antonella Clerici, ” ., Justine Mattera, Emma Marrone, Arisa, Alessandra Amoroso, Noemi, ”, Stefano De Martino, Stefano De Martino, scoppiettanti rumor, argentina Belen Rodriguez, Stefano De Martino ., L’indiscrezione, un’avventura, Emma Marrone flirta, Andrea Montovoli, Maria De Filippi, Stefano De Martino, argentina Belen Rodriguez . L’ex, Emma Marrone, Emma, Andrea Montovoli, Alessandra Amoroso, Alessandra Amoroso, Maria De Filippi, ”, Luca De Salvatore, Alessandra Amoroso, Marco Carta, Ottavio De Stefano, Ottavio De Stefano, Marco Carta, Maria De Filippi, Annalisa Scarrone rassicurata, Emma Marrone, Alessandra Amoroso, Annalisa Scarrone, “, L’artista, Maria De Filippi, ”, Alessandra Amoroso, Emma Marrone]127", 
+
+I-LOC="[Perugia, pugliese, L’attore umbro, Perugia, Roma, Formentera, spagnola, Sanremo, Santiago, Milano, napoletano, argentina, argentina, napoletano, argentina, Colorado Cafè, Factor, argentina, “ Vero, quest’anno, argentina, Sanremo, Albano, Sanremo, argentina, Sanremo, argentina, New York, New York, San Foca, Lecce, americano, Sanremo, “ Vero]34", 
+
+PHONE="[ 13059540156 ]1", 
+
+I-ORG="[Facebook, salentina, nazionale italiana, Novella, Club Dogo ., “, “, Raiuno, “, Stampa ”, Rete]11"
+
+
+
+BOILER
+
+CLAVIN-EXTRACTOR="[]0"
+------------------------21------------------------
+http://film.virgilio.it/artist/534443/nino-manfredi.html
+575c7f5a3ceacfbb38021b6e
+PAGINE UTILIZZATE PER LA PULIZIA: 0 http://film.virgilio.it/artist/492374/ennio-coltorti.html
+
+PAGINE UTILIZZATE PER LA PULIZIA: 1 http://film.virgilio.it/artist/599700/paola-scola.html
+
+PAGINE UTILIZZATE PER LA PULIZIA: 2 http://film.virgilio.it/artist/525970/claudia-koll.html
+
+PAGINE UTILIZZATE PER LA PULIZIA: 3 http://film.virgilio.it/artist/514254/sandro-grossi.html
+
+PAGINE UTILIZZATE PER LA PULIZIA: 4 http://film.virgilio.it/artist/488669/dido-castelli.html
+
+JSOUP
+
+CLAVIN-EXTRACTOR="[Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, ma la = Marat (France, 84) [pop: 827] <6440078>, Cannes = Cannes (France, 93) [pop: 70011] <3028808>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Santa Chiara = Santa Chiara (Italy, 15) [pop: 53] <8962030>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Colombo = Colombo (Sri Lanka, 36) [pop: 648034] <1248991>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Africa = Africa (No Man's Land, ) [pop: 1031833000] <6255146>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>]28", 
+
+DATE="[22-03-1921]1", 
+
+I-PER="[Nino Manfredi, Virgilio, Nino Manfredi, Nino, Manfredi, Shakespeare, Pirandello, Susanna, Pinocchio, Luigi Comencini, Geppetto ., Lina Wertm, Grazia, Piero De Bernardi, Leonardo Benvenuti, Damiano Damiani, Scola, Nanni Loy, Papa Re, Ponzio Pilato, Luigi Magni ., Linda, Claudia Koll ., Luca, Alberto Simone, Miguel Hermoso, Tomaso Sherman, Pasquino, Luigi Magni, Luca Manfredi, Bianchi, Erminia &, Regina Margherita, Erminia, Roberta, Alberto Simone, Luca, Nancy Brilli, Giovanna ., Massimo Troisi, Enrico, A, Francesco Marvasi, Angelo Musco, Enrico La, Lello, Otello, E, Paolo, Giacinto Rossi, . Giuseppe, Mario Giorgi, José Luis Rodríguez CRIMEN, Quirino Filonzi, Quirino Caporale, Enea Serafini, Peppino LA PARMIGIANA, Nino Carmela, Toto ' Improta, Nando Tempo, Carletto, Franco Bartolomucci Audace, Ugo Nardi Adorabili, Mario Totò, Peppino, ., Raffaele I, Nino Borsetti Pezzo, Gianni, Toni, Enzo, Paolo, Otello Cucchiaroni, SUSANNA, Romoletto, Omero, Nino, Nino, Antonio, Giacinto Mazzatella, Michele Abbagnano, CROCE, Papa, Mons ., Ragionier Vittorio Barletta, Domenico Cocco, Cardinale Caprettari, Antonio Pecoraro, Sasa, Sandro, Franco Io, . . ., Natalino Tartufato, Pinocchio, Geppetto, Nino Garofalo, Gino Girolimoni, ANDREA, Paolo, Cianfanna, Commissario Quintilio, Marco Florio Rosolino, Rosolino Paternò, Cornacchia, Pasquino, Benedetto TRASTEVERE, Stefano Liberati, Giorgio, Guido Raganelli, Armandino Girasole, Straziami, Mario Balestrini, . Cacopardo, Angelo Perfili, Ornella, Ercole, Maurizio, Nanni, Francesco Mangini, Andrea CONTROSESSO, Nanni, Oreste Sabatini, . Renato Beretta, Colonnello Vinci I, Ponzio Pilato, Ponzio Pilato, Ciceruacchio, Alberto, Alberto Napoli, Salvatore, Sandro L'olandese, Pietro Caramelli, Rivarola Grandi, Marco Salviati DIO, Cardinale Ferdinando Fonseca LINDA E, Nino Fogliani LINDA E, Giordano, . ., Francesco Gammarota, Galapago, Antonio Di Carlo, Pasquino, Pasquino Regia, Andreas Hofer, Cloverfield Lane, ellen Room, ellen]147", 
+
+I-LOC="[CASTRO DEI VOLSCI, Frosinone, Roma, Milano, Guardia, Cannes, Roma, italiano, Svizzera, Pane, Brusati, Roma, Venezia, Regina, Roma, Chiara, A NAPOLI, capopezzo, l'aviatore Venezia, Italia, Mons . Colombo, Priverno, svedese, Cianfanna Roma, Marco Florio Rosolino Paternò, gaucho, Africa, Berlino, Carbonara, Roma, Milano, Roma, Torino, Bologna]34", 
+
+I-ORG="[Community, Virgilio, Cinema, Tv, d'Arte, Teatro, popolarit, variet, Caf, Popolo Sovrano, Rai &, Brigadiere, Cinema, Lello VIVA, l'aviatore, Giacinto Mazzatella Café, ITALY, Marco Florio Rosolino Paternò Soldato, Gennaro, CARABINIERI, Gennaro, Milano Cinema, Roma Cinema, Torino Cinema, Bologna Cinema, Firenze, Comico]27"
+
+
+
+CLEAN
+
+CLAVIN-EXTRACTOR="[Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, ma la = Marat (France, 84) [pop: 827] <6440078>, Cannes = Cannes (France, 93) [pop: 70011] <3028808>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Santa Chiara = Santa Chiara (Italy, 15) [pop: 53] <8962030>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Colombo = Colombo (Sri Lanka, 36) [pop: 648034] <1248991>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Africa = Africa (No Man's Land, ) [pop: 1031833000] <6255146>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]27", 
+
+DATE="[22-03-1921]1", 
+
+I-PER="[Nino Manfredi, Virgilio, Nino Manfredi, Nino Manfredi, Shakespeare, Pirandello, Pinocchio, Luigi Comencini, Geppetto ., Lina Wertmüller, Grazia, Piero De Bernardi, Leonardo Benvenuti, Damiano Damiani, Scola, Nanni Loy, Papa, Ponzio Pilato, Luigi Magni ., Linda, Claudia Koll ., Luca, Alberto Simone, Miguel Hermoso, Tomaso Sherman, Pasquino, Luigi Magni, Luca Manfredi, ., Bianchi, Erminia, Regina Margherita, Erminia, Roberta, Alberto Simone, Luca, Nancy Brilli, Giovanna ., Massimo Troisi ., Enrico, A, Francesco Marvasi, Angelo Musco, Enrico La, Lello, Otello, E, Paolo, Giacinto Rossi, . Giuseppe, Mario Giorgi, José Luis Rodríguez CRIMEN, Quirino Filonzi, Quirino Caporale, Enea Serafini, Peppino LA PARMIGIANA, Nino Carmela, Toto ' Improta, Nando Tempo, Carletto, Franco Bartolomucci Audace, Ugo Nardi Adorabili, Mario Totò, Peppino, ., Raffaele I, Nino Borsetti Pezzo, Gianni, Toni, Enzo, Paolo, Otello Cucchiaroni, SUSANNA, Romoletto, Omero, Nino, Nino, Antonio, Giacinto Mazzatella, Michele Abbagnano, CROCE, Papa, Mons ., Ragionier Vittorio Barletta, Domenico Cocco, Cardinale Caprettari, Antonio Pecoraro, Sasa, Sandro, Franco Io, . . ., Natalino Tartufato, Pinocchio, Geppetto, Nino Garofalo, Gino Girolimoni, ANDREA, Paolo, Cianfanna, Commissario Quintilio, Marco Florio Rosolino, Rosolino Paternò, Cornacchia, Pasquino, Benedetto TRASTEVERE, Stefano Liberati, Giorgio, Guido Raganelli, Armandino Girasole, Straziami, Mario Balestrini, . Cacopardo, Angelo Perfili, Ornella, Ercole, Maurizio, Nanni, Francesco Mangini, Andrea CONTROSESSO, Nanni, Oreste Sabatini, . Renato Beretta, Colonnello Vinci I, Ponzio Pilato, Ponzio Pilato, Ciceruacchio, Alberto, Alberto Napoli, Salvatore, Sandro L'olandese, Pietro Caramelli, Rivarola Grandi, Marco Salviati DIO, Cardinale Ferdinando Fonseca, Nino Fogliani LINDA E, Giordano, . ., Francesco Gammarota, Galapago, Antonio Di Carlo, Pasquino, Pasquino Regia]142", 
+
+I-LOC="[CASTRO DEI VOLSCI, Frosinone, Roma, Milano, Cannes, Roma, italiano, Svizzera, Brusati, Roma, Venezia, Regina, Roma, Chiara, A NAPOLI, capopezzo, l'aviatore Venezia, Italia, Mons . Colombo, Priverno, svedese, Cianfanna Roma, Marco Florio Rosolino Paternò, gaucho, Africa, Berlino, Carbonara, Roma]28", 
+
+I-ORG="[d'Arte, Teatro, Café, Popolo, Rai, Cinema, Lello VIVA, l'aviatore, Giacinto Mazzatella Café, ITALY, Marco Florio Rosolino Paternò Soldato, Gennaro, CARABINIERI, Gennaro]14"
+
+
+
+BOILER
+
+CLAVIN-EXTRACTOR="[Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, ma la = Marat (France, 84) [pop: 827] <6440078>, Cannes = Cannes (France, 93) [pop: 70011] <3028808>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]4", 
+
+DATE="[22-03-1921]1", 
+
+I-PER="[Nino Manfredi, Nino Stampa, Shakespeare, Pirandello, Susanna, Pinocchio, Luigi Comencini, Geppetto ., Lina Wertm, Grazia, Piero De Bernardi, Leonardo Benvenuti, Damiano Damiani, Scola, Nanni Loy, Papa Re, Ponzio Pilato, Luigi Magni ., Linda, Claudia Koll ., Luca, Alberto Simone, Miguel Hermoso, Tomaso Sherman, Pasquino, Luigi Magni, Luca Manfredi, Bianchi, Erminia &, Regina Margherita, Erminia, Roberta, Alberto Simone, Luca, Nancy Brilli, Giovanna ., Massimo Troisi]37", 
+
+I-LOC="[CASTRO DEI VOLSCI, Frosinone, Roma, Milano, Guardia, Cannes, Roma, italiano, Svizzera, Pane, Brusati, Roma, Venezia, Regina, Roma]15", 
+
+I-ORG="[d'Arte, Teatro, popolarit, variet, Caf, Popolo Sovrano, Rai &, Brigadiere, Cinema]9"
