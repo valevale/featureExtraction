@@ -22,7 +22,7 @@ import org.apache.log4j.Logger;
  */
 public class ClavinFacade {
 
-    private static ClavinFacade ourInstance = new ClavinFacade();
+    private static ClavinFacade ourInstance = null;
     final static Logger log = Logger.getLogger(nlp.ClavinFacade.class);
     
     private static final String CITIES_INDEX = "./citiesIndex";
@@ -38,7 +38,9 @@ public class ClavinFacade {
     private ClavinLocationResolver locationResolver;
 
     public static ClavinFacade getInstance() {
-        return ourInstance;
+    	if (ourInstance == null)
+    		ourInstance = new ClavinFacade();
+    	return ourInstance;
     }
 
     private ClavinFacade() {
@@ -50,7 +52,7 @@ public class ClavinFacade {
             locationResolver = new ClavinLocationResolver(gazetteer);
         } catch (ClavinException e) {
             log.error("cannot load clavin index");
-        	System.out.println("cannot load clavin index");
+        	System.out.println("CANNOT LOD CLAVIN INDEX");
         }
     }
 
