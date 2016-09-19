@@ -120,7 +120,7 @@ public class EntityExtractor {
 //			locationsPrinter.close();
 //			((MorphiaIterator) iterator).close();
 //		}
-		String urlp = "http://www.haisentito.it/utenti/patchi/";
+		String urlp = "http://autori.fanpage.it/angelo-andrea-vegliante/";
 		PageEntry page = FACADE.getPageWithUrl(urlp);
 		String html;
 			html = page.getPage().getBody();
