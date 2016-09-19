@@ -49,10 +49,7 @@ public class MongoFacade {
 	
 	/* iteratore per la collezione pages */
 	public PageEntry getPageWithUrl(String url) {
-		Page filterPage = new Page();
-		filterPage.setUrl(url);
-		Query<PageEntry> query =  getDatastore().createQuery(PageEntry.class).filter("url", filterPage);
-		return query.get();
+		return getDatastore().createQuery(PageEntry.class).field("page.url").equal(url).get();
 	}
 
 	//TODO per ora non storiamo niente nel db, ciò che dobbiamo capire è se per
