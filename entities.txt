@@ -1,41 +1,53 @@
 ------------------------------------------------
-575c50513ceacf1f8f00e833
+575c799a3ceacffb5c01f6e8
 
-http://www.haisentito.it/utenti/patchi/
+http://autori.fanpage.it/angelo-andrea-vegliante/
 
-http://www.haisentito.it/articolo/noemi-letizia-silvio-berlusconi-non-e-il-mio-vero-papi/14997/
-http://www.haisentito.it/tag/partito-socialista/
-http://www.haisentito.it/articolo/veronica-lario-vuole-divorziare-da-silvio-berlusconi/14865/
-http://www.haisentito.it/tag/festival-cinema-roma/
-http://www.haisentito.it/articolo/valentino-rossi-ritorno-in-pista-al-gran-premio-di-germania/28677/
+http://tv.fanpage.it/ad-amore-criminale-il-caso-di-angelo-niemen-ucciso-dall-amante-della-moglie/
+http://music.fanpage.it/alessandra-amoroso-presenta-vivere-a-colori-io-ed-elisa-siamo-due-matte/
+http://tv.fanpage.it/alessandra-amoroso-rassicura-i-fan-io-e-emma-marrone-non-abbiamo-assolutamente-litigato/
+http://tv.fanpage.it/svolta-in-rai-cancellato-ti-lascio-una-canzone-via-la-cronaca-nera-da-domenica-in/
+http://tv.fanpage.it/katy-perry-sara-il-nuovo-giudice-di-x-factor-10/
 JSOUP
 
-CLAVIN-EXTRACTOR="[Apartmani Mirko = Apartmani Mirko (Croatia, ) [pop: 0] <10295051>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Love = Love (Canada, 11) [pop: 0] <6060934>, California = California (United States, CA) [pop: 37691912] <5332921>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]9", 
+CLAVIN-EXTRACTOR="[Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]7", 
 
-I-PER="[Patrizia Chimera, ., ., Patrizia Chimera, William, ., William, Sarah Ferguson, William, Victoria, William, William, William, William, Sky, ., William, William, ., Sandra Mondaini, Raimondo Vianello, . ., Mirko, Bee, Ve, Mirko dei Bee, Licia, Mirko, Pasquale Finicelli, Licia, Salma Hayek, Salma Hayek Seno, Salma Hayek, Salma Hayek, Arnold Schwarzenegger, Arnold Schwarzenegger, Arnold Schwarzenegger, ’, Arnold Schwarzenegger, Lui, Lee Redmond, l’incidente, Lee Redmond, Barbara D’Urso, l’uomo, Gunther von Hagens, Gunther von Hagens, Gunther von Hagens, Lui, L’importante, Christina Aguilera, Christina Aguilera, Christina Aguilera, Halloween . Jack’o, Stati Uniti d’America, Halloween, Stati Uniti d’America, Halloween Preparatevi, . Giochi, Halloween, Berlusconi, .]62", 
+DATE="[26/07/2011]1", 
 
-I-LOC="[California, svelarvi, deliziarci, Stati Uniti, Stati Uniti, Italia, Milano]7", 
+I-PER="[Angelo Andrea Vegliante, Angelo Andrea Vegliante, . Paganini, Monica Volpe, Lillo, Greg ”, Lorenzo, Jovanotti, Cherubini, ., Radio FinestrAperta, Zio Gianni . Cristel, . . Amor Mio, Maurizio Canforini, Angelo Andrea Vegliante Paganini, Monica Volpe, Lillo, Greg, Zio Gianni . Cristel, Claudio Bezzi Mein Kampf, Consuelo Motta Euro2016, Olivier Giroud Fabrizio, Enrico Colaiacovo, Fanpage, . Fanpage, .]26", 
 
-PHONE="[ 13059540156 ]1", 
+I-LOC="[Roma Milano, varesina, Norvegia, ligure, Roma, . Levante, Roma, Municipio, Olivier Giroud Fabrizio Palermo, Napoli, www.fanpage.it]11", 
 
-I-ORG="[American Music Awards, Halloween . Jack’o Lantern, Apple, Apple, Tribunale]5"
+I-ORG="[Radio, MTV Italia, Sky Italia, MTV, Radio, Roma, Parco, MTV Italia, JACKAL F4, Tribunale, Getty, Privacy]12", 
+
+EMAIL="[info@fanpage.it, info@fanpage.it, info@fanpage.it, info@fanpage.it, info@fanpage.it, info@fanpage.it]6"
 
 
 
 CLEAN
 
-CLAVIN-EXTRACTOR="[Apartmani Mirko = Apartmani Mirko (Croatia, ) [pop: 0] <10295051>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Love = Love (Canada, 11) [pop: 0] <6060934>, California = California (United States, CA) [pop: 37691912] <5332921>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, LA = Laos (Laos, 00) [pop: 6368162] <1655842>]8", 
+CLAVIN-EXTRACTOR="[IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, Roma = Rome (Italy, 07) [pop: 2318895] <3169070>, IL = Israel (Israel, 00) [pop: 7353985] <294640>, IL = Israel (Israel, 00) [pop: 7353985] <294640>]6", 
 
-I-PER="[Patrizia Chimera, Patrizia, ., ., Patrizia Chimera, William, ., William, Sarah Ferguson, William, Victoria, William, William, William, William, Sky, ., William, William, ., Sandra Mondaini, Raimondo Vianello, . ., Mirko, Bee, Ve, Mirko dei Bee, Licia, Mirko, Pasquale Finicelli, Licia, Salma Hayek, Salma Hayek Seno, Salma Hayek, Salma Hayek, Arnold Schwarzenegger, Arnold Schwarzenegger, Arnold Schwarzenegger, ’, Arnold Schwarzenegger, Lui, Lee Redmond, l’incidente, Lee Redmond, Barbara D’Urso, l’uomo, Gunther von Hagens, Gunther von Hagens, Gunther von Hagens, Lui, L’importante, Christina Aguilera, Christina Aguilera, Christina Aguilera, Halloween . Jack’o, Stati Uniti d’America, Halloween, Stati Uniti d’America, Halloween Preparatevi, . Giochi, Halloween, Berlusconi]62", 
+I-PER="[Angelo Andrea Vegliante, Angelo Andrea Vegliante, . Paganini, Monica Volpe, Lillo, Greg ”, Lorenzo, Jovanotti, Cherubini, ., Radio FinestrAperta, Zio Gianni . Cristel, . . Amor Mio, Maurizio Canforini, Angelo Andrea Vegliante Paganini, Monica Volpe, Lillo, Greg, Zio Gianni . Cristel, Claudio Bezzi Mein Kampf, Consuelo Motta Euro2016, Olivier Giroud Fabrizio, Enrico Colaiacovo]23", 
 
-I-LOC="[California, svelarvi, deliziarci, Stati Uniti, Stati Uniti, Italia]6", 
+I-LOC="[varesina, Norvegia, ligure, Roma, . Levante, Roma, Municipio, Olivier Giroud Fabrizio Palermo]8", 
 
-PHONE="[ 13059540156 ]1", 
+I-ORG="[Radio, MTV Italia, Sky Italia, MTV, Radio, Roma, Parco, MTV Italia, Nencini's]9", 
 
-I-ORG="[American Music Awards, Halloween . Jack’o Lantern, Apple, Apple]4"
+EMAIL="[info@fanpage.it, info@fanpage.it, info@fanpage.it, info@fanpage.it]4"
 
 
 
 BOILER
 
-CLAVIN-EXTRACTOR="[]0"
+CLAVIN-EXTRACTOR="[IL = Israel (Israel, 00) [pop: 7353985] <294640>]1", 
+
+DATE="[26/07/2011]1", 
+
+I-PER="[Angelo Andrea Vegliante, Zio Gianni . Cristel, Fanpage, . Fanpage, .]5", 
+
+I-LOC="[Napoli, www.fanpage.it]2", 
+
+I-ORG="[Rai2, JACKAL F4, Tribunale, Getty Images]4", 
+
+EMAIL="[info@fanpage.it, info@fanpage.it, info@fanpage.it, info@fanpage.it, info@fanpage.it, info@fanpage.it]6"
