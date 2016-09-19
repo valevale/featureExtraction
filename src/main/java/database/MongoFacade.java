@@ -12,6 +12,7 @@ import org.mongodb.morphia.query.Query;
 
 import com.mongodb.MongoClient;
 
+import model.Page;
 import model.PageEntry;
 
 public class MongoFacade {
@@ -34,6 +35,7 @@ public class MongoFacade {
 		return getDatastore().createQuery(PageEntry.class).iterator();
 	}
 	
+	
 	/* iteratore per la collezione pages con un certo crawling_id */
 	public Iterator<PageEntry> pageEntryIterator(String crawling_id) {
 		return getDatastore().createQuery(PageEntry.class).field("crawling_id").equal(crawling_id).iterator();
@@ -43,6 +45,14 @@ public class MongoFacade {
 	public PageEntry getPageEntryWithId(String id) {
 		ObjectId i = new ObjectId(id);
 		return getDatastore().get(PageEntry.class, i);
+	}
+	
+	/* iteratore per la collezione pages */
+	public PageEntry getPageWithUrl(String url) {
+		Page filterPage = new Page();
+		filterPage.setUrl(url);
+		Query<PageEntry> query =  getDatastore().createQuery(PageEntry.class).filter("url", filterPage);
+		return query.get();
 	}
 
 	//TODO per ora non storiamo niente nel db, ciò che dobbiamo capire è se per
