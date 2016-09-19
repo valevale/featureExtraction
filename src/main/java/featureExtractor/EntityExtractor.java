@@ -40,7 +40,6 @@ public class EntityExtractor {
 
 		PrintWriter textPrinter = new PrintWriter("texts.txt", "UTF-8");
 		PrintWriter entitiesPrinter = new PrintWriter("entities.txt", "UTF-8");
-		PrintWriter locationsPrinter = new PrintWriter("locations.txt", "UTF-8");
 		List<String> exploredSources = new ArrayList<>();
 
 		Iterator<PageEntry> iterator = FACADE.pageEntryIterator();
@@ -59,21 +58,17 @@ public class EntityExtractor {
 
 					textPrinter.println("------------------------"+(i+1)+"------------------------");
 					entitiesPrinter.println("------------------------"+(i+1)+"------------------------");
-					locationsPrinter.println("------------------------"+(i+1)+"------------------------");
 					String url = page.getPage().getUrl();
 					String id = page.getId().toString();
 					textPrinter.println(id+"\n");
 					entitiesPrinter.println(id+"\n");
-					locationsPrinter.println(id+"\n");
 					textPrinter.println(url+"\n");
 					entitiesPrinter.println(url+"\n");
-					locationsPrinter.println(url+"\n");
 					String textClean = te.getTextWithCleanHTMLTree(page, bc);
 					List<PageEntry> pagesToClean = bc.getUsedPagesForCleaning();
 					for (int j=0;j<pagesToClean.size();j++) {
 						textPrinter.println(pagesToClean.get(j).getPage().getUrl());
 						entitiesPrinter.println(pagesToClean.get(j).getPage().getUrl());
-						locationsPrinter.println(pagesToClean.get(j).getPage().getUrl());
 					}
 					pagesToClean.clear();
 					bc.setUsedPagesForCleaning(pagesToClean);
@@ -81,35 +76,26 @@ public class EntityExtractor {
 					/*JSOUP*/
 					textPrinter.println("JSOUP\n");
 					entitiesPrinter.println("JSOUP\n");
-					locationsPrinter.println("JSOUP\n");
 					String textJsoup = te.getTextWithJsoup(html);
 					textPrinter.println(textJsoup+"\n\n\n");
 					HashMap<String, List<String>> entitiesJsoup = NlpFacade.getEntities(textJsoup, html);
-					HashMap<String, List<String>> locationsJsoup = NlpFacade.getLocations(textJsoup, html);
 					entitiesPrinter.println(new PrettyPrintMap<String, String>(entitiesJsoup)+"\n\n\n");
-					locationsPrinter.println(new PrettyPrintMap<String, String>(locationsJsoup)+"\n\n\n");
 
 					/*CLEAN*/
 					textPrinter.println("CLEAN\n");
 					entitiesPrinter.println("CLEAN\n");
-					locationsPrinter.println("CLEAN\n");
 
 					textPrinter.println(textClean+"\n\n\n");
 					HashMap<String, List<String>> entitiesClean = NlpFacade.getEntities(textClean, html);
-					HashMap<String, List<String>> locationsClean = NlpFacade.getLocations(textClean, html);
 					entitiesPrinter.println(new PrettyPrintMap<String, String>(entitiesClean)+"\n\n\n");
-					locationsPrinter.println(new PrettyPrintMap<String, String>(locationsClean)+"\n\n\n");
 
 					/*BOILER*/
 					textPrinter.println("BOILER\n");
 					entitiesPrinter.println("BOILER\n");
-					locationsPrinter.println("BOILER\n");
 					String textBoiler = te.getTextWithBoilerArticle(html);
 					textPrinter.println(textBoiler);
 					HashMap<String, List<String>> entitiesBoiler = NlpFacade.getEntities(textBoiler, html);
-					HashMap<String, List<String>> locationsBoiler = NlpFacade.getLocations(textBoiler, html);
 					entitiesPrinter.println(new PrettyPrintMap<String, String>(entitiesBoiler));
-					locationsPrinter.println(new PrettyPrintMap<String, String>(locationsBoiler)+"\n\n\n");
 
 					i++;
 				}
@@ -117,7 +103,6 @@ public class EntityExtractor {
 		} finally {
 			textPrinter.close();
 			entitiesPrinter.close();
-			locationsPrinter.close();
 			((MorphiaIterator) iterator).close();
 		}
 	}

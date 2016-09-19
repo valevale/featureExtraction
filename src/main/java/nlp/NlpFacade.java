@@ -39,45 +39,43 @@ public class NlpFacade {
 			occurrencesExtractedToString.add(resolvedLocation.getMatchedName()+" = "+resolvedLocation.getGeoname());
 
 		
-		entities.put("CLAVIN-EXTRACTOR", occurrencesExtractedToString);
 		if (entities.get("I-LOC") != null) {
-			//entities.put("CLAVIN-RESOLUTOR", resolve(entities.get("I-LOC")));
+			entities.put("CLAVIN-RESOLUTOR", resolve(entities.get("I-LOC")));
 		}
 
 		return entities;
 	}
 
-	public static HashMap<String, List<String>> getLocations(String text, String html) throws Exception {
-
-		// trasformare encoding text in utf-8
-		//text = convertToUTF8(text);
-
-		HashMap<String, List<String>> entities = new HashMap<>();
-
-		String languageCode = LanguageDetectionFacade.getInstance().detectLanguage(text);
-
-		entities = PolyglotFacade.extractNamedEntities(languageCode, text);
-
-		//TODO va in un metodo a parte, non nella facade
-		GeoParser parser = GeoParserFactory.getDefault("./IndexDirectory");
-
-		List<ResolvedLocation> resolvedLocations = parser.parse(text);
-
-		List<String> occurrencesExtractedToString = new ArrayList<>();
-
-		for (ResolvedLocation resolvedLocation : resolvedLocations)
-			occurrencesExtractedToString.add(resolvedLocation.getMatchedName()+" = "+resolvedLocation.getGeoname());
-
-		HashMap<String, List<String>> locations = new HashMap<>();
-
-
-		locations.put("CLAVIN-EXTRACTOR", occurrencesExtractedToString);
-		if (entities.get("I-LOC") != null) {
-			locations.put("POLYGLOT", entities.get("I-LOC"));
-			//locations.put("CLAVIN-RESOLUTOR", resolve(entities.get("I-LOC")));
-		}
-		return locations;
-	}
+//	public static HashMap<String, List<String>> getLocations(String text, String html) throws Exception {
+//
+//		// trasformare encoding text in utf-8
+//		//text = convertToUTF8(text);
+//
+//		HashMap<String, List<String>> entities = new HashMap<>();
+//
+//		String languageCode = LanguageDetectionFacade.getInstance().detectLanguage(text);
+//
+//		entities = PolyglotFacade.extractNamedEntities(languageCode, text);
+//
+//		//TODO va in un metodo a parte, non nella facade
+//		GeoParser parser = GeoParserFactory.getDefault("./IndexDirectory");
+//
+//		List<ResolvedLocation> resolvedLocations = parser.parse(text);
+//
+//		List<String> occurrencesExtractedToString = new ArrayList<>();
+//
+//		for (ResolvedLocation resolvedLocation : resolvedLocations)
+//			occurrencesExtractedToString.add(resolvedLocation.getMatchedName()+" = "+resolvedLocation.getGeoname());
+//
+//		HashMap<String, List<String>> locations = new HashMap<>();
+//
+//
+//		if (entities.get("I-LOC") != null) {
+//			locations.put("POLYGLOT", entities.get("I-LOC"));
+//			locations.put("CLAVIN-RESOLUTOR", resolve(entities.get("I-LOC")));
+//		}
+//		return locations;
+//	}
 
 	public static List<String> resolve(List<String> locations) throws Exception {
 		List<String> resolvedLocations = new ArrayList<>();
