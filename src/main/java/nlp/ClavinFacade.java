@@ -46,19 +46,25 @@ public class ClavinFacade {
     private ClavinFacade() {
         try {
             cityParser = GeoParserFactory.getDefault(CITIES_INDEX);
-            cityResolver = new ClavinLocationResolver(new LuceneGazetteer(new File(CITIES_INDEX)));
-            locationParser = GeoParserFactory.getDefault(ALL_LOCATIONS_INDEX);
-            gazetteer = new LuceneGazetteer(new File(ALL_LOCATIONS_INDEX));
-            locationResolver = new ClavinLocationResolver(gazetteer);
         } catch (ClavinException e) {
             log.error("cannot load clavin index");
         	System.out.println("CANNOT LOAD CLAVIN INDEX");
         	log.error("the error is: " + e);
         	if (cityParser == null) log.error("è cityparser");
+        }
+        try {
+            cityResolver = new ClavinLocationResolver(new LuceneGazetteer(new File(CITIES_INDEX)));
+        } catch (ClavinException e) {
         	if (cityResolver == null) log.error("è cityResolver");
+        }try {
+            locationParser = GeoParserFactory.getDefault(ALL_LOCATIONS_INDEX);
+        } catch (ClavinException e) {
         	if (locationParser == null) log.error("è locationParser");
+        }try {
+            gazetteer = new LuceneGazetteer(new File(ALL_LOCATIONS_INDEX));
+            locationResolver = new ClavinLocationResolver(gazetteer);
+        } catch (ClavinException e) {
         	if (gazetteer == null) log.error("è gazetteer");
-        	if (locationResolver == null) log.error("è locationResolver");
         }
     }
 
