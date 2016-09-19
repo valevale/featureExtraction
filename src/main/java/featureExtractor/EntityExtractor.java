@@ -19,7 +19,7 @@ public class EntityExtractor {
 
 	final static int N_LIMIT=20;
 	final static MongoFacade FACADE = new MongoFacade("crawler_db");
-	final static Logger log = Logger.getLogger(featureExtractor.EntityExtractor.class);
+	//final static Logger log = Logger.getLogger(featureExtractor.EntityExtractor.class);
 	final static BoilerController bc = new BoilerController();
 
 	//TODO il vero metodo estrae le entità e le restituisce
@@ -50,7 +50,7 @@ public class EntityExtractor {
 				PageEntry page = iterator.next();
 				html = page.getPage().getBody();
 				System.out.println("getting entity " +(i+1));
-				log.debug("****************************GETTING ENTITY " +(i+1));
+				//log.debug("****************************GETTING ENTITY " +(i+1));
 				TextExtractor te = new TextExtractor();
 				if (!exploredSources.contains(page.getCrawlingId())) {
 					

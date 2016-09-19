@@ -76,6 +76,7 @@ public class ClavinFacade {
         } catch (Exception e) {
             log.error("cannot extract locations from "+string);
             System.out.println("cannot extract locations from "+string);
+            System.out.println("THE ERROR IS: "+e);
         }
         return new ArrayList<>();
     }
