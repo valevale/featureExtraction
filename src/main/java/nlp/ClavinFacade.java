@@ -52,7 +52,13 @@ public class ClavinFacade {
             locationResolver = new ClavinLocationResolver(gazetteer);
         } catch (ClavinException e) {
             log.error("cannot load clavin index");
-        	System.out.println("CANNOT LOD CLAVIN INDEX");
+        	System.out.println("CANNOT LOAD CLAVIN INDEX");
+        	log.error("the error is: " + e);
+        	if (cityParser == null) log.error("è cityparser");
+        	if (cityResolver == null) log.error("è cityResolver");
+        	if (locationParser == null) log.error("è locationParser");
+        	if (gazetteer == null) log.error("è gazetteer");
+        	if (locationResolver == null) log.error("è locationResolver");
         }
     }
 
@@ -67,7 +73,7 @@ public class ClavinFacade {
                     try {
                         return gazetteer.getGeoName(loc.getGeoname().getGeonameID());
                     } catch (ClavinException e) {
-                        log.error("cannot load parent for "+loc.getGeoname().getGeonameID());
+                        //log.error("cannot load parent for "+loc.getGeoname().getGeonameID());
                         System.out.println("cannot load parent for "+loc.getGeoname().getGeonameID());
                         return loc.getGeoname();
                     }
@@ -76,7 +82,7 @@ public class ClavinFacade {
         } catch (Exception e) {
             log.error("cannot extract locations from "+string);
             System.out.println("cannot extract locations from "+string);
-            System.out.println("THE ERROR IS: "+e);
+            log.error("THE ERROR IS: "+e);
         }
         return new ArrayList<>();
     }
