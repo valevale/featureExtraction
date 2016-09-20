@@ -13,7 +13,11 @@ public class Test {
 		List<WebPage> webpages = facade.getWebPagesWithQueryId(id);
 		
 		for (int i=0;i<webpages.size();i++) {
-			System.out.println(i+ " " +webpages.get(i).getUrl());
+			System.out.print(i+" "+webpages.get(i).getUrl()+" ");
+			if (facade.isValidated(webpages.get(i))) {
+				System.out.print("VALIDATO");
+			}
+			System.out.println();
 		}
 	}
 }

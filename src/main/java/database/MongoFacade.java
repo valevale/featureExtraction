@@ -16,6 +16,7 @@ import com.mongodb.MongoClient;
 import model.Page;
 import model.PageEntry;
 import model.QueryEntry;
+import model.Source;
 import model.WebPage;
 
 public class MongoFacade {
@@ -77,13 +78,19 @@ public class MongoFacade {
 //		ops = datastore.createUpdateOperations(Source.class).set("blacklistedTxt", blacklist);
 //		datastore.update(updateQuery, ops);
 //	}
-
 	
 	public List<WebPage> getWebPagesWithQueryId(String id) {
 		Query<WebPage> q = getDatastore().find(WebPage.class)
 				.field("query")
-				.equal(getDatastore().get(QueryEntry.class,new ObjectId(id)));
+				.equal(getDatastore().get(QueryEntry.class,new ObjectId(id))).limit(10);
 		return q.asList();
+	}
+	
+	public boolean isValidated(WebPage webpage) {
+		//prendi la source di quella pagina web
+		Query<Source> q = getDatastore().find(Source.class)
+				.field("discoveredPages").equal(getDatastore().get(WebPage.class,webpage.getId()));
+		return (q.asList().size()>0);
 	}
 
 	/* fornisce il datastore per effettuare le operazioni su mongo */

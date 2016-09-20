@@ -1,0 +1,23 @@
+package model;
+
+import org.bson.types.ObjectId;
+import org.mongodb.morphia.annotations.Entity;
+import org.mongodb.morphia.annotations.Field;
+import org.mongodb.morphia.annotations.Id;
+import org.mongodb.morphia.annotations.Index;
+import org.mongodb.morphia.annotations.Indexes;
+
+@Entity("sources")
+@Indexes(@Index(value = "id", fields = @Field("id")))
+public class Source {
+	@Id
+    private ObjectId id;
+    
+    public Source() {
+    }
+    
+    public ObjectId getId() {
+    	return id;
+    }
+    
+}
