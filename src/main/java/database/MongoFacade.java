@@ -1,6 +1,7 @@
 package database;
 
 
+import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
@@ -14,6 +15,8 @@ import com.mongodb.MongoClient;
 
 import model.Page;
 import model.PageEntry;
+import model.QueryEntry;
+import model.WebPage;
 
 public class MongoFacade {
 	String dbName;
@@ -75,6 +78,13 @@ public class MongoFacade {
 //		datastore.update(updateQuery, ops);
 //	}
 
+	
+	public List<WebPage> getWebPagesWithQueryId(String id) {
+		Query<WebPage> q = getDatastore().find(WebPage.class)
+				.field("query")
+				.equal(getDatastore().get(QueryEntry.class,new ObjectId(id)));
+		return q.asList();
+	}
 
 	/* fornisce il datastore per effettuare le operazioni su mongo */
 	private Datastore getDatastore() {
