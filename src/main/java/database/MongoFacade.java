@@ -79,11 +79,11 @@ public class MongoFacade {
 //		datastore.update(updateQuery, ops);
 //	}
 	
-	public List<WebPage> getWebPagesWithQueryId(String id) {
+	public Iterator<WebPage> getWebPagesWithQueryId(String id) {
 		Query<WebPage> q = getDatastore().find(WebPage.class)
 				.field("query")
 				.equal(getDatastore().get(QueryEntry.class,new ObjectId(id)));
-		return q.asList();
+		return q.iterator();
 	}
 	
 	public boolean isValidated(WebPage webpage) {
