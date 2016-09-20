@@ -18,9 +18,10 @@ public class Test {
 		PrintWriter textPrinter = new PrintWriter("queries.txt", "UTF-8");
 		int i=1;
 		while(webpages.hasNext()) {
-			System.out.print(i+" "+webpages.next().getUrl()+" ");
-			textPrinter.print(i+" "+webpages.next().getUrl()+" ");
-			if (facade.isValidated(webpages.next())) {
+			WebPage webpage = webpages.next();
+			System.out.print(i+" "+webpage.getUrl()+" ");
+			textPrinter.print(i+" "+webpage.getUrl()+" ");
+			if (facade.isValidated(webpage)) {
 				System.out.print("VALIDATO");
 				textPrinter.print("VALIDATO");
 			}
