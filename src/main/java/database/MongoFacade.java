@@ -82,7 +82,7 @@ public class MongoFacade {
 	public List<WebPage> getWebPagesWithQueryId(String id) {
 		Query<WebPage> q = getDatastore().find(WebPage.class)
 				.field("query")
-				.equal(getDatastore().get(QueryEntry.class,new ObjectId(id))).limit(10);
+				.equal(getDatastore().get(QueryEntry.class,new ObjectId(id)));
 		return q.asList();
 	}
 	
