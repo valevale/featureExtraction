@@ -15,8 +15,8 @@ import org.mongodb.morphia.annotations.Reference;
 public class Source {
 	@Id
     private ObjectId id;
-//	@Reference
-//	private List<WebPage> discoveredPages;
+	@Reference
+	private List<WebPage> discoveredPages;
     
     public Source() {
     }

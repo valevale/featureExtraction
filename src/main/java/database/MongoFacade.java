@@ -88,7 +88,7 @@ public class MongoFacade {
 	
 	public boolean isValidated(WebPage webpage) {
 		//prendi la source di quella pagina web
-		Query<Source> q = getDatastore().find(Source.class).disableValidation()
+		Query<Source> q = getDatastore().find(Source.class)
 				.field("discoveredPages").equal(getDatastore().get(WebPage.class,webpage.getId()));
 		return (q.asList().size()>0);
 	}
