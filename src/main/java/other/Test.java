@@ -16,18 +16,11 @@ public class Test {
 		String id ="5750678a3ceacf06c82caabf";
 		Iterator<WebPage> webpages = facade.getWebPagesWithQueryId(id);
 		PrintWriter textPrinter = new PrintWriter("queries.txt", "UTF-8");
-		int i=1;
 		while(webpages.hasNext()) {
 			WebPage webpage = webpages.next();
-			System.out.print(i+" "+webpage.getUrl()+" ");
-			textPrinter.print(i+" "+webpage.getUrl()+" ");
 			if (facade.isValidated(webpage)) {
-				System.out.print("VALIDATO");
-				textPrinter.print("VALIDATO");
+				textPrinter.println(webpage.getUrl());
 			}
-			System.out.println();
-			textPrinter.println();
-			i++;
 		}
 		
 		textPrinter.close();
