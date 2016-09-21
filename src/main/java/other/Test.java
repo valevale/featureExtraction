@@ -23,6 +23,7 @@ public class Test {
 		String id ="5750678a3ceacf06c82caabf";
 		textPrinter.println(id);
 		Iterator<WebPage> webpages = facade.getWebPagesWithQueryId(id);
+		WebPage webpage2 = webpages.next();
 		while(webpages.hasNext()) {
 			WebPage webpage = webpages.next();
 			if (facade.isValidated(webpage)) {
