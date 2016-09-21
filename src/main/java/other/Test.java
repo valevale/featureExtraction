@@ -24,6 +24,7 @@ public class Test {
 		textPrinter.println(id);
 		Iterator<WebPage> webpages = facade.getWebPagesWithQueryId(id);
 		WebPage webpage2 = webpages.next();
+		System.out.println(webpage2.getUrl());
 		while(webpages.hasNext()) {
 			WebPage webpage = webpages.next();
 			if (facade.isValidated(webpage)) {
