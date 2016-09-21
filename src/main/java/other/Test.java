@@ -27,6 +27,7 @@ public class Test {
 		System.out.println(webpage2.getUrl());
 		while(webpages.hasNext()) {
 			WebPage webpage = webpages.next();
+			System.out.println(webpage.getUrl());
 			if (facade.isValidated(webpage)) {
 				textPrinter.println(webpage.getUrl());
 				textPrinter.println();
@@ -34,7 +35,7 @@ public class Test {
 			textPrinter.println();textPrinter.println();textPrinter.println();textPrinter.println();
 			((MorphiaIterator) webpages).close();
 		}
-		((MorphiaIterator) webpages).close();
+		//((MorphiaIterator) webpages).close();
 		textPrinter.close();
 	}
 }
