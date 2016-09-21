@@ -45,6 +45,11 @@ public class MongoFacade {
 		return getDatastore().createQuery(PageEntry.class).field("crawling_id").equal(crawling_id).iterator();
 	}
 
+	/* iteratore per la collezione pages con un certo crawling_id */
+	public Iterator<QueryEntry> getQueries() {
+		return getDatastore().createQuery(QueryEntry.class).iterator();
+	}
+	
 	/*dato un certo id, restituisce la pagina con quell'id */
 	public PageEntry getPageEntryWithId(String id) {
 		ObjectId i = new ObjectId(id);

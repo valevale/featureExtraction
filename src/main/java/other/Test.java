@@ -7,22 +7,33 @@ import java.util.List;
 import java.util.Iterator;
 
 import database.MongoFacade;
+import model.QueryEntry;
 import model.WebPage;
 
 public class Test {
 
 	public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException {
 		MongoFacade facade = new MongoFacade("web_search_pages");
-		String id ="5750678a3ceacf06c82caabf";
-		Iterator<WebPage> webpages = facade.getWebPagesWithQueryId(id);
 		PrintWriter textPrinter = new PrintWriter("queries.txt", "UTF-8");
-		while(webpages.hasNext()) {
-			WebPage webpage = webpages.next();
-			if (facade.isValidated(webpage)) {
-				textPrinter.println(webpage.getUrl());
+		Iterator<QueryEntry> queries = facade.getQueries();
+		int i=0;
+		while(queries.hasNext() && i<5) {
+			QueryEntry query = queries.next();
+			String id =query.getId().toString();
+			textPrinter.println("---"+query.getQuery()+"---");
+			textPrinter.println();
+			Iterator<WebPage> webpages = facade.getWebPagesWithQueryId(id);
+			while(webpages.hasNext()) {
+				WebPage webpage = webpages.next();
+				if (facade.isValidated(webpage)) {
+					textPrinter.println(webpage.getUrl());
+					textPrinter.println();
+				}
 			}
+			textPrinter.println();textPrinter.println();textPrinter.println();textPrinter.println();
+			i++;
 		}
-		
+
 		textPrinter.close();
 	}
 }
