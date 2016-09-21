@@ -3,8 +3,9 @@ package other;
 import java.io.FileNotFoundException;
 import java.io.PrintWriter;
 import java.io.UnsupportedEncodingException;
-import java.util.List;
 import java.util.Iterator;
+
+import org.mongodb.morphia.query.MorphiaIterator;
 
 import database.MongoFacade;
 import model.QueryEntry;
@@ -12,6 +13,7 @@ import model.WebPage;
 
 public class Test {
 
+	@SuppressWarnings("rawtypes")
 	public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException {
 		MongoFacade facade = new MongoFacade("web_search_pages");
 		PrintWriter textPrinter = new PrintWriter("queries.txt", "UTF-8");
@@ -32,8 +34,10 @@ public class Test {
 			}
 			textPrinter.println();textPrinter.println();textPrinter.println();textPrinter.println();
 			i++;
+			((MorphiaIterator) webpages).close();
 		}
 
+		((MorphiaIterator) queries).close();
 		textPrinter.close();
 	}
 }
