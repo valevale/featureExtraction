@@ -20,22 +20,17 @@ public class Test {
 		//57506bbd3ceacf06c82e2acc gaia mariottini
 		//57506bbe3ceacf06c82e2af3 giacomo laporta
 		//57506c7a3ceacf06c82e54db luca parenti
-		String id ="5750678a3ceacf06c82caabf";
+		String id ="575068ee3ceacf06c82d6569";
 		textPrinter.println(id);
 		Iterator<WebPage> webpages = facade.getWebPagesWithQueryId(id);
-		WebPage webpage2 = webpages.next();
-		System.out.println(webpage2.getUrl());
 		while(webpages.hasNext()) {
 			WebPage webpage = webpages.next();
-			System.out.println(webpage.getUrl());
 			if (facade.isValidated(webpage)) {
 				textPrinter.println(webpage.getUrl());
 				textPrinter.println();
 			}
-			textPrinter.println();textPrinter.println();textPrinter.println();textPrinter.println();
-			((MorphiaIterator) webpages).close();
 		}
-		//((MorphiaIterator) webpages).close();
+		((MorphiaIterator) webpages).close();
 		textPrinter.close();
 	}
 }
