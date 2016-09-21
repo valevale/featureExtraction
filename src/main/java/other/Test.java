@@ -32,6 +32,7 @@ public class Test {
 			textPrinter.println();textPrinter.println();textPrinter.println();textPrinter.println();
 			((MorphiaIterator) webpages).close();
 		}
+		((MorphiaIterator) webpages).close();
 		textPrinter.close();
 	}
 }
