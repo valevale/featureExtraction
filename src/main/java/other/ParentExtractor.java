@@ -1,7 +1,9 @@
 package other;
 
 import java.io.PrintWriter;
+import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.List;
 
 import org.mongodb.morphia.query.MorphiaIterator;
 
@@ -16,6 +18,7 @@ public class ParentExtractor {
 	public static void main(String[] args) throws Exception {
 
 		PrintWriter textPrinter = new PrintWriter("parents.txt", "UTF-8");
+		List<String> exploredSources = new ArrayList<>();
 
 		Iterator<PageEntry> iterator = FACADE.pageEntryIterator();
 		try {
@@ -23,17 +26,21 @@ public class ParentExtractor {
 			while (iterator.hasNext() && i<N_LIMIT) {
 				PageEntry page = iterator.next();
 
-				System.out.println("getting entity " +(i+1));
+				if (!exploredSources.contains(page.getCrawlingId())) {
 
-				textPrinter.println("------------------------"+(i+1)+"------------------------");
-				String url = page.getPage().getUrl();
-				String id = page.getId().toString();
-				textPrinter.println(id);
-				textPrinter.println(url);
-				textPrinter.println("PARENT");
-				textPrinter.println(page.getSnapshot().getParentId()+" \n");
+					exploredSources.add(page.getCrawlingId());
+					System.out.println("getting entity " +(i+1));
 
-				i++;
+					textPrinter.println("------------------------"+(i+1)+"------------------------");
+					String url = page.getPage().getUrl();
+					String id = page.getId().toString();
+					textPrinter.println(id);
+					textPrinter.println(url);
+					textPrinter.println("PARENT");
+					textPrinter.println(page.getSnapshot().getParentId()+" \n");
+
+					i++;
+				}
 			}
 		} finally {
 			textPrinter.close();
