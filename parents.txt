@@ -5,296 +5,296 @@ PARENT
 http://cinema.ilsole24ore.com/film/don-camillo/1/ 
 
 ------------------------2------------------------
-575c401f3ceacfc09d002eb1
-http://cinema.ilsole24ore.com/biografia/clara-auteri-pepe/
+575c46e43ceacf712f009796
+http://iltaccodibacco.it/puglia/eventi/2016-10-01//
 PARENT
-http://cinema.ilsole24ore.com/film/don-camillo/1/ 
+http://iltaccodibacco.it/puglia/eventi/62660.html 
 
 ------------------------3------------------------
-575c40233ceacfc09d002f0e
-http://cinema.ilsole24ore.com/biografia/oreste-biancoli/
+575c48ed3ceacff7a900b188
+http://aziende.virgilio.it/avvocato/bari-ba/studio-legale-avv-lepore-domenica
 PARENT
-http://cinema.ilsole24ore.com/film/don-camillo/1/ 
+http://bari.virgilio.it/via/via+saverio+lioce 
 
 ------------------------4------------------------
-575c40243ceacfc09d002f2b
-http://cinema.ilsole24ore.com/biografia/mattia-cicinelli/
+575c4c383ceacf7d8e00ccee
+http://www.ilcalciomagazine.it/2016/06/06/shevchenko-problemi-del-milan-societa/
 PARENT
-http://cinema.ilsole24ore.com/film/family-game/full/ 
+http://www.ilcalciomagazine.it/2015/06/14/daniele-massaro-mihajlovic-ha-personalita-giusta-per-riportare-in-alto-il-milan/ 
 
 ------------------------5------------------------
-575c40283ceacf1d78002f76
-http://cinema.ilsole24ore.com/biografia/vera-talchi/
+575c4f603ceacfb9d300e282
+http://www.haisentito.it/articolo/noemi-letizia-silvio-berlusconi-non-e-il-mio-vero-papi/14997/
 PARENT
-http://cinema.ilsole24ore.com/film/don-camillo/1/ 
+http://www.haisentito.it/articolo/arcangelo-martino-presento-silvio-berlusconi-a-benedetto-letizia/15013/ 
 
 ------------------------6------------------------
-575c40293ceacfc09d002f7c
-http://cinema.ilsole24ore.com/biografia/marco-calvani/
+575c53723ceacf549b00fdc3
+http://www.edizionisanpaolo.it/autore/pierdomenico-baccalario.aspx
 PARENT
-http://cinema.ilsole24ore.com/film/family-game/full/ 
+http://www.edizionisanpaolo.it/autore/salmeri-giovanni.asp 
 
 ------------------------7------------------------
-575c402a3ceacf1d78002f92
-http://cinema.ilsole24ore.com/biografia/marco-tulli/
+575c57d13ceacf038801196a
+http://www.cityfan.com/asti/loc/dottor-sacco-botto-federico-e-medico-chirurgo
 PARENT
-http://cinema.ilsole24ore.com/film/don-camillo/1/ 
+http://www.cityfan.com/san-damiano-dasti-at/medici-generici 
 
 ------------------------8------------------------
-575c402a3ceacfc09d002f98
-http://cinema.ilsole24ore.com/biografia/louis-siciliano/
+575c5aff3ceacf7a4c012c1d
+http://www.syloslabini.info/online/fernando-vianello-il-manifesto/
 PARENT
-http://cinema.ilsole24ore.com/film/family-game/full/ 
+http://www.syloslabini.info/online/chi-siamo/manifesto-per-la-liberta-del-pensiero-economico/adesioni-al-manifesto/ 
 
 ------------------------9------------------------
-575c402b3ceacf1d78002fb6
-http://cinema.ilsole24ore.com/biografia/italo-clerici/
+575c5c7f3ceacf538b0135a7
+http://www.mondoreality.com/tag/mauro-marin/
 PARENT
-http://cinema.ilsole24ore.com/film/don-camillo/1/ 
+http://www.mondoreality.com/i-personaggi-piu-ricercati-del-2010-mauro-marin-secondo-marco-menogni-quarto-alessandra-amoroso-settima/ 
 
 ------------------------10------------------------
-575c402d3ceacf1d78002fd3
-http://cinema.ilsole24ore.com/biografia/alessandro-cicognini/
+575c5cb33ceacf39e601370c
+http://www.wittytv.it/amici/vorrei-ma-non-posto-fedez-j-ax-semifinale-18-maggio/
 PARENT
-http://cinema.ilsole24ore.com/film/don-camillo/1/ 
+http://www.wittytv.it/amici/me-minus-you-alessandra-amoroso-e-stash-18-aprile/530597/ 
 
 ------------------------11------------------------
-575c40313ceacf1d7800301a
-http://cinema.ilsole24ore.com/biografia/eros-pagni/
+575c5cb93ceacff54201373a
+http://www.neveitalia.it/sport/scialpino/coppaeuropa/news/vittoria-per-due-nella-discesa-femminile-di-coppa-europa-di-saalbach-hinterglemm
 PARENT
-http://cinema.ilsole24ore.com/film/family-game/full/ 
+http://www.neveitalia.it/sport/scialpino/femminile/news/clamoroso-mauro-pini-nuovo-allenatore-di-tina-maze 
 
 ------------------------12------------------------
-575c40373ceacf1d78003086
-http://cinema.ilsole24ore.com/biografia/chiara-stampacchia/
+575c5d4e3ceacf402b013b43
+https://www.tracktvlinks.com/actors/Angelo_Amoroso_D'Aragona
 PARENT
-http://cinema.ilsole24ore.com/film/family-game/full/ 
+https://www.tracktvlinks.com/watch-io-e-la-mia-sedia-2011 
 
 ------------------------13------------------------
-575c40393ceacf1d780030b9
-http://cinema.ilsole24ore.com/biografia/laura-artini/
+575c60b53ceacfc2d20152e3
+http://www.calcioweb.eu/author/consuelo-motta/
 PARENT
-http://cinema.ilsole24ore.com/film/family-game/full/ 
+http://www.calcioweb.eu/2016/01/atalanta-stendardo-cerca-casa-su-di-lui-due-squadre-di-serie-a/293726/ 
 
 ------------------------14------------------------
-575c403c3ceacfc09d0030f4
-http://cinema.ilsole24ore.com/biografia/fernando-rey/
+575c61253ceacfdde001559c
+http://www.gossipetv.com/alessandro-del-piero-diventa-attore-in-australia-113574
 PARENT
-http://cinema.ilsole24ore.com/film/cadaveri-eccellenti/ 
+http://www.gossipetv.com/alessandro-del-piero-preoccupa-sonia-un-video-racconta-la-sua-bravata-91547 
 
 ------------------------15------------------------
-575c40403ceacfc09d003134
-http://cinema.ilsole24ore.com/biografia/maria-carta/
+575c6ac73ceacf024c019963
+http://www.filmtv.it/film/69540/latin-lover/
 PARENT
-http://cinema.ilsole24ore.com/film/cadaveri-eccellenti/ 
+http://www.filmtv.it/persona/3621/angela-finocchiaro/ 
 
 ------------------------16------------------------
-575c40413ceacf13d800313f
-http://cinema.ilsole24ore.com/biografia/sylvie/
+575c6c533ceacf133e01a378
+http://www.internazionale.it/tag/autori/annamaria-testa
 PARENT
-http://cinema.ilsole24ore.com/film/don-camillo/1/ 
+http://dizionario.internazionale.it/parola/aria-temperata 
 
 ------------------------17------------------------
-575c40423ceacf3bea003155
-http://cinema.ilsole24ore.com/biografia/leda-gloria/
+575c6df73ceacfe68c01ad6e
+http://www.melty.it/temptation-island-fabio-ferrara-avvistato-in-spiaggia-con-una-tentatrice-ludovica-valli-gia-furiosa-foto-a201915.html
 PARENT
-http://cinema.ilsole24ore.com/film/don-camillo/1/ 
+http://www.melty.it/caduta-libera-filippo-timi-whitney-houston-real-time-e-cielo-tv-pills-32-a191536.html 
 
 ------------------------18------------------------
-575c40443ceacfc09d003175
-http://cinema.ilsole24ore.com/biografia/accursio-di-leo/
+575c715b3ceacfd78201c138
+http://www.h2biz.eu/
 PARENT
-http://cinema.ilsole24ore.com/film/cadaveri-eccellenti/ 
+http://www.h2biz.eu/professionisti/Francesco-Arcieri/ 
 
 ------------------------19------------------------
-575c40453ceacf13d800318f
-http://cinema.ilsole24ore.com/biografia/mario-siletti/
+575c798d3ceacffb5c01f68a
+http://tv.fanpage.it/ad-amore-criminale-il-caso-di-angelo-niemen-ucciso-dall-amante-della-moglie/
 PARENT
-http://cinema.ilsole24ore.com/film/don-camillo/1/ 
+http://tv.fanpage.it/amore-criminale-la-storia-di-mariella-anastasi-uccisa-a-picconate-dal-marito/ 
 
 ------------------------20------------------------
-575c40453ceacf3bea00318e
-http://cinema.ilsole24ore.com/biografia/gualtiero-tumiati/
+575c7f563ceacf4ff6021b57
+http://www.nonmidire.it/s/emma-marrone/
 PARENT
-http://cinema.ilsole24ore.com/film/don-camillo/1/ 
+http://www.nonmidire.it/articolo/paolo-limiti-a-emma-marrone-e-alessandra-amoroso-cambiate-repertorio/26307/2/ 
 
 ------------------------21------------------------
-575c40453ceacfc09d003186
-http://cinema.ilsole24ore.com/biografia/lino-jannuzzi/
+575c7f5a3ceacfbb38021b6e
+http://film.virgilio.it/artist/534443/nino-manfredi.html
 PARENT
-http://cinema.ilsole24ore.com/film/cadaveri-eccellenti/ 
+http://film.virgilio.it/film/60475/linda-e-il-brigadiere-2.html 
 
 ------------------------22------------------------
-575c40483ceacf13d80031c9
-http://cinema.ilsole24ore.com/biografia/peppino-de-martino/
+575c82273ceacf8999022e71
+http://www.comunicazioneitaliana.it/component/jumi/utente-dettagli?option=com_jumi&uid=118264
 PARENT
-http://cinema.ilsole24ore.com/film/don-camillo/1/ 
+http://www.comunicazioneitaliana.it/home/partecipanti?Itemid=177&start=2000 
 
 ------------------------23------------------------
-575c40483ceacf3bea0031c8
-http://cinema.ilsole24ore.com/biografia/saro-urzi/
+575c84333ceacfb595023b13
+http://www.europaquotidiano.it/author/matteo-tacconi/
 PARENT
-http://cinema.ilsole24ore.com/film/don-camillo/1/ 
+http://www.europaquotidiano.it/author/antonio-spadaro/ 
 
 ------------------------24------------------------
-575c40493ceacfc09d0031d3
-http://cinema.ilsole24ore.com/biografia/mario-schifano/
+575c86003ceacfc4d2024617
+http://realityshow.blogosfere.it/post/350621/lisola-dei-famosi-9-den-harrow-scheda-e-foto
 PARENT
-http://cinema.ilsole24ore.com/film/cadaveri-eccellenti/ 
+http://realityshow.blogosfere.it/tag/Carlo-Capponi 
 
 ------------------------25------------------------
-575c404b3ceacf13d80031f9
-http://cinema.ilsole24ore.com/biografia/virgilio-marchi/
+575c89813ceacf3daf025b73
+http://www.funweek.it/tv/il-labirinto-carmelo-abbate-rete-4-rivedere-puntata.php
 PARENT
-http://cinema.ilsole24ore.com/film/don-camillo/1/ 
+http://www.funweek.it/tv/vittorio-sgarbi-maurizio-costanzo-show-con-figlio.php 
 
 ------------------------26------------------------
-575c404b3ceacfc09d003206
-http://cinema.ilsole24ore.com/biografia/romolo-epifania/
+575c8b623ceacfe52d026714
+http://turistipercaso.it/u/cinzia-diana/
 PARENT
-http://cinema.ilsole24ore.com/film/io-e-la-mia-sedia/ 
+http://turistipercaso.it/forum/t/65443/mikonos-si-o-mikonos-no.html?page=46 
 
 ------------------------27------------------------
-575c404c3ceacf13d800320e
-http://cinema.ilsole24ore.com/biografia/emanuela-sparta/
+575c91223ceacfaa62028965
+http://www.oggettivolanti.it/testo+il+mio+angelo+fiordaliso/
 PARENT
-http://cinema.ilsole24ore.com/film/family-game/full/ 
+http://www.oggettivolanti.it/testo+angeli+paolo+meneguzzi/ 
 
 ------------------------28------------------------
-575c404c3ceacf1d78003216
-http://cinema.ilsole24ore.com/biografia/renato-salvatori/
+575c95ed3ceacfa22c02a546
+https://www.sanpaolostore.it/beata-te-che-hai-creduto-carlo-carretto-9788821592447.aspx
 PARENT
-http://cinema.ilsole24ore.com/film/cadaveri-eccellenti/ 
+https://www.sanpaolostore.it/approfondimento/santissima-annunziata.aspx 
 
 ------------------------29------------------------
-575c404d3ceacf3bea003223
-http://cinema.ilsole24ore.com/biografia/stefano-dionisi/
+575ca7cb3ceacfbcf5030b9b
+http://www.premioceleste.it/alfonso.camplone
 PARENT
-http://cinema.ilsole24ore.com/film/family-game/full/ 
+http://www.premioceleste.it/opera/ido:10889/ 
 
 ------------------------30------------------------
-575c404e3ceacf1d78003249
-http://cinema.ilsole24ore.com/biografia/silverio-blasi/
+575ca82a3ceacfc32b030d78
+http://www.justdog.it/poi/238205/parafarmacia-santa-caterina-dottoressa-michela-cini.aspx
 PARENT
-http://cinema.ilsole24ore.com/film/cadaveri-eccellenti/ 
+http://www.justdog.it/poi/139587/farmacia-s-raffaele-di-lido-montemaggi-s-n-c.aspx 
 
 ------------------------31------------------------
-575c404f3ceacf0dce003267
-http://cinema.ilsole24ore.com/biografia/luciano-manara/
+575cbc803ceacf9038037af2
+http://www.gossipblog.it/post/482031/valeria-marini-ecco-sexysar-la-mia-gattina-che-parla-tramite-facebook-e-twitter
 PARENT
-http://cinema.ilsole24ore.com/film/don-camillo/1/ 
+http://www.gossipblog.it/categoria/valeria-marini 
 
 ------------------------32------------------------
-575c40503ceacf13d8003275
-http://cinema.ilsole24ore.com/biografia/veronica-gentile/
+575ccc8f3ceacf05b903cac0
+http://www.lexpoint.it/TabID/62/ID/103220/default.aspx
 PARENT
-http://cinema.ilsole24ore.com/film/family-game/full/ 
+http://www.lexpoint.it/default.aspx?tabid=128&foro=COSENZA&page=8 
 
 ------------------------33------------------------
-575c40503ceacf3bea00326c
-http://cinema.ilsole24ore.com/biografia/gianluca-fogacci/
+575ccced3ceacf2c1803cc73
+http://www.cinemaitaliano.info/pers/006226/fabio-ferrari.html
 PARENT
-http://cinema.ilsole24ore.com/film/family-game/full/ 
+http://www.cinemaitaliano.info/unragazzodoro 
 
 ------------------------34------------------------
-575c40513ceacf1d78003297
-http://cinema.ilsole24ore.com/biografia/renato-turi/
+575cd3043ceacf67ae03e888
+http://tv.fanpage.it/ilenia-lazzarin-riabbraccia-marina-giulia-cavalli-l-amore-di-madre-va-oltre-la-vita/
 PARENT
-http://cinema.ilsole24ore.com/film/cadaveri-eccellenti/ 
+http://gossip.fanpage.it/giulio-andreotti-e-livia-danese-un-amore-rimasto-in-disparte/ 
 
 ------------------------35------------------------
-575c40523ceacf3bea0032a3
-http://cinema.ilsole24ore.com/biografia/alfredo-arciero/
+575cd7fa3ceacf0a570400b1
+http://archivio.panorama.it/archivio/blog/culturaesocieta/2007/08/24/michael-connelly
 PARENT
-http://cinema.ilsole24ore.com/film/family-game/full/ 
+http://archivio.panorama.it/societa/Stefano-Bartezzaghi 
 
 ------------------------36------------------------
-575c40533ceacf13d80032be
-http://cinema.ilsole24ore.com/biografia/andrea-baracca/
+575cf02a3ceacfdca0047cb1
+http://www.nanopress.it/spettacoli/foto/francesco-scianna-attore-italiano_7261_2.html
 PARENT
-http://cinema.ilsole24ore.com/film/family-game/full/ 
+http://www.nanopress.it/spettacoli/foto/francesco-scianna-attore-italiano_7261.html 
 
 ------------------------37------------------------
-575c40543ceacf0dce0032c9
-http://cinema.ilsole24ore.com/biografia/carlo-duse/
+575cf1213ceacf7983048198
+http://ultima-ora.zazoom.it/notizia/1326557/antonio-jorio-si-sposa-con-annamaria-pancallo-il-9-dicembre
 PARENT
-http://cinema.ilsole24ore.com/film/don-camillo/1/ 
+http://ultima-ora.zazoom.it/notizia/1326901/antonio-jorio-e-annamaria-pancallo-si-sposano-il-matrimonio-annunciato-da-maria-de-filippi 
 
 ------------------------38------------------------
-575c40543ceacf1d780032c8
-http://cinema.ilsole24ore.com/biografia/piero-piccioni/
+575cf2943ceacf44800489dd
+http://jmania.it/viareggio-cup-juventus-juve-stabia-0-1-i-bianconeri-di-baroni-eliminati-clamorosamente/
 PARENT
-http://cinema.ilsole24ore.com/film/cadaveri-eccellenti/ 
+http://jmania.it/tag/marco-baroni/ 
 
 ------------------------39------------------------
-575c40543ceacf3bea0032cf
-http://cinema.ilsole24ore.com/biografia/marco-geracitano/
+575cf53b3ceacf2c730498b1
+http://www.rtl.it/palinsesto/speaker/34/Angelo_Di_Benedetto/
 PARENT
-http://cinema.ilsole24ore.com/film/family-game/full/ 
+http://www.rtl.it/giochi/260/Gianna-Nannini-Hitstory-Tour-2016/ 
 
 ------------------------40------------------------
-575c405a3ceacf0dce003339
-http://cinema.ilsole24ore.com/biografia/rene-barjavel/
+575d02e43ceacf9bee04de00
+http://www.instantpeoplefinder.com/purchase.html?qf=Mauro&qn=Amoroso&qmi=J&qs=NY&qc=Port+Jefferson+Station&adword=IPF.BC&ReportType=8
 PARENT
-http://cinema.ilsole24ore.com/film/don-camillo/1/ 
+http://www.instantpeoplefinder.com/people-find/mauro-j-amoroso 
 
 ------------------------41------------------------
-575c405a3ceacf1d78003338
-http://cinema.ilsole24ore.com/biografia/enzo-del-re/
+575d167b3ceacf5669053ef6
+http://www.iltempo.it/cronache/2012/03/08/militari-imputati-e-italiani-ecco-perche-rischiano-1.29194
 PARENT
-http://cinema.ilsole24ore.com/film/io-e-la-mia-sedia/ 
+http://www.iltempo.it/correlati-per-categorie/Tag/salvatore 
 
 ------------------------42------------------------
-575c405d3ceacf1d7800335e
-http://cinema.ilsole24ore.com/biografia/antonio-infantino/
+575d3dc53ceacf162005d75a
+http://www.today.it/gossip/karina-cascella-luca-marin-insieme-instagram.html
 PARENT
-http://cinema.ilsole24ore.com/film/io-e-la-mia-sedia/ 
+http://www.today.it/gossip/karina-cascella-cena-con-irene-fidanzata-angelucci-foto.html 
 
 ------------------------43------------------------
-575c405d3ceacf41d6003371
-http://cinema.ilsole24ore.com/biografia/fernandel/
+575d637d3ceacf106d065399
+http://gossip.pourfemme.it/articolo/i-gemelli-sconosciuti-delle-star-foto/30575/
 PARENT
-http://cinema.ilsole24ore.com/film/don-camillo/1/ 
+http://gossip.pourfemme.it/articolo/uomini-e-donne-tina-cipollari-e-chicco-nalli-in-crisi-arriva-la-smentita-foto/22395/ 
 
 ------------------------44------------------------
-575c405f3ceacf0dce00338a
-http://cinema.ilsole24ore.com/biografia/sandra-ceccarelli/
+575d73c33ceacf38360684dc
+http://web.legabasket.it/player/ZAN-MAR/zanatta_marino
 PARENT
-http://cinema.ilsole24ore.com/film/family-game/full/ 
+http://web.legabasket.it/team/109/ 
 
 ------------------------45------------------------
-575c40603ceacf1d7800339c
-http://cinema.ilsole24ore.com/biografia/domenico-de-orsi/
+575d78a93ceacf2fab069385
+http://www.indirizzo-cap.it/delete.php?delete_id=3019063
 PARENT
-http://cinema.ilsole24ore.com/film/io-e-la-mia-sedia/ 
+http://www.indirizzo-cap.it/formello/00060/via-magliano/71/ 
 
 ------------------------46------------------------
-575c40603ceacf41d60033aa
-http://cinema.ilsole24ore.com/biografia/gino-cervi/
+575d83893ceacfada606b3a6
+http://invidia.pianetadonna.it/foto_gallery/vip/foto-vip-cortinametraggio-2015/enrico-ianniello.html
 PARENT
-http://cinema.ilsole24ore.com/film/don-camillo/1/ 
+http://invidia.pianetadonna.it/foto_gallery/vip/foto-vip-cortinametraggio-2015/ 
 
 ------------------------47------------------------
-575c40623ceacf0dce0033c8
-http://cinema.ilsole24ore.com/biografia/elena-bouryka/
+575d964c3ceacfc43506da87
+http://www.viveregenova.comune.genova.it/content/un-tango-violetta-il-nuovo-progetto-danza-del-carlo-felice
 PARENT
-http://cinema.ilsole24ore.com/film/family-game/full/ 
+http://www.viveregenova.comune.genova.it/content/al-carlo-felice-maria-grazia-amoruso-e-le-sonoritagrave-di-giorgio-questa 
 
 ------------------------48------------------------
-575c40623ceacf41d60033d3
-http://cinema.ilsole24ore.com/biografia/manuel-gary/
+575da7123ceacfa86706ffbb
+http://www.dentisti-italia.it/dentista-abruzzo/dentista-laquila/1641_vincenzo-l-mancini.html
 PARENT
-http://cinema.ilsole24ore.com/film/don-camillo/1/ 
+http://www.dentisti-italia.it/dentista_domande/parodontologia/4915_mobilita-dente.html 
 
 ------------------------49------------------------
-575c40633ceacf3bea0033df
-http://cinema.ilsole24ore.com/biografia/paolo-bonacelli/
+575dc2713ceacf7de9073629
+https://unich-it.academia.edu/SimoneDAlessandro
 PARENT
-http://cinema.ilsole24ore.com/film/cadaveri-eccellenti/ 
+http://independent.academia.edu/SimoneDalessandro 
 
 ------------------------50------------------------
-575c40643ceacf41d60033ec
-http://cinema.ilsole24ore.com/biografia/dina-romano/
+575dc3113ceacf3640073759
+http://www.blogtivvu.com/2016/06/07/pomeriggio-5-barbara-durso-ricorda-gianluca-buonanno-morto-in-un-incidente-stradale-il-video/
 PARENT
-http://cinema.ilsole24ore.com/film/don-camillo/1/ 
+http://www.blogtivvu.com/2014/08/03/alessandra-amoroso-a-sanremo-2015di-carlo-conti-ecco-perche/ 
 
