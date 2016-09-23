@@ -16,6 +16,8 @@ public class PageEntry {
     private String crawling_id;
     @Embedded
     private Page page;
+    @Embedded
+    private Snapshot snapshot;
     
     public PageEntry() {
     }
@@ -40,6 +42,13 @@ public class PageEntry {
         this.page = page;
     }
     
+    public Snapshot getSnapshot() {
+        return snapshot;
+    }
+
+    public void setPage(final Snapshot snapshot) {
+        this.snapshot = snapshot;
+    }
 //    public String toPrettyString() {
 //    	String pretty ="";
 //    	pretty += "url: " + this.url + "\n";

@@ -46,7 +46,7 @@ public class EntityExtractor {
 		try {
 			int i=0;
 			String html;
-			while (iterator.hasNext() && i<=N_LIMIT) {
+			while (iterator.hasNext() && i<N_LIMIT) {
 				PageEntry page = iterator.next();
 				html = page.getPage().getBody();
 				System.out.println("getting entity " +(i+1));

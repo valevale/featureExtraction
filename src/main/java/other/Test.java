@@ -20,7 +20,7 @@ public class Test {
 		//57506bbd3ceacf06c82e2acc gaia mariottini
 		//57506bbe3ceacf06c82e2af3 giacomo laporta
 		//57506c7a3ceacf06c82e54db luca parenti
-		String id ="57506bbd3ceacf06c82e2acc";
+		String id ="57506c7a3ceacf06c82e54db";
 		textPrinter.println(id);
 		Iterator<WebPage> webpages = facade.getWebPagesWithQueryId(id);
 		while(webpages.hasNext()) {
