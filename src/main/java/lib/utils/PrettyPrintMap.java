@@ -6,16 +6,22 @@ import java.util.List;
 import java.util.Map;
 import java.util.Map.Entry;
 
+import scala.Tuple2;
+
 public class PrettyPrintMap<K, V> {
-    private Map<String, List<String>> map;
+    private Map<String, List<String>> mapList;
 
     public PrettyPrintMap(HashMap<String, List<String>> entities) {
-        this.map = entities;
+        this.mapList = entities;
     }
 
-    public String toString() {
+    
+
+
+
+	public String toString() {
         StringBuilder sb = new StringBuilder();
-        Iterator<Entry<String, List<String>>> iter = map.entrySet().iterator();
+        Iterator<Entry<String, List<String>>> iter = mapList.entrySet().iterator();
         while (iter.hasNext()) {
             Entry<String, List<String>> entry = iter.next();
             sb.append(entry.getKey());

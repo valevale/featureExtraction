@@ -118,7 +118,6 @@ public class CleanHTMLTree {
 
         if (node instanceof TextNode)
             ((TextNode) node).text("");
-
     }
 
 

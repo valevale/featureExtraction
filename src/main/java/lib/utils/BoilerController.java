@@ -55,7 +55,7 @@ public class BoilerController {
 			((MorphiaIterator) iterator).close();
 		}
 
-		//TODO refactoring del codice: parametrizza questi make e get, non è difficile
+		
 		//		HashSet<BlacklistElement> blacklistedTxt = getBlackListTxt(pageToClean);
 		//		HashSet<BlacklistElement> blacklistedImg = getBlackListImg(pageToClean);
 		HashSet<BlacklistElement> blacklistedTxt = makeBlackList(pageToClean, "txt");
