@@ -36,6 +36,7 @@ public class Test {
 				}
 			}
 			((MorphiaIterator) webpages).close();
+			i++;
 		}
 		((MorphiaIterator) queries).close();
 		textPrinter.close();
