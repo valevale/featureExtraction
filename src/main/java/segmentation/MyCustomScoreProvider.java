@@ -80,7 +80,7 @@ public class MyCustomScoreProvider extends CustomScoreProvider{
 		//		System.out.println( "V1_norm: " + v1.getNorm() + ", V2_norm: " + v2.getNorm() );
 		float normalization = (float) (v1.getNorm() * v2.getNorm());
 		//		System.out.println( "Norm: " + normalization);
-		System.out.println("COS SIM: "+ (dotProduct / normalization));
+//		System.out.println("COS SIM: "+ (dotProduct / normalization));
 		return (float) (dotProduct / normalization);
 
 	}

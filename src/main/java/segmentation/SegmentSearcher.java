@@ -47,28 +47,33 @@ public class SegmentSearcher {
 	public TopDocs search(Segment searchSegment) 
 			throws IOException, ParseException{
 		String searchQuery = NodeUtils.getNodesContent(searchSegment.getNodes());
-		
-		System.out.println("Searching "+ searchQuery);
-		
-		query = queryParser.parse(QueryParser.escape(searchQuery));
-		
+
+		//		System.out.println("Searching "+ searchQuery);
+		try {
+			query = queryParser.parse(QueryParser.escape(searchQuery));
+		}
+		catch (Exception e) {
+			searchQuery = searchQuery.substring(0,1000);
+			query = queryParser.parse(QueryParser.escape(searchQuery));
+		}
+
 		//Viene utilizzata una query costumizzata per permettere
 		//la ricerca basata sulla metrica della coseno similarità
 		CustomScoreQuery customQuery = new MyCustomScoreQuery(query);
 		TopDocs topDocs = indexSearcher.search(customQuery, 10);
 
-//		TopDocs topDocs = indexSearcher.search(query, 10);
-//		System.out.println(searchQuery);
+		//		TopDocs topDocs = indexSearcher.search(query, 10);
+		//		System.out.println(searchQuery);
 		//		for (int i = 0; i < topDocs.totalHits; i++) {
-//		for(ScoreDoc scoreDoc : topDocs.scoreDocs) {
-////			ScoreDoc match = scoreDoc;
-////			Explanation explanation = indexSearcher.explain(query, match.doc);   
-////			System.out.println("----------");
-////			System.out.println(indexSearcher.doc(scoreDoc.doc).get("segmentContent"));
-////			System.out.println(explanation.toString());
-//		}
-//		System.out.println("________");
-		
+		//		for(ScoreDoc scoreDoc : topDocs.scoreDocs) {
+		////			ScoreDoc match = scoreDoc;
+		////			Explanation explanation = indexSearcher.explain(query, match.doc);   
+		////			System.out.println("----------");
+		////			System.out.println(indexSearcher.doc(scoreDoc.doc).get("segmentContent"));
+		////			System.out.println(explanation.toString());
+		//		}
+		//		System.out.println("________");
+
 		return topDocs;
 	}
 

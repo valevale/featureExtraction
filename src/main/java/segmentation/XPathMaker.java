@@ -10,7 +10,7 @@ import java.util.Set;
 import java.util.regex.Pattern;
 
 import org.apache.commons.io.IOUtils;
-import org.jdom2.input.DOMBuilder;
+//import org.jdom2.input.DOMBuilder;
 import org.jsoup.Jsoup;
 import org.jsoup.helper.W3CDom;
 import org.jsoup.nodes.Document;
@@ -22,8 +22,8 @@ import org.xml.sax.SAXException;
 import lib.utils.DBuilder;
 import model.Segment;
 
-import javax.xml.parsers.DocumentBuilder;
-import javax.xml.parsers.DocumentBuilderFactory;
+//import javax.xml.parsers.DocumentBuilder;
+//import javax.xml.parsers.DocumentBuilderFactory;
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.transform.TransformerException;
 import javax.xml.xpath.*;
@@ -188,9 +188,9 @@ public class XPathMaker {
 		NodeList nl = null;
 		
 		try {
-//			org.w3c.dom.Document w3doc = new W3CDom().fromJsoup(document);
+			org.w3c.dom.Document w3doc = new W3CDom().fromJsoup(document);
 
-			org.w3c.dom.Document w3doc = DBuilder.jsoup2DOM(document);
+//			org.w3c.dom.Document w3doc = DBuilder.jsoup2DOM(document);
 			nl = (NodeList) expr.evaluate(w3doc, XPathConstants.NODESET);
 		}
 		catch (Exception e) {
@@ -226,7 +226,7 @@ public class XPathMaker {
 				e.printStackTrace();
 			}
 
-			colorNodeList(nl, domDocument);
+			colorNodeList(nl, domDocument, path);
 		});
 
 		return domDocument;
@@ -277,10 +277,11 @@ public class XPathMaker {
 		return domDoc;
 	}
 
-	public static void colorNodeList(NodeList nl, org.w3c.dom.Document domDocument) {
+	public static void colorNodeList(NodeList nl, org.w3c.dom.Document domDocument, String path) {
 		for (int i = 0; i < nl.getLength(); i++) {
 			Element e = (Element) nl.item(i);
-			e.setAttribute("style", "border:5px solid yellow");
+			e.setAttribute("style", "border:5px solid red");
+			e.setAttribute("path", path);
 		}
 	}
 	

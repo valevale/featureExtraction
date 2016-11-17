@@ -39,6 +39,10 @@ public class MongoFacade {
 		return getDatastore().createQuery(PageEntry.class).iterator();
 	}
 	
+	public Iterator<QueryEntry> queryEntryIterator() {
+		return getDatastore().createQuery(QueryEntry.class).iterator();
+	}
+	
 	
 	/* iteratore per la collezione pages con un certo crawling_id */
 	public Iterator<PageEntry> pageEntryIterator(String crawling_id) {

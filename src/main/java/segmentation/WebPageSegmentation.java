@@ -20,7 +20,7 @@ import scala.Tuple2;
 
 public class WebPageSegmentation {
 
-	final static double parameter = 3;
+	final static double parameter = -1;
 
 	public static List<Node> segment(Document doc) throws FileNotFoundException, IOException, ParserConfigurationException, SAXException, TransformerException {
 
