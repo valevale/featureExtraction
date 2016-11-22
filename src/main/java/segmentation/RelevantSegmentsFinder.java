@@ -72,6 +72,7 @@ public class RelevantSegmentsFinder {
 			//passo 1: prendere la pagina da segmentare
 			String html_firstPage = IOUtils.toString(new FileReader(d1));
 			String cleanedHTML_firstPage = Jsoup.clean(html_firstPage, Whitelist.relaxed());
+			
 			Document doc_firstPage = Jsoup.parse(cleanedHTML_firstPage);
 
 			System.out.println("Estrazione degli xpath dei segmenti del primo documento");

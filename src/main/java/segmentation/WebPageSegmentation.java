@@ -20,7 +20,8 @@ import scala.Tuple2;
 
 public class WebPageSegmentation {
 
-	final static double parameter = -1;
+	final static double parameterTextFusion = -1;
+	final static double parameterTreeFusion = 2;
 
 	public static List<Node> segment(Document doc) throws FileNotFoundException, IOException, ParserConfigurationException, SAXException, TransformerException {
 
@@ -94,7 +95,6 @@ public class WebPageSegmentation {
 
 					Tuple2<Node,Integer> ancestor = findLowestCommonAncestor(ancestorTemp,blockNodeNext);
 
-
 					Tuple2<Node,Integer> highest;
 
 					if (blockNodePrev._2() > blockNode._2()) highest = blockNodePrev;
@@ -105,7 +105,7 @@ public class WebPageSegmentation {
 					//					System.out.println("HIGHEST" + ((highest.toString().length() < 200) ? highest : highest.toString().substring(0, 200))+", "+highest._2());
 					//					System.out.println("ANCESTOR" + ((ancestor.toString().length() < 200) ? ancestor : ancestor.toString().substring(0, 200))+", "+ancestor._2());
 
-					if (highest._2() - ancestor._2() <= 2) {
+					if (highest._2() - ancestor._2() <= parameterTreeFusion) {
 
 						//						System.out.println("POSSO FONDERLI");
 
@@ -132,7 +132,7 @@ public class WebPageSegmentation {
 					int delta = Math.abs(calculateDensity(blockLinesPrev) - calculateDensity(blockLines));
 
 					//fusione standard
-					if (delta < parameter) {
+					if (delta < parameterTextFusion) {
 
 						//						System.out.println("SONO ENTRATO NELLO STANDARD");
 
@@ -147,7 +147,7 @@ public class WebPageSegmentation {
 						//						System.out.println("HIGHEST" + ((highest.toString().length() < 200) ? highest : highest.toString().substring(0, 200))+", "+highest._2());
 						//						System.out.println("ANCESTOR" + ((ancestor.toString().length() < 200) ? ancestor : ancestor.toString().substring(0, 200))+", "+ancestor._2());
 
-						if (highest._2() - ancestor._2() <= 2) {
+						if (highest._2() - ancestor._2() <= parameterTreeFusion) {
 
 							//							System.out.println("POSSO FONDERLI");
 
@@ -198,19 +198,21 @@ public class WebPageSegmentation {
 				//				printlist(list);
 				//				System.out.println(xPath);
 				//				System.out.println();
-//				textPrinter.println(i);
-//				textPrinter.println(node);
-//				textPrinter.println("_________________");
-
-				segments.add(node._1());
+				//				textPrinter.println(i);
+				//				textPrinter.println(node);
+				//				textPrinter.println("_________________");
+				//TODO aggiunta questa condizione per impedire che ci sia body
+				if (!node._1().parent().nodeName().equals("body")) {
+					segments.add(node._1());
+				}
 			}
 		}
-		
-		
-//		
-//		textPrinter.println(doc);
-//
-//		textPrinter.close();
+
+
+		//		
+		//		textPrinter.println(doc);
+		//
+		//		textPrinter.close();
 
 		return segments;
 	}
@@ -236,10 +238,10 @@ public class WebPageSegmentation {
 	}
 
 	//piccola funzione di supporto per il calcolo del valore assoluto 
-	public static int calculateDifference(int a, int b) {
-		if (a-b > 0) return a-b;
-		else return b-a;
-	}
+	//	public static int calculateDifference(int a, int b) {
+	//		if (a-b > 0) return a-b;
+	//		else return b-a;
+	//	}
 
 	//TODO magari migliorare con stemming, o le parole divise in due...
 	public static int calculateTokens(String text) {
@@ -336,31 +338,31 @@ public class WebPageSegmentation {
 		}
 	}
 
-//	/*prende i segmenti, per ognuno dei quali è associata una lista di nodi, e assegna un
-//	 * colore, modificando lo style */
-//	public static void color(List<Node> segments) throws ParserConfigurationException, SAXException, IOException, TransformerException {
-//		segments.forEach(seg -> {
-//			if (seg.nodeName().equals("#text"))
-//				seg = seg.parent();
-//			seg.attr("style", "border:5px solid red");
-////			seg.attr("border-color", "red");
-//		});
-//		//		W3CDom w3cHelper = new W3CDom();
-//		//		org.w3c.dom.Document w3cDoc = w3cHelper.fromJsoup(doc);
-//		//		
-//		//		segments.forEach(segment -> {
-//		//			NodeList nl = segment.getNodes();
-//		//			for(int i=0; i<nl.getLength();i++) {
-//		//				Element e = (Element) nl.item(i);
-//		//				e.setAttribute("border-color", "red");
-//		//			}
-//		//		});
-//		//		style="border:5px solid black"
-//		//		TransformerFactory transformerFactory = TransformerFactory.newInstance();
-//		//		Transformer transformer = transformerFactory.newTransformer();
-//		//		DOMSource source = new DOMSource(w3cDoc);
-//		//		StreamResult result = new StreamResult(new File("risultato.html"));
-//		//		transformer.transform(source, result);
-//	}
+	//	/*prende i segmenti, per ognuno dei quali è associata una lista di nodi, e assegna un
+	//	 * colore, modificando lo style */
+	//	public static void color(List<Node> segments) throws ParserConfigurationException, SAXException, IOException, TransformerException {
+	//		segments.forEach(seg -> {
+	//			if (seg.nodeName().equals("#text"))
+	//				seg = seg.parent();
+	//			seg.attr("style", "border:5px solid red");
+	////			seg.attr("border-color", "red");
+	//		});
+	//		//		W3CDom w3cHelper = new W3CDom();
+	//		//		org.w3c.dom.Document w3cDoc = w3cHelper.fromJsoup(doc);
+	//		//		
+	//		//		segments.forEach(segment -> {
+	//		//			NodeList nl = segment.getNodes();
+	//		//			for(int i=0; i<nl.getLength();i++) {
+	//		//				Element e = (Element) nl.item(i);
+	//		//				e.setAttribute("border-color", "red");
+	//		//			}
+	//		//		});
+	//		//		style="border:5px solid black"
+	//		//		TransformerFactory transformerFactory = TransformerFactory.newInstance();
+	//		//		Transformer transformer = transformerFactory.newTransformer();
+	//		//		DOMSource source = new DOMSource(w3cDoc);
+	//		//		StreamResult result = new StreamResult(new File("risultato.html"));
+	//		//		transformer.transform(source, result);
+	//	}
 
 }

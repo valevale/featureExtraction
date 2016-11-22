@@ -191,11 +191,15 @@ public class MatchingTester {
 
 		printer.close();
 
-		PrintWriter csvPrinter = new PrintWriter(new FileWriter(new File("testResult.csv"), true));
-		csvPrinter.println(new DecimalFormat("#.#").format(threshold)+ " " +precisionMatchings
-				+ " " +recallMatchings+" " +avgPrecisions+" "+avgRecalls+" "+d1+" "+d2);
+		PrintWriter csvPrinter = new PrintWriter(new FileWriter(new File(Configuration.getOutput()), true));
+		csvPrinter.println(new DecimalFormat("#.#").format(threshold).replace(",", ".") +
+				", " +precisionMatchings+ ", " +recallMatchings+", " +avgPrecisions+", "+avgRecalls+", "+d1+", "+d2+
+				", "+(d1.substring(69, d1.length()-5)+d2.substring(d2.length()-6, d2.length()-5)));
 		csvPrinter.close();
 		
+		//salvare per il calcolo delle medie
+		NumbersStorer storer = NumbersStorer.getInstance();
+		storer.add(threshold, precisionMatchings, recallMatchings, avgPrecisions, avgRecalls);
 	}
 
 
@@ -227,6 +231,9 @@ public class MatchingTester {
 			Map<String,Set<String>> groundTruthMatchings = 
 					extractMatchings("/home/valentina/workspace_nuovo/FeatureExtractor/pages4test/zNewTest/"+
 							"annamaria_bagnasco/matching12.txt");
+			String folder = "/home/valentina/workspace_nuovo/FeatureExtractor/pages4test/zNewTest"+
+							"/annamaria_bagnasco/orig2.html";
+			System.out.println(folder.substring(0, folder.length()-5));
 			System.out.println(groundTruthMatchings.size());
 			StringBuilder sb = new StringBuilder();
 			Iterator<Entry<String, Set<String>>> iter = groundTruthMatchings.entrySet().iterator();
