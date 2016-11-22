@@ -1,0 +1,91 @@
+Io e la mia sedia
+---
+-
+1.0
+Io e la mia sedia
+/html/body[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[2]/td[3]/a
+-
+0.64875895
+Io e la mia sedia (2011)
+/html/body[1]/div[1]/div[1]/ol[1]/li[3]/a
+-
+0.56383866
+movie 2011 Io e la mia sedia
+/html/body[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[2]
+__________________
+Io e la mia sedia
+---
+-
+1.0
+Io e la mia sedia
+/html/body[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[2]/td[3]/a
+-
+0.64875895
+Io e la mia sedia (2011)
+/html/body[1]/div[1]/div[1]/ol[1]/li[3]/a
+-
+0.56383866
+movie 2011 Io e la mia sedia
+/html/body[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[2]
+__________________
+ Angelo Amoroso d'Aragona
+---
+-
+0.7550106
+Watch Angelo Amoroso D'Aragona in: 
+/html/body[1]/div[1]/div[1]/ol[1]/li[1]
+-
+0.48916563
+ Angelo Amoroso D'Aragona on Youtube    Video sulla Fiera del Levante di Angelo Amoroso D'Aragona.   La sedia "Del Re", omaggio ad un cantastorie - Antenna Sud.flv - Una vita e una carriera tutta contro, raccontata nel documentario "Io e la mia sedia" di Ang...   un lavoro di anni di ricerca di testimoni e repertori. Restate in contatto con noi per sapere quando esce il documentario. Uscita prevista: Agosto 2011, vent...   Introducono Julia Ponzio e Angelo Amoroso D'Aragona.  
+/html/body[1]/div[1]/div[1]/div[3]
+-
+0.41921076
+ Angelo Amoroso D'Aragona Angelo Amoroso D'Aragona Filmography  movie 2012 Inassenza movie 2011 Io e la mia sedia movie 2003 Il Dio della Pioggia movie 1995 Fuori campo movie 1993 Frammento Orfico movie 1993 Stesso Desiderio movie 1989 Tempi Moderni (nuovi forti interessanti)  
+/html/body[1]/div[1]/div[1]/div[2]
+__________________
+Angelo Amoroso d'Aragona
+---
+-
+0.7550106
+Watch Angelo Amoroso D'Aragona in: 
+/html/body[1]/div[1]/div[1]/ol[1]/li[1]
+-
+0.48916563
+ Angelo Amoroso D'Aragona on Youtube    Video sulla Fiera del Levante di Angelo Amoroso D'Aragona.   La sedia "Del Re", omaggio ad un cantastorie - Antenna Sud.flv - Una vita e una carriera tutta contro, raccontata nel documentario "Io e la mia sedia" di Ang...   un lavoro di anni di ricerca di testimoni e repertori. Restate in contatto con noi per sapere quando esce il documentario. Uscita prevista: Agosto 2011, vent...   Introducono Julia Ponzio e Angelo Amoroso D'Aragona.  
+/html/body[1]/div[1]/div[1]/div[3]
+-
+0.41921076
+ Angelo Amoroso D'Aragona Angelo Amoroso D'Aragona Filmography  movie 2012 Inassenza movie 2011 Io e la mia sedia movie 2003 Il Dio della Pioggia movie 1995 Fuori campo movie 1993 Frammento Orfico movie 1993 Stesso Desiderio movie 1989 Tempi Moderni (nuovi forti interessanti)  
+/html/body[1]/div[1]/div[1]/div[2]
+__________________
+  Angelo Amoroso d'Aragona  Regista 
+---
+-
+0.570041
+Watch Angelo Amoroso D'Aragona in: 
+/html/body[1]/div[1]/div[1]/ol[1]/li[1]
+-
+0.36932525
+ Angelo Amoroso D'Aragona on Youtube    Video sulla Fiera del Levante di Angelo Amoroso D'Aragona.   La sedia "Del Re", omaggio ad un cantastorie - Antenna Sud.flv - Una vita e una carriera tutta contro, raccontata nel documentario "Io e la mia sedia" di Ang...   un lavoro di anni di ricerca di testimoni e repertori. Restate in contatto con noi per sapere quando esce il documentario. Uscita prevista: Agosto 2011, vent...   Introducono Julia Ponzio e Angelo Amoroso D'Aragona.  
+/html/body[1]/div[1]/div[1]/div[3]
+-
+0.31650856
+ Angelo Amoroso D'Aragona Angelo Amoroso D'Aragona Filmography  movie 2012 Inassenza movie 2011 Io e la mia sedia movie 2003 Il Dio della Pioggia movie 1995 Fuori campo movie 1993 Frammento Orfico movie 1993 Stesso Desiderio movie 1989 Tempi Moderni (nuovi forti interessanti)  
+/html/body[1]/div[1]/div[1]/div[2]
+__________________
+ Ultimo film Io e la mia sedia (2010) 
+---
+-
+0.3109812
+Io e la mia sedia
+/html/body[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[2]/td[3]/a
+__________________
+C'erano una volta sette Simeoni (1989)
+---
+__________________
+ Documentario Italia 2010  63' 
+---
+__________________
+Con Enzo Del Re, Vinicio Capossela, Antonio Infantino, Claudio Lolli
+---
+__________________

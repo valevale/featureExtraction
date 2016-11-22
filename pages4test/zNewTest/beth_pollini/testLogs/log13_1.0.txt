@@ -1,0 +1,32 @@
+Valutiamo l'entry: /html/body[1]/div[5]/div[1]/div[1]/div[1]/div[5]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[16]/div[1]/div[1]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[5]/div[1]/div[1]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/strong[3]
+GT: [/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[5]/tr[1]/td[1]/div[1]/span[2]/a[35], /html/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[5]/tr[1]/td[1]/div[1]/span[2]/a[59], /html/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[5]/tr[1]/td[1]/div[1]/span[2]/a[27], /html/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[5]/tr[1]/td[1]/div[1]/span[2]/a[43], /html/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[5]/tr[1]/td[1]/div[1]/span[2]/a[41]]
+ size: 5
+R: [/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[5]/tr[1]/td[1]/div[1]/span[2]/a[43]]
+ size: 1
+True positives: [/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[5]/tr[1]/td[1]/div[1]/span[2]/a[43]]
+ size: 1
+Precision: tp (1) / R (1) = 1.0
+Recall: tp (1) / GT (5) = 0.2
+_______________
+Valutiamo l'entry: /html/body[1]/div[5]/div[1]/div[1]/div[1]/div[5]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[16]/div[1]/h4[1]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[5]/div[1]/div[1]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/strong[5]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+_______________
+Calculation of averages
+avg precision: 1.0
+avg recall: 0.05
+Calculation of Precision and Recall based on matching
+Matchings precision: tp (1) / R (1) = 1.0
+Matching recall: tp (1) / GT (8) = 0.125

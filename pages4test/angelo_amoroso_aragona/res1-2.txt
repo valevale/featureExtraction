@@ -1,0 +1,80 @@
+Angelo Amoroso d'Aragona
+---
+-
+2.7688775
+ Angelo Amoroso d'Aragona
+/html/*[2]/*[14]/*[2]/*[2]/*[4]/*[1]/*[1]/*[1]/*[2]/*[2]
+-
+2.7688775
+Angelo Amoroso d'Aragona
+/html/*[2]/*[14]/*[1]/*[1]/*[1]
+-
+2.7688775
+
+                         Angelo Amoroso d'Aragona
+                         Regista
+                    
+/html/*[2]/*[14]/*[1]/*[1]/*[2]/*[1]/*[1]
+__________________
+
+ IO E LA MIA SEDIA trailer  
+---
+-
+2.1260977
+Io e la mia sedia
+/html/*[2]/*[14]/*[1]/*[1]/*[2]/*[1]/*[3]/p/*[1]
+-
+2.1260977
+Io e la mia sedia
+/html/*[2]/*[14]/*[2]/*[2]/*[4]/*[1]/*[1]/*[1]/*[1]/*[1]/a
+-
+1.5186414
+
+                        Ultimo film                        Io e la mia sedia
+                        (2010)
+                      
+/html/*[2]/*[14]/*[1]/*[1]/*[2]/*[1]/*[3]/p
+-
+0.068075806
+Film e serie Tv (1)
+/html/*[2]/*[14]/*[2]/*[2]/*[2]/*[1]/*[1]/a
+-
+0.058350693
+L’Almería Western Film Festival e il Neowestern.
+/html/*[2]/*[20]/*[1]/*[2]/*[1]/*[1]/*[7]/*[4]/a
+__________________
+
+ IO E LA MIA SEDIA trailer  
+---
+-
+2.1260977
+Io e la mia sedia
+/html/*[2]/*[14]/*[1]/*[1]/*[2]/*[1]/*[3]/p/*[1]
+-
+2.1260977
+Io e la mia sedia
+/html/*[2]/*[14]/*[2]/*[2]/*[4]/*[1]/*[1]/*[1]/*[1]/*[1]/a
+-
+1.5186414
+
+                        Ultimo film                        Io e la mia sedia
+                        (2010)
+                      
+/html/*[2]/*[14]/*[1]/*[1]/*[2]/*[1]/*[3]/p
+-
+0.068075806
+Film e serie Tv (1)
+/html/*[2]/*[14]/*[2]/*[2]/*[2]/*[1]/*[1]/a
+-
+0.058350693
+L’Almería Western Film Festival e il Neowestern.
+/html/*[2]/*[20]/*[1]/*[2]/*[1]/*[1]/*[7]/*[4]/a
+__________________
+
+ 1 like 
+---
+-
+0.5506991
+Film e serie Tv (1)
+/html/*[2]/*[14]/*[2]/*[2]/*[2]/*[1]/*[1]/a
+__________________

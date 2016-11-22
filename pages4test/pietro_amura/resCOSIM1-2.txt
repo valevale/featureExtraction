@@ -1,0 +1,104 @@
+ AMURA AVV. PIETRO 
+---
+-
+1.0
+Amura Avv. Pietro
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/span[1]/strong[1]/h2
+-
+0.8925534
+Amura Avv. Pietro - Roma 
+/html/body[1]/div[1]/div[3]/div[2]/div[1]/h1[1]
+-
+0.59116334
+Scrivi la tua recensione per Amura Avv. Pietro - Roma:  
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[8]
+-
+0.41126952
+          Amura Avv. Pietro - Roma        Amura Avv. Pietro  AVVOCATI STUDI      Viale Giuseppe Mazzini 140   00195   ()     0664561829    Avvocati - Studi a Roma   Modifica Dati  Elimina Azienda            Bevilacqua Claudio Studio Legale Circonvallazione Clodia 29 00195 - Roma   Studio Legale Avv. Muccioli Avv. Legale Via Novara 53 00198 - Roma   Marconi Avv. Riccardo Via Degli Orti Gianicolensi 5 00152 - Roma   Bertes Daniela Via Ezio 32 00192 - Roma   Gobbi Massimiliano Via Ombrone 14 00198 - Roma          Scrivi la tua recensione per Amura Avv. Pietro - Roma:                                 >   
+/html/body[1]/div[1]
+__________________
+AMURA AVV. PIETRO
+---
+-
+1.0
+Amura Avv. Pietro
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/span[1]/strong[1]/h2
+-
+0.8925534
+Amura Avv. Pietro - Roma 
+/html/body[1]/div[1]/div[3]/div[2]/div[1]/h1[1]
+-
+0.59116334
+Scrivi la tua recensione per Amura Avv. Pietro - Roma:  
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[8]
+-
+0.41126952
+          Amura Avv. Pietro - Roma        Amura Avv. Pietro  AVVOCATI STUDI      Viale Giuseppe Mazzini 140   00195   ()     0664561829    Avvocati - Studi a Roma   Modifica Dati  Elimina Azienda            Bevilacqua Claudio Studio Legale Circonvallazione Clodia 29 00195 - Roma   Studio Legale Avv. Muccioli Avv. Legale Via Novara 53 00198 - Roma   Marconi Avv. Riccardo Via Degli Orti Gianicolensi 5 00152 - Roma   Bertes Daniela Via Ezio 32 00192 - Roma   Gobbi Massimiliano Via Ombrone 14 00198 - Roma          Scrivi la tua recensione per Amura Avv. Pietro - Roma:                                 >   
+/html/body[1]/div[1]
+__________________
+Viale Giuseppe Mazzini , 140
+---
+-
+0.9123346
+ Viale Giuseppe Mazzini 140   00195   () 
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]
+-
+0.5303429
+   Viale Giuseppe Mazzini 140   00195   ()     0664561829    Avvocati - Studi a Roma   Modifica Dati  Elimina Azienda    
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]
+__________________
+  Viale Giuseppe Mazzini , 140 00195 ROMA (RM)    06 64561829   
+---
+-
+0.59522396
+ Viale Giuseppe Mazzini 140   00195   () 
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]
+-
+0.37976635
+   Viale Giuseppe Mazzini 140   00195   ()     0664561829    Avvocati - Studi a Roma   Modifica Dati  Elimina Azienda    
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]
+__________________
+Roma
+---
+-
+0.43429574
+Avvocati - Studi a Roma
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/strong[3]/a
+-
+0.4029346
+          Amura Avv. Pietro - Roma        Amura Avv. Pietro  AVVOCATI STUDI      Viale Giuseppe Mazzini 140   00195   ()     0664561829    Avvocati - Studi a Roma   Modifica Dati  Elimina Azienda            Bevilacqua Claudio Studio Legale Circonvallazione Clodia 29 00195 - Roma   Studio Legale Avv. Muccioli Avv. Legale Via Novara 53 00198 - Roma   Marconi Avv. Riccardo Via Degli Orti Gianicolensi 5 00152 - Roma   Bertes Daniela Via Ezio 32 00192 - Roma   Gobbi Massimiliano Via Ombrone 14 00198 - Roma          Scrivi la tua recensione per Amura Avv. Pietro - Roma:                                 >   
+/html/body[1]/div[1]
+-
+0.38556653
+Amura Avv. Pietro - Roma 
+/html/body[1]/div[1]/div[3]/div[2]/div[1]/h1[1]
+-
+0.335323
+    Bevilacqua Claudio Studio Legale Circonvallazione Clodia 29 00195 - Roma   Studio Legale Avv. Muccioli Avv. Legale Via Novara 53 00198 - Roma   Marconi Avv. Riccardo Via Degli Orti Gianicolensi 5 00152 - Roma   Bertes Daniela Via Ezio 32 00192 - Roma   Gobbi Massimiliano Via Ombrone 14 00198 - Roma  
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]
+__________________
+Roma
+---
+-
+0.43429574
+Avvocati - Studi a Roma
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/strong[3]/a
+-
+0.4029346
+          Amura Avv. Pietro - Roma        Amura Avv. Pietro  AVVOCATI STUDI      Viale Giuseppe Mazzini 140   00195   ()     0664561829    Avvocati - Studi a Roma   Modifica Dati  Elimina Azienda            Bevilacqua Claudio Studio Legale Circonvallazione Clodia 29 00195 - Roma   Studio Legale Avv. Muccioli Avv. Legale Via Novara 53 00198 - Roma   Marconi Avv. Riccardo Via Degli Orti Gianicolensi 5 00152 - Roma   Bertes Daniela Via Ezio 32 00192 - Roma   Gobbi Massimiliano Via Ombrone 14 00198 - Roma          Scrivi la tua recensione per Amura Avv. Pietro - Roma:                                 >   
+/html/body[1]/div[1]
+-
+0.38556653
+Amura Avv. Pietro - Roma 
+/html/body[1]/div[1]/div[3]/div[2]/div[1]/h1[1]
+-
+0.335323
+    Bevilacqua Claudio Studio Legale Circonvallazione Clodia 29 00195 - Roma   Studio Legale Avv. Muccioli Avv. Legale Via Novara 53 00198 - Roma   Marconi Avv. Riccardo Via Degli Orti Gianicolensi 5 00152 - Roma   Bertes Daniela Via Ezio 32 00192 - Roma   Gobbi Massimiliano Via Ombrone 14 00198 - Roma  
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]
+__________________
+Tutti i comuni di Roma
+---
+__________________
+Segui Virgilio Roma su:
+---
+__________________

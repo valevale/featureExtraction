@@ -1,0 +1,323 @@
+Education
+---
+-
+1.0
+Education
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div/div[1]/div[2]/div[1]/table[1]/tbody/tr[3]/th[1]/a[1]
+-
+1.0
+Education
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[4]/div/h3[1]
+-
+0.6649368
+Edit education
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div/div[1]/div[2]/div[1]/table[1]/tbody/tr[3]/th[1]/span[1]/a[1]
+-
+0.6649368
+Edit education
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div/div[1]/div[2]/div[1]/table[1]/tbody/tr[3]/td[1]/a[1]
+__________________
+Angelini Design
+---
+-
+1.0
+Angelini Design
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div/div[1]/div[2]/div[1]/table[1]/tbody/tr[2]/td[1]/ol[1]/li[1]/span[1]/strong/a
+-
+1.0
+Angelini Design, 
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div/div[1]/div[2]/div[1]/table[1]/tbody/tr[2]/td[1]/ol[1]/li[1]
+-
+1.0
+Angelini Design
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div/div[2]/div/header[1]/h5[2]/span/strong/a
+-
+0.61929226
+Design
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div/div/dl/dd[2]/a
+-
+0.45757866
+Graphic Design
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div/div[3]/div/div[1]/ul[1]/li[3]/span[1]/span[1]/a
+-
+0.38352293
+Web Design
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div/div[3]/div/div[1]/ul[2]/li[3]/div/span/span[1]/a
+-
+0.30590776
+Logo Design
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div/div[3]/div/div[1]/ul[1]/li[9]/span[1]/span[1]/a
+__________________
+twitter
+---
+-
+1.0
+Twitter
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div/div[2]/div[1]/table[3]/tbody/tr[1]/th[1]
+__________________
+Graphic Designer
+---
+-
+1.0
+Graphic Designer
+/html/body[1]/div[4]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/ol/li[11]/dl[1]/dd[1]
+-
+1.0
+Graphic Designer
+/html/body[1]/div[4]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/ol/li[1]/dl[1]/dd[1]
+-
+1.0
+Graphic Designer
+/html/body[1]/div[4]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/ol/li[5]/dl[1]/dd[1]
+-
+1.0
+Graphic Designer
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div/div[1]/div/p[1]
+-
+1.0
+Graphic designer
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div/div[3]/div/header[1]/h4[1]/a
+-
+1.0
+Graphic designer
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div/div[1]/div/header[1]/h4[1]/a
+-
+1.0
+Graphic designer
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div/p
+-
+1.0
+Graphic Designer
+/html/body[1]/div[4]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/ol/li[9]/dl[1]/dd[1]
+-
+1.0
+Graphic designer
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div/div[2]/div/header[1]/h4[1]/a
+-
+0.63622504
+Graphic Designer Freelance
+/html/body[1]/div[4]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/ol/li[4]/dl[1]/dd[1]
+__________________
+Graphic Designer
+---
+-
+1.0
+Graphic Designer
+/html/body[1]/div[4]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/ol/li[11]/dl[1]/dd[1]
+-
+1.0
+Graphic Designer
+/html/body[1]/div[4]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/ol/li[1]/dl[1]/dd[1]
+-
+1.0
+Graphic Designer
+/html/body[1]/div[4]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/ol/li[5]/dl[1]/dd[1]
+-
+1.0
+Graphic Designer
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div/div[1]/div/p[1]
+-
+1.0
+Graphic designer
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div/div[3]/div/header[1]/h4[1]/a
+-
+1.0
+Graphic designer
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div/div[1]/div/header[1]/h4[1]/a
+-
+1.0
+Graphic designer
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div/p
+-
+1.0
+Graphic Designer
+/html/body[1]/div[4]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/ol/li[9]/dl[1]/dd[1]
+-
+1.0
+Graphic designer
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div/div[2]/div/header[1]/h4[1]/a
+-
+0.63622504
+Graphic Designer Freelance
+/html/body[1]/div[4]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/ol/li[4]/dl[1]/dd[1]
+__________________
+October 2011 - October 2012 
+---
+-
+0.8563685
+October 2012
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div/div[1]/div/span[1]/time[1]
+-
+0.55812824
+October 2011 – September 2012 (1 year)Rome
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div/div[2]/div/span[1]
+-
+0.37763494
+October 2012 – Present (4 years 2 months)
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div/div[1]/div/span[1]
+__________________
+Rome, Italy
+---
+-
+0.77632016
+Rome Area, Italy
+/html/body[1]/div[4]/div[1]/div[2]/div[2]/div[1]/div[4]/ul/li
+-
+0.7468996
+Italy
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div/div/dl/dd[1]/span/a
+__________________
+Rome, Italy
+---
+-
+0.77632016
+Rome Area, Italy
+/html/body[1]/div[4]/div[1]/div[2]/div[2]/div[1]/div[4]/ul/li
+-
+0.7468996
+Italy
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div/div/dl/dd[1]/span/a
+__________________
+Rome, Italy
+---
+-
+0.77632016
+Rome Area, Italy
+/html/body[1]/div[4]/div[1]/div[2]/div[2]/div[1]/div[4]/ul/li
+-
+0.7468996
+Italy
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div/div/dl/dd[1]/span/a
+__________________
+October 2007 - June 2010 
+---
+-
+0.68946695
+2007 – 2010
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[4]/div/div[1]/div/div/span[1]
+__________________
+KOOK Artgency
+---
+-
+0.65335536
+Kook
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div/div[3]/div/header[1]/h5[2]/span/strong/a
+-
+0.65335536
+Kook
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div/div[1]/div[2]/div[1]/table[1]/tbody/tr[2]/td[1]/ol[1]/li[2]/span/strong/a
+__________________
+ Adobe CS5,  Brand Identity,  CSS,  Dynamic Identity,  Editorial Design,  HTML,  Logo Design,  Package Design,  Poster Design,  Typography,  
+---
+-
+0.5629084
+Design
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div/div/dl/dd[2]/a
+-
+0.4884335
+Logo Design
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div/div[3]/div/div[1]/ul[1]/li[9]/span[1]/span[1]/a
+-
+0.41591808
+Graphic Design
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div/div[3]/div/div[1]/ul[1]/li[3]/span[1]/span[1]/a
+-
+0.3486048
+Web Design
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div/div[3]/div/div[1]/ul[2]/li[3]/div/span/span[1]/a
+-
+0.33729652
+Angelini Design
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div/div[1]/div[2]/div[1]/table[1]/tbody/tr[2]/td[1]/ol[1]/li[1]/span[1]/strong/a
+-
+0.33729652
+Angelini Design, 
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div/div[1]/div[2]/div[1]/table[1]/tbody/tr[2]/td[1]/ol[1]/li[1]
+-
+0.33729652
+Angelini Design
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div/div[2]/div/header[1]/h5[2]/span/strong/a
+__________________
+Work Experience
+---
+-
+0.5416616
+Edit experience
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div/div[1]/div[2]/div[1]/table[1]/tbody/tr[2]/td[1]/a[1]
+__________________
+Visual Communications / Graphic Design
+---
+-
+0.51877356
+Graphic Design
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div/div[3]/div/div[1]/ul[1]/li[3]/span[1]/span[1]/a
+-
+0.38686043
+Design
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div/div/dl/dd[2]/a
+-
+0.31251207
+Visual Communication
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[3]/div/div[3]/div/div[1]/ul[1]/li[8]/span[1]/span[1]/a
+__________________
+March 2011 - September 2012 
+---
+-
+0.49070355
+October 2011 – September 2012 (1 year)Rome
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div/div[2]/div/span[1]
+-
+0.30575138
+October 2012
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]/div/div[1]/div/span[1]/time[1]
+__________________
+Instituto Europeo Di Design (IED) - Rome
+---
+-
+0.3901197
+Istituto Europeo di Design
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div/div[1]/div[2]/div[1]/table[1]/tbody/tr[3]/td[1]/ol[1]/li/a
+-
+0.3901197
+Istituto Europeo di Design
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[2]/div[1]/div[4]/div/div[1]/div/div/header[1]/h4[1]/a
+-
+0.3073027
+Design
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div/div[1]/div[2]/div[1]/div[1]/div[2]/div[3]/div/div/dl/dd[2]/a
+__________________
+  Mirko Di Geronimo Freelance Graphic Designer Rome, Italy   (+39) 392 75 81 095 art@mdgd.it www.mdgd.it  
+---
+-
+0.32880187
+Graphic Designer Freelance
+/html/body[1]/div[4]/div[1]/div[2]/div[2]/div[2]/div[1]/div[2]/ol/li[4]/dl[1]/dd[1]
+-
+0.31629595
+Mirko Di Geronimo
+/html/body[1]/div[4]/div[1]/div[2]/div[1]/div[1]/div/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div/h1/span/span
+__________________
+ A non-conventional and guerrilla marketing agency, where I worked for 6 month, supporting the art direction of their projects. 
+---
+__________________
+ Graphic Design and creative researcher at the Atelier of the agency. 
+---
+__________________
+Showcase & Discover Creative Work
+---
+__________________
+ (+39) 392 75 81 095 art@mdgd.it www.mdgd.it 
+---
+__________________
+ Take Creative Control & Make Ideas Happen 
+---
+__________________
+Open as PDF
+---
+__________________
+Download as PDF
+---
+__________________
+ Made in NYC. All member work copyright of respective owner, otherwise © 2006-2016 Adobe Systems Incorporated.
+---
+__________________

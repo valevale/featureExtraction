@@ -1,0 +1,1306 @@
+Roma
+---
+-
+1.0
+Roma
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.67659116
+Roma (RM)
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.67659116
+Roma (RM)
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.67659116
+Roma (RM)
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.52127117
+
+           Comune di 
+           Roma
+          
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.3108379
+Via Donati 146 - 00159 Roma (RM)
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.2825015
+Via Biancamano Umberto 33 - 00185 Roma (RM)
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.26763463
+AMOROSO D'ARAGONA AVV. CLAUDIO - Via Biancamano Umberto 33 - 00185 Roma (RM)41.8879312.51183 | PagineBianche                                 
+ 
+  
+   
+    
+    
+    
+    
+    
+     
+     
+      
+      
+       
+       
+        
+         
+        
+       
+       
+      
+      
+       
+        
+        
+         
+          
+          
+         
+         
+        
+        
+        
+         
+          
+           Altri 
+           AMOROSO D'ARAGONA in zona 
+          
+          
+           Putignano (1)
+           Brescia (1)
+          
+         
+         
+          
+           Comune di 
+           Roma
+          
+          
+           
+            
+            Lazio
+           
+           
+            
+            RM
+           
+           
+            
+            00118 - 00199
+           
+           
+            
+            06
+           
+           
+            
+            058091
+           
+           
+            
+            H501
+           
+          
+         
+         
+         
+          
+          
+           119 CIRCOLO DIDATTICO LAMBROSCHINI
+            
+             
+              Via Donati 146 - 00159 Roma (RM)
+              
+               41.90755
+               12.55172
+              
+             
+            
+            
+             tel: 
+             06 3012306
+            
+           ABC BEACH SRL
+            
+             
+              Lungo Mare Toscanelli Paolo 117 - 00121 Roma (RM)
+              
+               41.73021
+               12.27462
+              
+             
+            
+            
+             tel: 
+             06 5672695, 
+             06 5692949
+            
+           
+         
+         
+          
+          
+           Carabinieri
+           Guardia di finanza
+           Vigili del fuoco
+           ASL
+           Croce Rossa
+           Camera di Commercio
+          
+         
+        
+        
+      
+      
+       
+        AMOROSO D'ARAGONA AVV. CLAUDIO
+        
+        
+         
+          
+           Via Biancamano Umberto 33 - 00185 Roma (RM)
+           
+            41.88793
+            12.51183
+           
+           
+         
+         
+          tel: 06 99709045
+         
+        
+        
+       
+       
+        
+         
+          
+           
+           
+           
+          
+         
+         
+        
+       
+       
+       
+      
+       
+      
+     
+    
+    
+    
+   
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                      
+              
+     
+        
+
+/html/body[1]
+-
+0.25593165
+Lungo Mare Toscanelli Paolo 117 - 00121 Roma (RM)
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+__________________
+00185
+---
+-
+1.0
+00185
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.38868713
+Via Biancamano Umberto 33 - 00185 Roma (RM)
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.14571181
+AMOROSO D'ARAGONA AVV. CLAUDIO - Via Biancamano Umberto 33 - 00185 Roma (RM)41.8879312.51183 | PagineBianche                                 
+ 
+  
+   
+    
+    
+    
+    
+    
+     
+     
+      
+      
+       
+       
+        
+         
+        
+       
+       
+      
+      
+       
+        
+        
+         
+          
+          
+         
+         
+        
+        
+        
+         
+          
+           Altri 
+           AMOROSO D'ARAGONA in zona 
+          
+          
+           Putignano (1)
+           Brescia (1)
+          
+         
+         
+          
+           Comune di 
+           Roma
+          
+          
+           
+            
+            Lazio
+           
+           
+            
+            RM
+           
+           
+            
+            00118 - 00199
+           
+           
+            
+            06
+           
+           
+            
+            058091
+           
+           
+            
+            H501
+           
+          
+         
+         
+         
+          
+          
+           119 CIRCOLO DIDATTICO LAMBROSCHINI
+            
+             
+              Via Donati 146 - 00159 Roma (RM)
+              
+               41.90755
+               12.55172
+              
+             
+            
+            
+             tel: 
+             06 3012306
+            
+           ABC BEACH SRL
+            
+             
+              Lungo Mare Toscanelli Paolo 117 - 00121 Roma (RM)
+              
+               41.73021
+               12.27462
+              
+             
+            
+            
+             tel: 
+             06 5672695, 
+             06 5692949
+            
+           
+         
+         
+          
+          
+           Carabinieri
+           Guardia di finanza
+           Vigili del fuoco
+           ASL
+           Croce Rossa
+           Camera di Commercio
+          
+         
+        
+        
+      
+      
+       
+        AMOROSO D'ARAGONA AVV. CLAUDIO
+        
+        
+         
+          
+           Via Biancamano Umberto 33 - 00185 Roma (RM)
+           
+            41.88793
+            12.51183
+           
+           
+         
+         
+          tel: 06 99709045
+         
+        
+        
+       
+       
+        
+         
+          
+           
+           
+           
+          
+         
+         
+        
+       
+       
+       
+      
+       
+      
+     
+    
+    
+    
+   
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                      
+              
+     
+        
+
+/html/body[1]
+__________________
+Via umberto biancamano, 33
+---
+-
+1.0
+Via Biancamano Umberto 33
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.78224677
+Via Biancamano Umberto 33 - 00185 Roma (RM)
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.31429443
+AMOROSO D'ARAGONA AVV. CLAUDIO - Via Biancamano Umberto 33 - 00185 Roma (RM)41.8879312.51183 | PagineBianche                                 
+ 
+  
+   
+    
+    
+    
+    
+    
+     
+     
+      
+      
+       
+       
+        
+         
+        
+       
+       
+      
+      
+       
+        
+        
+         
+          
+          
+         
+         
+        
+        
+        
+         
+          
+           Altri 
+           AMOROSO D'ARAGONA in zona 
+          
+          
+           Putignano (1)
+           Brescia (1)
+          
+         
+         
+          
+           Comune di 
+           Roma
+          
+          
+           
+            
+            Lazio
+           
+           
+            
+            RM
+           
+           
+            
+            00118 - 00199
+           
+           
+            
+            06
+           
+           
+            
+            058091
+           
+           
+            
+            H501
+           
+          
+         
+         
+         
+          
+          
+           119 CIRCOLO DIDATTICO LAMBROSCHINI
+            
+             
+              Via Donati 146 - 00159 Roma (RM)
+              
+               41.90755
+               12.55172
+              
+             
+            
+            
+             tel: 
+             06 3012306
+            
+           ABC BEACH SRL
+            
+             
+              Lungo Mare Toscanelli Paolo 117 - 00121 Roma (RM)
+              
+               41.73021
+               12.27462
+              
+             
+            
+            
+             tel: 
+             06 5672695, 
+             06 5692949
+            
+           
+         
+         
+          
+          
+           Carabinieri
+           Guardia di finanza
+           Vigili del fuoco
+           ASL
+           Croce Rossa
+           Camera di Commercio
+          
+         
+        
+        
+      
+      
+       
+        AMOROSO D'ARAGONA AVV. CLAUDIO
+        
+        
+         
+          
+           Via Biancamano Umberto 33 - 00185 Roma (RM)
+           
+            41.88793
+            12.51183
+           
+           
+         
+         
+          tel: 06 99709045
+         
+        
+        
+       
+       
+        
+         
+          
+           
+           
+           
+          
+         
+         
+        
+       
+       
+       
+      
+       
+      
+     
+    
+    
+    
+   
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                      
+              
+     
+        
+
+/html/body[1]
+-
+0.22644639
+Via Donati 146
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.17037919
+Via Donati 146 - 00159 Roma (RM)
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+Claudio Amoroso d'aragona
+---
+-
+0.818211
+AMOROSO D'ARAGONA AVV. CLAUDIO
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+-
+0.773529
+AMOROSO D'ARAGONA
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.4751499
+
+           Altri 
+           AMOROSO D'ARAGONA in zona 
+          
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.3259539
+AMOROSO D'ARAGONA AVV. CLAUDIO - Via Biancamano Umberto 33 - 00185 Roma (RM)41.8879312.51183 | PagineBianche                                 
+ 
+  
+   
+    
+    
+    
+    
+    
+     
+     
+      
+      
+       
+       
+        
+         
+        
+       
+       
+      
+      
+       
+        
+        
+         
+          
+          
+         
+         
+        
+        
+        
+         
+          
+           Altri 
+           AMOROSO D'ARAGONA in zona 
+          
+          
+           Putignano (1)
+           Brescia (1)
+          
+         
+         
+          
+           Comune di 
+           Roma
+          
+          
+           
+            
+            Lazio
+           
+           
+            
+            RM
+           
+           
+            
+            00118 - 00199
+           
+           
+            
+            06
+           
+           
+            
+            058091
+           
+           
+            
+            H501
+           
+          
+         
+         
+         
+          
+          
+           119 CIRCOLO DIDATTICO LAMBROSCHINI
+            
+             
+              Via Donati 146 - 00159 Roma (RM)
+              
+               41.90755
+               12.55172
+              
+             
+            
+            
+             tel: 
+             06 3012306
+            
+           ABC BEACH SRL
+            
+             
+              Lungo Mare Toscanelli Paolo 117 - 00121 Roma (RM)
+              
+               41.73021
+               12.27462
+              
+             
+            
+            
+             tel: 
+             06 5672695, 
+             06 5692949
+            
+           
+         
+         
+          
+          
+           Carabinieri
+           Guardia di finanza
+           Vigili del fuoco
+           ASL
+           Croce Rossa
+           Camera di Commercio
+          
+         
+        
+        
+      
+      
+       
+        AMOROSO D'ARAGONA AVV. CLAUDIO
+        
+        
+         
+          
+           Via Biancamano Umberto 33 - 00185 Roma (RM)
+           
+            41.88793
+            12.51183
+           
+           
+         
+         
+          tel: 06 99709045
+         
+        
+        
+       
+       
+        
+         
+          
+           
+           
+           
+          
+         
+         
+        
+       
+       
+       
+      
+       
+      
+     
+    
+    
+    
+   
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                      
+              
+     
+        
+
+/html/body[1]
+__________________
+Claudio Amoroso d'aragona
+---
+-
+0.818211
+AMOROSO D'ARAGONA AVV. CLAUDIO
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+-
+0.773529
+AMOROSO D'ARAGONA
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.4751499
+
+           Altri 
+           AMOROSO D'ARAGONA in zona 
+          
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.3259539
+AMOROSO D'ARAGONA AVV. CLAUDIO - Via Biancamano Umberto 33 - 00185 Roma (RM)41.8879312.51183 | PagineBianche                                 
+ 
+  
+   
+    
+    
+    
+    
+    
+     
+     
+      
+      
+       
+       
+        
+         
+        
+       
+       
+      
+      
+       
+        
+        
+         
+          
+          
+         
+         
+        
+        
+        
+         
+          
+           Altri 
+           AMOROSO D'ARAGONA in zona 
+          
+          
+           Putignano (1)
+           Brescia (1)
+          
+         
+         
+          
+           Comune di 
+           Roma
+          
+          
+           
+            
+            Lazio
+           
+           
+            
+            RM
+           
+           
+            
+            00118 - 00199
+           
+           
+            
+            06
+           
+           
+            
+            058091
+           
+           
+            
+            H501
+           
+          
+         
+         
+         
+          
+          
+           119 CIRCOLO DIDATTICO LAMBROSCHINI
+            
+             
+              Via Donati 146 - 00159 Roma (RM)
+              
+               41.90755
+               12.55172
+              
+             
+            
+            
+             tel: 
+             06 3012306
+            
+           ABC BEACH SRL
+            
+             
+              Lungo Mare Toscanelli Paolo 117 - 00121 Roma (RM)
+              
+               41.73021
+               12.27462
+              
+             
+            
+            
+             tel: 
+             06 5672695, 
+             06 5692949
+            
+           
+         
+         
+          
+          
+           Carabinieri
+           Guardia di finanza
+           Vigili del fuoco
+           ASL
+           Croce Rossa
+           Camera di Commercio
+          
+         
+        
+        
+      
+      
+       
+        AMOROSO D'ARAGONA AVV. CLAUDIO
+        
+        
+         
+          
+           Via Biancamano Umberto 33 - 00185 Roma (RM)
+           
+            41.88793
+            12.51183
+           
+           
+         
+         
+          tel: 06 99709045
+         
+        
+        
+       
+       
+        
+         
+          
+           
+           
+           
+          
+         
+         
+        
+       
+       
+       
+      
+       
+      
+     
+    
+    
+    
+   
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                      
+              
+     
+        
+
+/html/body[1]
+__________________
+Avvocato Claudio Amoroso d'aragona a Roma - San Giovanni                               
+   
+ 
+   
+   
+     
+    
+    
+     
+     
+     
+     
+     Claudio Amoroso d'aragona
+      
+     
+      
+       
+       
+       
+        
+       Claudio Amoroso d'aragona 
+        
+        
+        
+         
+          
+           
+           
+          Via umberto biancamano, 3300185 Roma  
+          
+          
+           
+           
+          Telefono: 06.99709045 
+          
+          
+          
+          
+         
+         
+         
+         
+        
+       
+       
+      
+       
+     
+    
+   
+    
+  
+ 
+ 
+ 
+ 
+
+---
+-
+0.6396564
+AMOROSO D'ARAGONA AVV. CLAUDIO
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+-
+0.6047251
+AMOROSO D'ARAGONA
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.3894706
+AMOROSO D'ARAGONA AVV. CLAUDIO - Via Biancamano Umberto 33 - 00185 Roma (RM)41.8879312.51183 | PagineBianche                                 
+ 
+  
+   
+    
+    
+    
+    
+    
+     
+     
+      
+      
+       
+       
+        
+         
+        
+       
+       
+      
+      
+       
+        
+        
+         
+          
+          
+         
+         
+        
+        
+        
+         
+          
+           Altri 
+           AMOROSO D'ARAGONA in zona 
+          
+          
+           Putignano (1)
+           Brescia (1)
+          
+         
+         
+          
+           Comune di 
+           Roma
+          
+          
+           
+            
+            Lazio
+           
+           
+            
+            RM
+           
+           
+            
+            00118 - 00199
+           
+           
+            
+            06
+           
+           
+            
+            058091
+           
+           
+            
+            H501
+           
+          
+         
+         
+         
+          
+          
+           119 CIRCOLO DIDATTICO LAMBROSCHINI
+            
+             
+              Via Donati 146 - 00159 Roma (RM)
+              
+               41.90755
+               12.55172
+              
+             
+            
+            
+             tel: 
+             06 3012306
+            
+           ABC BEACH SRL
+            
+             
+              Lungo Mare Toscanelli Paolo 117 - 00121 Roma (RM)
+              
+               41.73021
+               12.27462
+              
+             
+            
+            
+             tel: 
+             06 5672695, 
+             06 5692949
+            
+           
+         
+         
+          
+          
+           Carabinieri
+           Guardia di finanza
+           Vigili del fuoco
+           ASL
+           Croce Rossa
+           Camera di Commercio
+          
+         
+        
+        
+      
+      
+       
+        AMOROSO D'ARAGONA AVV. CLAUDIO
+        
+        
+         
+          
+           Via Biancamano Umberto 33 - 00185 Roma (RM)
+           
+            41.88793
+            12.51183
+           
+           
+         
+         
+          tel: 06 99709045
+         
+        
+        
+       
+       
+        
+         
+          
+           
+           
+           
+          
+         
+         
+        
+       
+       
+       
+      
+       
+      
+     
+    
+    
+    
+   
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                      
+              
+     
+        
+
+/html/body[1]
+-
+0.37146
+
+           Altri 
+           AMOROSO D'ARAGONA in zona 
+          
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.2340531
+Via Biancamano Umberto 33 - 00185 Roma (RM)
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.2236899
+Roma
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.21299781
+Via Biancamano Umberto 33
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.1513466
+Roma (RM)
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.1513466
+Roma (RM)
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.1513466
+Roma (RM)
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+__________________

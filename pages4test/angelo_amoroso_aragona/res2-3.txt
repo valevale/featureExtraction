@@ -1,0 +1,226 @@
+Bridget Jones's Baby
+---
+-
+3.7041159
+Bridget Jones's Baby
+/html/*[2]/*[3]/*[1]/*[2]/*[2]/*[3]/*[3]/*[2]/*[2]/a
+__________________
+Alla ricerca di Dory
+---
+-
+3.6025887
+Alla ricerca di Dory
+/html/*[2]/*[3]/*[1]/*[2]/*[2]/*[3]/*[3]/*[1]/*[2]/a
+__________________
+Film 
+---
+-
+3.5839975
+Film
+/html/*[2]/*[3]/*[1]/*[2]/*[2]/*[2]/*[2]/*[1]/*[3]/*[1]/*[1]
+__________________
++ Aggiungi a
+---
+-
+1.9358398
+
+            Aggiungi all'archivio di 
+          
+/html/*[2]/*[3]/*[1]/*[12]/*[1]/*[1]/*[1]/*[1]/*[2]
+-
+1.2098999
+Aggiungi il documento al tuo spazio My24 oppure accedi all'area >>
+/html/*[2]/*[3]/*[1]/*[12]/*[1]/*[1]/*[1]/*[1]/*[4]
+__________________
++ Aggiungi a
+---
+-
+1.9358398
+
+            Aggiungi all'archivio di 
+          
+/html/*[2]/*[3]/*[1]/*[12]/*[1]/*[1]/*[1]/*[1]/*[2]
+-
+1.2098999
+Aggiungi il documento al tuo spazio My24 oppure accedi all'area >>
+/html/*[2]/*[3]/*[1]/*[12]/*[1]/*[1]/*[1]/*[1]/*[4]
+__________________
+Tutti i film
+---
+-
+1.4739459
+Tutti i cinema
+/html/*[2]/*[3]/*[1]/*[2]/*[2]/*[2]/*[2]/*[1]/*[4]/*[1]
+-
+0.6667206
+Film
+/html/*[2]/*[3]/*[1]/*[2]/*[2]/*[2]/*[2]/*[1]/*[3]/*[1]/*[1]
+__________________
+Prenotazioni film
+---
+-
+1.0481106
+Film
+/html/*[2]/*[3]/*[1]/*[2]/*[2]/*[2]/*[2]/*[1]/*[3]/*[1]/*[1]
+__________________
+Al Cinema
+---
+-
+0.91367733
+Trova Cinema
+/html/*[2]/*[3]/*[1]/*[2]/*[2]/*[2]/*[1]
+-
+0.7309419
+Tutti i cinema
+/html/*[2]/*[3]/*[1]/*[2]/*[2]/*[2]/*[2]/*[1]/*[4]/*[1]
+-
+0.5507865
+Al posto tuo
+/html/*[2]/*[3]/*[1]/*[2]/*[2]/*[3]/*[3]/*[4]/*[2]/a
+__________________
+Al Cinema 
+---
+-
+0.91367733
+Trova Cinema
+/html/*[2]/*[3]/*[1]/*[2]/*[2]/*[2]/*[1]
+-
+0.7309419
+Tutti i cinema
+/html/*[2]/*[3]/*[1]/*[2]/*[2]/*[2]/*[2]/*[1]/*[4]/*[1]
+-
+0.5507865
+Al posto tuo
+/html/*[2]/*[3]/*[1]/*[2]/*[2]/*[3]/*[3]/*[4]/*[2]/a
+__________________
+Al Cinema
+---
+-
+0.91367733
+Trova Cinema
+/html/*[2]/*[3]/*[1]/*[2]/*[2]/*[2]/*[1]
+-
+0.7309419
+Tutti i cinema
+/html/*[2]/*[3]/*[1]/*[2]/*[2]/*[2]/*[2]/*[1]/*[4]/*[1]
+-
+0.5507865
+Al posto tuo
+/html/*[2]/*[3]/*[1]/*[2]/*[2]/*[3]/*[3]/*[4]/*[2]/a
+__________________
+Café Society
+---
+-
+0.8718363
+Caf� Society
+/html/*[2]/*[3]/*[1]/*[2]/*[2]/*[3]/*[3]/*[3]/*[2]/a
+__________________
+Con
+---
+-
+0.74265075
+
+              Titolo
+              
+                
+                
+                  Inserisci il titolo con cui vuoi visualizzare il documento nella tua cartella di My24. Attenzione: non è possibile salvare due documenti uguali nella stessa cartella con lo stesso titolo
+                
+              
+            
+/html/*[2]/*[3]/*[1]/*[12]/*[1]/*[1]/*[1]/*[2]/*[1]/*[1]
+-
+0.74265075
+
+                  Inserisci il titolo con cui vuoi visualizzare il documento nella tua cartella di My24. Attenzione: non è possibile salvare due documenti uguali nella stessa cartella con lo stesso titolo
+                
+/html/*[2]/*[3]/*[1]/*[12]/*[1]/*[1]/*[1]/*[2]/*[1]/*[1]/*[1]/*[2]
+-
+0.52513343
+
+                  I tag sono le parole chiave con cui puoi ricercare e organizzare i tuoi documenti. Clicca sull'icona + per avere suggerimenti sui tag, sulla base di quelli che hai già utilizzato.
+                
+/html/*[2]/*[3]/*[1]/*[12]/*[1]/*[1]/*[1]/*[2]/*[4]/*[1]/*[1]/*[2]
+-
+0.52513343
+
+              Tag
+              
+                
+                
+                  I tag sono le parole chiave con cui puoi ricercare e organizzare i tuoi documenti. Clicca sull'icona + per avere suggerimenti sui tag, sulla base di quelli che hai già utilizzato.
+                
+              
+            
+/html/*[2]/*[3]/*[1]/*[12]/*[1]/*[1]/*[1]/*[2]/*[4]/*[1]
+__________________
+Angelo Amoroso d'Aragona
+---
+-
+0.6945217
+
+			
+				SCHEDA ARTISTA a cura di Cinematografo.it
+				
+				
+				
+				Angelo Amoroso D'Aragona
+				 
+				Nasce a BARI (Italia)
+					
+			
+			
+			BIOGRAFIA
+			Regista e sceneggiatore. Due cortometraggi, "Stesso desiderio" e "Frammento orfico", segnano il suo esordio alla regia nel 1993. In seguito lavora all'edizione di una serie di documentari a met� tra l'antropologia visuale e gli appunti filmici. Nel 2004 il suo corto "Il dio della pioggia" � presentato in concorso nella sezione "Corto cortissimo" alla 61. Mostra internazionale d'arte cinematografica di Venezia e nel 2006 vince il premio alla Migliore Regia del New York Short Film Festival.
+			
+			
+				FILMOGRAFIA					
+				
+									Regista
+													
+					Sceneggiatore
+								
+			
+			
+			
+				
+					[2004]Il dio della pioggia				
+			
+		
+/html/*[2]/*[3]/*[1]/*[2]/*[1]/*[3]
+__________________
+Il tuo voto 
+---
+-
+0.67314553
+Aggiungi il documento al tuo spazio My24 oppure accedi all'area >>
+/html/*[2]/*[3]/*[1]/*[12]/*[1]/*[1]/*[1]/*[1]/*[4]
+__________________
+Il tuo profilo
+---
+-
+0.67314553
+Aggiungi il documento al tuo spazio My24 oppure accedi all'area >>
+/html/*[2]/*[3]/*[1]/*[12]/*[1]/*[1]/*[1]/*[1]/*[4]
+__________________
+I migliori film
+---
+-
+0.6202603
+Film
+/html/*[2]/*[3]/*[1]/*[2]/*[2]/*[2]/*[2]/*[1]/*[3]/*[1]/*[1]
+__________________
+I migliori film
+---
+-
+0.6202603
+Film
+/html/*[2]/*[3]/*[1]/*[2]/*[2]/*[2]/*[2]/*[1]/*[3]/*[1]/*[1]
+__________________
+Film in Primo Piano 
+---
+-
+0.5426693
+Film
+/html/*[2]/*[3]/*[1]/*[2]/*[2]/*[2]/*[2]/*[1]/*[3]/*[1]/*[1]
+__________________

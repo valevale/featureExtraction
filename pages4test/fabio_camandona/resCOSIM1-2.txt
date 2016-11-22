@@ -1,0 +1,32 @@
+Fabio Camandona         
+---
+-
+1.0
+Fabio Camandona
+/html/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[1]/span/strong
+-
+1.0
+Fabio Camandona
+/html/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+__________________
+www.camandonapilolla.com
+---
+-
+1.0
+www.camandonapilolla.com
+/html/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[2]/a
+__________________
+Messaggio per Fabio Camandona
+---
+-
+0.6863651
+Fabio Camandona
+/html/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/p[1]/span/strong
+-
+0.6863651
+Fabio Camandona
+/html/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+__________________
+FujiFilm worldwide testimonial (X-Photographer). All pictures taken with mirrorless gears. Live in Tenerife and Italy. Studio CamandonaPilolla
+---
+__________________

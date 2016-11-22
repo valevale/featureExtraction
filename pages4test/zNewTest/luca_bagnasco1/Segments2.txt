@@ -1,0 +1,336 @@
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/a[1]
+ASSOC. TURISTICA CULTURALE PRO LOCO VOLPIANO
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/span[2]
+10088
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+Via S. Caterina 6 - 10088 Volpiano (TO)
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[2]/span[1]
+tel:
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[5]/ul[1]/li[1]/a
+Vigili Urbani
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+BAGNASCO LUCA
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[5]/ul[1]/li[5]/a
+Agenzia delle Entrate
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[6]/span[2]
+M122
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/span[2]
+TO
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[1]/span[2]
+Piemonte
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+Volpiano (TO)
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[1]/a
+Volpiano (2)
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/div[1]/span[1]
+45.19920
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+
+           Comune di 
+           Volpiano
+          
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[5]/ul[1]/li[4]/a
+Farmacie
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[5]/ul[1]/li[2]/a
+ASL
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[2]
+10088
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/div[1]/span[2]
+7.77920
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+BAGNASCO
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/span[2]
+7.77631
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[2]/span[1]
+tel:
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/div[1]/span[1]
+45.20173
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+Via Bertetti M. 4 - 10088 Volpiano (TO)
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[4]/span[2]
+011
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+
+           Altri 
+           BAGNASCO in zona 
+          
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]
+45.20674
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+Volpiano (TO)
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[5]/span[2]
+001314
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[2]/span[2]
+011 9884131
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[5]/a
+Torino (13)
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[6]/a
+Pino Torinese (1)
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[5]/ul[1]/li[3]/a
+Ospedali
+________________________________________________________________________
+/html/body[1]
+BAGNASCO LUCA - Via S. Caterina 6 - 10088 Volpiano (TO)45.206747.77631 | PagineBianche                                 
+ 
+  
+   
+    
+    
+    
+    
+    
+     
+     
+      
+      
+       
+       
+        
+         
+        
+       
+       
+      
+      
+       
+        
+        
+         
+          
+          
+         
+         
+        
+        
+        
+         
+          
+           Altri 
+           BAGNASCO in zona 
+          
+          
+           Volpiano (2)
+           Chivasso (2)
+           Venaria Reale (1)
+           Verolengo (1)
+           Torino (13)
+           Pino Torinese (1)
+          
+         
+         
+          
+           Comune di 
+           Volpiano
+          
+          
+           
+            
+            Piemonte
+           
+           
+            
+            TO
+           
+           
+            
+            10088
+           
+           
+            
+            011
+           
+           
+            
+            001314
+           
+           
+            
+            M122
+           
+          
+         
+         
+         
+          
+          
+           ASSOC. TURISTICA CULTURALE PRO LOCO VOLPIANO
+            
+             
+              Via Bertetti M. 4 - 10088 Volpiano (TO)
+              
+               45.19920
+               7.77920
+              
+             
+            
+            
+             tel: 
+             011 9884131
+            
+           BANCA SELLA SPA
+            
+             
+              Via Umberto I 11/13 - 10088 Volpiano (TO)
+              
+               45.20173
+               7.77715
+              
+             
+            
+            
+             tel: 
+             011 9951480
+            
+           
+         
+         
+          
+          
+           Vigili Urbani
+           ASL
+           Ospedali
+           Farmacie
+           Agenzia delle Entrate
+           Motorizzazione Civile
+          
+         
+        
+        
+      
+      
+       
+        BAGNASCO LUCA
+        
+        
+         
+          
+           Via S. Caterina 6 - 10088 Volpiano (TO)
+           
+            45.20674
+            7.77631
+           
+           
+         
+         
+          tel: 011 9884498
+         
+        
+        
+       
+       
+        
+         
+          
+           
+           
+           
+          
+         
+         
+        
+       
+       
+       
+      
+       
+      
+     
+    
+    
+    
+   
+  
+   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+                      
+              
+     
+        
+
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[5]/ul[1]/li[6]/a
+Motorizzazione Civile
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[2]/span[2]
+011 9951480
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[2]
+10088
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[1]
+Via Bertetti M. 4
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[3]/a
+Venaria Reale (1)
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[4]/a
+Verolengo (1)
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+Via Umberto I 11/13 - 10088 Volpiano (TO)
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[1]
+Via Umberto I 11/13
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+Via S. Caterina 6
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[2]/a
+Chivasso (2)
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[2]/span[1]
+tel: 011 9884498
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/a[1]
+BANCA SELLA SPA
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/div[1]/span[2]
+7.77715
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+Volpiano (TO)
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+10088
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+Volpiano
+________________________________________________________________________

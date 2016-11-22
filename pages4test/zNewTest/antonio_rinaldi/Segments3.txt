@@ -1,0 +1,500 @@
+/html/body[1]/div[2]/div[16]/ul[1]/li[1]/a[1]
+Tutti i comuni di Foggia
+________________________________________________________________________
+/html/body[1]/div[2]/div[9]/ul[1]/li[7]/a[1]
+San Marco in Lamis
+________________________________________________________________________
+/html/body[1]/div[2]/ul[1]/li[3]/a/span[1]
+ Professionisti - studi e servizi ed associazioni di interesse... 
+________________________________________________________________________
+/html/body[1]/div[2]/div[16]/ul[1]/li[2]/ul[1]/li[10]/a
+Ischitella
+________________________________________________________________________
+/html/body[1]/div[2]/div[16]/ul[1]/li[3]/ul[1]/li[6]/a
+Taranto
+________________________________________________________________________
+/html/body[1]/div[2]/div[4]/div[1]/h3[1]/p[1]/span[2]
+71043
+________________________________________________________________________
+/html/body[1]/div[2]/div[9]/ul[1]/li[4]/a[1]
+San Giovanni Rotondo
+________________________________________________________________________
+/html/body[1]/div[2]/div[7]/ul[2]/li[2]/div[1]/div[1]/p[1]/span[2]
+71043
+________________________________________________________________________
+/html/body[1]/div[2]/div[7]/ul[1]/li[2]/div[1]/a[1]
+Dottori commercialisti - studi
+________________________________________________________________________
+/html/body[1]/div[2]/div[16]/ul[1]/li[3]/ul[1]/li[2]/a
+Barletta
+________________________________________________________________________
+/html/body[1]/div[2]/div[16]/ul[1]/li[2]/ul[1]/li[12]/a
+Trinitapoli
+________________________________________________________________________
+/html/body[1]/div[2]/div[8]/ul[1]/li[1]/a
+Consulenza amministrativa, fiscale e tributaria
+________________________________________________________________________
+/html/body[1]/div[2]/div[4]/div[1]/h3[1]/p[1]/span[1]
+Corso Manfredi , 247
+________________________________________________________________________
+/html/body[1]/div[2]/div[7]/ul[2]/li[2]/div[1]/a[1]
+Revisione e certificazione bilanci
+________________________________________________________________________
+/html/body[1]/div[2]/div[16]/ul[1]/li[2]/ul[1]/li[8]/a
+Rignano Garganico
+________________________________________________________________________
+/html/body[1]/div[2]/div[8]/ul[1]/li[5]/a
+Avvocati - studi
+________________________________________________________________________
+/html/body[1]/div[2]/ul[1]/li[2]/a/span[1]
+ Pubblicita' e servizi per le aziende 
+________________________________________________________________________
+/html/body[1]/div[2]/div[16]/ul[1]/li[3]/ul[1]/li[4]/a
+Foggia
+________________________________________________________________________
+/html/body[1]/div[2]/div[16]/ul[1]/li[2]/ul[1]/li[11]/a
+Rodi Garganico
+________________________________________________________________________
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/span[1]/a[1]/span[2]
+Manfredonia
+________________________________________________________________________
+/html/body[1]/div[2]/div[16]/ul[1]/li[2]/ul[1]/li[4]/a
+Zapponeta
+________________________________________________________________________
+/html/body[1]/div[2]/div[7]/ul[2]/li[1]/div[1]/div[1]/p[1]/span[3]
+MANFREDONIA (FG)
+________________________________________________________________________
+/html/body[1]/div[2]/div[6]/a[1]/span[3]
+Corso Manfredi, MANFREDONIA
+________________________________________________________________________
+/html/body[1]/div[2]/ul[1]/li[4]/a/span[1]
+ Dottori commercialisti - studi 
+________________________________________________________________________
+/html/body[1]/div[2]/div[16]/ul[1]/li[2]/ul[1]/li[2]/a
+Mattinata
+________________________________________________________________________
+/html/body[1]/div[2]/div[7]/ul[1]/li[2]/div[1]/h3[1]/a
+Di Vito Francesco Dr. Antonio
+________________________________________________________________________
+/html/body[1]/div[2]/div[16]/ul[1]/li[2]/ul[1]/li[5]/a
+Carpino
+________________________________________________________________________
+/html/body[1]/div[2]/div[8]/h4[1]
+Categorie correlate
+________________________________________________________________________
+/html/body[1]/div[2]/div[9]/ul[1]/li[10]/a[1]
+Vico del Gargano
+________________________________________________________________________
+/html/body[1]/div[2]/div[1]/div[1]/div[2]/span[1]/span[1]/a[1]
+Manfredonia
+________________________________________________________________________
+/html/body[1]/div[2]/div[7]/h5[1]
+Attività simili a MANFREDONIA e nei dintorni
+________________________________________________________________________
+/html/body[1]/div[2]/div[7]/ul[1]/li[1]/div[1]/div[1]/p[1]/span[1]
+Via Tulliano, 14
+________________________________________________________________________
+/html/body[1]/div[2]/div[7]/ul[2]/li[1]/div[1]/div[1]/p[1]/span[2]
+71043
+________________________________________________________________________
+/html/body[1]/div[2]/div[9]/ul[1]/li[2]
+Dottori commercialisti - studi a Monte Sant'Angelo
+________________________________________________________________________
+/html/body[1]/div[2]/div[16]/ul[1]/li[2]/ul[1]/li[7]/a
+Cagnano Varano
+________________________________________________________________________
+/html/body[1]/div[2]/div[9]/ul[1]/li[4]
+Dottori commercialisti - studi a San Giovanni Rotondo
+________________________________________________________________________
+/html/body[1]/div[2]/div[9]/ul[1]/li[1]/a[1]
+Manfredonia
+________________________________________________________________________
+/html/body[1]/div[2]/div[8]/ul[1]/li[11]/a
+Consulenza di direzione ed organizzazione aziendale
+________________________________________________________________________
+/html/body[1]/div[2]/div[16]/ul[1]/li[2]/ul[1]/li[3]/a
+San Giovanni Rotondo
+________________________________________________________________________
+/html/body[1]/div[2]/div[7]/ul[1]/li[1]/div[1]/a[1]
+Dottori commercialisti - studi
+________________________________________________________________________
+/html/body[1]/div[2]/div[7]/ul[2]/li[2]/div[1]/div[1]/p[1]/span[1]
+10/12, V. Castellana
+________________________________________________________________________
+/html/body[1]/div[2]/div[16]/ul[1]/li[2]/ul[1]/li[13]/a
+Margherita Di Savoia
+________________________________________________________________________
+/html/body[1]/div[2]/div[8]/ul[1]/li[7]/a
+Revisione e certificazione bilanci
+________________________________________________________________________
+/html/body[1]/div[2]/div[9]/ul[1]/li[1]
+Dottori commercialisti - studi a Manfredonia
+________________________________________________________________________
+/html/body[1]/div[2]/div[7]/ul[1]/li[1]/div[1]/div[1]/p[1]/span[2]
+71043
+________________________________________________________________________
+/html/body[1]/div[2]/div[6]/a[1]
+Trova DOTTORI COMMERCIALISTI - STUDI vicino a Corso Manfredi, MANFREDONIA
+________________________________________________________________________
+/html/body[1]/div[2]/div[7]/ul[2]/li[1]/div[1]/div[1]/p[1]/span[1]
+166, C. Manfredi
+________________________________________________________________________
+/html/body[1]
+°°°RINALDI DR. ANTONIO - Manfredonia, Corso Manfredi , 247                                 
+  
+ 
+  
+  
+        
+ 
+   
+    
+    
+    
+      Manfredonia  
+      
+       
+       
+        
+        
+        
+        
+        
+        
+        
+       
+       
+     
+    
+      
+        17  
+     
+    
+   
+   
+    
+     
+      
+      
+         Manfredonia   
+      
+     
+     
+     
+    
+     
+   
+   
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+     
+    
+    
+   
+    
+  
+   
+    Pubblicita' e servizi per le aziende   
+    Professionisti - studi e servizi ed associazioni di interesse...   
+    Dottori commercialisti - studi   
+  
+   
+   
+    
+    
+    
+    
+    
+       
+   
+  
+  RINALDI DR. ANTONIO 
+   
+   
+  
+  
+   DOTTORI COMMERCIALISTI - STUDI  
+   RINALDI DR. ANTONIO  
+   
+     Corso Manfredi , 247 71043 MANFREDONIA (FG)    0884 516818    
+   
+   
+  
+   
+    
+    
+    
+   
+  
+  Trova DOTTORI COMMERCIALISTI - STUDI vicino a Corso Manfredi, MANFREDONIA 
+    
+  
+  Attività simili a MANFREDONIA e nei dintorni 
+   
+     
+     
+     Dottori commercialisti - studi 
+     Studio Commercialista Ognissanti Raffaele 
+      
+       Via Tulliano, 14 71043 MANFREDONIA (FG)  
+      
+      
+     
+     
+     Dottori commercialisti - studi 
+     Di Vito Francesco Dr. Antonio 
+      
+       190, V. Foggia 71013 SAN GIOVANNI ROTONDO (FG)  
+      
+      
+   
+   
+    
+     
+     Avvocati - studi 
+     Aulisa Avv. Pasquale Pietro 
+      
+       166, C. Manfredi 71043 MANFREDONIA (FG)  
+      
+      
+     
+     
+     Revisione e certificazione bilanci 
+     Centro Revisioni Simonauto 
+      
+       10/12, V. Castellana 71043 MANFREDONIA (FG)  
+      
+      
+   
+    
+  
+  Categorie correlate 
+   
+   Consulenza amministrativa, fiscale e tributaria 
+   Elaborazione dati - servizio conto terzi 
+   Ragionieri - studi 
+   Consulenza commerciale e finanziaria 
+   Avvocati - studi 
+   Consulenza del lavoro 
+   Revisione e certificazione bilanci 
+   Paghe, stipendi e contributi 
+   Notai - studi 
+   Consulenze speciali 
+   Consulenza di direzione ed organizzazione aziendale 
+   
+    
+  
+  Cerca nelle vicinanze 
+   
+   Dottori commercialisti - studi a Manfredonia 
+   Dottori commercialisti - studi a Monte Sant'Angelo 
+   Dottori commercialisti - studi a Mattinata 
+   Dottori commercialisti - studi a San Giovanni Rotondo 
+   Dottori commercialisti - studi a Zapponeta 
+   Dottori commercialisti - studi a Carpino 
+   Dottori commercialisti - studi a San Marco in Lamis 
+   Dottori commercialisti - studi a Cagnano Varano 
+   Dottori commercialisti - studi a Rignano Garganico 
+   Dottori commercialisti - studi a Vico del Gargano 
+   
+      
+    
+    
+    
+       
+  
+  
+   
+   
+  
+   
+   
+    Tutti i comuni di Foggia  
+     
+     
+     Monte Sant'Angelo 
+     Mattinata 
+     San Giovanni Rotondo 
+     Zapponeta 
+     Carpino 
+     San Marco In Lamis 
+     Cagnano Varano 
+     Rignano Garganico 
+     Vico Del Gargano 
+     Ischitella 
+     Rodi Garganico 
+     Trinitapoli 
+     Margherita Di Savoia 
+      
+    Puglia: 
+     
+     Bari 
+     Barletta 
+     Brindisi 
+     Foggia 
+     Lecce 
+     Taranto 
+      
+   
+  
+  
+   
+   
+  
+  
+   
+  
+  
+    
+                
+ 
+  
+       
+
+________________________________________________________________________
+/html/body[1]/div[2]/div[9]/ul[1]/li[3]/a[1]
+Mattinata
+________________________________________________________________________
+/html/body[1]/div[2]/div[9]/ul[1]/li[9]
+Dottori commercialisti - studi a Rignano Garganico
+________________________________________________________________________
+/html/body[1]/div[2]/div[8]/ul[1]/li[8]/a
+Paghe, stipendi e contributi
+________________________________________________________________________
+/html/body[1]/div[2]/div[7]/ul[1]/li[2]/div[1]/div[1]/p[1]/span[3]
+SAN GIOVANNI ROTONDO (FG)
+________________________________________________________________________
+/html/body[1]/div[2]/div[9]/ul[1]/li[5]/a[1]
+Zapponeta
+________________________________________________________________________
+/html/body[1]/div[2]/div[4]/h2[1]/a[1]
+DOTTORI COMMERCIALISTI - STUDI
+________________________________________________________________________
+/html/body[1]/div[2]/div[9]/ul[1]/li[8]/a[1]
+Cagnano Varano
+________________________________________________________________________
+/html/body[1]/div[2]/div[16]/ul[1]/li[3]/ul[1]/li[3]/a
+Brindisi
+________________________________________________________________________
+/html/body[1]/div[2]/div[8]/ul[1]/li[10]/a
+Consulenze speciali
+________________________________________________________________________
+/html/body[1]/div[2]/div[7]/ul[2]/li[1]/div[1]/h3[1]/a
+Aulisa Avv. Pasquale Pietro
+________________________________________________________________________
+/html/body[1]/div[2]/div[16]/ul[1]/li[2]/ul[1]/li[6]/a
+San Marco In Lamis
+________________________________________________________________________
+/html/body[1]/div[2]/div[16]/ul[1]/li[2]/ul[1]/li[1]/a
+Monte Sant'Angelo
+________________________________________________________________________
+/html/body[1]/div[2]/div[9]/ul[1]/li[7]
+Dottori commercialisti - studi a San Marco in Lamis
+________________________________________________________________________
+/html/body[1]/div[2]/div[4]/div[1]/h3[1]/p[1]/span[3]
+MANFREDONIA
+________________________________________________________________________
+/html/body[1]/div[2]/div[9]/ul[1]/li[3]
+Dottori commercialisti - studi a Mattinata
+________________________________________________________________________
+/html/body[1]/div[2]/div[9]/ul[1]/li[9]/a[1]
+Rignano Garganico
+________________________________________________________________________
+/html/body[1]/div[2]/div[7]/ul[2]/li[1]/div[1]/a[1]
+Avvocati - studi
+________________________________________________________________________
+/html/body[1]/div[2]/div[3]/span[1]
+RINALDI DR. ANTONIO
+________________________________________________________________________
+/html/body[1]/div[2]/div[7]/ul[1]/li[2]/div[1]/div[1]/p[1]/span[2]
+71013
+________________________________________________________________________
+/html/body[1]/div[2]/div[4]/div[1]/h3[1]/p[1]
+ Corso Manfredi , 247 71043 MANFREDONIA (FG)  
+________________________________________________________________________
+/html/body[1]/div[2]/div[8]/ul[1]/li[6]/a
+Consulenza del lavoro
+________________________________________________________________________
+/html/body[1]/div[2]/div[8]/ul[1]/li[4]/a
+Consulenza commerciale e finanziaria
+________________________________________________________________________
+/html/body[1]/div[2]/div[7]/ul[1]/li[1]/div[1]/h3[1]/a
+Studio Commercialista Ognissanti Raffaele
+________________________________________________________________________
+/html/body[1]/div[2]/div[7]/ul[1]/li[1]/div[1]/div[1]/p[1]/span[3]
+MANFREDONIA (FG)
+________________________________________________________________________
+/html/body[1]/div[2]/div[8]/ul[1]/li[2]/a
+Elaborazione dati - servizio conto terzi
+________________________________________________________________________
+/html/body[1]/div[2]/div[9]/h4[1]
+Cerca nelle vicinanze
+________________________________________________________________________
+/html/body[1]/div[2]/div[8]/ul[1]/li[9]/a
+Notai - studi
+________________________________________________________________________
+/html/body[1]/div[2]/div[9]/ul[1]/li[8]
+Dottori commercialisti - studi a Cagnano Varano
+________________________________________________________________________
+/html/body[1]/div[2]/div[16]/ul[1]/li[2]/ul[1]/li[9]/a
+Vico Del Gargano
+________________________________________________________________________
+/html/body[1]/div[2]/div[16]/ul[1]/li[3]/ul[1]/li[5]/a
+Lecce
+________________________________________________________________________
+/html/body[1]/div[2]/div[9]/ul[1]/li[10]
+Dottori commercialisti - studi a Vico del Gargano
+________________________________________________________________________
+/html/body[1]/div[2]/div[16]/ul[1]/li[3]/ul[1]/li[1]/a
+Bari
+________________________________________________________________________
+/html/body[1]/div[2]/div[7]/ul[1]/li[2]/div[1]/div[1]/p[1]/span[1]
+190, V. Foggia
+________________________________________________________________________
+/html/body[1]/div[2]/div[9]/ul[1]/li[6]/a[1]
+Carpino
+________________________________________________________________________
+/html/body[1]/div[2]/div[6]/a[1]/span[2]
+DOTTORI COMMERCIALISTI - STUDI
+________________________________________________________________________
+/html/body[1]/div[2]/div[4]/div[1]/h3[1]/p[2]
+ 0884 516818 
+________________________________________________________________________
+/html/body[1]/div[2]/div[16]/ul[1]/li[3]/h4[1]
+Puglia:
+________________________________________________________________________
+/html/body[1]/div[2]/div[8]/ul[1]/li[3]/a
+Ragionieri - studi
+________________________________________________________________________
+/html/body[1]/div[2]/div[9]/ul[1]/li[2]/a[1]
+Monte Sant'Angelo
+________________________________________________________________________
+/html/body[1]/div[2]/div[4]/h1[1]
+ RINALDI DR. ANTONIO 
+________________________________________________________________________
+/html/body[1]/div[2]/div[7]/ul[2]/li[2]/div[1]/h3[1]/a
+Centro Revisioni Simonauto
+________________________________________________________________________
+/html/body[1]/div[2]/div[9]/ul[1]/li[6]
+Dottori commercialisti - studi a Carpino
+________________________________________________________________________
+/html/body[1]/div[2]/div[1]/div[1]/div[4]/a[1]/span[3]
+17
+________________________________________________________________________
+/html/body[1]/div[2]/div[9]/ul[1]/li[5]
+Dottori commercialisti - studi a Zapponeta
+________________________________________________________________________
+/html/body[1]/div[2]/div[7]/ul[2]/li[2]/div[1]/div[1]/p[1]/span[3]
+MANFREDONIA (FG)
+________________________________________________________________________
+/html/body[1]/div[2]/div[4]/div[1]/h3[1]/p[1]/span[4]
+(FG)
+________________________________________________________________________

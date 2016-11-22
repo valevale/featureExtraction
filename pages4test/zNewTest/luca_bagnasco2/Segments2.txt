@@ -1,0 +1,1437 @@
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[5]
+
+              Full-text available · Article · Mar 2012 · Biochemical and Biophysical Research Communications 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[8]/div[4]
+ 
+             Alessia Grozio · 
+             Enrico Millo · 
+             Lucrezia Guida · [...] · 
+             Elena Zocchi 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[19]/div[4]/a[4]
+S Parodi
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[3]/div[2]/p[1]/strong[1]
+ Michele Baroffio 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[3]/h5[1]/a[1]/span[1]
+Dynamic Simulations of Pathways Downstream of TGFβ, Wnt and EGF-Family Growth Factors, in Colorectal Cancer, including Mutations and Treatments with Onco-Protein Inhibitors
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[3]/ul[1]/li[4]/div[2]/p[1]/strong[1]
+ Laura Gribaldo 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[3]/ul[1]/li[4]/div[2]/p[2]
+ European Commission 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/ul[1]/li[2]/div[2]/a[1]/span[1]/span[1]
+25
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[13]/div[3]/h5[1]/a[1]/span[1]
+Internalization via Antennapedia protein transduction domain of an scFv antibody toward c-Myc protein
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[18]/div[3]/h5[1]/a[1]/span[1]
+A retro-inverso peptide homologous to helix 1 of c-Myc is a potent and specific inhibitor of proliferation in different cellular systems
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[3]/h5[1]/span[1]/span[1]/a
+(13)
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[11]/div[4]/a[4]
+Cecilia Balbi
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[15]/div[3]/h5[1]/a[1]/span[1]
+Sequence specific peptidomimetic molecules inhibitors of a protein-protein interaction at the helix 1 level of c-Myc
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[1]/div[2]/p[1]/strong[1]
+ Irene Caffa 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[4]/a[3]
+Cristina De Ambrosi
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[3]/h5[1]/a[1]/span[1]
+Selection and Characterization of Single Stranded DNA Aptamers for the Hormone Abscisic Acid
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[3]/ul[1]/li[9]/div[2]/p[1]/strong[1]
+ Isabella Baldissarro 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[12]/div[4]/a[4]
+Silvio Parodi
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[16]/div[4]/a[3]
+M P Pescarolo
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[12]/div[1]/div[1]/div[1]/div[1]
+
+                 Available from: Antonio Daga 
+               
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[7]/div[3]/h5[1]/a[1]/span[1]
+Binding of abscisic acid to human LANCL2
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[11]/div[4]
+ 
+             Paola Barboro · 
+             Cristina D'Arrigo · 
+             Erica Repaci · [...] · 
+             Cecilia Balbi 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[3]/h5[1]/a[1]
+Enrico Millo
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/div[1]/div[1]/div[1]/div[1]
+
+                 Available from: Antonio Daga 
+               
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[3]/ul[1]/li[6]/div[2]/p[1]/strong[1]
+ Yari Ciribilli 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[13]/div[1]/div[1]/div[1]/div[1]
+
+                 Available from: Luca Bagnasco 
+               
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[3]/h5[1]/span[1]
+   (13) 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/h2[1]
+ Molecular Biology, Cancer Research 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[3]/ul[1]/li[7]/div[2]/p[1]/strong[1]
+ Mario Roberto Sertoli 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/div[4]
+ 
+             Raffaella Ponassi · 
+             Barbara Biasotti · 
+             Valeria Tomati · [...] · 
+             Silvio Parodi 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[8]/div[2]/p[1]/strong[1]
+ Cristina De Ambrosi 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[17]/div[4]/a[4]
+Silvio Parodi
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[17]/div[4]/a[1]
+Maria Pia Pescarolo
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/span[1]
+ 27.28 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[10]/div[2]/p[1]/strong[1]
+ Vito Brusasco 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[8]/div[4]/a[3]
+Lucrezia Guida
+________________________________________________________________________
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[3]/div[1]/div[1]
+
+           Email
+           
+           Password
+           Forgot password?
+           
+           Keep me logged in
+           
+           
+          
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/div[4]/a[4]
+Elena Zocchi
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[6]/div[5]
+
+              Article · Mar 2012 · Current cancer drug targets 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/div[3]/h5[1]/a[1]/span[1]
+Corrigendum to “Binding of abscisic acid to human LANCL2” [Biochem. Biophys. Res. Commun. 415 (2011) 390–395]
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[7]/div[4]/a[4]
+Elena Zocchi
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[15]/div[4]
+ 
+             Erika Nieddu · 
+             A Melchiori · 
+             M P Pescarolo · [...] · 
+             S Parodi 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[12]/div[4]
+ 
+             Raffaella Ponassi · 
+             Barbara Biasotti · 
+             Valeria Tomati · [...] · 
+             Silvio Parodi 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[5]
+
+              Full-text available · Article · Aug 2013 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[17]/div[5]
+
+              Article · Apr 2001 · Nature Genetics 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[18]/div[4]/a[4]
+S Parodi
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[4]/a[4]
+Elena Zocchi
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[2]/div[2]/p[1]/strong[1]
+ Zoppoli Gabriele 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[9]/div[5]
+
+              Article · Mar 2010 · Current Cancer Drug Targets 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/div[1]/div[1]/div[1]
+
+                 Available from: Cristina De Ambrosi 
+               
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[14]/div[4]
+ 
+             L Bagnasco · 
+             L Tortolina · 
+             B Biasotti · [...] · 
+             S Parodi 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[6]/div[2]/p[1]/strong[1]
+ Lorenzo Gemignani 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[4]/div[2]/p[2]
+ Italian National Research Council 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[15]/div[4]/a[4]
+S Parodi
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/div[4]/a[3]
+Valeria Tomati
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[19]/div[4]/a[3]
+M P Pescarolo
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/ul[1]/li[5]/div[2]/a[1]/span[1]
+ Citations · 384 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[4]
+ 
+             Alessia Grozio · 
+             Enrico Millo · 
+             Lucrezia Guida · [...] · 
+             Elena Zocchi 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/div[3]/h5[1]/a[1]
+Gianluca Damonte
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/div[3]/h5[1]/a[1]/span[1]
+Erratum to Ponassi R, et al. Cell Cycle Volume 7, Issue 20; pp. 3211-24
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[13]/div[4]/a[3]
+B Biasotti
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[4]
+ 
+             Alessia Grozio · 
+             Victor M Gonzalez · 
+             Enrico Millo · [...] · 
+             Elena Zocchi 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[16]/div[3]/h5[1]/a[1]/span[1]
+Signaling proteins as innovative targets for antineoplastic therapy: Our experience with the signaling protein c-Myc
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[6]/div[4]/a[4]
+A Ballestrero
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/div[5]
+
+              Full-text available · Article · Mar 2012 · Biochemical and Biophysical Research Communications 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[9]/div[3]/h5[1]/a[1]/span[1]
+Ras-Induced Resistance to Lapatinib is Overcome by MEK Inhibition
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/div[4]/a[4]
+Silvio Parodi
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[16]/div[4]
+ 
+             G Cimoli · 
+             L Bagnasco · 
+             M P Pescarolo · [...] · 
+             S Parodi 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[9]/div[2]/p[1]/strong[1]
+ Domenico Baldi 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[3]/ul[1]/li[3]/div[2]/p[1]/strong[1]
+ Zoppoli Gabriele 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[4]/a[1]
+Alessia Grozio
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[14]/div[5]
+
+              Full-text available · Article · May 2007 · The FASEB Journal 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/ul[1]/li[4]/div[2]/a[1]/span[1]/span[1]
+57
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/div[1]/div[1]
+
+                 Available from: Cristina D'Arrigo 
+               
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/div[5]
+
+              Full-text available · Article · Sep 2012 · Cell cycle (Georgetown, Tex.) 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[6]/div[4]
+ 
+             L Bagnasco · 
+             D Piras · 
+             S Parodi · [...] · 
+             A Ballestrero 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[13]/div[4]
+ 
+             C Avignolo · 
+             L Bagnasco · 
+             B Biasotti · [...] · 
+             S Parodi 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/ul[1]/li[2]/div[2]/a[1]/span[1]
+ Research · 25 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/h1[1]/a[1]
+Luca Bagnasco
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[15]/div[1]/div[1]/div[1]/div[1]
+
+                 Available from: Giorgio Fassina 
+               
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[7]/div[4]
+ 
+             Laura Sturla · 
+             Chiara Fresia · 
+             Lucrezia Guida · [...] · 
+             Elena Zocchi 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[17]/div[3]/h5[1]/a[1]/span[1]
+Innovative leads for antineoplastic drugs suggested by a more intimate familiarity with structural motifs of oncoproteins
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[19]/div[5]
+
+              Full-text available · Article · Sep 1998 · Cancer Research 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[10]/div[4]
+ 
+             Gabriele Zoppoli · 
+             Eva Moran · 
+             Debora Soncini · [...] · 
+             Alessio Nencioni 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[5]
+
+              Full-text available · Chapter · Oct 2012 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[3]/ul[1]/li[5]/div[2]/p[2]
+ IRCCS Azienda Ospedaliera Universitaria San Martino di Genova 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/div[1]/div[1]/div[1]/div[1]
+
+                 Available from: Enrico Millo 
+               
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[5]/div[2]/p[2]
+ European Commission 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[3]/ul[1]/li[8]/div[2]/p[1]/strong[1]
+ Roberto Ceccarelli 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[12]/div[4]/a[3]
+Valeria Tomati
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[4]
+ 
+             Lorenzo Tortolina · 
+             Nicoletta Castagnino · 
+             Cristina De Ambrosi · [...] · 
+             Gandolﬁ (eds 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[3]/h5[1]/span[1]
+Chapter:
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[18]/div[5]
+
+              Full-text available · Article · Feb 2001 · The FASEB Journal 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/ul[1]/li[5]/div[2]/a[1]/span[1]/span[1]
+384
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[15]/div[5]
+
+              Full-text available · Article · May 2005 · The FASEB Journal 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[4]/a[2]
+Victor M Gonzalez
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[20]/div[4]/a[1]
+Maria Grazia Sacco
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[4]/div[2]/p[1]/strong[1]
+ Paolo Vezzoni 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[3]/h4[1]/strong[1]/a[1]
+ 57 Followers 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[10]/div[4]/a[4]
+Alessio Nencioni
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[14]/div[3]/h5[1]/a[1]/span[1]
+Inhibition of a protein-protein interaction between NI1 and c-MTC by small peptidomimetic molecules inspired by helix-1 of c-MYC: identification of a new target of potential antineoplastic interest
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[15]/div[4]/a[3]
+M P Pescarolo
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[19]/div[4]
+ 
+             L Giorello · 
+             L Clerico · 
+             M P Pescarolo · [...] · 
+             S Parodi 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[3]/h5[1]/a[1]
+Nicoletta Castagnino
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[9]/div[4]/a[4]
+A. Nencioni
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[7]/div[4]/a[3]
+Lucrezia Guida
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[20]/div[5]
+
+              Article · Feb 1998 · Breast Cancer Research and Treatment 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[20]/div[3]/h5[1]/a[1]/span[1]
+Establishment and characterization of a new mammary adenocarcinoma cell line derived from MMTV neu transgenic mice
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[4]/a[3]
+Lucrezia Guida
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[5]/div[2]/p[1]/strong[1]
+ Laura Gribaldo 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/h4[1]/strong[1]/a[1]/span[1]
+52
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[4]/a[4]
+Gandolﬁ (eds
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[13]/div[4]/a[4]
+S Parodi
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[9]/div[4]/a[3]
+D. Soncini
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[12]/div[3]/h5[1]/a[1]/span[1]
+A novel Bim-BH3-derived Bcl-X(L) inhibitor Biochemical characterization, in vitro, in vivo and ex-vivo anti-leukemic activity
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[10]/div[4]/a[3]
+Debora Soncini
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[10]/div[3]/h5[1]/a[1]/span[1]
+Ras-Induced Resistance to Lapatinib is Overcome by MEK Inhibition
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[18]/div[1]/div[1]/div[1]/div[1]
+
+                 Available from: Luca Bagnasco 
+               
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[20]/div[4]
+ 
+             Maria Grazia Sacco · 
+             Laura Gribaldo · 
+             Ottavia Barbieri · [...] · 
+             Paolo Vezzoni 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[14]/div[1]/div[1]/div[1]/div[1]
+
+                 Available from: Luca Bagnasco 
+               
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[17]/div[4]
+ 
+             Maria Pia Pescarolo · 
+             Luca Bagnasco · 
+             Davide Malacarne · [...] · 
+             Silvio Parodi 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/div[4]
+ 
+             Laura Sturla · 
+             Chiara Fresia · 
+             Lucrezia Guida · [...] · 
+             Elena Zocchi 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/div[1]/div[1]/div[1]
+
+                 Available from: Enrico Millo 
+               
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/h4[1]/strong[1]/a[1]
+ 52 Following 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[4]/a[3]
+Enrico Millo
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[14]/div[4]/a[4]
+S Parodi
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[3]/h5[1]/a[1]/span[1]
+Corrigendum to “Functional characterization of a synthetic abscisic acid analog with anti-inflammatory activity on human granulocytes and monocytes” [Biochem. Biophys. Res. Commun. 415 (2011) 696–701]
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[3]/ul[1]/li[6]/div[2]/p[2]
+ Università degli Studi di Trento 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[7]/div[5]
+
+              Article · Nov 2011 · Biochemical and Biophysical Research Communications 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/h3[1]
+25 publicationsby Luca Bagnasco
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/ul[1]/li[4]/div[2]/a[1]/span[1]
+ Followers · 57 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[3]/ul[1]/li[10]/div[2]/p[1]/strong[1]
+ Alice Benzini 
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[1]/div[2]/div[1]/p[1]
+Join now to keep up to date with Luca's latest work.
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[11]/div[3]/h5[1]/a[1]/span[1]
+Barboro P, D'Arrigo C, Repaci E, Bagnasco L, Orecchia P, Carnemolla B, Patrone E, Balbi CProteomic analysis of the nuclear matrix in the early stages of rat liver carcinogenesis: Identification of differentially expressed and MAR-binding proteins. Exp Cell Res 315: 226-239
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[13]/div[5]
+
+              Full-text available · Article · May 2008 · The FASEB Journal 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[3]/h4[1]/strong[1]/a[1]/span[1]
+57
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[11]/div[5]
+
+              Article · Jan 2009 · Experimental Cell Research 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[19]/div[1]/div[1]/div[1]/div[1]
+
+                 Available from: Luca Bagnasco 
+               
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[6]/div[3]/h5[1]/a[1]/span[1]
+Role of Angiogenesis Inhibitors in Colorectal Cancer: Sensitive and Insensitive Tumors
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[10]/div[5]
+
+              Article · Mar 2010 · Current cancer drug targets 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[8]/div[5]
+
+              Article · Nov 2011 · Biochemical and Biophysical Research Communications 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[18]/div[4]
+ 
+             M P Pescarolo · 
+             L Bagnasco · 
+             D Malacarne · [...] · 
+             S Parodi 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[4]/a[4]
+Elena Zocchi
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[3]/h5[1]/a[1]
+Silvio Parodi
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[12]/div[5]
+
+              Full-text available · Article · Nov 2008 · Cell cycle (Georgetown, Tex.) 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[9]/div[4]
+ 
+             G. Zoppoli · 
+             E. Moran · 
+             D. Soncini · [...] · 
+             A. Nencioni 
+            
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[3]/ul[1]/li[1]/div[2]/p[1]/strong[1]
+ Davide Visigalli 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[8]/div[3]/h5[1]/a[1]/span[1]
+Functional characterization of a synthetic abscisic acid analog with anti-inflammatory activity on human granulocytes and monocytes
+________________________________________________________________________
+/html/body[1]/div[1]/div[4]/p[3]
+rgreq-1e2bb59d70ae9f75c3f73471d6cdcb93
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[3]/ul[1]/li[2]/div[2]/p[1]/strong[1]
+ Nicola Bragazzi 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[19]/div[3]/h5[1]/a[1]/span[1]
+Inhibition of cancer cell growth and c-Myc transcriptional activity by a c-Myc helix 1-type peptide fused to an internalization sequence
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[6]/div[4]/a[3]
+S Parodi
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[18]/div[4]/a[1]
+M P Pescarolo
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[7]/div[2]/p[1]/strong[1]
+ Chiara Folli 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/ul[1]/li[8]/div[2]/p[2]
+ Ministero dell'Istruzione, dell'Università e della Ricerca 
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[5]/div[4]/a[3]
+Lucrezia Guida
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[14]/div[4]/a[3]
+B Biasotti
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[8]/div[4]/a[4]
+Elena Zocchi
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[20]/div[4]/a[4]
+Paolo Vezzoni
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[11]/div[4]/a[3]
+Erica Repaci
+________________________________________________________________________
+/html/body[1]
+Luca Bagnasco - Publications     
+ 
+  
+    
+     
+    
+     
+      
+       
+       
+           Luca Bagnasco 
+          
+        Molecular Biology, Cancer Research  
+        
+         
+         27.28  
+        
+       
+       
+       
+      
+     
+     
+     
+     
+      
+       
+        
+         
+          
+          
+           
+            
+             
+              
+               
+               
+                
+               
+                 Available from: Cristina D'Arrigo 
+                
+               
+              
+             
+             
+             
+                Selection and Characterization of Single Stranded DNA Aptamers for the Hormone Abscisic Acid   
+             
+             
+             Alessia Grozio · 
+             Victor M Gonzalez · 
+             Enrico Millo · [...] · 
+             Elena Zocchi 
+             
+            
+              Full-text available · Article · Aug 2013 
+             
+              
+            
+             
+              
+               
+               
+                
+               
+                 Available from: Cristina De Ambrosi 
+                
+               
+              
+             
+             
+             
+              Chapter:  Dynamic Simulations of Pathways Downstream of TGFβ, Wnt and EGF-Family Growth Factors, in Colorectal Cancer, including Mutations and Treatments with Onco-Protein Inhibitors   
+             
+             
+             Lorenzo Tortolina · 
+             Nicoletta Castagnino · 
+             Cristina De Ambrosi · [...] · 
+             Gandolﬁ (eds 
+             
+            
+              Full-text available · Chapter · Oct 2012 
+             
+              
+            
+             
+              
+               
+               
+                
+               
+                 Available from: Antonio Daga 
+                
+               
+              
+             
+             
+             
+                Erratum to Ponassi R, et al. Cell Cycle Volume 7, Issue 20; pp. 3211-24   
+             
+             
+             Raffaella Ponassi · 
+             Barbara Biasotti · 
+             Valeria Tomati · [...] · 
+             Silvio Parodi 
+             
+            
+              Full-text available · Article · Sep 2012 · Cell cycle (Georgetown, Tex.) 
+             
+              
+            
+             
+              
+               
+               
+                
+               
+                 Available from: Enrico Millo 
+                
+               
+              
+             
+             
+             
+                Corrigendum to “Functional characterization of a synthetic abscisic acid analog with anti-inflammatory activity on human granulocytes and monocytes” [Biochem. Biophys. Res. Commun. 415 (2011) 696–701]   
+             
+             
+             Alessia Grozio · 
+             Enrico Millo · 
+             Lucrezia Guida · [...] · 
+             Elena Zocchi 
+             
+            
+              Full-text available · Article · Mar 2012 · Biochemical and Biophysical Research Communications 
+             
+              
+            
+             
+              
+               
+               
+                
+               
+                 Available from: Enrico Millo 
+                
+               
+              
+             
+             
+             
+                Corrigendum to “Binding of abscisic acid to human LANCL2” [Biochem. Biophys. Res. Commun. 415 (2011) 390–395]   
+             
+             
+             Laura Sturla · 
+             Chiara Fresia · 
+             Lucrezia Guida · [...] · 
+             Elena Zocchi 
+             
+            
+              Full-text available · Article · Mar 2012 · Biochemical and Biophysical Research Communications 
+             
+              
+            
+             
+             
+             
+                Role of Angiogenesis Inhibitors in Colorectal Cancer: Sensitive and Insensitive Tumors   
+             
+             
+             L Bagnasco · 
+             D Piras · 
+             S Parodi · [...] · 
+             A Ballestrero 
+             
+            
+              Article · Mar 2012 · Current cancer drug targets 
+             
+              
+            
+             
+             
+             
+                Binding of abscisic acid to human LANCL2   
+             
+             
+             Laura Sturla · 
+             Chiara Fresia · 
+             Lucrezia Guida · [...] · 
+             Elena Zocchi 
+             
+            
+              Article · Nov 2011 · Biochemical and Biophysical Research Communications 
+             
+              
+            
+             
+             
+             
+                Functional characterization of a synthetic abscisic acid analog with anti-inflammatory activity on human granulocytes and monocytes   
+             
+             
+             Alessia Grozio · 
+             Enrico Millo · 
+             Lucrezia Guida · [...] · 
+             Elena Zocchi 
+             
+            
+              Article · Nov 2011 · Biochemical and Biophysical Research Communications 
+             
+              
+            
+             
+             
+             
+                Ras-Induced Resistance to Lapatinib is Overcome by MEK Inhibition   
+             
+             
+             G. Zoppoli · 
+             E. Moran · 
+             D. Soncini · [...] · 
+             A. Nencioni 
+             
+            
+              Article · Mar 2010 · Current Cancer Drug Targets 
+             
+              
+            
+             
+             
+             
+                Ras-Induced Resistance to Lapatinib is Overcome by MEK Inhibition   
+             
+             
+             Gabriele Zoppoli · 
+             Eva Moran · 
+             Debora Soncini · [...] · 
+             Alessio Nencioni 
+             
+            
+              Article · Mar 2010 · Current cancer drug targets 
+             
+              
+            
+             
+             
+             
+                Barboro P, D'Arrigo C, Repaci E, Bagnasco L, Orecchia P, Carnemolla B, Patrone E, Balbi CProteomic analysis of the nuclear matrix in the early stages of rat liver carcinogenesis: Identification of differentially expressed and MAR-binding proteins. Exp Cell Res 315: 226-239   
+             
+             
+             Paola Barboro · 
+             Cristina D'Arrigo · 
+             Erica Repaci · [...] · 
+             Cecilia Balbi 
+             
+            
+              Article · Jan 2009 · Experimental Cell Research 
+             
+              
+            
+             
+              
+               
+               
+                
+               
+                 Available from: Antonio Daga 
+                
+               
+              
+             
+             
+             
+                A novel Bim-BH3-derived Bcl-X(L) inhibitor Biochemical characterization, in vitro, in vivo and ex-vivo anti-leukemic activity   
+             
+             
+             Raffaella Ponassi · 
+             Barbara Biasotti · 
+             Valeria Tomati · [...] · 
+             Silvio Parodi 
+             
+            
+              Full-text available · Article · Nov 2008 · Cell cycle (Georgetown, Tex.) 
+             
+              
+            
+             
+              
+               
+               
+                
+               
+                 Available from: Luca Bagnasco 
+                
+               
+              
+             
+             
+             
+                Internalization via Antennapedia protein transduction domain of an scFv antibody toward c-Myc protein   
+             
+             
+             C Avignolo · 
+             L Bagnasco · 
+             B Biasotti · [...] · 
+             S Parodi 
+             
+            
+              Full-text available · Article · May 2008 · The FASEB Journal 
+             
+              
+            
+             
+              
+               
+               
+                
+               
+                 Available from: Luca Bagnasco 
+                
+               
+              
+             
+             
+             
+                Inhibition of a protein-protein interaction between NI1 and c-MTC by small peptidomimetic molecules inspired by helix-1 of c-MYC: identification of a new target of potential antineoplastic interest   
+             
+             
+             L Bagnasco · 
+             L Tortolina · 
+             B Biasotti · [...] · 
+             S Parodi 
+             
+            
+              Full-text available · Article · May 2007 · The FASEB Journal 
+             
+              
+            
+             
+              
+               
+               
+                
+               
+                 Available from: Giorgio Fassina 
+                
+               
+              
+             
+             
+             
+                Sequence specific peptidomimetic molecules inhibitors of a protein-protein interaction at the helix 1 level of c-Myc   
+             
+             
+             Erika Nieddu · 
+             A Melchiori · 
+             M P Pescarolo · [...] · 
+             S Parodi 
+             
+            
+              Full-text available · Article · May 2005 · The FASEB Journal 
+             
+              
+            
+             
+             
+             
+                Signaling proteins as innovative targets for antineoplastic therapy: Our experience with the signaling protein c-Myc   
+             
+             
+             G Cimoli · 
+             L Bagnasco · 
+             M P Pescarolo · [...] · 
+             S Parodi 
+             
+            
+              Article · Nov 2001 · Tumori 
+             
+              
+            
+             
+             
+             
+                Innovative leads for antineoplastic drugs suggested by a more intimate familiarity with structural motifs of oncoproteins   
+             
+             
+             Maria Pia Pescarolo · 
+             Luca Bagnasco · 
+             Davide Malacarne · [...] · 
+             Silvio Parodi 
+             
+            
+              Article · Apr 2001 · Nature Genetics 
+             
+              
+            
+             
+              
+               
+               
+                
+               
+                 Available from: Luca Bagnasco 
+                
+               
+              
+             
+             
+             
+                A retro-inverso peptide homologous to helix 1 of c-Myc is a potent and specific inhibitor of proliferation in different cellular systems   
+             
+             
+             M P Pescarolo · 
+             L Bagnasco · 
+             D Malacarne · [...] · 
+             S Parodi 
+             
+            
+              Full-text available · Article · Feb 2001 · The FASEB Journal 
+             
+              
+            
+             
+              
+               
+               
+                
+               
+                 Available from: Luca Bagnasco 
+                
+               
+              
+             
+             
+             
+                Inhibition of cancer cell growth and c-Myc transcriptional activity by a c-Myc helix 1-type peptide fused to an internalization sequence   
+             
+             
+             L Giorello · 
+             L Clerico · 
+             M P Pescarolo · [...] · 
+             S Parodi 
+             
+            
+              Full-text available · Article · Sep 1998 · Cancer Research 
+             
+              
+            
+             
+             
+             
+                Establishment and characterization of a new mammary adenocarcinoma cell line derived from MMTV neu transgenic mice   
+             
+             
+             Maria Grazia Sacco · 
+             Laura Gribaldo · 
+             Ottavia Barbieri · [...] · 
+             Paolo Vezzoni 
+             
+            
+              Article · Feb 1998 · Breast Cancer Research and Treatment 
+             
+              
+           
+           
+            
+           1 
+            2  
+            
+           
+          
+         
+        
+       
+       
+        
+         
+          
+          
+           
+           
+             Research · 25   
+            
+            
+          
+          
+           
+           
+             Followers · 57   
+            
+            
+          
+           
+           
+             Citations · 384   
+            
+          
+          
+         
+        
+        
+         
+          
+           
+           
+            
+             
+              
+               
+               
+               
+                Silvio Parodi    (13)   
+                
+                
+               
+              
+               
+               
+               
+                Enrico Millo    (8)   
+                
+                
+               
+              
+               
+               
+               
+                Annalisa Salis    (6)   
+                
+                
+               
+              
+               
+               
+               
+                Nicoletta Castagnino    (5)   
+                
+                
+               
+              
+               
+               
+               
+                Gianluca Damonte    (5)   
+                
+                
+                
+             
+            
+           
+          
+          
+           
+              52 Following     
+            
+             
+              
+              
+                Irene Caffa    
+               
+               
+             
+              
+              
+                Zoppoli Gabriele    
+               
+               
+             
+              
+              
+                Michele Baroffio    
+               
+               
+             
+              
+              
+                Paolo Vezzoni    
+               Italian National Research Council  
+               
+             
+              
+              
+                Laura Gribaldo    
+               European Commission  
+               
+             
+              
+              
+                Lorenzo Gemignani    
+                
+               
+             
+              
+              
+                Chiara Folli    
+               
+               
+             
+              
+              
+                Cristina De Ambrosi    
+               Ministero dell'Istruzione, dell'Università e della Ricerca  
+               
+             
+              
+              
+                Domenico Baldi    
+               
+               
+             
+              
+              
+                Vito Brusasco    
+               
+               
+            
+           
+          
+          
+             57 Followers     
+           
+            
+             
+             
+               Davide Visigalli    
+              
+              
+            
+             
+             
+               Nicola Bragazzi    
+              
+              
+            
+             
+             
+               Zoppoli Gabriele    
+              
+              
+            
+             
+             
+               Laura Gribaldo    
+              European Commission  
+              
+            
+             
+             
+               Francesca Isabella Tosetti    
+              IRCCS Azienda Ospedaliera Universitaria San Martino di Genova  
+              
+            
+             
+             
+               Yari Ciribilli    
+              Università degli Studi di Trento  
+              
+            
+             
+             
+               Mario Roberto Sertoli    
+              
+              
+            
+             
+             
+               Roberto Ceccarelli    
+              
+              
+            
+             
+             
+               Isabella Baldissarro    
+              
+              
+            
+             
+             
+               Alice Benzini    
+              
+              
+           
+           
+          
+         
+        
+       
+      
+      
+     
+   
+   
+  
+  
+  
+   
+    
+     
+     
+    
+   
+  
+  
+ 
+  
+   
+    
+     
+      
+       
+       
+        
+         
+          
+         
+        
+         
+        
+       
+       
+        
+         
+        
+        
+         
+        
+        
+         
+         
+          
+           Email
+           
+           Password
+           Forgot password?
+           
+           Keep me logged in
+           
+           
+          
+         
+        
+       
+      
+     
+     
+    
+   
+  
+ 
+  
+   
+    
+    
+     
+      
+      
+     25 publicationsby Luca Bagnasco 
+     Join now to keep up to date with Luca's latest work. 
+     
+    
+   
+   
+ 
+  
+   
+   
+  rgreq-1e2bb59d70ae9f75c3f73471d6cdcb93 
+   
+ 
+
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[3]/ul[1]/li[5]/div[2]/p[1]/strong[1]
+ Francesca Isabella Tosetti 
+________________________________________________________________________
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]/div[3]/div[1]/div[1]/a[1]
+Forgot password?
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[16]/div[4]/a[4]
+S Parodi
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/div[3]/h5[1]/a[1]
+Annalisa Salis
+________________________________________________________________________
+/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[16]/div[5]
+
+              Article · Nov 2001 · Tumori 
+            
+________________________________________________________________________

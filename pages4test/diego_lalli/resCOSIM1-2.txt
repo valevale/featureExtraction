@@ -1,0 +1,75 @@
+LALLI DIEGO
+---
+-
+1.0
+LALLI DIEGO
+/html/body[1]/div/div[3]/div[1]/div[1]/div[2]/b[1]
+-
+1.0
+LALLI DIEGO
+/html/body[1]/div/div[3]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/span[1]
+-
+0.8164965
+LALLI DIEGO - ISERNIA
+/html/body[1]/div/div[1]/div[1]/b
+__________________
+ : DITTA INDIVIDUALE  :  :   :  TELEFONI CELLULARI E RADIOTELEFONI   
+---
+-
+0.6642681
+Categoria: TELEFONI CELLULARI E RADIOTELEFONI ISERNIA  Sottocategoria: TELEFONI CELLULARI E RADIOTELEFONI 
+/html/body[1]/div/div[3]/div[1]/div[1]/table[1]/tbody[1]/tr[2]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]
+-
+0.6324556
+(DITTA INDIVIDUALE)
+/html/body[1]/div/div[3]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/small[1]/i
+__________________
+P.IVA - LALLI DIEGO
+---
+-
+0.5747349
+LALLI DIEGO
+/html/body[1]/div/div[3]/div[1]/div[1]/div[2]/b[1]
+-
+0.5747349
+LALLI DIEGO
+/html/body[1]/div/div[3]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/span[1]
+-
+0.46926907
+LALLI DIEGO - ISERNIA
+/html/body[1]/div/div[1]/div[1]/b
+__________________
+  P.IVA - LALLI DIEGO  LALLI DIEGO  CSO MARCELLI 335 Isernia, 86170        : CSO MARCELLI 335 : Isernia : 86170 : Isernia (IS) : Molise     Informazioni aggiuntive: LALLI DIEGO  : DITTA INDIVIDUALE  :  :   :  TELEFONI CELLULARI E RADIOTELEFONI     
+---
+-
+0.53074217
+LALLI DIEGO - ISERNIA
+/html/body[1]/div/div[1]/div[1]/b
+-
+0.4498841
+LALLI DIEGO
+/html/body[1]/div/div[3]/div[1]/div[1]/div[2]/b[1]
+-
+0.4498841
+LALLI DIEGO
+/html/body[1]/div/div[3]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/span[1]
+-
+0.31822452
+ LALLI DIEGO � una azienda registrata nel comune di ISERNIA in provincia di IS, avente la seguente forma giuridica: DITTA INDIVIDUALE e partita IVA . La sede sociale � collocata in Corso marcelli 335, al cap 86170. Lalli diego ha un numero di dipendenti stimato 1 DIP. L'azienda � classificata col codice ateco 52487, nella categoria merceologica commercio al dettaglio di apparecchi e attrezzature per le telecomunicazioni e la telefonia pi� precisamente alla sotto categoria telefoni cellulari e radiotelefoni. E' possibile contattare Lalli diego al/i numero/i 086526844 
+/html/body[1]/div/div[3]/div[1]/div[1]/div[2]
+__________________
+Informazioni aggiuntive: LALLI DIEGO
+---
+-
+0.4447859
+LALLI DIEGO
+/html/body[1]/div/div[3]/div[1]/div[1]/div[2]/b[1]
+-
+0.4447859
+LALLI DIEGO
+/html/body[1]/div/div[3]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/span[1]
+-
+0.36316615
+LALLI DIEGO - ISERNIA
+/html/body[1]/div/div[1]/div[1]/b
+__________________

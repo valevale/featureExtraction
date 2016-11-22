@@ -1,0 +1,80 @@
+/html/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/h1[1]
+Claudio Amoroso d'aragona
+________________________________________________________________________
+/html/body[1]
+Avvocato Claudio Amoroso d'aragona a Roma - San Giovanni                               
+   
+ 
+   
+   
+     
+    
+    
+     
+     
+     
+     
+     Claudio Amoroso d'aragona
+      
+     
+      
+       
+       
+       
+        
+       Claudio Amoroso d'aragona 
+        
+        
+        
+         
+          
+           
+           
+          Via umberto biancamano, 3300185 Roma  
+          
+          
+           
+           
+          Telefono: 06.99709045 
+          
+          
+          
+          
+         
+         
+         
+         
+        
+       
+       
+      
+       
+     
+    
+   
+    
+  
+ 
+ 
+ 
+ 
+
+________________________________________________________________________
+/html/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[3]/div[1]/div[1]/p[1]/span[3]
+Roma
+________________________________________________________________________
+/html/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[3]/div[1]/div[1]/p[1]/span[2]
+00185
+________________________________________________________________________
+/html/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[3]/div[1]/div[2]/p[1]
+Telefono: 06.99709045
+________________________________________________________________________
+/html/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[3]/div[1]/div[1]/p[1]/span[1]
+Via umberto biancamano, 33
+________________________________________________________________________
+/html/body[1]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[5]/span
+Claudio Amoroso d'aragona
+________________________________________________________________________
+/html/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[3]/div[1]/div[2]/p[1]/span[1]
+06.99709045
+________________________________________________________________________

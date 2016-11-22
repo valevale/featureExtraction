@@ -1,0 +1,536 @@
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[2]/div[1]/h4[1]/a
+GT: [/html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[5]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h3[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[12]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[13]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[17]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[19]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[7]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[19]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[15]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[15]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[17]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[2]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[17]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[14]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[13]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[1]/div[1]/span[1]/span[1]/span, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[19]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[9]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]/span[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[15]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[1]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[1]/div[1]/span[1]/span[2]/span, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[13]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[10]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[1]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[11]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[16]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[20]/div[1]/div[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]/a[1]/span[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[8]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[1]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[18]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[3]/div[1]/div[1]/div[1]/span[2]/a/b]
+ size: 44
+R: [/html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[15]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[1]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[13]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[17]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[19]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[3]/div[1]/div[1]/div[1]/span[2]/a/b]
+ size: 10
+True positives: [/html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[13]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[17]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[19]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[15]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[1]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[3]/div[1]/div[1]/div[1]/span[2]/a/b]
+ size: 10
+Precision: tp (10) / R (10) = 1.0
+Recall: tp (10) / GT (44) = 0.22727273
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/h1[1]
+GT: [/html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[5]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h3[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[12]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[13]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[17]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[19]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[7]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[19]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[15]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[15]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[17]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[2]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[17]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[14]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[13]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[1]/div[1]/span[1]/span[1]/span, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[19]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[9]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]/span[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[15]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[1]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[1]/div[1]/span[1]/span[2]/span, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[13]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[10]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[1]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[11]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[16]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[20]/div[1]/div[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]/a[1]/span[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[8]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[1]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[18]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[3]/div[1]/div[1]/div[1]/span[2]/a/b]
+ size: 44
+R: [/html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[15]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[1]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[13]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[17]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[19]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[3]/div[1]/div[1]/div[1]/span[2]/a/b]
+ size: 10
+True positives: [/html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[13]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[17]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[19]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[15]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[1]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[3]/div[1]/div[1]/div[1]/span[2]/a/b]
+ size: 10
+Precision: tp (10) / R (10) = 1.0
+Recall: tp (10) / GT (44) = 0.22727273
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/dl[1]/dd[1]/span[1]
+GT: [/html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[2]/p[1]/a[3]/b[1], /html/body[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[4]/div[1]/div[2]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[5]/div[1]/div[2]/div[1]/span[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/a[1]/span[1]/span[2]/span[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[2]/p[1]/a[3], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[2]/p[1]/a[3]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/a[1]/span[1]/span[2], /html/body[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[4]/div[1]/div[2]/a[1]/span[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[2]/p[1]/a[3], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/a[1]/span[1]/b[1], /html/body[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/a[1]]
+ size: 12
+R: [/html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[2]/p[1]/a[3]/b[1], /html/body[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[4]/div[1]/div[2]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/a[1]/span[1]/span[2]/span[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[2]/p[1]/a[3], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[2]/p[1]/a[3]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/a[1]/span[1]/span[2], /html/body[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[4]/div[1]/div[2]/a[1]/span[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[2]/p[1]/a[3], /html/body[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/a[1]/span[1]/b[1]]
+ size: 10
+True positives: [/html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/a[1]/span[1]/span[2]/span[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[2]/p[1]/a[3]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/a[1]/span[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[2]/p[1]/a[3], /html/body[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[2]/p[1]/a[3]/b[1], /html/body[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[4]/div[1]/div[2]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[2]/p[1]/a[3], /html/body[1]/div[15]/div[2]/div[1]/div[2]/div[1]/div[4]/div[1]/div[2]/a[1]/span[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[2]/div[1]/a[1]/span[1]/b[1]]
+ size: 10
+Precision: tp (10) / R (10) = 1.0
+Recall: tp (10) / GT (12) = 0.8333333
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[2]/div[1]/p[1]/a[1]
+GT: [/html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[5]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h3[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[12]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[13]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[17]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[19]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[7]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[19]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[15]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[15]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[17]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[2]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[17]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[14]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[13]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[1]/div[1]/span[1]/span[1]/span, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[19]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[9]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]/span[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[15]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[1]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[1]/div[1]/span[1]/span[2]/span, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[13]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[10]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[1]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[11]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[16]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[20]/div[1]/div[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]/a[1]/span[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[8]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[1]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[18]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[3]/div[1]/div[1]/div[1]/span[2]/a/b]
+ size: 44
+R: [/html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[15]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[1]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[13]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[17]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[19]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[3]/div[1]/div[1]/div[1]/span[2]/a/b]
+ size: 10
+True positives: [/html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[13]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[17]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[19]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[15]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[1]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[3]/div[1]/div[1]/div[1]/span[2]/a/b]
+ size: 10
+Precision: tp (10) / R (10) = 1.0
+Recall: tp (10) / GT (44) = 0.22727273
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[1]/div[1]/h4[1]/a
+GT: [/html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[5]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[3]/div[2]/div[1]/div[1]/h3[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[12]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[13]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[17]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[19]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[7]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/p[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[19]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[15]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[15]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[17]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[2]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[17]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[14]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[13]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[1]/div[1]/span[1]/span[1]/span, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[19]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[9]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/a[1]/span[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[15]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[1]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/div[1]/div[1]/span[1]/span[2]/span, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[13]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[10]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[1]/div[1]/div[2]/div[1]/a[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[11]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[16]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[20]/div[1]/div[1]/span[2], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]/a[1]/span[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[8]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[1]/div[1]/div[2]/div[1]/a[1]/span[2]/b[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[18]/div[1]/div[1]/div[1]/span[2]/a/b, /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[3]/div[1]/div[1]/div[1]/span[2]/a/b]
+ size: 44
+R: [/html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[15]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[1]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[13]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[17]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[19]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[3]/div[1]/div[1]/div[1]/span[2]/a/b]
+ size: 10
+True positives: [/html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[4]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[13]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[17]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[19]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]/a[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[15]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[1]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[6]/div[1]/div[2]/div[1]/a[1]/strong[1], /html/body[1]/div[2]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[2]/div[4]/div[1]/div[2]/ol[1]/li[3]/div[1]/div[1]/div[1]/span[2]/a/b]
+ size: 10
+Precision: tp (10) / R (10) = 1.0
+Recall: tp (10) / GT (44) = 0.22727273
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[1]/li[3]/div[1]/span[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[2]/div[1]/a[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/div[5]/ul[1]/li[3]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/div[5]/ul[1]/li[3]/strong[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[3]/ol[1]/li[28]/a[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/div[3]/ul[1]/li[7]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[1]/li[5]/p[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[5]/li[6]/a/span
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[2]/div[2]/ul[1]/li[9]/div[1]/p[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[7]/li[3]/span
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[5]/li[14]/a/span
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[5]/li[3]/a/span
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[1]/li[8]/h5[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[7]/li[2]/a/span
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[2]/div[2]/ul[1]/li[10]/div[1]/p[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[1]/li[5]/div[1]/span[2]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[1]/li[6]/div[1]/span[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+_______________
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/div[5]/ul[1]/li[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[1]/li[2]/div[1]/span[2]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[8]/li[1]/h5[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[4]/li[3]/h4[1]/a
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[5]/li[9]/a/span
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[5]/ul[1]/li[3]/a
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[4]/li[3]/div[1]/span[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/div[5]/a[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/div[3]/h4[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[1]/li[8]/div[1]/span[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[1]/li[5]/div[1]/span[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[1]/li[2]/div[1]/span[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[1]/li[4]/h4[1]/a
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[6]/li[4]/h4[1]/a
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[1]/li[3]/div[1]/span[2]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[2]/div[2]/ul[1]/li[2]/div[1]/h4[1]/a
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/div[5]/p[1]/a[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[5]/li[13]/a/span
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[2]/div[2]/h3[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[3]/ol[1]/li[28]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[6]/li[1]/div[2]/p[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[2]/a[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[7]/li[5]/span
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[1]/li[4]/p[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/div[2]/h3[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[5]/ul[1]/li[6]/a
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[7]/li[1]/a/span
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[2]/div[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/a[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[6]/li[2]/h5[2]/span[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ol[1]/li[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[4]/li[4]/div[1]/span[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[5]/li[19]/a/span
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[1]/li[4]/div[1]/span[2]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/dl[1]/dd[2]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[1]/li[7]/div[1]/span[2]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/div[5]/h2[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[2]/div[1]/p[2]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[2]/div[2]/ul[1]/li[7]/div[1]/p[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[9]/li[2]/h4[1]/a
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/div[2]/h2[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[6]/li[2]/h5[2]/span[2]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/table[1]/tbody[1]/tr[2]/td[1]/ol[1]/li[2]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[9]/li[1]/h4[1]/a
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[2]/div[2]/ul[1]/li[6]/div[1]/p[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[2]/div[1]/h3[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[6]/li[3]/h4[1]/a
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[2]/div[2]/ul[1]/li[3]/div[1]/p[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[6]/li[2]/h4[1]/a
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/div[4]/div[1]/ul[1]/li[3]/span
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[2]/h3[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[5]/li[1]/a/span
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[1]/li[6]/p[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[5]/ul[1]/li[4]/a
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[4]/li[3]/h5[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[1]/li[1]/h4[1]/a
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[6]/li[3]/h5[2]/span[2]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[8]/li[1]/div[1]/span[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[1]/li[1]/div[1]/span[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[5]/li[7]/a/span
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[2]/div[1]/ul[1]/li[1]/div[1]/p[2]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[2]/p[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[2]/div[2]/ul[1]/li[8]/div[1]/p[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/div[2]/a[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/div[1]/div[2]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/ol[1]/li[1]/span[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[8]/li[1]/h4[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[1]/li[4]/div[1]/span[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[5]/li[15]/a/span
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[1]/li[7]/div[1]/span[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[6]/li[3]/h5[2]/span[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/div[5]/p[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[3]/h3[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[1]/li[3]/h4[1]/a
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[1]/li[5]/h5[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[5]/ul[1]/li[2]/a
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[4]/div[1]/ul[1]/li[1]/h5[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Calculation of averages
+avg precision: 0.05
+avg recall: 0.9674242
+Calculation of Precision and Recall based on matching
+Matchings precision: tp (50) / R (550) = 0.09090909
+Matching recall: tp (50) / GT (188) = 0.26595744

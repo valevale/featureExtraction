@@ -1,0 +1,47 @@
+LALLI DIEGO
+---
+-
+1.2993119
+LALLI DIEGO
+/html/*[2]/div/*[5]/*[1]/*[1]/*[5]/*[1]
+-
+1.2993119
+LALLI DIEGO
+/html/*[2]/div/*[5]/*[1]/*[1]/*[2]/*[1]/*[1]/*[1]/*[1]
+-
+1.0394495
+LALLI DIEGO - ISERNIA
+/html/*[2]/div/*[3]/*[2]/b
+__________________
+
+        : DITTA INDIVIDUALE
+        
+        : 
+        
+        : 
+        
+        :
+        
+        TELEFONI CELLULARI E RADIOTELEFONI
+        
+        
+    
+---
+-
+0.7624215
+Categoria: TELEFONI CELLULARI E RADIOTELEFONI ISERNIA
+			
+			Sottocategoria: TELEFONI CELLULARI E RADIOTELEFONI
+			
+/html/*[2]/div/*[5]/*[1]/*[1]/*[2]/*[1]/*[2]/*[1]/*[2]/*[1]/*[2]/*[1]/*[2]
+-
+0.64001787
+
+		LALLI DIEGO � una azienda registrata nel comune di ISERNIA in provincia di IS, avente la seguente forma giuridica: DITTA INDIVIDUALE e partita IVA .
+		La sede sociale � collocata in Corso marcelli 335, al cap 86170. 
+		 Lalli diego ha un numero di dipendenti stimato 1 DIP.
+		L'azienda � classificata col codice ateco 52487, nella categoria merceologica commercio al dettaglio di apparecchi e attrezzature per le telecomunicazioni e la telefonia pi� precisamente alla sotto categoria telefoni cellulari e radiotelefoni.
+		E' possibile contattare Lalli diego al/i numero/i 086526844 
+	
+/html/*[2]/div/*[5]/*[1]/*[1]/*[5]
+__________________

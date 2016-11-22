@@ -1,0 +1,1042 @@
+<!doctype html>
+<html lang="it">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="EdBlankInTitle" content=" - Il Fatto Quotidiano"/>
+        <meta name="viewport" content="width=1050px">
+        <meta http-equiv="cleartype" content="on">
+        <title>Vincenzo Fenili, Il Fatto Quotidiano</title>
+    <!-- DNS Prefetch -->
+    <link rel="dns-prefetch" href="//st.ilfattoquotidiano.it" />
+    <link rel="dns-prefetch" href="//tv.ilfattoquotidiano.it" />
+    <link rel="dns-prefetch" href="//fattoquotidiano.disqus.com" />
+    <link rel="dns-prefetch" href="//ajax.googleapis.com" />
+
+    <script src="http://st.ilfattoquotidiano.it/wp-content/themes/ifq/assets/js/vendor/head.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+    <script>
+    window.fscUser = {id: 0, level: 0};
+    window.adsEnabled = (function() {
+        var retval = true;
+        var cookieName = 'ifq-premium';
+        var c = document.cookie.match('(^|;)\\s*' + cookieName + '\\s*=\\s*([^;]+)');
+        // if cookie exists & value >= 1 then disable ads
+        if (c && c.length > 1) {
+            cval = c.pop();
+            csplit = cval.split('%3A');
+            if (csplit.length > 2) {
+                var mlevel = parseInt(csplit[2], 10);
+                if (csplit[2] == mlevel && (mlevel == 1 || mlevel == 2 || mlevel == 4 || mlevel == 8)) {
+                    retval = false;
+                }
+                window.fscUser.level = mlevel;
+                window.fscUser.id = parseInt(csplit[0], 10);
+            }
+        }
+
+        return retval;
+    })();
+</script>
+    <script>
+    if (typeof window.adsEnabled === 'undefined' || window.adsEnabled) {
+        (function() {
+            var gadx = document.createElement('script');
+            gadx.async = true;
+            gadx.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gadx.src = (useSSL ? 'https:' : 'http:') +
+            '//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gadx, node);
+        })();
+    }
+</script>
+    <script type='text/javascript'>
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    if (typeof window.adsEnabled === 'undefined' || window.adsEnabled) {
+        (function() {
+            var gads = document.createElement('script');
+            gads.async = true;
+            gads.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            gads.src = (useSSL ? 'https:' : 'http:') +
+              '//www.googletagservices.com/tag/js/gpt.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(gads, node);
+        })();
+    }
+</script>
+<script>
+    googletag.cmd.push(function() {
+        googletag.pubads().collapseEmptyDivs();
+        googletag.pubads().addEventListener('slotRenderEnded', function(obj) {
+            // hide slots when empty
+            var id = obj.slot.l.m; // get current DOM element ID
+            if(obj.isEmpty){
+                $('#'+id).parent('div').hide();
+            }
+        });
+        googletag.enableServices();
+    });
+</script>
+    <script>
+    // ---------------------------
+    // set flag if coming from facebook or twitter
+    function isSocialReferrer() {
+        var a=document.createElement('a');
+        a.href=document.referrer;
+        var host = a.hostname;
+        var re = /(facebook|fb|twitter)\.com$/;
+        return host.match(re) ? true : false;
+    }
+    window.social_referrer = isSocialReferrer();
+    // ---------------------------
+    // Device type
+    var ifq_device_type = '';
+    // async webfonts ===================================================
+    // http://bdadam.com/blog/loading-webfonts-with-high-performance.html
+    (function(){
+        /*!
+         * jQuery-ajaxTransport-XDomainRequest - v1.0.2 - 2014-05-02
+         * https://github.com/MoonScript/jQuery-ajaxTransport-XDomainRequest
+         * Copyright (c) 2014 Jason Moon (@JSONMOON)
+         * Licensed MIT (/blob/master/LICENSE.txt)
+         */
+        (function(a){if(typeof define==='function'&&define.amd){define(['jquery'],a)}else{a(jQuery)}}(function($){if($.support.cors||!$.ajaxTransport||!window.XDomainRequest){return}var n=/^https?:\/\//i;var o=/^get|post$/i;var p=new RegExp('^'+location.protocol,'i');$.ajaxTransport('* text html xml json',function(j,k,l){if(!j.crossDomain||!j.async||!o.test(j.type)||!n.test(j.url)||!p.test(j.url)){return}var m=null;return{send:function(f,g){var h='';var i=(k.dataType||'').toLowerCase();m=new XDomainRequest();if(/^\d+$/.test(k.timeout)){m.timeout=k.timeout}m.ontimeout=function(){g(500,'timeout')};m.onload=function(){var a='Content-Length: '+m.responseText.length+'\r\nContent-Type: '+m.contentType;var b={code:200,message:'success'};var c={text:m.responseText};try{if(i==='html'||/text\/html/i.test(m.contentType)){c.html=m.responseText}else if(i==='json'||(i!=='text'&&/\/json/i.test(m.contentType))){try{c.json=$.parseJSON(m.responseText)}catch(e){b.code=500;b.message='parseerror'}}else if(i==='xml'||(i!=='text'&&/\/xml/i.test(m.contentType))){var d=new ActiveXObject('Microsoft.XMLDOM');d.async=false;try{d.loadXML(m.responseText)}catch(e){d=undefined}if(!d||!d.documentElement||d.getElementsByTagName('parsererror').length){b.code=500;b.message='parseerror';throw'Invalid XML: '+m.responseText;}c.xml=d}}catch(parseMessage){throw parseMessage;}finally{g(b.code,b.message,c,a)}};m.onprogress=function(){};m.onerror=function(){g(500,'error',{text:m.responseText})};if(k.data){h=($.type(k.data)==='string')?k.data:$.param(k.data)}m.open(j.type,j.url);m.send(h)},abort:function(){if(m){m.abort()}}}})}));
+        var fontsToLoad = [
+            {
+                label: 'openSans',
+                path: 'http://st.ilfattoquotidiano.it/wp-content/themes/ifq/assets/fonts/base64.css',
+                fallback: 'http://st.ilfattoquotidiano.it/wp-content/themes/ifq/assets/fonts/webfonts.css'
+            }
+                    ];
+        function createStyle(txt) {
+            var style = document.createElement('style');
+            style.textContent = txt;
+            style.rel = 'stylesheet';
+            document.getElementsByTagName('head')[0].appendChild(style);
+        }
+        for(var i=0, l=fontsToLoad.length; i<l; i++){
+            var label = fontsToLoad[i].label;
+            var path = fontsToLoad[i].path;
+            var fallback = fontsToLoad[i].fallback;
+            if(localStorage.getItem(label)){
+                createStyle(localStorage[label]);
+            } else {
+                $.get(path,function(data){
+                      createStyle(data);
+                    localStorage[label] = data;
+                      }
+                );
+            }
+            /* load non .woff fonts from google fonts in old android browsers */
+            var isAndroid = head.browser.name == 'android' && head.browser.version < 4.4;
+            var isIe8 = head.browser.name == 'ie' && head.browser.version < 9;
+            if(isAndroid || isIe8 ){
+                head.load(fallback);
+            }
+        }
+    }());
+    // ===================================================
+    // article + category list json
+    var categoriesArticles ={};
+    categoriesArticles.content = {"referendum-costituzionale":{"cat_slug":"referendum-costituzionale","cat_label":"Referendum Costituzionale","menu":"home-main-navigation","cat_articles":[{"title":"Italicum, Cuperlo nel comitato Pd per cambiare la legge: &#8220;Sar\u00e0 tentativo serio&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/italicum-cuperlo-nel-comitato-pd-per-cambiare-la-legge-sara-tentativo-serio\/3093123\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/cuperlo-guerini-675-320x132.jpg","picture_class":"main-img"},{"title":"Referendum, &#8220;c&#8217;\u00e8 una bomba nel circolo&#8221;: chiama il 113 per interrompere il dibattito all&#8217;Arci. &#8220;Non ce la facevo pi\u00f9&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/referendum-ce-una-bomba-nel-circolo-chiama-il-113-per-interrompere-il-dibattito-allarci-non-ce-la-facevo-piu\/3093110\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/dibattito-675-320x132.jpg","picture_class":"main-img"},{"title":"Riforme: pm che ha assolto De Luca appare e scompare dal manifesto del convegno del S\u00ec organizzato da De Luca Jr","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/riforme-il-pm-che-ha-assolto-de-luca-appare-e-scompare-dal-manifesto-del-convegno-per-il-si-organizzato-da-de-luca-jr\/3093472\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/montemurro-675-320x132.jpg","picture_class":"main-img"},{"title":"Referendum, alle 18.30 a Milano il dibattito organizzato dall&#8217;Associazione Haziel con Gomez, Feltri e Ceccanti","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/referendum-a-milano-il-dibattito-organizzato-dallassociazione-haziel-con-gomez-feltri-e-ceccanti\/3093492\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/dibattito-referendum-675-320x132.jpg","picture_class":"main-img"},{"title":"Referendum, Renzi a Politics: &#8220;Minoranza Pd non si fida su Italicum? Allora voti No&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/referendum-renzi-sullitalicum-la-minoranza-pd-non-si-fida-allora-voti-no\/3091808\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/politics-renzi-675-320x132.jpg","picture_class":"main-img"},{"title":"Referendum, Staderini e il giurista Lanchester annunciano ricorso contro il quesito unico: &#8220;Inaccettabile plebiscito&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/referendum-staderini-e-il-giurista-lanchester-annunciano-ricorso-contro-il-quesito-unico-inaccettabile-plebiscito\/3091452\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/staderini-675-320x132.jpg","picture_class":"main-img"}]},"politica-palazzo":{"cat_slug":"politica-palazzo","cat_label":"Politica","menu":"home-main-navigation","cat_articles":[{"title":"Anci, sindaco Pd Decaro eletto nuovo presidente. M5s si astiene, Pizzarotti vota a favore","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/anci-sindaco-pd-decaro-eletto-nuovo-presidente-m5s-si-astiene-pizzarotti-vota-favore\/3093133\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/decaro-675-320x132.jpg","picture_class":"main-img"},{"title":"Italicum, dal Mattarellum 2.0 al francese: quali sono le alternative alla legge elettorale che ora nessuno vuole pi\u00f9","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/italicum-dal-mattarellum-2-0-al-francese-quali-sono-le-alternative-alla-legge-elettorale-che-ora-nessuno-vuole-piu\/3025261\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/scheda-elettorale-675-320x132.jpg","picture_class":"main-img"},{"title":"Abruzzo, appello della Regione: &#8220;Cercasi pensionati disposti a tornare a lavorare gratis&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/abruzzo-appello-della-regione-cercasi-pensionati-disposti-a-tornare-a-lavorare-gratis\/3082948\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/03\/pensionati-675-320x132.jpg","picture_class":"main-img"},{"title":"Torino, esperti No Tav affiancano il Comune. Pd: &#8220;Mai vista un&#8217;istituzione diventare comitato&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/torino-esperti-no-tav-affiancano-il-comune-pd-mai-vista-unistituzione-diventare-comitato\/3091563\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/06\/NoTav675-320x132.jpg","picture_class":"main-img"},{"title":"Federico Pizzarotti, consiglieri M5s a Parma (tranne uno) lo seguono e lasciano il Movimento","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/federico-pizzarotti-consiglieri-m5s-a-parma-tranne-uno-lo-seguono-e-lasciano-il-movimento\/3091465\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/Pizzarotti-2-675-320x132.png","picture_class":"main-img"},{"title":"Direzione Pd, Saviano: &#8220;D&#8217;Alema assente come il personaggio di Nanni Moretti&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/direzione-pd-saviano-dalema-assente-come-il-personaggio-di-nanni-moretti\/3091147\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/DAlema-Moretti-675-320x132.jpg","picture_class":"main-img"}]},"palazzi-potere":{"cat_slug":"palazzi-potere","cat_label":"Palazzi &amp; Potere","menu":"home-main-navigation","cat_articles":[{"title":"Fallimenti virtuali: naufraga tra le polemiche il parlamento-web di Gianfranco Rotondi e Giampiero Catone","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/fallimenti-virtuali-naufraga-tra-le-polemiche-il-parlamento-web-di-gianfranco-rotondi-e-giampiero-catone\/3091249\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/rotondi675-1-320x132.jpg","picture_class":"main-img"},{"title":"Web tax, Sinistra italiana contro l\u2019immobilismo del governo: \u201cVale 2 miliardi, ma i big online non la vogliono\u201d","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/web-tax-sinistra-italiana-contro-limmobilismo-del-governo-vale-due-miliardi-ma-i-colossi-dellonline-non-la-vogliono\/3089282\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2015\/04\/palazzo-chigi-675-320x132.jpg","picture_class":"main-img"},{"title":"Software spia, Hacking Team porta il Mise al Consiglio di Stato: scontro sulla revoca dell\u2019autorizzazione all\u2019export","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/software-spia-hacking-team-porta-il-mise-al-consiglio-di-stato-scontro-sulla-revoca-dellautorizzazione-allexport\/3089269\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2015\/09\/pirateria-675-320x132.jpg","picture_class":"main-img"},{"title":"Gastronomia: alla Camera proposta di legge per tutelare le Confraternite, da quella del Pampascione alla Pera Madernassa","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/gastronomia-alla-camera-proposta-di-legge-per-tutelare-le-confraternite-da-quella-del-pampascione-alla-pera-madernassa\/3086328\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/culatello675-320x132.jpg","picture_class":"main-img"},{"title":"Referendum costituzionale, la presidente del Tar che giudicher\u00e0 il ricorso sul quesito \u00e8 la compagna di Nitto Palma","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/07\/referendum-costituzionale-la-presidente-del-tar-che-giudichera-il-ricorso-sul-quesito-e-la-compagna-di-nitto-palma\/3082734\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/quesito-2-675-320x132.jpg","picture_class":"main-img"},{"title":"Congresso nazionale avvocati: \u00e8 polemica sui\u00a0costi sostenuti per il \u00a0quotidiano \u2018il Dubbio\u2019 di Piero Sansonetti","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/07\/congresso-nazionale-avvocati-e-polemica-sui-costi-sostenuti-per-il-quotidiano-il-dubbio-di-piero-sansonetti\/3081896\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2015\/04\/tribunale-675-320x132.jpg","picture_class":"main-img"}]},"giustizia-impunita":{"cat_slug":"giustizia-impunita","cat_label":"Giustizia &amp; Impunit\u00e0","menu":"home-main-navigation","cat_articles":[{"title":"Roma, inchiesta su Paola Muraro verso la conclusione per reati ambientali","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/roma-inchiesta-su-paola-muraro-verso-la-conclusione-per-reati-ambientali\/3092365\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/08\/raggi-muraro675-320x132.jpg","picture_class":"main-img"},{"title":"Mafia Capitale, &#8220;giro di mazzette per pilotare gli appalti sui campi rom&#8221;. La procura di Roma chiude nuova inchiesta","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/mafia-capitale-giro-di-mazzette-per-pilotare-gli-appalti-sui-campi-rom-la-procura-di-roma-chiude-nuova-inchiesta\/3091790\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2014\/12\/mafia-capitale_675-320x132.jpg","picture_class":"main-img"},{"title":"Variante di Valico, pm: &#8220;Archiviare inchiesta per disastro colposo e frana&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/variante-di-valico-pm-archiviare-inchiesta-per-disastro-colposo-e-frana\/3091190\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/variante-valico-675-320x132.jpg","picture_class":"main-img"},{"title":"Berlusconi alla Polanco in un video: &#8220;Fico e Balotelli? Una che va con un negro mi fa schifo. Tu sei abbronzata, tesoro&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/berlusconi-alla-polanco-in-un-video-fico-e-balotelli-una-che-va-con-un-negro-mi-fa-schifo-tu-sei-abbronzata-tesoro\/3090842\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/04\/Berlusconi-675-320x132.jpg","picture_class":"main-img"},{"title":"Fabrizio Corona arrestato, indagine nata da tentata estorsione all&#8217;ex re dei paparazzi","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/fabrizio-corona-arrestato-indagine-nata-da-tentata-estorsione-allex-re-dei-paparazzi\/3089682\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/fabrizio-corona-675-320x132.jpg","picture_class":"main-img"},{"title":"Reggio Calabria, &#8220;lacerazioni e aborti senza consenso&#8221;: 13 medici a processo","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/reggio-calabria-lacerazioni-e-aborti-senza-consenso-13-medici-a-processo\/3089093\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/04\/ospedale-reggio-calabria-675-320x132.jpg","picture_class":"main-img"}]},"media-regime":{"cat_slug":"media-regime","cat_label":"Media &amp; Regime","menu":"home-main-navigation","cat_articles":[{"title":"Milena Gabanelli d\u00e0 l&#8217;addio alla conduzione di Report: &#8220;Ma non lascio la Rai e non cambio mestiere&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/milena-gabanelli-la-giornalista-da-laddio-alla-conduzione-di-report-ma-non-abbandono-questo-mestiere\/3089173\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/gabanelli-675-320x132.jpg","picture_class":"main-img"},{"title":"Edicole d&#8217;Italia, si cambia: non solo giornali e riviste, ma anche posta e nuove opportunit\u00e0 commerciali","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/07\/edicole-ditalia-si-cambia-non-solo-giornali-e-riviste-ma-anche-posta-e-nuove-opportunita-commerciali\/3082978\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/edicole-675-320x132.jpg","picture_class":"main-img"},{"title":"&#8220;Italia&#8221;, questa sera Michele Santoro torna su Rai2 in prima serata: &#8220;Cerco un&#8217;altra grammatica dei format televisivi&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/05\/italia-questa-sera-michele-santoro-torna-su-rai2-in-prima-serata-esploriamo-unaltra-grammatica-dei-format-televisivi\/3076437\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/santoro-675-320x132.jpg","picture_class":"main-img"},{"title":"Yahoo &#8220;ha scansionato e consegnato all&#8217;Fbi centinaia di milioni di mail degli utenti&#8221;. Snowden: &#8220;Chiudete gli account&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/04\/yahoo-ha-scansionato-e-consegnato-gli-007-centinaia-di-milioni-di-mail-degli-utenti-snowden-chiudete-gli-account\/3075798\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2015\/12\/yahoo-675-320x132.jpg","picture_class":"main-img"},{"title":"Rai, Porro: &#8220;La mia intervista da Augias rinviata all&#8217;ultimo momento. Il motivo? La par condicio sul referendum&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/02\/rai-porro-la-mia-intervista-da-augias-rinviata-allultimo-momento-il-motivo-la-par-condicio-sul-referendum\/3070861\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/porro-675-320x132.jpg","picture_class":"main-img"},{"title":"Isis, perch\u00e9 l&#8217;Occidente non riesce a sconfiggerlo. Il libro di Corrado Formigli","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/09\/29\/isis-le-complicita-delloccidente-che-non-riesce-a-sconfiggerlo-il-libro-reportage-di-corrado-formigli\/3065564\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/formigli-libro-675-320x132.jpg","picture_class":"main-img"}]},"economia-lobby":{"cat_slug":"economia-lobby","cat_label":"Economia &amp; Lobby","menu":"home-main-navigation","cat_articles":[{"title":"Bnl, 700 esuberi e taglio del 30% degli incentivi ai dipendenti per ridurre i costi. Verso la chiusura 100 sportelli","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/bnl-700-esuberi-e-taglio-del-30-degli-incentivi-per-ridurre-i-costi-verso-la-chiusura-100-sportelli\/3092816\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/bnl-bnp-675-320x132.jpg","picture_class":"main-img"},{"title":"Emersione capitali, ora governo punta ai soldi nascosti nelle cassette di sicurezza. &#8220;Rischio che siano frutto di riciclaggio&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/emersione-capitali-governo-verso-sanatoria-sui-soldi-nelle-cassette-di-sicurezza-rischio-che-siano-frutto-di-riciclaggio\/3092606\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/euro-675-320x132.jpg","picture_class":"main-img"},{"title":"Lobby, Bruxelles lancia la riforma del registro. Senza cancellarne l&#8217;inefficacia","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/lobby-bruxelles-lancia-la-riforma-del-registro-senza-cancellarne-linefficacia\/3087532\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2014\/10\/Barroso-675-320x132.jpg","picture_class":"main-img"},{"title":"Conti pubblici, governo ripete la sua versione e va avanti senza l&#8217;ok dell&#8217;Ufficio parlamentare di bilancio","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/conti-pubblici-governo-ripete-la-sua-versione-e-va-avanti-senza-lok-dellufficio-parlamentare-di-bilancio\/3091640\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/padoan-675-1-320x132.jpg","picture_class":"main-img"},{"title":"Welfare, Bankitalia: &#8220;Sistema sbilanciato, danneggia minori e famiglie. Concentrare risorse su chi ha pi\u00f9 bisogno&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/welfare-bankitalia-sistema-sbilanciato-danneggia-minori-e-famiglie-concentrare-risorse-su-chi-ha-piu-bisogno\/3091063\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/palazzo-koch-bankitalia-675-320x132.jpg","picture_class":"main-img"},{"title":"Terremoto Centro Italia, Errani: &#8220;Per la ricostruzione 4,5 miliardi. Sar\u00e0 risarcito il 100% dei danni con crediti di imposta&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/terremoto-centro-italia-errani-per-la-ricostruzione-45-miliardi-sara-risarcito-il-100-dei-danni-con-crediti-di-imposta\/3090977\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/errani-de-vincenti-675-320x132.jpg","picture_class":"main-img"}],"cat_children":["economia-economia-lobby","lobby-economia-lobby","usi-consumi","numeri-news","affari-loro","infografiche","onlus-dintorni"]},"economia-economia-lobby":{"cat_slug":"economia-economia-lobby","cat_label":"Economia","menu":"home-main-navigation","cat_articles":[{"title":"Conti pubblici, governo ripete la sua versione e va avanti senza l&#8217;ok dell&#8217;Ufficio parlamentare di bilancio","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/conti-pubblici-governo-ripete-la-sua-versione-e-va-avanti-senza-lok-dellufficio-parlamentare-di-bilancio\/3091640\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/padoan-675-1-320x132.jpg","picture_class":"main-img"},{"title":"Immigrazione, Fondazione Moressa: &#8220;Gli stranieri pagano 640mila pensioni italiane&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/immigrazione-fondazione-moressa-gli-stranieri-pagano-640mila-pensioni-italiane\/3088509\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/08\/lavoratori-immigrati-675-320x132.jpg","picture_class":"main-img"},{"title":"Povert\u00e0, Caritas: &#8220;Governo non fermi la riforma della lotta all&#8217;indigenza. Serve piano da 7 miliardi per aiutare tutti&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/06\/poverta-caritas-governo-non-fermi-la-riforma-della-lotta-allindigenza-serve-piano-da-7-miliardi-per-aiutare-tutti\/3078247\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/01\/povert\u00e0-675-320x132.jpg","picture_class":"main-img"},{"title":"Inps, il presidente Boeri e la riforma osteggiata dai sindacati che mette in imbarazzo il governo Renzi","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/05\/inps-il-presidente-boeri-e-la-riforma-osteggiata-dai-sindacati-che-mette-in-imbarazzo-il-governo-renzi\/3077377\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/04\/boeri-poletti-675-320x132.jpg","picture_class":"main-img"},{"title":"Def, l&#8217;Ufficio parlamentare Bilancio boccia i conti del governo: &#8220;Su crescita Pil eccesso di ottimismo&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/03\/def-lufficio-parlamentare-bilancio-boccia-i-conti-del-governo-su-crescita-pil-eccesso-di-ottimismo\/3072782\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/renzi-padoan-675-320x132.jpg","picture_class":"main-img"},{"title":"Conti pubblici, Padoan: &#8220;Sforare il 3%? Parliamone&#8221;. Bankitalia e Corte dei conti: &#8220;Obiettivi del governo sul pil? Ambiziosi&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/03\/conti-pubblici-padoan-sforare-il-3-parliamone-e-per-bankitalia-e-corte-dei-conti-obiettivi-del-governo-sono-ambiziosi\/3072741\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/04\/cdm-def-675-320x132.jpg","picture_class":"main-img"}],"cat_parent":"economia-lobby"},"lobby-economia-lobby":{"cat_slug":"lobby-economia-lobby","cat_label":"Lobby","menu":"home-main-navigation","cat_articles":[{"title":"Emersione capitali, ora governo punta ai soldi nascosti nelle cassette di sicurezza. &#8220;Rischio che siano frutto di riciclaggio&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/emersione-capitali-governo-verso-sanatoria-sui-soldi-nelle-cassette-di-sicurezza-rischio-che-siano-frutto-di-riciclaggio\/3092606\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/euro-675-320x132.jpg","picture_class":"main-img"},{"title":"Lobby, Bruxelles lancia la riforma del registro. Senza cancellarne l&#8217;inefficacia","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/lobby-bruxelles-lancia-la-riforma-del-registro-senza-cancellarne-linefficacia\/3087532\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2014\/10\/Barroso-675-320x132.jpg","picture_class":"main-img"},{"title":"Eurosprechi, la proliferazione degli enti e i miliardi di euro buttati: &#8220;Vince l&#8217;esigenza di soddisfare ogni Paese&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/eurosprechi-la-proliferazione-degli-enti-e-i-miliardi-di-euro-buttati-vince-lesigenza-di-soddisfare-ogni-paese\/3087849\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/eurosprechi-675-320x132.jpg","picture_class":"main-img"},{"title":"Ferrovie Sud-Est, esposto di una turista fa partire nuova inchiesta. Altra grana per il Tesoro che la salver\u00e0 attraverso Fs","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/ferrovie-sud-est-esposto-di-una-turista-fa-partire-nuova-inchiesta-altra-grana-per-il-tesoro-che-la-salvera-attraverso-fs\/3086133\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/02\/ferrovie-sud-est675-320x132.jpg","picture_class":"main-img"},{"title":"Autostrade, la buona stella abbandona Carlo Toto sulle varianti miliardarie della Strada dei Parchi","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/09\/autostrade-la-buona-stella-abbandona-carlo-toto-sulle-varianti-miliardarie-della-strada-dei-parchi\/3082232\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/toto-675-320x132.jpg","picture_class":"main-img"},{"title":"Call center SuperAbile, in pole societ\u00e0 sotto inchiesta. Inail: &#8220;Tutto regolare, se hanno i requisiti di legge&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/08\/call-center-superabile-in-pole-societa-sotto-inchiesta-inail-tutto-regolare-se-hanno-i-requisiti-di-legge\/3083062\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/Superabile_675-320x132.png","picture_class":"main-img"}],"cat_parent":"economia-lobby"},"usi-consumi":{"cat_slug":"usi-consumi","cat_label":"Usi &amp; Consumi","menu":"home-main-navigation","cat_articles":[{"title":"Bonus 500 euro ai 18enni, &#8216;impossibile ottenere credenziali necessarie per usarlo&#8217;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/bonus-500-euro-ai-18enni-impossibile-ottenere-credenziali-necessarie-per-usarlo\/3086212\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/spid-675-320x132.jpg","picture_class":"main-img"},{"title":"Conti correnti, le banche aumentano i costi? Per difendervi cambiate istituto","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/07\/conti-correnti-le-banche-aumentano-i-costi-per-difendervi-cambiate-istituto\/3077151\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2015\/02\/soldi-lente-675x275-320x132.jpg","picture_class":"main-img"},{"title":"Pensioni, tutte le novit\u00e0 della riforma: cosa cambia per Ape, quattordicesima, precoci, usuranti e ricongiunzioni","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/04\/pensioni-tutte-le-novita-della-riforma-cosa-cambia-per-ape-quattordicesima-precoci-usuranti-e-ricongiunzioni\/3072949\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/04\/pensioni-6751-320x132.jpg","picture_class":"main-img"},{"title":"Ecobonus e ristrutturazioni, gi\u00e0 prorogati prima della Stabilit\u00e0: si ripagano da soli","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/03\/ecobonus-e-ristrutturazioni-gia-prorogati-prima-della-stabilita-si-ripagano-da-soli\/3063050\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2015\/06\/casa-soldi-675-320x132.jpg","picture_class":"main-img"},{"title":"Pensioni, bussola della riforma: stangata dell&#8217;Ape e altre misure ancora senza soldi","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/09\/23\/pensioni-bussola-della-riforma-stangata-dellape-e-altre-misure-ancora-senza-soldi\/3050911\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/pensioni-675-1-320x132.jpg","picture_class":"main-img"},{"title":"Pensioni reversibilit\u00e0, stop alla norma &#8220;anti badanti&#8221;: via ai rimborsi Inps per le giovani vedove","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/09\/22\/pensioni-reversibilita-stop-alla-norma-anti-badanti-via-ai-rimborsi-inps-per-le-giovani-vedove\/3049953\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2015\/07\/anziani_675-320x132.jpg","picture_class":"main-img"}],"cat_parent":"economia-lobby"},"numeri-news":{"cat_slug":"numeri-news","cat_label":"Numeri &amp; News","menu":"home-main-navigation","cat_articles":[{"title":"Bnl, 700 esuberi e taglio del 30% degli incentivi ai dipendenti per ridurre i costi. Verso la chiusura 100 sportelli","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/bnl-700-esuberi-e-taglio-del-30-degli-incentivi-per-ridurre-i-costi-verso-la-chiusura-100-sportelli\/3092816\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/bnl-bnp-675-320x132.jpg","picture_class":"main-img"},{"title":"Welfare, Bankitalia: &#8220;Sistema sbilanciato, danneggia minori e famiglie. Concentrare risorse su chi ha pi\u00f9 bisogno&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/welfare-bankitalia-sistema-sbilanciato-danneggia-minori-e-famiglie-concentrare-risorse-su-chi-ha-piu-bisogno\/3091063\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/palazzo-koch-bankitalia-675-320x132.jpg","picture_class":"main-img"},{"title":"Terremoto Centro Italia, Errani: &#8220;Per la ricostruzione 4,5 miliardi. Sar\u00e0 risarcito il 100% dei danni con crediti di imposta&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/terremoto-centro-italia-errani-per-la-ricostruzione-45-miliardi-sara-risarcito-il-100-dei-danni-con-crediti-di-imposta\/3090977\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/errani-de-vincenti-675-320x132.jpg","picture_class":"main-img"},{"title":"Povert\u00e0, tecnici Senato: &#8220;Con il disegno di legge del governo agli indigenti andranno non pi\u00f9 di 20 euro al mese&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/poverta-tecnici-senato-con-il-disegno-di-legge-del-governo-agli-indigenti-andranno-non-piu-di-20-euro-al-mese\/3090706\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/02\/spreco_alimentare_675-320x132.jpg","picture_class":"main-img"},{"title":"Fondiaria Sai, sei anni a Salvatore Ligresti, cinque anni e otto mesi alla figlia Jonella","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/fondiaria-sai-sei-anni-a-salvatore-ligresti-cinque-anni-e-otto-mesi-alla-figlia-jonella\/3090535\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/05\/ligresti_675-320x132.jpg","picture_class":"main-img"},{"title":"Brexit, &#8220;se Londra abbandona il mercato unico perder\u00e0 73 miliardi di euro di gettito fiscale e il 9,5% del pil&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/brexit-se-londra-abbandona-il-mercato-unico-perdera-73-miliardi-di-euro-di-gettito-fiscale-e-il-95-del-pil\/3090600\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/may-675-320x132.jpg","picture_class":"main-img"}],"cat_parent":"economia-lobby"},"affari-loro":{"cat_slug":"affari-loro","cat_label":"Affari Loro","menu":"home-main-navigation","cat_articles":[{"title":"Tiziano Renzi, l&#8217;affare degli outlet di Reggello \u00e8 tutto famiglia e Pd toscano","url":"http:\/\/www.ilfattoquotidiano.it\/2015\/12\/15\/tiziano-renzi-laffare-outlet-di-reggello-e-tutto-famiglia-e-partito-democratico-toscano\/2304361\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2015\/12\/tiziano-renz-bn-300x132.jpg","picture_class":"main-img"},{"title":"Fabrizio Palenzona, lo squalo bianco &#8220;dalle vaste influenze&#8221; che entra in tutte le partite che contano","url":"http:\/\/www.ilfattoquotidiano.it\/2015\/10\/08\/fabrizio-palenzona-lo-squalo-bianco-dalle-vaste-influenze-che-entra-in-tutte-le-partite-che-contano\/2110730\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2015\/10\/palenzona-bn-240x132.jpg","picture_class":"main-img"},{"title":"Ancora Claudio Levorato. La fiera delle inchieste sul re delle coop emiliane","url":"http:\/\/www.ilfattoquotidiano.it\/2015\/03\/01\/levorato-fiera-delle-inchieste-re-delle-coop-emiliane\/1457010\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2015\/03\/levorato-675-320x132.jpg","picture_class":"main-img"},{"title":"Anas, il miracolo di Pietro Ciucci: prima di pensionarsi si licenzia e si risarcisce","url":"http:\/\/www.ilfattoquotidiano.it\/2015\/02\/27\/anas-miracolo-ciucci-prima-pensionarsi-si-licenzia-si-risarcisce\/1587148\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2015\/02\/ciucci-300-300x132.jpg","picture_class":"main-img"},{"title":"Bruno Vespa, il vino e le azioni Veneto Banca: &#8220;Non sono pi\u00f9 socio, ho venduto&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2015\/02\/18\/veneto-banca-bruno-vespa-non-socio-venduto-quote-anni-fa\/1437636\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2015\/02\/vespa-300-300x132.jpg","picture_class":"main-img"},{"title":"Niente Consulta per Catrical\u00e0, l&#8217;uomo per tutte le stagioni si ritira dalla corsa","url":"http:\/\/www.ilfattoquotidiano.it\/2014\/09\/12\/niente-consulta-per-catricala-luomo-per-tutte-le-stagioni-si-ritira-dalla-corsa\/1117662\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2014\/09\/catrical\u00e0-letta-675-320x2751-300x132.jpg","picture_class":"main-img"}],"cat_parent":"economia-lobby"},"infografiche":{"cat_slug":"infografiche","cat_label":"Infografiche","menu":"home-main-navigation","cat_articles":[{"title":"INFOGRAFICA &#8211; Onlus, ecco quanto ricavano e come spendono i fondi","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/02\/07\/infografica-onlus-ecco-quanto-ricavano-e-come-spendono-i-fondi\/2439106\/"},{"title":"Partite Iva, infografica, la rivolta contro il &#8220;malus&#8221; Renzi","url":"http:\/\/www.ilfattoquotidiano.it\/2015\/05\/08\/infografica-partitteiva-in-rivolta-contro-malus-renzi\/1360933\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2015\/01\/web-infografica-21-01-2015-320x132.jpg","picture_class":"main-img"},{"title":"I fatti del 2013 nelle infografiche del Fatto Quotidiano","url":"http:\/\/www.ilfattoquotidiano.it\/2013\/12\/30\/i-fatti-del-2013-nelle-infografiche-del-fatto-quotidiano\/816581\/"}],"cat_parent":"economia-lobby"},"onlus-dintorni":{"cat_slug":"onlus-dintorni","cat_label":"Onlus &amp; Dintorni","menu":"home-main-navigation","cat_articles":[{"title":"5 per mille alla cultura, dal 2017 si potr\u00e0 scegliere a chi destinarlo. Esperto: &#8220;Bene, ma vediamo come sar\u00e0 messo in pratica&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/09\/5-per-mille-alla-cultura-dal-2017-si-potra-scegliere-a-chi-destinarlo-esperto-bene-ma-vediamo-come-sara-messo-in-pratica\/3081973\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/restauro-675-320x132.jpg","picture_class":"main-img"},{"title":"Emergenza casa, a due anni dall&#8217;avvio del progetto Housing first oltre 500 homeless accolti. E met\u00e0 contribuisce alle spese","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/02\/emergenza-casa-a-due-anni-dallavvio-del-progetto-housing-first-oltre-500-homeless-accolti-e-meta-contribuisce-alle-spese\/3046028\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/homeless-675-320x132.jpg","picture_class":"main-img"},{"title":"Aiuti ai Paesi poveri, il rapporto: &#8220;Fondi per lo sviluppo usati per la crisi dei migranti. Renzi mantenga promesse&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/09\/25\/aiuti-ai-paesi-poveri-il-rapporto-fondi-per-lo-sviluppo-usati-per-la-crisi-dei-migranti-renzi-mantenga-promesse\/3047728\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/renzi-onu-675-320x132.jpg","picture_class":"main-img"},{"title":"Ambulanze, lavoratori del 118 contro volontari: &#8220;Poco formati e fanno turni fino a 60 ore&#8221;. A Ferrara parte indagine","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/09\/17\/ambulanze-lavoratori-del-118-contro-volontari-poco-formati-e-fanno-turni-fino-a-60-ore-a-ferrara-parte-indagine\/3036035\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/ambulanza-675-320x132.jpg","picture_class":"main-img"},{"title":"Testamento solidale, 14 italiani su 100 vogliono lasciare l&#8217;eredit\u00e0 a associazioni umanitarie. Fenomeno da 1,1 miliardi","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/09\/13\/testamento-solidale-14-italiani-su-100-vogliono-lasciare-leredita-a-associazioni-umanitarie-fenomeno-da-11-miliardi\/3030222\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2014\/10\/testamento-solidale-675-320x132.jpg","picture_class":"main-img"},{"title":"5 per mille, nuove regole su trasparenza e accesso ai fondi. L&#8217;esperto: &#8220;Ora misurare anche l&#8217;impatto delle attivit\u00e0&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/09\/10\/5-per-mille-nuove-regole-su-trasparenza-e-accesso-ai-fondi-lesperto-ora-misurare-anche-limpatto-delle-attivita\/3009701\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/renzi-volontariato-675-320x132.jpg","picture_class":"main-img"}],"cat_parent":"economia-lobby"},"cronaca":{"cat_slug":"cronaca","cat_label":"Cronaca","menu":"home-main-navigation","cat_articles":[{"title":"Soldi e regali per evitare o cancellare multe, tre poliziotti arrestati a Palermo","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/soldi-e-regali-per-evitare-o-cancellare-multe-tre-poliziotti-arrestati-a-palermo\/3092648\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/polizia-stradale-675-320x132.jpg","picture_class":"main-img"},{"title":"Migranti, a Calizzano bus separati per residenti e profughi: &#8220;Come l&#8217;apartheid&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/migranti-a-calizzano-bus-separati-per-residenti-e-profughi-come-lapartheid\/3090588\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/bus-migranti-675-320x132.jpg","picture_class":"main-img"},{"title":"Mantova, l&#8217;assessore e il voto sull&#8217;assegnazione dei lavori alla ditta del fratello","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/mantova-lassessore-vota-laffidamento-diretto-dei-lavori-alla-ditta-del-fratello\/3090444\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/sindaco-mantova-675-320x132.jpg","picture_class":"main-img"},{"title":"Terrorismo, Alfano: &#8220;Abbiamo abbassato le garanzie per la sicurezza&#8221;. Espulso un algerino di 40 anni","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/terrorismo-alfano-abbiamo-abbassato-le-garanzie-per-garantire-la-sicurezza-espulso-un-algerino-di-40-anni\/3090163\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/alfano675-320x132.jpg","picture_class":"main-img"},{"title":"Eni, giochi e film porno in control-room. &#8220;Licenziato per aver denunciato la verit\u00e0&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/eni-giochi-e-film-porno-in-control-room-licenziato-per-aver-denunciato-la-verita\/3057795\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/FotoEni_controll_room2-320x132.jpg","picture_class":"main-img"},{"title":"Pordenone, &#8220;in tre volevano aggredirmi ma li ho stesi&#8221;. Pugile professionista sar\u00e0 sentita in Questura","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/pordenone-hanno-tentato-di-aggredirmi-ma-li-ho-stesi-tutti-e-tre-pugile-professionista-sara-sentita-in-questura\/3088428\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/pugile-675-320x132.jpg","picture_class":"main-img"}]},"mafie":{"cat_slug":"mafie","cat_label":"Mafie","menu":"home-main-navigation","cat_articles":[{"title":"Fiera Milano, commissariato ramo d&#8217;azienda. L&#8217;arrestato: &#8220;Cestini da 500\/600 euro ai dirigenti&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/fiera-milano-amministrazione-giudiziaria-per-ramo-dazienda-dopo-inchiesta-su-mafia-e-tangenti\/3091334\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/fiera-milano-675-320x132.jpg","picture_class":"main-img"},{"title":"Cosa nostra, Tot\u00f2 Riina potr\u00e0 incontrare il figlio in carcere. Familiari vittime Georgofili: &#8220;Mancanza di rispetto&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/06\/cosa-nostra-toto-riina-potra-incontrare-il-figlio-in-carcere-familiari-vittime-georgofili-mancanza-di-rispetto\/3080554\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/riina_675-320x132.jpg","picture_class":"main-img"},{"title":"Comprati e Venduti, l&#8217;ultimo libro di Claudio Fava: &#8220;Il mondo del giornalismo sulle spalle degli ultimi&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/06\/comprati-e-venduti-lultimo-libro-di-claudio-fava-il-mondo-del-giornalismo-sulle-spalle-degli-ultimi\/3078017\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/claudio-fava-675-320x132.png","picture_class":"main-img"},{"title":"Beni confiscati alla mafia a quota 58mila. Aumentano i provvedimenti, ma solo il 4% \u00e8 assegnato ai nuovi beneficiari","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/05\/beni-confiscati-alla-mafia-a-quota-58mila-aumentano-i-provvedimenti-ma-solo-il-4-e-assegnato-ai-nuovi-beneficiari\/3077018\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/beni-confiscati-675-320x132.jpg","picture_class":"main-img"},{"title":"Mafia, scoperto l&#8217;ultimo cimitero di Cosa nostra: trovati i resti di sei corpi in una grotta vicino Corleone","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/05\/mafia-scoperto-il-cimitero-di-cosa-nostra-trovati-i-resti-di-sei-corpi-in-una-grotta-vicino-corleone\/3077286\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/03\/carabinieri6751-320x132.jpg","picture_class":"main-img"},{"title":"Roma, Raggi salta audizione in Antimafia per &#8220;sopraggiunti impegni&#8221;. Rinviata","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/05\/roma-virginia-raggi-salta-audizione-in-antimafia-per-sopraggiunti-impegni-della-sindaca\/3077213\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/raggi675-320x132.jpg","picture_class":"main-img"}]},"mondo":{"cat_slug":"mondo","cat_label":"Mondo","menu":"home-main-navigation","cat_articles":[{"title":"Aleppo, strage in un mercato: 15 civili uccisi in un raid sulla zona controllata dai ribelli","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/aleppo-strage-in-un-mercato-15-civili-uccisi-in-un-raid-sulla-zona-controllata-dai-ribelli\/3093603\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/aleppo_675-320x132.jpg","picture_class":"main-img"},{"title":"Attentati Parigi, avvocati rinunciano alla difesa di Salah Abdeslam: &#8220;Sta diventando una bestia selvaggia&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/salah-abdeslam-avvocati-rinunciano-alla-difesa-sta-diventando-una-bestia-selvaggia\/3093323\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/03\/salah-675-320x132.jpg","picture_class":"main-img"},{"title":"Russia, missili puntati sull&#8217;Europa e pane razionato a S. Pietroburgo: Mosca ribolle, con l&#8217;Occidente \u00e8 escalation di tensione","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/russia-missili-puntati-sulleuropa-e-pane-razionato-a-s-pietroburgo-mosca-ribolle-con-loccidente-e-escalation-di-tensione\/3092761\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/Putin675-320x132.jpg","picture_class":"main-img"},{"title":"Corea del Nord, Kim Jong-un punisce il viceministro degli Esteri: rimosso e spedito al confine in una fattoria","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/corea-del-nord-kim-jong-un-punisce-il-viceministro-degli-esteri-rimosso-e-spedito-al-confine-in-una-fattoria\/3092469\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/corea-del-nord-320x132.jpg","picture_class":"main-img"},{"title":"Uk, scuole distinguono tra &#8220;italiani&#8221;, &#8220;napoletani&#8221; e &#8220;siciliani&#8221;. Proteste dell&#8217;ambasciatore. Londra chiede scusa","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/uk-scuole-distinguono-tra-italiani-napoletani-e-siciliani-lambasciatore-siamo-uniti-dal-1861\/3091710\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/brexit-uk-675-320x132.jpg","picture_class":"main-img"},{"title":"Siria, Papa Francesco: &#8220;Imploro un cessate il fuoco ad Aleppo. Bisogna evacuare i civili, soprattutto bambini&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/siria-papa-francesco-imploro-il-cessate-il-fuoco-evacuare-civili-soprattutto-bambini\/3092541\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/papa-675-320x132.jpg","picture_class":"main-img"}]},"scuola":{"cat_slug":"scuola","cat_label":"Scuola","menu":"home-main-navigation","cat_articles":[{"title":"Buona scuola, non si far\u00e0 referendum contro la legge 107. Cassazione: &#8220;Mancano le firme&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/buona-scuola-non-si-fara-referendum-contro-la-legge-107-cassazione-mancano-le-firme\/3093489\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/professori_6751-320x132.jpg","picture_class":"main-img"},{"title":"Insegnanti di sostegno, &#8216;il nostro compagno \u00e8 senza? Ce ne andiamo&#8217;: la protesta di 600 studenti e genitori a Roma","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/insegnanti-di-sostegno-il-nostro-compagno-non-ce-lha-ce-ne-andiamo-la-protesta-di-600-studenti-e-genitori-a-roma\/3091615\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/protesta-scuola-sostegno-675-320x132.jpg","picture_class":"main-img"},{"title":"Torino, crolla il controsoffitto a scuola: ferita una bambina a Nichelino","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/torino-crolla-il-controsoffitto-a-scuola-ferita-una-bambina\/3090757\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/scuola-675-modificata-320x132.jpg","picture_class":"main-img"},{"title":"Padova, le maestre sentono gli scricchiolii e fanno uscire gli alunni. Il crollo del soffitto non causa feriti","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/padova-le-maestre-sentono-gli-scricchiolii-e-fanno-uscire-gli-alunni-il-crollo-del-soffitto-non-causa-feriti\/3088174\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/de-amicis-675-320x132.jpg","picture_class":"main-img"},{"title":"Scuola, Intercultura: &#8220;Con la crisi sempre meno scambi internazionali e stage all&#8217;estero. E l&#8217;Italia non attrae stranieri&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/scuola-intercultura-con-la-crisi-sempre-meno-scambi-internazionali-e-stage-allestero-e-litalia-non-attrae-stranieri\/3086445\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/scuola-anno-scolastico-6753-320x132.jpg","picture_class":"main-img"},{"title":"Andria, ritardi di bus e treni dopo il disastro di luglio: preside d\u00e0 permesso di entrare dopo la campanella","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/08\/andria-ritardi-di-bus-e-treni-dopo-il-disastro-di-luglio-preside-da-permesso-agli-studenti-di-entrare-in-ritardo\/3084541\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/06\/scuola_675-320x132.jpg","picture_class":"main-img"}]},"lavoro-precari":{"cat_slug":"lavoro-precari","cat_label":"Lavoro &amp; Precari","menu":"home-main-navigation","cat_articles":[{"title":"Voucher, Inps: &#8220;Compenso medio annuo degli 1,4 milioni di lavoratori pagati con buoni non arriva a 500 euro&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/voucher-e-precariato-inps-compenso-medio-annuo-degli-14-milioni-di-lavoratori-pagati-con-buoni-non-arriva-a-500-euro\/3093098\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2015\/04\/precario-675-320x132.jpg","picture_class":"main-img"},{"title":"Scioperi fattorini Foodora, la protesta pronta a sbarcare anche a Milano. &#8220;Senza risposte stop totale del servizio&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/scioperi-fattorini-foodora-la-protesta-pronta-a-sbarcare-anche-a-milano-senza-risposte-stop-totale-del-servizio\/3088941\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/foodora-675-1-320x132.png","picture_class":"main-img"},{"title":"Dirigenti pubblici, il 24 ottobre sciopero nazionale contro riforma Madia: &#8216;Governo vuol distruggere i servitori dello Stato&#8217;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/08\/dirigenti-pubblici-il-24-ottobre-sciopero-nazionale-contro-riforma-madia-governo-vuol-distruggere-i-servitori-dello-stato\/3084348\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/madia-675-320x132.jpg","picture_class":"main-img"},{"title":"Almaviva, il gruppo chiude sedi a Roma e Napoli e taglia 2.500 posti: &#8220;Troppi call center delocalizzati in Albania&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/05\/almaviva-il-gruppo-chiude-sedi-a-roma-e-napoli-e-taglia-2-500-posti-troppi-call-center-delocalizzati-in-albania\/3077479\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/almaviva-675-320x132.jpg","picture_class":"main-img"},{"title":"Voucher, lo studio Inps: &#8220;Girone infernale che non fa emergere il nero. Servono solo a tenere basso il costo del lavoro&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/05\/voucher-lo-studio-inps-girone-infernale-che-non-fa-emergere-il-nero-servono-solo-a-tenere-basso-il-costo-del-lavoro\/3074836\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2015\/04\/boeri-nuova-2-675-320x132.jpg","picture_class":"main-img"},{"title":"Lavoro, in agosto 13mila occupati in pi\u00f9 ma quasi tutti over 50. Tra i giovani cala disoccupazione ma aumentano gli inattivi","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/09\/30\/lavoro-in-agosto-13mila-occupati-in-piu-ma-quasi-tutti-over-50-tra-i-giovani-cala-disoccupazione-ma-aumentano-gli-inattivi\/3066761\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/08\/lavoro-675-320x132.jpg","picture_class":"main-img"}]},"fq-magazine":{"cat_slug":"fq-magazine","cat_label":"FQ Magazine","menu":"home-secondary-navigation","cat_articles":[{"title":"Belen Rodriguez e quella mano con sei dita","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/belen-rodriguez-e-quella-mano-con-sei-dita\/3093700\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/belen905-320x320.jpg","picture_class":"square"},{"title":"Politics, cos\u00ec Matteo Renzi resuscita gli ascolti del talk di Gianluca Semprini (ma Di Maio batte il premier)","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/politics-cosi-matteo-renzi-resuscita-gli-ascolti-del-talk-di-gianluca-semprini\/3093117\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/renzi675-320x320.jpg","picture_class":"square"},{"title":"Parola di Dio, scontro tra Darwin e Bibbia nella scuola russa ai tempi di Vladimir Putin &#8211; IL TRAILER","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/parola-di-dio-scontro-tra-darwin-e-bibbia-nella-scuola-russa-ai-tempi-di-vladimir-putin\/3092895\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/parola-di-dio-675x675-320x320.jpg","picture_class":"square"},{"title":"Eugenio Montale,120 anni fa nasceva il poeta genovese","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/eugenio-montale120-anni-fa-nasceva-il-poeta-genovese\/3092730\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/montale675-320x320.jpg","picture_class":"square"},{"title":"Il Volo su Canale 5, la grande truffa della lirica: speriamo che abbocchino all&#8217;estero cos\u00ec, almeno per po&#8217;, ce ne liberiamo","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/il-volo-su-canale-5-la-grande-truffa-della-lirica-speriamo-che-abbocchino-allestero-cosi-almeno-per-po-ce-ne-liberiamo\/3092592\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/ilvolo675-320x320.jpg","picture_class":"square"},{"title":"Clown Hysteria, i pagliacci malmostosi appaiono ovunque. Criminalit\u00e0, burla o sapiente operazione di marketing?","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/clown-hysteria-i-pagliacci-malmostosi-appaiono-ovunque-criminalita-burla-o-sapiente-operazione-di-marketing\/3090320\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/it675-320x320.jpg","picture_class":"square"}],"cat_children":["attualita","cinema","musica","ritratti","cultura","stile","televisione","cucina","donne"]},"attualita":{"cat_slug":"attualita","cat_label":"Attualit\u00e0","menu":"home-secondary-navigation","cat_articles":[{"title":"Belen Rodriguez e quella mano con sei dita","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/belen-rodriguez-e-quella-mano-con-sei-dita\/3093700\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/belen905-320x320.jpg","picture_class":"square"},{"title":"Eugenio Montale,120 anni fa nasceva il poeta genovese","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/eugenio-montale120-anni-fa-nasceva-il-poeta-genovese\/3092730\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/montale675-320x320.jpg","picture_class":"square"},{"title":"Clown Hysteria, i pagliacci malmostosi appaiono ovunque. Criminalit\u00e0, burla o sapiente operazione di marketing?","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/clown-hysteria-i-pagliacci-malmostosi-appaiono-ovunque-criminalita-burla-o-sapiente-operazione-di-marketing\/3090320\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/it675-320x320.jpg","picture_class":"square"},{"title":"Gus Van Sant, il regista a Torino per inaugurare la mostra &#8216;Icons&#8217;: &#8220;Trump? L&#8217;ipotesi che diventi presidente mi spaventa&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/gus-van-sant-il-regista-a-torino-per-inaugurare-la-mostra-icons-trump-lipotesi-che-diventi-presidente-mi-spaventa\/3089856\/"},{"title":"Fabrizio Corona, la storia senza lieto fine del Sisifo di Corso Como (FOTO)","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/fabrizio-corona-la-storia-senza-lieto-fine-del-sisifo-di-corso-como-foto\/3088158\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2015\/11\/corona675-320x320.jpg","picture_class":"square"},{"title":"Fabrizio Corona arrestato, il suo staff su Facebook: &#8220;Tutti i contratti in essere verranno rispettati&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/fabrizio-corona-arrestato-il-suo-staff-su-facebook-tutti-i-contratti-in-essere-verranno-rispettati\/3088623\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/corona675-320x320.jpg","picture_class":"square"}],"cat_parent":"fq-magazine"},"cinema":{"cat_slug":"cinema","cat_label":"Cinema","menu":"home-secondary-navigation","cat_articles":[{"title":"Parola di Dio, scontro tra Darwin e Bibbia nella scuola russa ai tempi di Vladimir Putin &#8211; IL TRAILER","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/parola-di-dio-scontro-tra-darwin-e-bibbia-nella-scuola-russa-ai-tempi-di-vladimir-putin\/3092895\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/parola-di-dio-675x675-320x320.jpg","picture_class":"square"},{"title":"Aladdin, il regista inglese Guy Ritchie diriger\u00e0 il live action del classico di Disney","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/aladdin-il-regista-inglese-guy-ritchie-dirigera-il-live-action-del-classico-di-disney\/3089842\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/aladdin-675x675-320x320.jpg","picture_class":"square"},{"title":"Andrzej Wajda morto a 90 anni: il regista polacco aveva affrontato i temi della guerra e della lotta allo stalinismo. Il suo &#8220;Afterimage&#8221; alla Festa del Cinema di Roma","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/andrzej-wajda-morto-a-90-anni-il-regista-polacco-aveva-affrontato-i-temi-della-guerra-e-della-lotta-allo-stalinismo-il-suo-afterimage-alla-festa-del-cinema-di-roma\/3087050\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/Wajda905-320x320.jpg","picture_class":"square"},{"title":"Famiglia Cristiana attacca il film su Emanuela Orlandi: &#8220;Trama anticlericale&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/07\/famiglia-cristiana-attacca-il-film-su-emanuela-orlandi-trama-anticlericale\/3082196\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/orlandi-film-675-320x320.jpg","picture_class":"square"},{"title":"Film in uscita al cinema, cosa vedere (e non) nel fine settimana del 7 ottobre","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/06\/film-in-uscita-al-cinema-cosa-vedere-e-non-nel-fine-settimana-del-7-ottobre\/3079733\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/herzog675-320x320.jpg","picture_class":"square"},{"title":"Neruda &#8211; da Cannes il film su poesia e politica firmato dal regista Pablo Larra\u00ecn","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/06\/neruda-da-cannes-il-film-su-sogno-poesia-e-politica-firmato-dal-regista-pablo-larrain\/3077556\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/neruda675-320x320.jpg","picture_class":"square"}]},"musica":{"cat_slug":"musica","cat_label":"Musica","menu":"home-secondary-navigation","cat_articles":[{"title":"Il Volo su Canale 5, la grande truffa della lirica: speriamo che abbocchino all&#8217;estero cos\u00ec, almeno per po&#8217;, ce ne liberiamo","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/il-volo-su-canale-5-la-grande-truffa-della-lirica-speriamo-che-abbocchino-allestero-cosi-almeno-per-po-ce-ne-liberiamo\/3092592\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/ilvolo675-320x320.jpg","picture_class":"square"},{"title":"Di come ascoltare la radio tutto il giorno sia una nuova forma di spietata tortura","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/di-come-ascoltare-la-radio-tutto-il-giorno-sia-una-nuova-forma-di-spietata-tortura\/3079899\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/radio675-320x320.jpg","picture_class":"square"},{"title":"Nek, ecco il nuovo album &#8220;Unici&#8221;. Caro Filippo, fidati di un pirla: lascia perdere un pubblico che non \u00e8 tuo","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/nek-ecco-il-nuovo-album-unici-caro-filippo-fidati-di-un-pirla-lascia-perdere-un-pubblico-che-non-e-tuo\/3088218\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/nek675-320x320.jpg","picture_class":"square"},{"title":"Concerto Coldplay Milano, TicketOne segnalata all&#8217;Antitrust: due date sold out in pochi minuti","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/07\/concerto-coldplay-milano-ticketone-segnalata-allantitrust-due-date-sold-out-in-pochi-minuti\/3082620\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/coldplay-675x675-320x320.jpg","picture_class":"square"},{"title":"The Rolling Stones, in arrivo il nuovo album &#8220;Blue &#038; Lonesome&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/06\/the-rolling-stones-in-arrivo-il-nuovo-album-blue-lonesome\/3079764\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/stones675-320x320.jpg","picture_class":"square"},{"title":"Tiziano Ferro in concerto, annunciate le date del tour 2017: biglietti in vendita dal 10 ottobre","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/06\/tiziano-ferro-annunciate-le-date-del-tour-italiano\/3079216\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/ferro675-1-320x320.jpg","picture_class":"square"}],"cat_parent":"fq-magazine"},"ritratti":{"cat_slug":"ritratti","cat_label":"Ritratti","menu":"home-secondary-navigation","cat_articles":[{"title":"Jennifer Aniston, ritratto di una star &#8220;accessibile&#8221;: &#8220;Contro il sessisimo a Hollywood basta articoli solo su look e scarpe&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/07\/25\/jennifer-aniston-ritratto-di-una-star-accessibile-ragazze-non-conta-il-peso-amatevi-per-quello-che-siete-e-imparate-a-sostenervi\/2931031\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/07\/aniston675-320x320.jpg","picture_class":"square"},{"title":"Lino Banfi compie 80 anni: ritratto del comico pugliese che ha reso cult la commedia all&#8217;italiana","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/07\/09\/lino-banfi-compie-80-anni-ritratto-del-comico-pugliese-che-ha-reso-cult-la-commedia-allitaliana\/2888564\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/07\/lino-banfi-quadrata-320x320.jpg","picture_class":"square"},{"title":"Gael Garcia Bernal, il cinema e la politica: &#8220;L\u2019odio creato da Donald Trump verso i migranti \u00e8 puro fascismo&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/06\/20\/gael-garcia-bernal-il-cinema-e-la-politica-lodio-creato-da-donald-trump-verso-i-migranti-e-puro-fascismo\/2842136\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/06\/Gael-Garcia-Bernal-675x675-320x320.png","picture_class":"square"},{"title":"Tutti pazzi per Ricky Gervais: chi \u00e8 &#8220;il Woody Allen inglese&#8221;. Schietto, irregolare, geniale: avercene dalle nostre parti, signora mia","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/06\/01\/tutti-pazzi-per-ricky-gervais-chi-e-il-woody-allen-inglese-schietto-irregolare-geniale-avercene-dalle-nostre-parti-signora-mia\/2786373\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/06\/gervais675-320x320.jpg","picture_class":"square"},{"title":"Andrea Pazienza, sessant&#8217;anni fa nasceva il fumettista rockstar. La moglie: &#8220;Oggi? Sarebbe come allora, pieno di energia&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/05\/23\/andrea-pazienza-sessantanni-fa-nasceva-il-fumettista-rockstar-la-moglie-oggi-sarebbe-come-allora-pieno-di-energia\/2756209\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/05\/pazienza675-320x320.jpg","picture_class":"square"},{"title":"Festival di Cannes, George Clooney: &#8220;Se fossi ubriaco racconterei un segreto di Berlusconi. Ma ho un futuro, e una moglie&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/05\/13\/festival-di-cannes-george-clooney-se-fossi-ubriaco-racconterei-un-segreto-di-berlusconi-ma-ho-un-futuro-e-una-moglie\/2725606\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/05\/george675int-320x320.jpg","picture_class":"square"}],"cat_parent":"fq-magazine"},"cultura":{"cat_slug":"cultura","cat_label":"Cultura","menu":"home-secondary-navigation","cat_articles":[{"title":"Teatro, Asso di Monnezza: i crimini del ciclo dei rifiuti nel triste e disperato monologo di Ulderico Pesce","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/08\/teatro-asso-di-monnezza-i-crimini-del-ciclo-dei-rifiuti-nel-triste-e-disperato-monologo-di-ulderico-pesce\/3083953\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/asso-di-monnezza675-320x320.png","picture_class":"square"},{"title":"Teatro, al via la quinta stagione del circolo Arci Ohib\u00f2 di Milano","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/06\/teatro-al-via-la-quinta-stagione-del-circolo-arci-ohibo-di-milano\/3079181\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/teatro-8-mod-320x320.jpg","picture_class":"square"},{"title":"Elena Ferrante, la traduttrice Anita Raja su Twitter: &#8220;Lo confermo. Sono io, ma lasciatemi vivere in pace&#8221;. Casa editrice: &#8220;E&#8217; un fake&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/05\/elena-ferrante-la-traduttrice-anita-raja-su-twitter-lo-confermo-sono-io-ma-lasciatemi-vivere-in-pace-casa-editrice-e-un-fake\/3076394\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/bimbaperduta_675-320x320.jpg","picture_class":"square"},{"title":"Elena Ferrante, il giallo dell&#8217;identit\u00e0. &#8220;Ecco perch\u00e9 \u00e8 Anita Raja, moglie di Domenico Starnone&#8221;: l&#8217;inchiesta del Sole 24 Ore","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/02\/elena-ferrante-il-giallo-dellidentita-ecco-perche-e-anita-raja-moglie-di-domenico-starnone-linchiesta-del-sole-24-ore\/3070537\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/amica-geniale-675-675-320x320.jpg","picture_class":"square"},{"title":"Silvio Berlusconi, la &#8220;confessione inedita&#8221; dell&#8217;ex cavaliere nel libro &#8220;Bisogna saper perdere&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/09\/29\/silvio-berlusconi-la-confessione-inedita-dellex-cavaliere-nel-libro-bisogna-saper-perdere\/3064378\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/peredere-675-320x320.jpg","picture_class":"square"},{"title":"Shoah, morto a 96 anni Max Mannheimer. Aveva raccontato la sua prigionia nei lager nazisti","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/09\/24\/shoah-morto-a-96-anni-max-mannheimer-aveva-raccontato-la-sua-prigionia-nei-lager-nazisti\/3054467\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/ausch-320x320.jpg","picture_class":"square"}],"cat_parent":"fq-magazine"},"stile":{"cat_slug":"stile","cat_label":"Stile","menu":"home-secondary-navigation","cat_articles":[{"title":"Sonia Rykiel: morta la stilista parigina, &#8220;regina della maglieria&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/08\/25\/sonia-rykiel-morta-la-stilista-parigina-regina-della-maglieria\/2996236\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/08\/sonia6751-320x320.jpg","picture_class":"square"},{"title":"Fontana di Trevi, Fendi festeggia 90 anni con una sfilata in acqua (FOTO)","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/07\/08\/fontana-di-trevi-fendi-festeggia-90-anni-con-una-sfilata-in-acqua-foto\/2890327\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/07\/sfilata-675-320x320.jpg","picture_class":"square"},{"title":"Alitalia, le nuove divise delle hostess si tingono di rosso: l&#8217;evoluzione di 70 anni di moda (FOTO)","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/05\/18\/alitalia-le-nuove-divise-delle-hostess-si-tingono-di-rosso-levoluzione-di-70-anni-di-moda-foto\/2741903\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/05\/alitalia-675-320x320.jpg","picture_class":"square"},{"title":"Salone del Mobile e FuoriSalone 2016: i dieci eventi da non perdere","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/04\/13\/salone-del-mobile-e-fuorisalone-2016-i-dieci-eventi-da-non-perdere\/2632470\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/04\/gelato675-320x320.jpg","picture_class":"square"},{"title":"Saint Laurent, Hedi Slimane lascia la direzione creativa della maison francese","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/04\/01\/saint-laurent-hedi-slimane-lascia-la-direzione-creativa-della-maison-francese\/2599663\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/04\/hedi675-320x320.jpg","picture_class":"square"},{"title":"Giorgio Armani: &#8220;Mai pi\u00f9 pellicce nelle mie collezioni, crudelt\u00e0 inutile contro gli animali&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/03\/23\/giorgio-armani-mai-piu-pellicce-nelle-mie-collezioni-crudelta-inutile-contro-gli-animali\/2574157\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/03\/armani_675_675-320x320.jpg","picture_class":"square"}],"cat_parent":"fq-magazine"},"televisione":{"cat_slug":"televisione","cat_label":"Televisione","menu":"home-secondary-navigation","cat_articles":[{"title":"Politics, cos\u00ec Matteo Renzi resuscita gli ascolti del talk di Gianluca Semprini (ma Di Maio batte il premier)","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/politics-cosi-matteo-renzi-resuscita-gli-ascolti-del-talk-di-gianluca-semprini\/3093117\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/renzi675-320x320.jpg","picture_class":"square"},{"title":"X Factor, la sacrosanta &#8216;denuncia&#8217; di Danilo D&#8217;Ambrosio e il potere del montaggio (VIDEO)","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/x-factor-la-sacrosanta-denuncia-di-danilo-dambrosio-e-il-potere-del-montaggio\/3090658\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/DD675-320x320.jpg","picture_class":"square"},{"title":"Milena Gabanelli lascia Report: gavetta, successi e reportage della giornalista che &#8220;cerca di cambiare le cose attraverso il suo lavoro&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/milena-gabanelli-lascia-report-gavetta-successi-e-reportage-della-giornalista-che-cerca-di-cambiare-le-cose-attraverso-il-suo-lavoro\/3090032\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/gaba675-320x320.jpg","picture_class":"square"},{"title":"Grande Fratello Vip, Pamela Prati squalificata senza televoto scrive una nuova pagina di trash televisivo","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/grande-fratello-vip-pamela-prati-squalificata-senza-televoto-scrive-una-nuova-pagina-di-trash-televisivo\/3089651\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/prati675-1-320x320.jpg","picture_class":"square"},{"title":"The Young Pope, Paolo Sorrentino sta (gi\u00e0) scrivendo la seconda stagione","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/the-young-pope-paolo-sorrentino-sta-gia-scrivendo-la-seconda-stagione\/3088080\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/sorrentino-law-675x675-320x320.png","picture_class":"square"},{"title":"Daria Bignardi: &#8220;Non esistono programmi renziani. Politics? Non chiuder\u00e0&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/daria-bignardi-non-esistono-programmi-renziani-politics-non-chiudera\/3087411\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/db675-320x320.jpg","picture_class":"square"}],"cat_parent":"fq-magazine"},"cucina":{"cat_slug":"cucina","cat_label":"Cucina","menu":"home-secondary-navigation","cat_articles":[{"title":"Di come &#8220;l&#8217;impiattamento&#8221; sia diventato un pilastro della nostra societ\u00e0","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/07\/30\/di-come-limpiattamento-sia-diventato-un-pilastro-della-nostra-societa\/2940208\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/07\/piatto675-320x320.jpg","picture_class":"square"},{"title":"Osteria Francescana, ecco cosa significa lavorare nel miglior ristorante del mondo","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/07\/27\/osteria-francescana-ecco-cosa-significa-lavorare-nel-miglior-ristorante-del-mondo\/2934661\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/07\/GiuseppePalmieriMassimoBottura675-320x320.jpg","picture_class":"square"},{"title":"Estate 2016 in cucina, il pranzo si fa leggero: le insalate secondo lo chef Berton. Ricette e suggerimenti","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/06\/26\/estate-2016-in-cucina-il-pranzo-si-fa-leggero-le-insalate-secondo-lo-chef-berton-ricette-e-suggerimenti\/2859717\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/06\/Insalata-verde675-320x320.png","picture_class":"square"},{"title":"Massimo Bottura, la sua Osteria Francescana \u00e8 il primo ristorante al mondo: &#8220;Mi esplode il cuore, \u00e8 una cosa meravigliosa&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/06\/14\/massimo-bottura-la-sua-osteria-francescana-e-il-primo-ristorante-al-mondo-mi-esplode-il-cuore-e-una-cosa-meravigliosa\/2828964\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/06\/battura675-320x320.jpg","picture_class":"square"},{"title":"Sicilia, 10 prodotti da assaggiare per portare in tavola l&#8217;estate","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/06\/05\/sicilia-10-prodotti-da-assaggiare-per-portare-in-tavola-lestate\/2797261\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/06\/capperi675-320x320.jpg","picture_class":"square"},{"title":"Vino vegano, Luca Martini sommelier: &#8220;E&#8217; un passo importante, come quando si fa il vino kosher, che viene controllato da un rabbino&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/05\/27\/vino-vegano-luca-martini-sommelier-e-un-passo-importante-come-quando-si-fa-il-vino-kosher-che-viene-controllato-da-un-rabbino\/2772939\/"}],"cat_parent":"fq-magazine"},"donne":{"cat_slug":"donne","cat_label":"Donne","menu":"home-secondary-navigation","cat_articles":[{"title":"Orgasmo femminile, scoperto il mistero dietro al culmine dell&#8217;eccitazione sessuale","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/08\/02\/orgasmo-femminile-scoperto-il-mistero-dietro-al-culmine-delleccitazione-sessuale\/2949853\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/08\/orgasmo675-675-320x320.jpg","picture_class":"square"},{"title":"Dee di Vita con il turbante e il make up di Clio. Perch\u00e9 ricominciare a piacersi dopo la chemioterapia si pu\u00f2","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/05\/09\/dee-di-vita-con-il-turbante-e-il-make-up-di-clio-perche-ricominciare-a-piacersi-dopo-la-chemioterapia-si-puo\/2710120\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/05\/Dee-di-Vita-675-320x320.jpg","picture_class":"square"},{"title":"Istat, rimossa Linda Laura Sabbadini, &#8220;pioniera&#8221; della statistica al femminile. Ed \u00e8 subito insurrezione","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/04\/03\/istat-rimossa-linda-laura-sabbadini-pioniera-della-statistica-al-femminile-ed-e-subito-insurrezione\/2604337\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/04\/laura-sabbadini-675-675-320x320.jpg","picture_class":"square"},{"title":"Aborto, l&#8217;approccio &#8220;olistico&#8221; di Amy Hagstrom Miller: agli antipodi con il modello medico tradizionale","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/03\/14\/aborto-lapproccio-olistico-di-amy-hagstrom-miller-agli-antipodi-con-il-modello-medico-tradizionale\/2542153\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/03\/frida-320x320.jpg","picture_class":"square"},{"title":"8 marzo, Mattarella: &#8220;Violenza su donne \u00e8 ancora piaga sociale. Ma non buttino loro voto con l&#8217;astensione&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/03\/08\/8-marzo-mattarella-violenza-su-donne-e-ancora-piaga-sociale-ma-non-buttino-loro-voto-con-lastensione\/2528074\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/03\/mattarella-675-675-320x320.jpg","picture_class":"square"},{"title":"8 marzo, 70 anni fa le donne d&#8217;Italia al voto per la prima volta. E tre comuniste scelsero la mimosa come simbolo","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/03\/08\/8-marzo-70-anni-fa-le-donne-ditalia-al-voto-per-la-prima-volta-e-tre-comuniste-scelsero-la-mimosa-come-simbolo\/2526805\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/03\/Voto-donne-675-320x320.jpg","picture_class":"square"}],"cat_parent":"fq-magazine"},"cronaca-nera":{"cat_slug":"cronaca-nera","cat_label":"Cronaca Nera","menu":"home-secondary-navigation","cat_articles":[{"title":"Cercatore di funghi trovato cadavere nei boschi del Genovese: ferito con fucilate poi decapitato. Scomparsa la testa","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/cercatore-di-funghi-trovato-cadavere-nei-boschi-del-genovese-ferito-con-fucilate-poi-decapitato-scomparsa-la-testa\/3092838\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/03\/carabinieri6751-320x132.jpg","picture_class":"main-img"},{"title":"Torino, uccide la moglie a pugni poi va al bar a bere una birra: fermato 70enne","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/torino-donna-uccisa-a-pugni-in-casa-il-marito-confessa-fermato\/3089728\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/04\/carabinieri6752-Copia-320x132.jpg","picture_class":"main-img"},{"title":"Venezia, cadavere affiora a Sacca Fisola. Recuperato dai pompieri, polizia indaga","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/venezia-cadavere-affiora-a-sacca-fisola-recuperato-dai-pompieri-polizia-indaga\/3087270\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/venezia-675-320x132.jpg","picture_class":"main-img"},{"title":"Foggia, 17enne ucciso in piazza a colpi di pistola: fermato un 16enne","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/08\/foggia-17enne-ucciso-in-piazza-a-colpi-di-pistola-fermato-un-16enne\/3084989\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/polizia-675-320x132.jpg","picture_class":"main-img"},{"title":"Pistoia, lei si rifugia in bagno ma lui d\u00e0 fuoco all&#8217;appartamento: 28enne muore carbonizzata. Arrestato coetaneo","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/08\/pistoia-lei-si-rifugia-in-bagno-ma-lui-da-fuoco-allappartamento-28enne-muore-carbonizzata-arrestato-coetaneo\/3084145\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/pistoia-675-320x132.png","picture_class":"main-img"},{"title":"Siracusa, 80enne aggredito in casa e dato alle fiamme dal branco. &#8220;\u00c8 in fin di vita&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/08\/siracusa-80enne-aggredito-in-casa-e-dato-alle-fiamme-dal-branco-e-gravissimo\/3084053\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/siracusa_675-320x132.jpg","picture_class":"main-img"}]},"zonaeuro":{"cat_slug":"zonaeuro","cat_label":"Zonaeuro","menu":"home-secondary-navigation","cat_articles":[{"title":"Fondi Ue, 31 miliardi per l&#8217;Italia a rischio. &#8220;Ritardi governo-regioni&#8221;. De Vincenti: &#8220;Barocco iter burocratico di Bruxelles&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/fondi-ue-a-rischio-i-31-miliardi-destinati-allitalia-colpa-dei-ritardi-di-governo-e-regioni\/3092564\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/unione_europea_675-320x132.jpg","picture_class":"main-img"},{"title":"Renzi contro l&#8217;Ue: &#8220;Frenetico immobilismo. Vertice di Roma decisivo per il futuro&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/renzi-ancora-contro-lue-frenetico-immobilismo-vertice-di-roma-decisivo-per-il-futuro\/3092429\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/renzi-675-4-320x132.jpg","picture_class":"main-img"},{"title":"Londra rassicura gli studenti dell&#8217;Unione Europea: &#8220;S\u00ec a prestiti e borse di studio nonostante la Brexit&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/londra-rassicura-gli-studenti-dellunione-europea-si-a-prestiti-e-borse-di-studio-nonostante-la-brexit\/3090950\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/universita-inglese-675-320x132.jpg","picture_class":"main-img"},{"title":"Grecia, Eurogruppo sblocca solo 1,1 miliardi di aiuti su 2,8. E serviranno tutti per pagare gli interessi sul debito","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/grecia-eurogruppo-sblocca-solo-11-miliardi-di-aiuti-su-28-e-serviranno-tutti-per-pagare-gli-interessi-sul-debito\/3088364\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/tsipras-675-320x132.jpg","picture_class":"main-img"},{"title":"Brexit, Merkel avverte Londra: &#8220;Senza libera circolazione dei cittadini, niente accesso al mercato unico&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/06\/brexit-merkel-avverte-londra-senza-libera-circolazione-dei-cittadini-niente-accesso-al-mercato-unico\/3079611\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2015\/11\/Merkel675-320x132.jpg","picture_class":"main-img"},{"title":"Strasburgo, erede di Farage grave dopo lite all&#8217;Europarlamento: &#8220;Ha ricevuto un pugno e si \u00e8 accasciato&#8221; (VIDEO)","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/06\/strasburgo-erede-di-farage-grave-dopo-lite-alleuroparlamento-ha-ricevuto-un-pugno-e-si-e-accasciato\/3079458\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/woolfe-675-320x132.jpg","picture_class":"main-img"}]},"diritti":{"cat_slug":"diritti","cat_label":"Diritti","menu":"home-secondary-navigation","cat_articles":[{"title":"Il vaso di Pandora, ecco il sito che aiuta a condividere, prevenire e superare gli abusi","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/il-vaso-di-pandora-ecco-il-sito-che-aiuta-a-condividere-prevenire-e-superare-gli-abusi\/3092658\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/vaso-di-pandora-320x132.jpg","picture_class":"main-img"},{"title":"Bambino disabile picchiato a scuola dai bulli, madre denuncia e posta foto su Fb","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/bambino-disabile-picchiato-a-scuola-dai-bulli-madre-denuncia-e-posta-foto-su-fb\/3092705\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/bambino-disabile-picchiato-675-320x132.jpg","picture_class":"main-img"},{"title":"Maternit\u00e0 surrogata, il Consiglio d&#8217;Europa boccia il rapporto che apriva alla gestazione per altri: 83 no e 77 s\u00ec","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/maternita-surrogata-il-consiglio-deuropa-boccia-il-rapporto-che-apriva-alla-gestazione-per-altri-83-no-e-77-si\/3091532\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2014\/12\/maternita-neonati-675-320x132.jpg","picture_class":"main-img"},{"title":"Famiglie SMA: &#8220;Grazie a Checco Zalone raccolti 250mila euro per campagna contro l&#8217;atrofia muscolare spinale&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/famiglie-sma-grazie-a-checco-zalone-raccolti-250mila-euro-per-campagna-contro-atrofia-muscolare-spinale\/3090736\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/famiglie-sma675-320x132.jpg","picture_class":"main-img"},{"title":"Vittime reati violenti, Corte Ue: &#8220;Italia inadempiente sugli indennizzi ai cittadini di altri Paesi dell&#8217;Unione&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/vittime-reati-violenti-corte-ue-italia-inadempiente-sugli-indennizzi-ai-cittadini-di-altri-paesi-dellunione\/3090830\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/07\/commissione-675-320x132.jpg","picture_class":"main-img"},{"title":"Fertility day, Senato approva mozione Pd: si cambi nome alla giornata, rimborso pillola del giorno dopo e pi\u00f9 consultori","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/fertility-day-senato-approva-mozione-pd-si-cambi-nome-alla-giornata-rimborso-pillola-del-giorno-dopo-e-piu-consultori\/3089743\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/lorenzin-675-320x132.png","picture_class":"main-img"}]},"sport-miliardi":{"cat_slug":"sport-miliardi","cat_label":"Sport &amp; miliardi","menu":"home-secondary-navigation","cat_articles":[{"title":"Formula 1, festa in casa Mercedes per il 3\u00b0 titolo costruttori consecutivo &#8211; VIDEO","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/formula-1-festa-in-casa-mercedes-per-il-3-titolo-costruttori-consecutivo-video\/3092539\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/121016-IT-PERFORM-MERCEDES-SL-2_1476261382295_1484_1-320x132.jpeg","picture_class":"main-img"},{"title":"Hong Kong Open 2016, Kerber avanti in due set &#8211; VIDEO","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/hong-kong-open-2016-kerber-avanti-in-due-set-video\/3091825\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/111016-IT-PERFORM-KERBER-HL-2_1476213927456_1484_1-320x132.jpeg","picture_class":"main-img"},{"title":"Hong Kong Open 2016, la danese Wozniacki: smash impossibile &#8211; VIDEO","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/hong-kong-open-2016-la-danese-wozniacki-smash-impossibile-video\/3091156\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/111016-IT-Perform-WOZNIACKI-HL-2_1476198717162_1484_1-320x132.jpeg","picture_class":"main-img"},{"title":"Olimpiadi 2024, il Coni ha &#8216;interrotto&#8217; la candidatura di Roma. Ultima speranza di Malag\u00f2: caduta della Raggi entro febbraio","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/olimpiadi-2024-il-coni-ha-interrotto-la-candidatura-di-roma-ultima-speranza-di-malago-caduta-della-raggi-entro-febbraio\/3090556\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/malag\u00f2-pancalli-675-320x132.jpg","picture_class":"main-img"},{"title":"World Tennis di Las Vegas, Sharapova: le prime immagini del ritorno in campo &#8211; VIDEO","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/world-tennis-di-las-vegas-sharapova-le-prime-immagini-del-ritorno-in-campo-video\/3090539\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/111016-EN-PERFORM-SHARAPOVARETURNSCLEAN-VL-2_1476187831548_1484_1-320x132.jpeg","picture_class":"main-img"},{"title":"Tennis, Sharapova: &#8220;Pubblico, mi sei mancato&#8221; &#8211; VIDEO","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/tennis-sharapova-pubblico-mi-sei-mancato-video\/3089633\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/111016-IT-Perform-SHARAPOVA-N-2_1476173331669_1484_1-320x132.jpeg","picture_class":"main-img"}]},"calcio":{"cat_slug":"calcio","cat_label":"Calcio","menu":"home-secondary-navigation","cat_articles":[{"title":"Paolo Maldini e quel no al Milan cinese: i dubbi dell&#8217;ex bandiera rossonera sono la diagnosi del povero Diavolo","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/paolo-maldini-e-quel-no-al-milan-cinese-i-dubbi-dellex-bandiera-rossonera-sono-la-diagnosi-del-povero-diavolo\/3093034\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/maldini_675-320x132.png","picture_class":"main-img"},{"title":"Nozze gay, cade il tab\u00f9: vicepresidente Savoia sposa il compagno. &#8220;Per Tavecchio sono un diverso? Felice di esserlo&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/nozze-gay-cade-il-tabu-vicepresidente-savoia-sposa-il-compagno-per-tavecchio-sono-un-diverso-felice-di-esserlo\/3090985\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/gianni-salzano-675-320x132.jpg","picture_class":"main-img"},{"title":"Saluto romano durante Israele-Italia, indagati e perquisiti tre ultras di Bari: trovati manganelli e riviste fasciste","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/saluto-romano-durante-israele-italia-indagati-e-perquisiti-tre-ultras-di-bari-trovati-manganelli-e-riviste-fasciste\/3089851\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/italia-320x132.png","picture_class":"main-img"},{"title":"Graziano Pell\u00e8, Matarrese: &#8220;Al posto del ct Ventura, gli avrei dato un ceffone davanti a tutti&#8221; &#8211; VIDEO","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/graziano-pelle-matarrese-al-posto-del-ct-ventura-gli-avrei-dato-un-ceffone-davanti-a-tutti-video\/3090011\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/Matarrese675-320x132.jpg","picture_class":"main-img"},{"title":"Maradona, l&#8217;attacco a Icardi: &#8220;Lui in Nazionale? Dei traditori non parlo&#8221;. La replica dell&#8217;interista: &#8220;Non \u00e8 un esempio&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/maradona-lattacco-a-icardi-lui-in-nazionale-dei-traditori-non-parlo-la-replica-dellinterista-non-e-un-esempio\/3088704\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/maradona-675-320x132.jpg","picture_class":"main-img"},{"title":"Spagna, Piqu\u00e9 in rotta coi tifosi annuncia l&#8217;addio alla nazionale: &#8220;Dopo Russia 2018, smetto&#8221;. Il giallo della maglia tagliata &#8211; VIDEO","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/spagna-pique-in-rotta-coi-tifosi-annuncia-laddio-alla-nazionale-dopo-russia-2018-smetto-il-giallo-della-maglia-tagliata\/3087594\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/piqu\u00e9-675-320x132.jpg","picture_class":"main-img"}]},"cervelli-in-fuga":{"cat_slug":"cervelli-in-fuga","cat_label":"Cervelli in fuga","menu":"home-secondary-navigation","cat_articles":[{"title":"&#8220;In Sudafrica a 35 anni ho avuto la mia cattedra. In Italia lavoravo col mio pc su una panca&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/in-sudafrica-a-35-anni-ho-avuto-la-mia-cattedra-in-italia-lavoravo-col-mio-pc-su-una-panca\/3075306\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/sudafrica-675-320x132.jpg","picture_class":"main-img"},{"title":"Ingegnere a Harvard. &#8220;In Italia ricercatori molto capaci. Ma gli studenti hanno poca autostima&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/03\/ingegnere-a-harvard-in-italia-ricercatori-molto-capaci-ma-gli-studenti-hanno-poca-autostima\/3069625\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/boston-675-320x132.jpg","picture_class":"main-img"},{"title":"&#8220;A Dubai ho ritrovato la gioia di lavorare. In Italia se sei bravo diventi un problema&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/09\/30\/a-dubai-ho-ritrovato-la-gioia-di-lavorare-in-italia-se-sei-bravo-diventi-un-problema\/3062818\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/dubai-675-320x132.png","picture_class":"main-img"},{"title":"&#8220;A Vancouver disegno per il cinema d&#8217;animazione. In Canada non c&#8217;\u00e8 staticit\u00e0: posso realizzare i miei progetti&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/09\/24\/a-vancouver-disegno-per-il-cinema-danimazione-in-canada-non-ce-staticita-posso-realizzare-i-miei-progetti\/3050843\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/francesca-natale-675-1-320x132.jpg","picture_class":"main-img"},{"title":"Fertility Day, medico in Usa: &#8220;In Italia non si trattano questi temi in maniera libera. Forte influenza della Chiesa&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/09\/21\/fertility-day-medico-in-usa-in-italia-non-si-trattano-questi-temi-in-maniera-libera-ce-ancora-una-forte-influenza-della-chiesa\/3033122\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/Emma-Giuliani-6751-320x132.jpg","picture_class":"main-img"},{"title":"Bando Ue per ricercatori: su 22 italiani vincitori, 14 andranno all&#8217;estero. &#8220;Nel nostro Paese niente soldi n\u00e9 carriera&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/09\/14\/bando-ue-per-ricercatori-su-22-italiani-vincitori-14-andranno-allestero-nel-nostro-paese-niente-soldi-ne-carriera\/3026050\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2014\/10\/universit\u00e0-675-320x132.jpg","picture_class":"main-img"}]},"societa":{"cat_slug":"societa","cat_label":"Societ\u00e0","menu":"home-secondary-navigation","cat_articles":[{"title":"Perugia-Assisi, in 100mila alla Marcia della Pace. &#8220;Camminiamo insieme contro l&#8217;indifferenza di istituzioni e cittadini&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/09\/perugia-assisi-in-100mila-alla-marcia-della-pace-camminiamo-insieme-contro-lindifferenza-di-istituzioni-e-cittadini\/3086026\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/pace-675-320x132.jpg","picture_class":"main-img"},{"title":"Milano, piazza Duomo apparecchiata con 10mila piatti vuoti contro la fame nel mondo (e gli sprechi di cibo)","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/08\/milano-piazza-duomo-apparecchiata-con-10mila-piatti-vuoti-contro-la-fame-nel-mondo-e-gli-sprechi-di-cibo\/3084632\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/duomo-fame-675-320x132.jpg","picture_class":"main-img"},{"title":"&#8220;Il nostro robot porta la luce naturale in casa. Merito degli Usa e di 200mila dollari raccolti via crowdfunding&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/06\/il-nostro-robot-porta-la-luce-naturale-in-casa-merito-degli-usa-e-di-200mila-dollari-raccolti-via-crowdfunding\/3062586\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/diva-675-320x132.jpg","picture_class":"main-img"},{"title":"Italiani all&#8217;estero, aumenta il numero degli espatriati: 107mila nel 2015. Ad andarsene sono soprattutto gli under 35","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/06\/italiani-allestero-aumenta-il-numero-degli-espatriati-107mila-nel-2015-ad-andarsene-sono-soprattutto-gli-under-35\/3078784\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/partenze-675-320x132.jpg","picture_class":"main-img"},{"title":"&#8220;A Barcellona la mia porchetta \u00e8 diventata un marchio. Tanti italiani qui senza spirito di sacrificio&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/04\/a-barcellona-la-mia-porchetta-e-diventata-un-marchio-tanti-italiani-qui-senza-spirito-di-sacrificio\/3059900\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/porchetta-barcellona-675-320x132.jpg","picture_class":"main-img"},{"title":"Varese, imprenditore devolve 7 milioni di euro per aiutare i bambini malati","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/02\/varese-imprenditore-devolve-sette-milioni-di-euro-per-aiutare-i-bambini-malati\/3070318\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/04\/neonati_culle_675-320x132.jpg","picture_class":"main-img"}]},"tecno":{"cat_slug":"tecno","cat_label":"Tecno","menu":"home-secondary-navigation","cat_articles":[{"title":"Parma, app e cartone animato per far superare la paura dell&#8217;ospedale ai bambini","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/parma-app-e-cartone-animato-per-far-superare-la-paura-dellospedale-ai-bambini\/2697457\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/05\/brian-app-6785-320x132.jpg","picture_class":"main-img"},{"title":"Samsung blocca la vendita del Galaxy Note 7: &#8220;Spegnetelo e non usatelo pi\u00f9&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/samsung-blocca-la-vendita-del-galaxy-note-7-spegnetelo-e-non-usatelo-piu\/3089571\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/samsung-320x132.jpg","picture_class":"main-img"},{"title":"Galaxy Note 7, Samsung sospende la produzione dopo i casi di combustione","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/samsung-sospesa-la-produzione-del-galaxy-note-7-dopo-i-casi-di-combustione\/3087901\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/Samsung-Galaxy-Note675-320x132.jpg","picture_class":"main-img"},{"title":"Google Pixel e Pixel XL sfidano gli smartphone Apple: prezzo da 649 dollari","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/04\/google-sfida-apple-coi-suoi-smartphone-pixel-e-pixel-xl-prezzo-base-in-usa-649-dollari\/3075555\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/smartphone-google-675-320x132.jpg","picture_class":"main-img"},{"title":"Putin mette al bando Microsoft: Mosca elimina prodotti informatici Usa e scommette su software locali","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/09\/29\/putin-mette-al-bando-microsoft-mosca-elimina-prodotti-informatici-statunitensi-e-scommette-su-software-locali\/3064608\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/microsoft-1-320x132.jpg","picture_class":"main-img"},{"title":"BlackBerry dice addio alla produzione di cellulari: l&#8217;azienda canadese si concentrer\u00e0 solo su software e servizi","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/09\/28\/blackberry-dice-addio-alla-produzione-di-cellulari-lazienda-canadese-si-concentrera-solo-su-software-e-servizi\/3062981\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/blackberry-320x132.jpg","picture_class":"main-img"}]},"scienza":{"cat_slug":"scienza","cat_label":"Scienza","menu":"home-secondary-navigation","cat_articles":[{"title":"Alzheimer, fermata la malattia con la terapia genica. Esperimento condotto sui topi","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/alzheimer-fermata-la-malattia-con-la-terapia-genica-esperimento-condotto-sui-topi\/3088762\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/staminali_675-320x132.jpg","picture_class":"main-img"},{"title":"Obesity day 2016, &#8220;il 49% degli italiani a dieta. Ma 6 milioni sono obesi&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/obesity-day-il-49-degli-italiani-segue-una-dieta-ma-sei-milioni-sono-obesi\/3087226\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2015\/05\/obesit\u00e0-675-320x132.jpg","picture_class":"main-img"},{"title":"Memoria, i volti dei cattivi? &#8220;Indimenticabili&#8221;. La ricerca: &#8220;I pregiudizi negativi restano impressi nella mente&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/09\/memoria-i-volti-dei-cattivi-indimenticabili-la-ricerca-i-pregiudizi-negativi-restano-impressi-nella-mente\/3084777\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/hitler-mussolini-675-320x132.jpg","picture_class":"main-img"},{"title":"Vita umana, qual \u00e8 il limite invalicabile? Secondo i ricercatori \u00e8 125 anni","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/08\/vita-umana-il-limite-invalicabile-secondo-i-ricercatori-e-125-anni\/3082840\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/anziani-675-320x132.png","picture_class":"main-img"},{"title":"Cancro, &#8220;cos\u00ec lo stress guida le migrazioni cellulari di massa&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/07\/cancro-cosi-lo-stress-guida-le-migrazioni-cellulari-di-massa\/3082667\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/staminali_675-320x132.jpg","picture_class":"main-img"},{"title":"Premio Nobel per la Chimica 2016 a Sauvage, Stoddart and Feringa per studi sulle macchine molecolari","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/05\/premio-nobel-per-la-chimica-2016-a-sauvage-stoddart-and-feringa-per-studi-sulle-macchine-molecolari\/3076696\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/chimica-nobel-320x132.png","picture_class":"main-img"}]},"motori-2-0":{"cat_slug":"motori-2-0","cat_label":"Motori 2.0","menu":"home-secondary-navigation","cat_articles":[{"title":"Bmw, arriva la moto elettrica che sta in equilibrio da sola &#8211; FOTO e VIDEO","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/bmw-arriva-la-moto-elettrica-che-sta-in-equilibrio-da-sola-foto-e-video\/3092946\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/BMW-MOTORRAD-VISION-100-320x132.jpg","picture_class":"main-img"},{"title":"Uragano Matthew, l&#8217;appassionato non ha il garage e si mette l&#8217;auto in casa &#8211; FOTO","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/uragano-matthew-lappassionato-non-ha-il-garage-e-si-mette-lauto-in-casa-foto\/3092548\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/FOTO-IN-EVIDENZA-1-320x132.jpg","picture_class":"main-img"},{"title":"Emissioni nocive, le vecchie caldaie inquinano tre volte pi\u00f9 delle auto","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/emissioni-nocive-le-vecchie-caldaie-inquinano-tre-volte-piu-delle-auto\/3090764\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2015\/12\/smog-milano-675-320x132.jpg","picture_class":"main-img"},{"title":"Auto elettriche, il pericolo viene dai campi magnetici? In Italia il laboratorio Ue per la ricerca","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/auto-elettriche-il-pericolo-viene-dai-campi-magnetici-in-italia-il-laboratorio-ue-per-la-ricerca\/3088135\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/RADIAZIONI-320x132.jpg","picture_class":"main-img"},{"title":"Velociraptor Hennessey, pura aggressione su sei ruote &#8211; FOTO","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/velociraptor-hennessey-pura-aggressione-su-sei-ruote-foto\/3087918\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/foto-del-giorno-320x132.jpg","picture_class":"main-img"},{"title":"Germania, partono i test a sorpresa sulle emissioni. E si pensa al bando dei motori termici dal 2030","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/germania-partono-i-test-a-sorpresa-sulle-emissioni-e-si-pensa-al-bando-dei-motori-termici-dal-2030\/3087689\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2015\/11\/RSD-misurazione-emissioni-320x132.jpg","picture_class":"main-img"}]},"ambiente-veleni":{"cat_slug":"ambiente-veleni","cat_label":"Ambiente &amp; Veleni","menu":"home-secondary-navigation","cat_articles":[{"title":"Ucciso un altro Ibis eremita da un bracconiere. Gli esperti: &#8220;Atto criminale. E&#8217; un esemplare raro&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/12\/ucciso-un-altro-ibis-eremita-da-un-bracconiere-gli-esperti-atto-criminale-e-un-esemplare-raro\/3092841\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/Ibis675-320x132.png","picture_class":"main-img"},{"title":"Greenpeace, proteste contro la costruzione di una centrale a carbone in Calabria: &#8220;Investiamo nelle energie rinnovabili&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/07\/greenpeace-proteste-contro-la-costruzione-di-una-centrale-a-carbone-in-calabria-investiamo-nelle-energie-rinnovabili\/3082245\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/greepeace-1-320x132.jpg","picture_class":"main-img"},{"title":"Clima, l&#8217;Italia e il doppio gioco sull&#8217;accordo Cop21: &#8220;Ha lavorato per avere obiettivi pi\u00f9 soft sulle emissioni&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/04\/clima-litalia-e-il-doppio-gioco-sullaccordo-cop21-ha-lavorato-per-avere-obiettivi-piu-soft-sulle-emissioni\/3075431\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/galletti-675-320x132.jpg","picture_class":"main-img"},{"title":"Clima, il Parlamento Ue ratifica l&#8217;accordo di Parigi. Onu: &#8220;Passo storico&#8221;. Gli esperti: &#8220;Terra mai cos\u00ec calda da 115mila anni&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/04\/clima-il-parlamento-ue-ratifica-laccordo-di-parigi-onu-passo-storico-gli-esperti-terra-mai-cosi-calda-da-115mila-anni\/3074955\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/parigi-320x132.jpg","picture_class":"main-img"},{"title":"Ilva Taranto, nuove malattie per vecchi problemi. Che il governo continua a coprire con i decreti ad aziendam","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/03\/ilva-taranto-nuovi-malattie-per-vecchi-problemi-che-il-governo-continua-a-coprire-con-i-decreti-ad-aziendam\/3072863\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2014\/12\/ilva-nuova-675-320x132.jpg","picture_class":"main-img"},{"title":"Ilva, report della Regione Puglia: &#8220;Pi\u00f9 24 e 26 per cento di bambini malati in due quartieri vicini all&#8217;impianto&#8221;","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/03\/ilva-report-della-regione-puglia-piu-24-e-26-per-cento-di-bambini-malati-in-due-quartieri-vicini-allimpianto\/3072147\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/taranto675-320x132.jpg","picture_class":"main-img"}]},"foodscovery":{"cat_slug":"foodscovery","cat_label":"Foodscovery","menu":"home-secondary-navigation","cat_articles":[{"title":"Le tips&#038;tricks di Urzi per un cioccolato perfetto","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/le-tipstricks-di-urzi-per-un-cioccolato-perfetto\/3089866\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/TT-320x132.jpg","picture_class":"main-img"},{"title":"La storia di Urzi per immagini","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/la-storia-di-urzi-per-immagini\/3089865\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/HS-320x132.jpg","picture_class":"main-img"},{"title":"La ricetta del fico briaco","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/la-ricetta-del-fico-briaco\/3089862\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/FT-320x132.jpg","picture_class":"main-img"},{"title":"La storia del foodhero Francesco Montrone","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/11\/la-storia-del-foodhero-francesco-montrone\/3089845\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/10\/FH-320x132.jpg","picture_class":"main-img"},{"title":"Foodscovery vi racconta le storie degli eroi del cibo","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/10\/10\/foodscovery-vi-racconta-le-storie-degli-eroi-del-cibo\/2838580\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/06\/Frame_Trailer-320x132.jpg","picture_class":"main-img"},{"title":"Le tips&#038;tricks dell\u2019Acetaia San Giovanni","url":"http:\/\/www.ilfattoquotidiano.it\/2016\/09\/27\/le-tipstricks-dellacetaia-san-giovanni\/3060529\/","picture":"http:\/\/st.ilfattoquotidiano.it\/wp-content\/uploads\/2016\/09\/Preview_TT-320x132.jpg","picture_class":"main-img"}]}};
+    </script>
+            <!--[if !IE]><!--><link rel="stylesheet" href="http://st.ilfattoquotidiano.it/wp-content/themes/ifq/assets/css/ifqn_desktop-6f086e8e.css"><!--<![endif]-->
+        <!--[if gte IE 10]><link rel="stylesheet" href="http://st.ilfattoquotidiano.it/wp-content/themes/ifq/assets/css/ifqn_desktop-6f086e8e.css"><![endif]-->
+        <!--[if lte IE 9]><link rel="stylesheet" href="http://st.ilfattoquotidiano.it/wp-content/themes/ifq/assets/css/ie-ifqn_desktop-0f714284.css"><![endif]-->
+        <!--[if IE 8]><link rel="stylesheet" href="http://st.ilfattoquotidiano.it/wp-content/themes/ifq/assets/css/ie8-ba6ff1af.css"><![endif]-->
+    
+    <link rel="apple-touch-icon" href="http://st.ilfattoquotidiano.it/wp-content/themes/ifq/assets/icons/touch_60.png">
+    <link rel="apple-touch-icon" sizes="76x76" href="http://st.ilfattoquotidiano.it/wp-content/themes/ifq/assets/icons/touch_76.png">
+    <link rel="apple-touch-icon" sizes="120x120" href="http://st.ilfattoquotidiano.it/wp-content/themes/ifq/assets/icons/touch_120.png">
+    <link rel="apple-touch-icon" sizes="152x152" href="http://st.ilfattoquotidiano.it/wp-content/themes/ifq/assets/icons/touch_152.png">
+    <link rel="icon" sizes="196x196" href="http://st.ilfattoquotidiano.it/wp-content/themes/ifq/assets/icons/touch_196.png">
+    
+    <script>
+        // set array of assets to be loaded async in footer.php only if required.
+        var opta_async ={
+            assets: [],
+            load: false
+        }
+        //css
+        opta_async.assets.push("http://widget.cloud.opta.net/2.0/css/widgets.opta.css");
+        opta_async.assets.push("http://st.ilfattoquotidiano.it/wp-content/plugins/ifq-opta/assets/opta.css");
+        if(head.browser.ie && (head.browser.version === 8 || head.browser.version === 9)){
+            opta_async.assets.push("http://widget.cloud.opta.net/2.0/css/ie"+head.browser.version+".widgets.opta.css");
+        }
+        //js
+        opta_async.assets.push("http://widget.cloud.opta.net/2.0/js/widgets.opta.js");
+        opta_async.assets.push("http://st.ilfattoquotidiano.it/wp-content/plugins/ifq-opta/assets/opta.js");
+    </script>
+    <link rel="canonical" href="http://www.ilfattoquotidiano.it/blog/vfenili/" />
+<meta property="og:locale" content="it_IT" />
+<meta property="og:type" content="object" />
+<meta property="og:title" content="Vincenzo Fenili, Il Fatto Quotidiano" />
+<meta property="og:url" content="http://www.ilfattoquotidiano.it/blog/vfenili/" />
+<meta property="og:site_name" content="Il Fatto Quotidiano" />
+<meta property="article:publisher" content="https://www.facebook.com/ilFattoQuotidiano" />
+<meta property="fb:app_id" content="222559857810775" />
+<meta name="twitter:card" content="summary_large_image"/>
+<meta name="twitter:title" content="Vincenzo Fenili, Il Fatto Quotidiano"/>
+<meta name="twitter:site" content="@fattoquotidiano"/>
+<meta name="twitter:domain" content="Il Fatto Quotidiano"/>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","url":"http:\/\/www.ilfattoquotidiano.it\/","name":"Il Fatto Quotidiano"}</script>
+<link rel='dns-prefetch' href='//st.ilfattoquotidiano.it' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Il Fatto Quotidiano &raquo; Feed" href="http://www.ilfattoquotidiano.it/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Il Fatto Quotidiano &raquo; Feed dei commenti" href="http://www.ilfattoquotidiano.it/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Il Fatto Quotidiano &raquo; Articoli per il feed Vincenzo Fenili" href="http://www.ilfattoquotidiano.it/blog/vfenili/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.admin.ilfattoquotidiano.it\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.6.1"}};
+			!function(a,b,c){function d(a){var c,d,e,f,g,h=b.createElement("canvas"),i=h.getContext&&h.getContext("2d"),j=String.fromCharCode;if(!i||!i.fillText)return!1;switch(i.textBaseline="top",i.font="600 32px Arial",a){case"flag":return i.fillText(j(55356,56806,55356,56826),0,0),!(h.toDataURL().length<3e3)&&(i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,65039,8205,55356,57096),0,0),c=h.toDataURL(),i.clearRect(0,0,h.width,h.height),i.fillText(j(55356,57331,55356,57096),0,0),d=h.toDataURL(),c!==d);case"diversity":return i.fillText(j(55356,57221),0,0),e=i.getImageData(16,16,1,1).data,f=e[0]+","+e[1]+","+e[2]+","+e[3],i.fillText(j(55356,57221,55356,57343),0,0),e=i.getImageData(16,16,1,1).data,g=e[0]+","+e[1]+","+e[2]+","+e[3],f!==g;case"simple":return i.fillText(j(55357,56835),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode8":return i.fillText(j(55356,57135),0,0),0!==i.getImageData(16,16,1,1).data[0];case"unicode9":return i.fillText(j(55358,56631),0,0),0!==i.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity","unicode9"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-17057730-1', 'auto');
+
+
+  if (typeof window.adsEnabled !== 'undefined' && !window.adsEnabled) {
+    ga('set', 'contentGroup3', '1');
+  }
+
+  ga('send', 'pageview');
+
+  ga('create', 'UA-17057730-31', 'auto', {'name': 'section'});
+  ga('section.send', 'pageview');
+
+</script>        <link rel="canonical" href="http://www.ilfattoquotidiano.it/blog/vfenili/"/>
+        
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+          <!-- WP bannerize Custom CSS -->
+      <style type="text/css">
+				</style>
+      <!-- WP bannerize Custom CSS -->
+        <link rel="shortcut icon" href="http://st.ilfattoquotidiano.it/wp-content/themes/ifq/assets/favicon.ico" />
+
+</head>
+<body>
+    <div id="fb-root"></div>
+        <section class="corporate-navigation blog ">
+    <header class="blog" id="top-bar">
+
+        <nav class="corporate-nav submenu-nav clearfix">
+                    <h1 class="navbar-logo">
+                <a href="http://www.ilfattoquotidiano.it/"><img src="http://st.ilfattoquotidiano.it/wp-content/themes/ifq/assets/img/logo-header-navbar.png" width="100" height="35" alt="Il fatto Quotidiano"></a>
+            </h1>
+            <ul class="navbar-menu no-mobile">
+                <li class="sm" data-rel="rel-sezioni"><a href="http://www.ilfattoquotidiano.it"><i class="icon-menu"></i>Sezioni</a></li>
+                <li><a href="/premium/">Premium</a></li>
+                <li><a href="http://tv.ilfattoquotidiano.it/">TV</a></li>
+                <li class="sm" data-rel="rel-fq"><a href="#">FQ</a></li>
+                <li class="sm" data-rel="rel-abbonati"><a href="#">Abbonati</a></li>
+                <li><a href="https://shop.ilfattoquotidiano.it/">Fatto Social Club</a></li>
+            </ul>
+            <div class="navbar-wrapper-utils no-mobile">
+                <div class="search-toggle sm">
+                    <i class="icon-search"></i>
+                    <i class="icon-triangle-down"></i>
+                    <div class="search-form">
+                        <form class="search jgrid" action="/risultati-di-ricerca/" id="cse-search-box">
+                            <input type="hidden" name="cx" value="002673224793559243781:8d1aivqnhja" />
+                            <input type="hidden" name="cof" value="FORID:11" />
+                            <input type="hidden" name="ie" value="UTF-8" />
+                            <div class="input-wrap">
+                                <input type="text" name="q" id="q" onFocus="this.value = '';" />
+                            </div>
+                            <div class="submit-wrap">
+                                <button class="basicBtn" type="submit">Cerca</button>
+                            </div>
+                        </form>
+                    </div>
+                </div>
+                <div class="user-login logged-in no-mobile"></div>
+            </div>
+                        <div class="sub-menu no-mobile">
+                <!-- sub menu sezioni -->
+                <div class="sub-menu-content navbar-submenu submenu-categories rel-sezioni">
+                    <div class="ungrid-row">
+                                                <div class="ungrid-col">
+                            <ul class="submenu-category">
+                                                                    <li class="politica"><a href="http://www.ilfattoquotidiano.it/politica-palazzo/" class="ch">Politica</a></li>
+                                                                        <li class="palazzi-potere"><a href="http://www.ilfattoquotidiano.it/palazzi-potere/" class="ch">Palazzi &#038; Potere</a></li>
+                                                                        <li class="giustizia-impunita"><a href="http://www.ilfattoquotidiano.it/giustizia-impunita/" class="ch">Giustizia &#038; Impunità</a></li>
+                                                                        <li class="media-regime"><a href="http://www.ilfattoquotidiano.it/media-regime/" class="ch">Media &#038; Regime</a></li>
+                                                                        <li class="economia-lobby"><a href="http://www.ilfattoquotidiano.it/economia-lobby/" class="ch">Economia &#038; Lobby</a></li>
+                                                                        <li class="fq-magazine"><a href="http://www.ilfattoquotidiano.it/fq-magazine/" class="ch">FQ Magazine</a></li>
+                                                                        <li class="cronaca"><a href="http://www.ilfattoquotidiano.it/cronaca/" class="ch">Cronaca</a></li>
+                                                                        <li class="mafie"><a href="http://www.ilfattoquotidiano.it/mafie/" class="ch">Mafie</a></li>
+                                                                        <li class="mondo"><a href="http://www.ilfattoquotidiano.it/mondo/" class="ch">Mondo</a></li>
+                                                                        </ul>
+                                </div>
+                                <div class="ungrid-col">
+                                    <ul class="submenu-category">
+                                                                            <li class="scuola"><a href="http://www.ilfattoquotidiano.it/scuola/" class="ch">Scuola</a></li>
+                                                                        <li class="diritti"><a href="http://www.ilfattoquotidiano.it/diritti/" class="ch">Diritti</a></li>
+                                                                        <li class="ambiente"><a href="http://www.ilfattoquotidiano.it/ambiente-veleni/" class="ch">Ambiente</a></li>
+                                                                        <li class="sport"><a href="http://www.ilfattoquotidiano.it/sport-miliardi/" class="ch">Sport</a></li>
+                                                                        <li class="lavoro-precari"><a href="http://www.ilfattoquotidiano.it/lavoro-precari/" class="ch">Lavoro &#038; Precari</a></li>
+                                                                        <li class="emilia-romagna"><a href="http://www.ilfattoquotidiano.it/emilia-romagna/" class="ch">Emilia Romagna</a></li>
+                                                                        <li class="cervelli-in-fuga"><a href="http://www.ilfattoquotidiano.it/cervelli-fuga/" class="ch">Cervelli in fuga</a></li>
+                                                                        <li class="societa"><a href="http://www.ilfattoquotidiano.it/societa/" class="ch">Società</a></li>
+                                                                        <li class="cultura"><a href="http://www.ilfattoquotidiano.it/fq-magazine/cultura/" class="ch">Cultura</a></li>
+                                                                        </ul>
+                                </div>
+                                <div class="ungrid-col">
+                                    <ul class="submenu-category">
+                                                                            <li class="cinema"><a href="http://www.ilfattoquotidiano.it/fq-magazine/cinema/" class="ch">Cinema</a></li>
+                                                                        <li class="tecno"><a href="http://www.ilfattoquotidiano.it/tecno/" class="ch">Tecno</a></li>
+                                                                        <li class="scienza"><a href="http://www.ilfattoquotidiano.it/scienza/" class="ch">Scienza</a></li>
+                                                                        <li class="motori"><a href="http://www.ilfattoquotidiano.it/motori-2-0/" class="ch">Motori</a></li>
+                                                                        <li class="calcio"><a href="http://www.ilfattoquotidiano.it/calcio/" class="ch">Calcio</a></li>
+                                                                        <li class="donne"><a href="http://www.ilfattoquotidiano.it/category/fq-magazine/donne/" class="ch">Donne</a></li>
+                                                                        <li class="zona-euro"><a href="http://www.ilfattoquotidiano.it/zona-euro/" class="ch">Zona Euro</a></li>
+                                                                        <li class="autografi"><a href="http://www.ilfattoquotidiano.it/autografi/" class="ch">Autografi</a></li>
+                                                                        <li class="economia-occulta"><a href="http://www.ilfattoquotidiano.it/economia-occulta/" class="ch">Economia occulta</a></li>
+                                                                        </ul>
+                                </div>
+                                <div class="ungrid-col">
+                                    <ul class="submenu-category">
+                                                                            <li class="fatto-football-club"><a href="http://www.ilfattoquotidiano.it/sport-miliardi/fatto-football-club/" class="ch">Fatto Football Club</a></li>
+                                                                        <li class="guido-al-limite"><a href="http://www.ilfattoquotidiano.it/guido-al-limite/" class="ch">Guido al limite</a></li>
+                                                                        <li class="la-striscia-di-disegni"><a href="http://www.ilfattoquotidiano.it/la-striscia-di-disegni/" class="ch">La striscia di Disegni</a></li>
+                                                                        <li class="oriente-furioso"><a href="http://www.ilfattoquotidiano.it/oriente-furioso/" class="ch">Oriente Furioso</a></li>
+                                                                        <li class="piacere-quotidiano"><a href="http://www.ilfattoquotidiano.it/piacere-quotidiano/" class="ch">Piacere Quotidiano</a></li>
+                                                                        <li class="pizzi-merletti"><a href="http://tv.ilfattoquotidiano.it/pizzi-e-merletti/" class="ch">Pizzi & Merletti</a></li>
+                                                                        <li class="trash-chic"><a href="http://www.ilfattoquotidiano.it/category/trash-chic/" class="ch">Trash-Chic</a></li>
+                                                                        <li class="scio-business"><a href="http://www.ilfattoquotidiano.it/scio-business/" class="ch">Sciò Business</a></li>
+                                                                        <li class="lunedi"><a href="http://www.ilfattoquotidiano.it/lunedi/" class="ch">Lunedì</a></li>
+                                                                </ul>
+                        </div>
+                        <div class="ungrid-col">
+                            <ul class="submenu-category">                                    <li class="meteo"><a href="http://meteo.ilfattoquotidiano.it" rel="nofollow" target="_blank" class="ch">Meteo</a></li>
+                                                                    <li class="immobiliare-it"><a href="http://immobiliare.ilfattoquotidiano.it/" rel="nofollow" target="_blank" class="ch">Immobiliare.it</a></li>
+                                                                    <li class="incontri"><a href="http://k.ilius.net/?mtcmk=840463&fsid=080" rel="nofollow" target="_blank" class="ch">Incontri</a></li>
+                                                            </ul>
+                        </div>
+                    </div>
+                </div>
+                <!-- sub menu FQ -->
+                <div class="sub-menu-content navbar-submenu rel-fq">
+                    <div class="ungrid-row">
+                        <div class="ungrid-col submenu-sections">
+                            <ul class="submenu-category">
+                                <li><a href="#sm-redazione" class="sbm active">Redazione</a></li>
+                                <li><a href="#sm-contatti" class="sbm">Contatti</a></li>
+                            </ul>
+                        </div>
+                        <div class="ungrid-col">
+                            <div class="js-sm-section sm-redazione open" id="sm-redazione">
+                                <img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://st.ilfattoquotidiano.it/wp-content/themes/ifq/assets/img/redazione.jpg" width="720" height="138" alt="Redazione" class="lazyload">
+                                <a href="http://www.ilfattoquotidiano.it/redazione/" class="go-to-category">Vai alla Redazione <i class="icon-down"></i></a>
+                            </div>
+                            <div class="js-sm-section sm-contatti"  id="sm-contatti">
+                                <div class="ungrid-row">
+                                    <div class="ungrid-col">
+                                        <h3 class="gerenza"><a href="http://www.ilfattoquotidiano.it/contatti/">Gerenza</a></h3>
+                                        <p><a href="http://www.ilfattoquotidiano.it/contatti/">Editoriale il Fatto S.p.A.</a></p>
+                                    </div>
+                                    <div class="ungrid-col col-contacts">
+                                        <ul class="">
+                                            <li><a href="http://www.ilfattoquotidiano.it/contatti/scrivi-allufficio-abbonamenti/">Ufficio Abbonamenti</a></li>
+                                            <li><a href="http://www.ilfattoquotidiano.it/contatti/segnala-un-problema-tecnico/">Servizio tecnico</a></li>
+                                            <!-- <li><a href="http://www.ilfattoquotidiano.it/contatti/comunicati-stampa/">Comunicati Stampa</a></li> -->
+                                            <li><a href="/la-tua-pubblicita-sul-fatto-quotidiano/">Concessionaria Pubblicitaria<br>Himedia s.r.l.</a></li>
+                                        </ul>
+                                    </div>
+                                    <div class="ungrid-col abb-newsletter">
+                                        <a href="https://shop.ilfattoquotidiano.it/newsletter/"><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-src="http://st.ilfattoquotidiano.it/wp-content/themes/ifq/assets/img/abb_newsletter.jpg" alt="Quello che gli altri non dicono. Anche via Email. Iscriviti." width="304" height="191" class="lazyload" /></a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+                <!-- sub menu abbonati -->
+                <div class="sub-menu-content navbar-submenu rel-abbonati" style="text-align:center;">
+                    <div class="ungrid-row">
+                        <div class="ungrid-col">
+                            <div class="box-abbonamenti no-mobile">
+                                <div class="js-sm-section box-abbonamenti-content sm-abbonati open" id="sm-abbonati">
+                                    <div class="box-logo doubleStroke top center">
+                                        <span><img class="lazyload" data-src="http://st.ilfattoquotidiano.it/wp-content/themes/ifq/assets/img/logo_fsc_black.png" width="80" alt="Il Fatto Quotidiano" style="position: relative; top:7px;"></span>
+                                    </div>
+                                    <div class="ungrid-row">
+                                                                                <div class="ungrid-col">
+                                            <a href="https://shop.ilfattoquotidiano.it/il-mio-profilo/?utm_source=ifq&utm_medium=navbar&utm_campaign=cover" class="banner-entra banner-entra-cover">
+                                                <img width="203" height="300" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="paper-cover lazyload wp-post-image" alt="Copertina Il Fatto Quotidiano - Il governo vuole nominarsi i prof come Mussolini" srcset="http://st.ilfattoquotidiano.it/wp-content/uploads/2016/10/2016-10-12PrimaIlFattoQuotidiano-203x300.jpg 203w, http://st.ilfattoquotidiano.it/wp-content/uploads/2016/10/2016-10-12PrimaIlFattoQuotidiano-768x1133.jpg 768w, http://st.ilfattoquotidiano.it/wp-content/uploads/2016/10/2016-10-12PrimaIlFattoQuotidiano-630x929.jpg 630w, http://st.ilfattoquotidiano.it/wp-content/uploads/2016/10/2016-10-12PrimaIlFattoQuotidiano-675x995.jpg 675w, http://st.ilfattoquotidiano.it/wp-content/uploads/2016/10/2016-10-12PrimaIlFattoQuotidiano.jpg 990w" sizes="(max-width: 203px) 100vw, 203px" data-src="http://st.ilfattoquotidiano.it/wp-content/uploads/2016/10/2016-10-12PrimaIlFattoQuotidiano-203x300.jpg" />                                                <em>La tua home</em> <strong>Leggi</strong>
+                                            </a>
+                                        </div>
+                                                                                <div class="ungrid-col">
+                                            <a href="https://shop.ilfattoquotidiano.it/prodotto/abb-sostenitore/" class="banner-entra banner-entra-sostenitore">
+                                                <em>Entra come</em> <strong>Sostenitore</strong>
+                                            </a>
+                                        </div>
+                                        <div class="ungrid-col">
+                                            <a href="https://shop.ilfattoquotidiano.it/prodotto/partner/" class="banner-entra banner-entra-partner">
+                                                <em>Entra come</em> <strong>Partner</strong>
+                                            </a>
+                                        </div>
+                                        <div class="ungrid-col">
+                                            <a href="https://shop.ilfattoquotidiano.it/prodotto/socio/" class="banner-entra banner-entra-socio">
+                                                <em>Entra come</em> <strong>Socio di Fatto</strong>
+                                            </a>
+                                        </div>
+                                    </div>
+                                    <a href="https://shop.ilfattoquotidiano.it/abbonamenti/" class="btn btn-entra-fsc">Entra nel Fatto Social Club <i class="icon-right"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+                </nav>
+<!-- cached at 2016-10-12 14:52:06 -->
+        <div class="adv adv-leaderboard">
+                    <div class='adv '>
+            <div class='adv-inner'>
+                <!-- BEGIN Hi-Media Media AdTag, ilfattoquotidiano.it 1x1 - v1.0 -->
+                <div class='hmads_1x1 news' data-format='1x1'>
+                    <script type="text/javascript">
+                        if(window.adsEnabled){
+                            var hiMediaAdvSlots = hiMediaAdvSlots || [];
+                            (function() {
+                                var utTagCountry = 'it';
+                                var utTagSite = 'ilfattoquotidiano.it';
+                                var utTagZone = 'news';
+                                var utTagUrl = ('https:' == document.location.protocol ? 'https://' : 'http://') +
+                                    'js.himediads.com/js' +
+                                    '?country=' + encodeURIComponent(utTagCountry) +
+                                    '&site=' + encodeURIComponent(utTagSite) +
+                                    '&zone=' + encodeURIComponent(utTagZone);
+                                document.write('<sc' + 'ript type="text/javascript" src="' + utTagUrl + '"><\/sc' + 'ript>');
+                                hiMediaAdvSlots.push('.hmads_1x1.news');
+                            })();
+                        }
+                    </script>
+
+                    <script type="text/javascript">
+                        if (typeof window.adsEnabled === 'undefined' || window.adsEnabled)  {
+                            try {
+                                window.hiMediaUt.callTag({
+                                    "format": "1x1",
+                                    "keyValues": ""
+                                });
+                            } catch(ex) {}
+                        }
+                    </script>
+                    <noscript>
+                        <a href="http://rd.himediads.com/fr/jump/ilfattoquotidiano.it/news;sz=1x1;tile=1;ord=" target="_blank">
+                            <img src="http://rd.himediads.com/fr/ad/ilfattoquotidiano.it/news;sz=1x1;tile=1;ord=?" width="1" height="1" alt="" />
+                        </a>
+                    </noscript>
+                </div>
+            </div>
+        </div>
+        <!-- END Hi-Media Media AdTag, ilfattoquotidiano.it 1x1 - v1.0 -->
+                </div>
+    </header>
+</section>
+    <div class="main-wrap">
+
+        
+	<div class="header-article doubleStroke blog " itemscope itemtype="http://schema.org/BreadcrumbList">
+		<h2><span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="http://www.ilfattoquotidiano.it" itemprop="url"><span itemprop="title">IlFattoQuotidiano.it</span></a></span>  / <span itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a href="/blog/" class="cc" itemprop="url"><span itemprop="title">BLOG</span></a></span> / di <a href="http://www.ilfattoquotidiano.it/blog/vfenili/" rel="author"><span itemprop="author">Vincenzo Fenili</span></a></h2>
+	</div>
+	<div class="category-nav-wrapper">
+
+    <div class="adv adv-pushbar no-mobile">
+                <div class='adv '>
+            <div class='adv-inner'>
+                <!-- BEGIN Hi-Media Media AdTag, ilfattoquotidiano.it 728x90 - v1.0 -->
+                <div class='hmads_728x90 news' data-format='728x90'>
+                    <script type="text/javascript">
+                        if(window.adsEnabled){
+                            var hiMediaAdvSlots = hiMediaAdvSlots || [];
+                            (function() {
+                                var utTagCountry = 'it';
+                                var utTagSite = 'ilfattoquotidiano.it';
+                                var utTagZone = 'news';
+                                var utTagUrl = ('https:' == document.location.protocol ? 'https://' : 'http://') +
+                                    'js.himediads.com/js' +
+                                    '?country=' + encodeURIComponent(utTagCountry) +
+                                    '&site=' + encodeURIComponent(utTagSite) +
+                                    '&zone=' + encodeURIComponent(utTagZone);
+                                document.write('<sc' + 'ript type="text/javascript" src="' + utTagUrl + '"><\/sc' + 'ript>');
+                                hiMediaAdvSlots.push('.hmads_728x90.news');
+                            })();
+                        }
+                    </script>
+
+                    <script type="text/javascript">
+                        if (typeof window.adsEnabled === 'undefined' || window.adsEnabled)  {
+                            try {
+                                window.hiMediaUt.callTag({
+                                    "format": "728x90",
+                                    "keyValues": ""
+                                });
+                            } catch(ex) {}
+                        }
+                    </script>
+                    <noscript>
+                        <a href="http://rd.himediads.com/fr/jump/ilfattoquotidiano.it/news;sz=728x90;tile=1;ord=" target="_blank">
+                            <img src="http://rd.himediads.com/fr/ad/ilfattoquotidiano.it/news;sz=728x90;tile=1;ord=?" width="728" height="90" alt="" />
+                        </a>
+                    </noscript>
+                </div>
+            </div>
+        </div>
+        <!-- END Hi-Media Media AdTag, ilfattoquotidiano.it 728x90 - v1.0 -->
+            </div>
+</div>
+<div class="main-grid ">
+    <div class="content-wrapper sticky-parent clearfix">
+        <article class="main-article ">
+            <div class="blog-autore boxed boxed-light blog">
+                <div class="blog-autore-wrapper clearfix">
+                                            <div class="blogger-img-autore">
+                            <!-- DESKTOP IMG -->
+                            <picture class="lazy blogger-img no-mobile">
+                                <img data-src="http://st.ilfattoquotidiano.it/wp-content/img/autori/VFenili.jpg" class="lazyload" width="261" height="178" alt="Vincenzo Fenili">
+                                <noscript><img src="http://st.ilfattoquotidiano.it/wp-content/img/autori/VFenili.jpg" width="261" height="178" alt="Vincenzo Fenili"></noscript>
+
+                            </picture>
+                            <!-- MOBILE IMG -->
+                            <picture class="lazy squared only-mobile">
+                                <img data-src="http://st.ilfattoquotidiano.it/wp-content/img/autori/VFenili-thumb.jpg" class="lazyload" width="261" height="178" alt="Vincenzo Fenili">
+                                <noscript><img src="http://st.ilfattoquotidiano.it/wp-content/img/autori/VFenili-thumb.jpg" width="261" height="178" alt="Vincenzo Fenili"></noscript>
+                            </picture>
+                        </div>
+                                            <div class="blog-autore-bio">
+                        <h1 class="cc">Vincenzo Fenili</h1>
+                                                    <h2>Ex operatore dei servizi segreti e pilota Alitalia</h2>
+                            
+                            <p><p>Dopo una vita nei servizi e come contractor per il Ros, nel 2016 ho pubblicato <a href="http://www.chiarelettere.it/libro/narrazioni/in-missione-9788861907997.php" target="_blank"><em>In missione</em></a> (Chiarelettere 2016)<br />
+Sono nato a Firenze nel 1958, ho fatto il primo lancio con il paracadute nel 1977 e due anni dopo sono entrato nell’Arma dei Carabinieri. Nel 1980, ho ricevuto il brevetto di pilota e sono stato arruolato nel network di GLADIO partecipando a numerose missioni fra le quali la rendition di un noto brigatista nero rifugiatosi in Paraguay e un’operazione di controinformazione tra Sudafrica ed Europa, accumulando nel frattempo migliaia di ore di volo su jet e diventando pilota istruttore. Conclusa la guerra fredda, dopo aver operato sul fronte balcanico nel corso del conflitto nella ex Iugoslavia, sono diventato contractor del ROS che mi ha chiesto di partecipare come agente sotto copertura, usando la mia qualifica di pilota Alitalia, a due grandi operazioni contro il traffico internazionale di stupefacenti: le operazioni Pilota e Sinai. Alla fine degli anni Novanta, ormai “bruciato”, ho lasciato la compagnia di bandiera e mi sono trasferito a Phnom Penh, in Cambogia, dove sono stato impegnato nel contrasto al riciclaggio internazionale. Il mio primo libro, <a href="http://www.ibs.it/code/9788804639831/agente-kasper/supernotes.html" target="_blank"><em>Supernotes</em></a> (con Luigi Carletti, Mondadori 2014), è stato tradotto in tutto il mondo e prossimamente diventerà un film. Le rivelazioni riportate in <em>Supernotes</em> non sono mai state contraddette né smentite nei fatti.</p>
+</p>
+                                                    <section class="social">
+                            <ul class="blogger-links-social author">
+                                                            </ul>
+                        </section>
+                    </div>
+                </div>
+            </div>
+            <div class="main-column left-column">
+                <div class="doubleStroke top left blog">
+                    <div class="bottoniera-blog">
+                        <ul>
+                            <li><a class="btn btn-active" href="http://www.ilfattoquotidiano.it/blog/vfenili">Blog</a></li>
+                            <li><a class="btn " href="http://www.ilfattoquotidiano.it/blog/vfenili/ptype/articoli/">Articoli</a></li>
+                            <li><a class="btn " href="http://www.ilfattoquotidiano.it/blog/vfenili/ptype/premium/">Premium</a></li>
+                        </ul>
+                    </div>
+                    <h3 class="section-title"><span class="cc">Blog <em>di Vincenzo Fenili</em></span></h3>
+                </div>
+                
+<div class="blog-abstract">
+    <div class="blog-abstract-meta mondo">
+        <span class="cc">Mondo</span> - 11 giugno 2016    </div>
+    <h2 class="blog-abstract-title quoted"><a href ="http://www.ilfattoquotidiano.it/2016/06/11/egyptair-e-altri-incidenti-e-se-potessimo-telecomandare-gli-aerei-come-droni/2819595/">Egyptair e altri incidenti: e se potessimo telecomandare gli aerei come droni?</a></h2>
+    <div class="blog-abstract-content">
+                    <picture class="lazy fading">
+                <img width="320" height="132" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="attachment-rullo img-landscape lazyload" alt="Egyptair-675" srcset="http://st.ilfattoquotidiano.it/wp-content/uploads/2016/05/Egyptair-675-320x132.jpg 320w, http://st.ilfattoquotidiano.it/wp-content/uploads/2016/05/Egyptair-675-630x257.jpg 630w" sizes="(max-width: 320px) 100vw, 320px" data-src="http://st.ilfattoquotidiano.it/wp-content/uploads/2016/05/Egyptair-675-320x132.jpg" />            </picture>
+        Quello che impressiona maggiormente nella sparizione del volo Egyptair 864 è che nessuno sembra voler analizzare questo ennesimo “evento” mettendo in relazione alcune elementari considerazioni tecniche. Ho trascorso buona parte della mia vita nelle strutture del cosiddetto “intelligence istituzionale” ma il mio lavoro di copertura è stato quello di pilota di linea e non posso [&hellip;]    </div>
+    <div class="blog share-comments">
+        <span class="share-link">Condividi<i class="icon-share"></i>
+                <ul class="share-tooltip " data-content="&lt;li&gt;&lt;span class=&quot;fb-share-button&quot; data-type=&quot;box_count&quot; data-href=&quot;http://www.ilfattoquotidiano.it/2016/06/11/egyptair-e-altri-incidenti-e-se-potessimo-telecomandare-gli-aerei-come-droni/2819595/&quot;&gt;&lt;/span&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;a href=&quot;http://www.twitter.com/share&quot; data-text=&quot;Egyptair e altri incidenti: e se potessimo telecomandare gli aerei come droni?&quot; data-via=&quot;fattoquotidiano&quot; data-url=&quot;http://www.ilfattoquotidiano.it/2016/06/11/egyptair-e-altri-incidenti-e-se-potessimo-telecomandare-gli-aerei-come-droni/2819595/&quot; class=&quot;twitter-share-button&quot; data-lang=&quot;it&quot; data-count=&quot;vertical&quot;&gt;Tweet&lt;/a&gt;&lt;/li&gt;
+        &lt;li&gt;&lt;div class=&quot;g-plusone&quot; size=&quot;tall&quot; href=&quot;http://www.ilfattoquotidiano.it/2016/06/11/egyptair-e-altri-incidenti-e-se-potessimo-telecomandare-gli-aerei-come-droni/2819595/&quot;&gt;&lt;/div&gt;&lt;/li&gt;">
+    </ul>
+            </span>
+        <span class="comments-link"><i class="icon-chat"></i><a href="http://www.ilfattoquotidiano.it/2016/06/11/egyptair-e-altri-incidenti-e-se-potessimo-telecomandare-gli-aerei-come-droni/2819595/#disqus_thread" data-disqus-identifier="2819595" >Commenti <span></span></a></span>
+    </div>
+</div>
+
+                                    <div class="adv" id="glfb">
+                        <div id="text-106" class="widget widget_text">			<div class="textwidget"><script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Page base - category -->
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="ca-pub-8278587346980024"
+     data-ad-slot="5147168610"
+     data-ad-format="auto"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script></div>
+		<div class="clear"></div></div>                    </div>
+                                <div class="boxed">
+                                    </div>
+            </div>
+
+        </article>
+        <aside class="title-aligned">
+                    <div class='adv '>
+            <div class='adv-inner'>
+                <!-- BEGIN Hi-Media Media AdTag, ilfattoquotidiano.it 300x250 - v1.0 -->
+                <div class='hmads_300x250 news' data-format='300x250'>
+                    <script type="text/javascript">
+                        if(window.adsEnabled){
+                            var hiMediaAdvSlots = hiMediaAdvSlots || [];
+                            (function() {
+                                var utTagCountry = 'it';
+                                var utTagSite = 'ilfattoquotidiano.it';
+                                var utTagZone = 'news';
+                                var utTagUrl = ('https:' == document.location.protocol ? 'https://' : 'http://') +
+                                    'js.himediads.com/js' +
+                                    '?country=' + encodeURIComponent(utTagCountry) +
+                                    '&site=' + encodeURIComponent(utTagSite) +
+                                    '&zone=' + encodeURIComponent(utTagZone);
+                                document.write('<sc' + 'ript type="text/javascript" src="' + utTagUrl + '"><\/sc' + 'ript>');
+                                hiMediaAdvSlots.push('.hmads_300x250.news');
+                            })();
+                        }
+                    </script>
+
+                    <script type="text/javascript">
+                        if (typeof window.adsEnabled === 'undefined' || window.adsEnabled)  {
+                            try {
+                                window.hiMediaUt.callTag({
+                                    "format": "300x250",
+                                    "keyValues": ""
+                                });
+                            } catch(ex) {}
+                        }
+                    </script>
+                    <noscript>
+                        <a href="http://rd.himediads.com/fr/jump/ilfattoquotidiano.it/news;sz=300x250;tile=1;ord=" target="_blank">
+                            <img src="http://rd.himediads.com/fr/ad/ilfattoquotidiano.it/news;sz=300x250;tile=1;ord=?" width="300" height="250" alt="" />
+                        </a>
+                    </noscript>
+                </div>
+            </div>
+        </div>
+        <!-- END Hi-Media Media AdTag, ilfattoquotidiano.it 300x250 - v1.0 -->
+                    <div class="no-mobile">
+                <div id="text-137" class="widget widget_text">			<div class="textwidget"><div class="wp_bannerize button_interni">
+    <div class="button_item">
+        <a href="http://ad.himediadx.com/clktrb?id=486140&redir=http://immobiliare.ilfattoquotidiano.it/" rel="nofollow" target="_blank" class="external">
+            <img class="lazyload" data-src="http://st.ilfattoquotidiano.it/wp-content/uploads/2013/08/immobiliare1.gif" width="60" height="60" alt="Immobiliare.ilfattoquotidiano.it" style="display: block;"/>
+        </a>
+        <div class="description">
+            <a href="http://ad.himediadx.com/clktrb?id=486140&redir=http://immobiliare.ilfattoquotidiano.it/" rel="nofollow" target="_blank" class="external">
+                <div>Annunci Immobiliari</div>Su Immobiliare.it trovi oltre 900.000 annunci di case in vendita e in affitto. Cerca ora!
+            </a>
+        </div>
+    </div>
+</div></div>
+		<div class="clear"></div></div><div id="widget-hp-posts-5" class="widget widget-hp-posts">    <section class="from-home">
+        <div class="box-label">
+            Dalla Homepage
+        </div>
+        <div class="box-logo doubleStroke top center">
+            <span><img src="http://st.ilfattoquotidiano.it/wp-content/themes/ifq/assets/img/ifqn-logo.png" width="115" height="42" alt="Il Fatto Quotidiano"></span>
+        </div>
+                <div class="main-news-hp zonaeuro">
+            <h2><p style="text-align: center;"><a href="http://www.ilfattoquotidiano.it/2016/10/12/fondi-ue-a-rischio-i-31-miliardi-destinati-allitalia-colpa-dei-ritardi-di-governo-e-regioni/3092564/">&#8220;Ritardi governo-regioni&#8221;. E addio ai fondi Ue<br />
+Così l&#8217;Italia rischia di perdere fino a 31 miliardi</a></p>
+            </h2>
+            <picture class="lazy  main-img">
+                <a href="" class="">
+                    <img width="320" height="132" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="attachment-primopiano img-landscape lazyload" alt="12.11.2015, Zagreb, CRO, Fl&#xfc;chtlingskrise in der EU, Grenzzaun an der kroatisch slowenischen Grenze, im Bild Grenzzaun zwischen Slowenien und Kroatien wegen des Fl&#xfc;chtlingsstroms // Razor wire that enters the Croatian territory at the border crossing Harmica still not moved. Zagreb, Croatia on 2015/11/12. EXPA Pictures &#xa9; 2015, PhotoCredit: EXPA/ Pixsell/ Borna Filic*****ATTENTION - for AUT, SLO, SUI, SWE, ITA, FRA only*****" data-src="http://st.ilfattoquotidiano.it/wp-content/uploads/2016/10/unione-ue-990-320x132.jpg" />                </a>
+                <div class="category-bar">
+                    <span class="category">Zonaeuro</span>
+                </div>
+            </picture>
+        </div>
+        <ul class="other-news-hp">
+                            <li class="dashed lavoro-precari">
+                    <div class="cc category-label">Lavoro &amp; Precari</div>
+                    <p><a href="http://www.ilfattoquotidiano.it/2016/10/12/voucher-e-precariato-inps-compenso-medio-annuo-degli-14-milioni-di-lavoratori-pagati-con-buoni-non-arriva-a-500-euro/3093098/">Inps: “1,4 milioni di lavoratori pagati 
+con voucher. Guadagnano in media 
+<span style="color: #dd0015;">meno di 500 euro netti all&#8217;anno&#8221;</span></a></p>
+                </li>
+                                <li class="dashed scuola">
+                    <div class="cc category-label">Scuola</div>
+                    <p><a href="http://www.ilfattoquotidiano.it/2016/10/12/buona-scuola-non-si-fara-referendum-contro-la-legge-107-cassazione-mancano-le-firme/3093489/">Buona scuola, non si farà 
+referendum su legge 107 
+Corte: &#8216;Mancano le firme&#8217;</a></p>
+                </li>
+                        </ul>
+        <a href = "http://www.ilfattoquotidiano.it" class = "doubleStroke bottom right"><span class = "go-to-section">Vai alla Homepage</span></a>
+    </section>
+    <div class="clear"></div></div><div id="text-135" class="widget widget_text">			<div class="textwidget">	<!-- Immobiliare Widget 300x350 snip -->
+	<div id="immo-300x350" style="width:300px;height:350px;">
+		<div id="immo-300x350-header" style="height:202px">
+			<a target="_blank" rel="nofollow" href="javascript:" onclick="window.open('http://www.immobiliare.it/?utm_source=ilfattoquotidiano&utm_medium=widget&utm_campaign=300x350');return false;" style="outline: none">
+				<img src="http://www.immobiliare.it/widget/we/iw-300x350/img/immo-header-300x350.jpg" border="0"/>
+			</a>
+		</div>
+		<div id="immo-form-container-300x350" style="height: 148px;">
+			<iframe src="http://www.immobiliare.it/widget/we/iw-300x350/iw-form-300x350.html?utm_source=ilfattoquotidiano&utm_medium=widget&utm_campaign=300x350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" height="180" width="300"></iframe>
+		</div>
+	</div>
+	<!-- /Immobiliare Widget 300x350 snip --></div>
+		<div class="clear"></div></div>        <div class='adv '>
+            <div class='adv-inner'>
+                <!-- BEGIN Hi-Media Media AdTag, ilfattoquotidiano.it 300x250 - v1.0 -->
+                <div class='hmads_300x250 newssecondscroll' data-format='300x250'>
+                    <script type="text/javascript">
+                        if(window.adsEnabled){
+                            var hiMediaAdvSlots = hiMediaAdvSlots || [];
+                            (function() {
+                                var utTagCountry = 'it';
+                                var utTagSite = 'ilfattoquotidiano.it';
+                                var utTagZone = 'newssecondscroll';
+                                var utTagUrl = ('https:' == document.location.protocol ? 'https://' : 'http://') +
+                                    'js.himediads.com/js' +
+                                    '?country=' + encodeURIComponent(utTagCountry) +
+                                    '&site=' + encodeURIComponent(utTagSite) +
+                                    '&zone=' + encodeURIComponent(utTagZone);
+                                document.write('<sc' + 'ript type="text/javascript" src="' + utTagUrl + '"><\/sc' + 'ript>');
+                                hiMediaAdvSlots.push('.hmads_300x250.newssecondscroll');
+                            })();
+                        }
+                    </script>
+
+                    <script type="text/javascript">
+                        if (typeof window.adsEnabled === 'undefined' || window.adsEnabled)  {
+                            try {
+                                window.hiMediaUt.callTag({
+                                    "format": "300x250",
+                                    "keyValues": ""
+                                });
+                            } catch(ex) {}
+                        }
+                    </script>
+                    <noscript>
+                        <a href="http://rd.himediads.com/fr/jump/ilfattoquotidiano.it/newssecondscroll;sz=300x250;tile=1;ord=" target="_blank">
+                            <img src="http://rd.himediads.com/fr/ad/ilfattoquotidiano.it/newssecondscroll;sz=300x250;tile=1;ord=?" width="300" height="250" alt="" />
+                        </a>
+                    </noscript>
+                </div>
+            </div>
+        </div>
+        <!-- END Hi-Media Media AdTag, ilfattoquotidiano.it 300x250 - v1.0 -->
+                    </div>
+        </aside>
+    </div>
+    <div id="adv_text-32" class="widget widget_adv_text">        <div class="textwidget"><!-- BEGIN Hi-Media Media AdTag, ilfattoquotidiano.it 1x1 - v1.0 -->
+<div class="hmads_1x1">
+
+    <script type="text/javascript">
+        (function() {
+            var utTagCountry = 'it';
+            var utTagSite = 'ilfattoquotidiano.it';
+            var utTagZone = 'footer_ros';
+            var utTagUrl = ('https:' == document.location.protocol ? 'https://' : 'http://') +
+                'js.himediads.com/js' +
+                '?country=' + encodeURIComponent(utTagCountry) +
+                '&site=' + encodeURIComponent(utTagSite) +
+                '&zone=' + encodeURIComponent(utTagZone);
+            document.write('<sc' + 'ript type="text/javascript" src="' + utTagUrl + '"><\/sc' + 'ript>');
+        })();
+    </script>
+ 
+    <script type="text/javascript">
+        try {
+            window.hiMediaUt.callTag({
+                "format": "1x1",
+                "keyValues": ""
+            });
+        } catch(ex) {
+        }
+    </script>
+
+    <noscript>
+        <a href="http://rd.himediads.com/it/jump/ilfattoquotidiano.it/footer_ros;sz=1x1;tile=1;ord=" target="_blank">
+            <img src="http://rd.himediads.com/it/ad/ilfattoquotidiano.it/footer_ros;sz=1x1;tile=1;ord=?" width="1" height="1" alt="" />
+        </a>
+    </noscript>
+</div>
+<!-- END Hi-Media Media AdTag, ilfattoquotidiano.it 1x1 - v1.0 --></div>
+        </div>
+<!-- lateral skyscrapers placeholder -->
+<div class="lateral-skyscraper lateral-skyscraper-left">
+    <ins class=""
+        style="display:inline-block;width:160px; height:600px"
+        data-ad-client="ca-pub-1213026922849045"
+        data-ad-height="600"
+        data-ad-slot="6848440975">
+    </ins>
+</div>
+<div class="lateral-skyscraper lateral-skyscraper-right">
+    <ins class=""
+        style="display:inline-block;width:160px; height:600px"
+        data-ad-client="ca-pub-1213026922849045"
+        data-ad-height="600"
+        data-ad-slot="8325148855">
+    </ins>
+</div>
+<footer class="no-mobile">
+    <div class="box-abbonamenti fsc-abbonamenti clearfix no-mobile">
+        <div class="box-logo doubleStroke top center">
+            <span><img class="lazyload" data-src="http://st.ilfattoquotidiano.it/wp-content/themes/ifq/assets/img/logo_fsc_black.png" width="80" alt="Il Fatto Quotidiano" style="position: relative; top:7px;"></span>
+        </div>
+        <em>Entra nel Fatto Social Club e scopri i vantaggi</em>
+        <div class="ungrid-row">
+            <div class="ungrid-col">
+                <a href="https://shop.ilfattoquotidiano.it/prodotto/abb-sostenitore/" class="banner-entra banner-entra-sostenitore">
+                    <em>Entra come</em> <strong>Sostenitore</strong>
+                </a>
+            </div>
+            <div class="ungrid-col">
+                <a href="https://shop.ilfattoquotidiano.it/prodotto/partner/" class="banner-entra banner-entra-partner">
+                    <em>Entra come</em> <strong>Partner</strong>
+                </a>
+            </div>
+            <div class="ungrid-col">
+                <a href="https://shop.ilfattoquotidiano.it/prodotto/socio/" class="banner-entra banner-entra-socio">
+                    <em>Entra come</em> <strong>Socio di Fatto</strong>
+                </a>
+            </div>
+        </div>
+        <a href="https://shop.ilfattoquotidiano.it/abbonati/" class="btn btn-entra-fsc">Entra nel Fatto Social Club <i class="icon-right"></i></a>
+        <div class="doubleStroke bottom"></div>
+    </div>
+    <hr class="separator strillone">
+    <div class="colophon">
+        Editoriale il Fatto S.p.A. C.F. e P.IVA 10460121006
+    </div>
+    <div class="footer-links">
+        <ul>
+            <li>&copy; 2009-2016 Il Fatto Quotidiano | </li>
+            <li><a href="/termini-e-condizioni-dutilizzo/#privacy-policy">Privacy</a> | </li>
+            <li><a href="/la-tua-pubblicita-sul-fatto-quotidiano/">Fai pubblicit&agrave; con FQ</a> | </li>
+            <li><a href="/termini-e-condizioni-dutilizzo/">Termini e condizioni d'uso</a> | </li>
+            <li><a href="/scrivi-alla-redazione-de-ilfattoquotidiano-it/">Scrivi alla Redazione</a> | </li>
+            <li><a href="/feed">RSS</a> | </li>
+            <li><a href="/contatti/segnala-un-problema-tecnico/">Aiuto</a> | </li>
+            <li><a href="/contatti/scrivi-allufficio-abbonamenti/">Ufficio abbonamenti</a> | </li>
+            <li><a href="/archivi/">Archivi</a></li>
+        </ul>
+    </div>
+</footer>
+
+</div>
+
+<script>
+var uo_config = {
+    source: '/wp-content/sitemaps/ultimora.json',
+    pollInterval : 60000 // 1 minute
+};
+head.ready(function(){
+    ultimora.init();
+});
+</script>
+<div class="ultimora ultimora-internal">
+    <h2 class="ultimora-label">•Ultima ora•</h2>
+    <h1 class="ultimora-title"></h1>
+    <a href="#" class="ultimora-close">&times;</a>
+</div>
+
+
+<script>
+    var jQuery = jQuery || $ || {};
+    var ifqn ={};
+    var isTouch = head.touch;
+    var isPhone =  head.touch && head.screen.width <= 640;
+    var isTablet = head.touch && head.screen.width > 640 && !head.desktop;
+    var isDesktop = head.desktop;
+    var device = (isDesktop || isTablet) ? 'desktop': 'mobile';
+    // store ligatus positions in a global array
+    window.ligatusPositions = [];
+
+    (function(d, s, id) {
+       var js, fjs = d.getElementsByTagName(s)[0];
+       if (d.getElementById(id)) return;
+       js = d.createElement(s); js.id = id;
+       js.src = "//connect.facebook.net/it_IT/sdk/xfbml.js";
+       fjs.parentNode.insertBefore(js, fjs);
+     }(document, 'script', 'facebook-jssdk'));
+    window.fbAsyncInit = function() {
+        FB.init({
+          xfbml : 1,
+          appId: '222559857810775',
+          version : 'v2.5'
+        });
+            };
+
+function ifqSkin(){
+
+    ga('send', 'event', 'ifq_skin', 'called');
+    var $skyscraper = $('.lateral-skyscraper').find('ins');
+    // check if we have enough lateral space
+    var screenWidth = window.innerWidth || document.documentElement.clientWidth || document.body.clientWidth;
+    var contentWidth = 1022;
+    var largeAdv = 160;
+    var smallAdv = 120;
+    var availableSpace = (screenWidth - contentWidth) / 2;
+    // if so, insert code into in-page placeholder
+    if(availableSpace >= smallAdv){
+        $skyscraper.addClass('adsbygoogle');
+        $skyscraper.attr('data-ad-width', (availableSpace < largeAdv) ? smallAdv : largeAdv);
+        ga('send', 'event', 'ifq_skin', 'showing');
+        setTimeout(function() {
+            (adsbygoogle = window.adsbygoogle || []).push({});
+            window.adsbygoogle.push({});
+        }, 0);
+    }
+}
+if (typeof 'window.ifqShowSkin' !== 'undefined' && window.ifqShowSkin) {
+    ifqSkin();
+}
+            function getExistsParameterByName(name) {
+                var match = RegExp('[?&]' + name).exec(window.location.search);
+                if (match)
+                    return name;
+                else
+                    return 'no-refresh';
+            }
+            var refresh = getExistsParameterByName("refresh_ce");
+            var wtrekk={
+                scriptToLoad : 'http://st.ilfattoquotidiano.it/wp-content/themes/ifq/assets/js/async/webtrekk_v4.min.js',
+                wtConfig : {
+                    1: "Aggregato Il Fatto Quotidiano",
+                    2: "web",
+                    3: "www.ilfattoquotidiano.it",
+                    4: "www.ilfattoquotidiano.it - mondo",
+                    },
+                wtCustomParameter: {
+                    1: document.title,
+                    2: refresh,
+                    3: "na",
+                    4: "na",
+                    5: "archivio",
+                            8: (fscUser.level > 0) ? 'loggato' : 'non loggato'
+                }
+            };
+            if (fscUser.id != 0) {
+                wtrekk.wtCustomerId = fscUser.id;
+                wtrekk.urmCategory = fscUser.level;
+            }
+        var scriptToLoad = "http://st.ilfattoquotidiano.it/wp-content/themes/ifq/assets/js/ifqn-desktop-dfdb2eb3.js";
+    head.load(scriptToLoad, function(){
+        if(head.browser.ie && head.browser.version < 9){
+            // conditionally load ie8 fix
+            head.load(["http://st.ilfattoquotidiano.it/wp-content/themes/ifq/assets/js/ie8fix-be65e6a3.js"]);
+        }
+        ifqn.init();
+    });
+
+</script>
+<noscript><div><img src="http://ilfattoquotidianoitalia01.wt-eu02.net/458677892662477/wt.pl?p=326,0" height="1" width="1" alt="" /></div></noscript>
+<script>
+    var _ifq_xa = (typeof window.himediaAds === 'undefined' && window.adsEnabled);
+    var _ifq_xb = !(window.ga && ga.create);
+    if (_ifq_xa) {
+        (function() {
+            var welp = document.createElement('script');
+            welp.async = true;
+            welp.type = 'text/javascript';
+            var useSSL = 'https:' == document.location.protocol;
+            welp.src = 'http://st.ilfattoquotidiano.it/wp-content/uploads/welp.js';
+            var node = document.getElementsByTagName('script')[0];
+            node.parentNode.insertBefore(welp, node);
+        })();
+    }
+    if (_ifq_xa || _ifq_xb) {
+        var gaParam = _ifq_xb ? '&a=1' : '';
+        var advParam = _ifq_xa ? '&b=1' : '';
+        var requestUrl = "/s.php?t=1"+gaParam+advParam;
+        jQuery.ajax({
+            url : requestUrl,
+            cache : false
+        });
+    }
+</script>
+		<!-- Begin comScore Tag -->
+		<script type="text/javascript">
+			var _comscore = _comscore || [];
+			_comscore.push({ c1: "2", c2: "16675760" });
+			(function() {
+			    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+			    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+			    el.parentNode.insertBefore(s, el);
+			})();
+		</script>
+		<noscript>
+			<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=16675760&amp;c3=&amp;c4=&amp;c5=&amp;c6=&amp;c15=&amp;cj=1" alt="" />
+		</noscript>
+		<!-- End comScore Tag -->
+		<div class="cookieConsent">
+	<div class="cc-content">
+		<p>Per offrirti il miglior servizio possibile questo sito utilizza cookies. Continuando la navigazione nel sito acconsenti
+		al loro impiego in conformità alla nostra <a href="http://www.ilfattoquotidiano.it/termini-e-condizioni-dutilizzo/" class="highlight">Cookie Policy</a></p>
+		<a href="#" class="cc-close">&times;</a>
+	</div>
+</div>
+<script type='text/javascript' src='http://widgets.outbrain.com/outbrain.js'></script>        <script type="text/javascript">
+            var disqus_shortname = 'fattoquotidiano';
+            (function () {
+                var s = document.createElement('script');
+                s.async = true;
+                s.type = 'text/javascript';
+                s.src = '//' + disqus_shortname + '.disqus.com/count.js';
+                (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
+            }());
+        </script>
+        <script type='text/javascript' src='http://www.admin.ilfattoquotidiano.it/wp-includes/js/wp-embed.min.js?ver=4.6.1'></script>
+			<div class="textwidget"><!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','//connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '400389013502249');
+fbq('track', 'PageView');
+</script></div>
+		    <script>
+    // AUDIWEB FB APP track
+    window.nielsenWebview = {
+        pv: "//secure-it.imrworldwide.com/cgi-bin/m?ci=audiwebapp-it&cg=0&si=il_fatto_quotidiano",
+        dar: "//secure-gl.imrworldwide.com/cgi-bin/m?ci=ENT21380&am=3&ep=1&at=view&rt=banner&st=image&ca=cmp766921&cr=crv1242622&pc=plc24901194"
+    };
+    (function(args){
+        if(!args || !args.pv || !args.dar) return;
+        if(!navigator.userAgent.match(/\[(FBAN\/FBIOS|FBAN\/FBForIphone|FB_IAB\/FB4A);FBAV[^\]]*\]/)) return;
+        var ready = function(fn) { if (document.readyState != 'loading'){ fn(); } else if (document.addEventListener) { document.addEventListener('DOMContentLoaded', fn); } else { document.attachEvent('onreadystatechange', function() { if (document.readyState != 'loading') fn(); }); }}
+        ready(function(){
+            var now = new Date().getTime();
+            new Image().src = args.pv+'&r='+now;
+            new Image().src = args.dar+'&r='+now;
+        });
+    })(window.nielsenWebview || {});
+    </script>
+<!-- START Nielsen Online SiteCensus V5.3 -->
+<!-- COPYRIGHT 2010 Nielsen Online -->
+<script type="text/javascript">
+    var _rsCI="ilfattoquotidiano-it";
+    var _rsCG="blog";
+    var _rsDN="//secure-it.imrworldwide.com/";
+    var _rsCC=0;
+    var _rsIP=1;
+    var _rsPLfl=0;
+</script>
+<script type="text/javascript" src="//secure-it.imrworldwide.com/v53.js"></script>
+<noscript>
+    <div><img src="//secure-it.imrworldwide.com/cgi-bin/m?ci=ilfattoquotidiano-it&amp;cg=blog" style="visibility:hidden;position:absolute;left:0px;top:0px;z-index:-1" alt=""/></div>
+</noscript>
+<!-- END Nielsen Online SiteCensus V5.3 --></body>
+</html>

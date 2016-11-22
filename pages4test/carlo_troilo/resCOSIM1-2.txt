@@ -1,0 +1,74 @@
+Chi è Carlo Troilo
+---
+-
+1.0
+ /  / di Carlo Troilo
+/html/body[1]/div[2]/div[1]/h2[1]
+-
+1.0
+Carlo Troilo
+/html/body[1]/div[2]/div[1]/h2[1]/a[1]/span
+-
+0.6561877
+Blog di Carlo Troilo
+/html/body[1]/div[2]/div[3]/div[1]/article[1]/div[2]/div[1]/h3[1]/span
+-
+0.42152393
+La Guerra di Troilo
+/html/body[1]/div[2]/div[3]/div[1]/article[1]/div[1]/div[1]/div[2]/p[2]/a[1]/em
+__________________
+Chi è Carlo Troilo
+---
+-
+1.0
+ /  / di Carlo Troilo
+/html/body[1]/div[2]/div[1]/h2[1]
+-
+1.0
+Carlo Troilo
+/html/body[1]/div[2]/div[1]/h2[1]/a[1]/span
+-
+0.6561877
+Blog di Carlo Troilo
+/html/body[1]/div[2]/div[3]/div[1]/article[1]/div[2]/div[1]/h3[1]/span
+-
+0.42152393
+La Guerra di Troilo
+/html/body[1]/div[2]/div[3]/div[1]/article[1]/div[1]/div[1]/div[2]/p[2]/a[1]/em
+__________________
+  - Chi è Carlo Troilo
+---
+-
+1.0
+ /  / di Carlo Troilo
+/html/body[1]/div[2]/div[1]/h2[1]
+-
+1.0
+Carlo Troilo
+/html/body[1]/div[2]/div[1]/h2[1]/a[1]/span
+-
+0.6561877
+Blog di Carlo Troilo
+/html/body[1]/div[2]/div[3]/div[1]/article[1]/div[2]/div[1]/h3[1]/span
+-
+0.42152393
+La Guerra di Troilo
+/html/body[1]/div[2]/div[3]/div[1]/article[1]/div[1]/div[1]/div[2]/p[2]/a[1]/em
+__________________
+Carlo Troilo, giornalista, ha sempre operato nel campo della comunicazione sia aziendale (capo ufficio stampa dell’IRI e direttore delle Relazioni Esterne della RAI) sia politica (capo ufficio stampa dei ministri del Commercio Estero e delle Partecipazioni Statali) sia associativa ( è stato segretario generale dell’ISIMM, Istituto di Studi sulla Innovazione nei Mass Media).Fin dai tempi della università si è occupato, come militante socialista, dei diritti civili. Negli anni Settanta ha avuto la “doppia tessera” socialista e radicale ed ha collaborato con Marco Pannella e Gianfranco Spadaccia nella creazione del CUSI (Comitato per l’Unità della Sinistra Italiana).  Dal 2006 collabora con l’ Associazione Luca Coscioni, dove  ha seguito  in particolare i temi delle scelte di fine vita, della trasparenza nella Sanità e della disabilità.  Da due anni  cura una news letter quindicinale sui temi dei diritti civili . Nel 2012 ha pubblicato con Rubbettino il libro “Liberi di morire. Una fine dignitosa nel paese dei diritti negati”, con prefazione di Emma Bonino, in cui ha tracciato una “agenda laica” dei diritti civili.  Nel novembre del 2013 ha organizzato per l’Associazione – con il dipartimento di Scienze della Comunicazione dell’Università  “La Sapienza” di Roma –   gli “Stati generali dei diritti civili”, aperti di da una relazione di Stefano Rodotà e chiusi dagli interventi di Marco Pannella ed Emma Bonino.  
+---
+-
+0.39486143
+ Carlo Troilo Giornalista Sono un giornalista che si è sempre occupato di comunicazione sia aziendale (capo ufficio stampa dell’IRI e direttore delle relazioni Esterne della RAI, dove ho coniato lo slogan “RAI, di tutto di più”) sia politica (capo ufficio stampa dei ministri del Commercio Estero e delle Partecipazioni Statali). Sono impegnato nel campo dei diritti civili come dirigente della Associazione Luca Coscioni e sui problemi di Roma con “Roma Nuovo Secolo”. Ho scritto su molti giornali su problemi economici, diritti civili, antifascismo e Resistenza. Ho pubblicato tre libri, il primo nel 2005 su mio padre, prefetto della Liberazione di Milano: La Guerra di Troilo; il secondo nel 2007 sull’IRI: 1963 – 1982: i venti anni che sconvolsero l’IRI; il terzo su eutanasia e diritti negati: Liberi di morire, editore Rubbettino, 2012.      
+/html/body[1]/div[2]/div[3]/div[1]/article[1]/div[1]/div[1]/div[2]
+-
+0.38980272
+Sono un giornalista che si è sempre occupato di comunicazione sia aziendale (capo ufficio stampa dell’IRI e direttore delle relazioni Esterne della RAI, dove ho coniato lo slogan “RAI, di tutto di più”) sia politica (capo ufficio stampa dei ministri del Commercio Estero e delle Partecipazioni Statali). Sono impegnato nel campo dei diritti civili come dirigente della Associazione Luca Coscioni e sui problemi di Roma con “Roma Nuovo Secolo”. Ho scritto su molti giornali su problemi economici, diritti civili, antifascismo e Resistenza. Ho pubblicato tre libri, il primo nel 2005 su mio padre, prefetto della Liberazione di Milano: La Guerra di Troilo; il secondo nel 2007 sull’IRI: 1963 – 1982: i venti anni che sconvolsero l’IRI; il terzo su eutanasia e diritti negati: Liberi di morire, editore Rubbettino, 2012.
+/html/body[1]/div[2]/div[3]/div[1]/article[1]/div[1]/div[1]/div[2]/p[2]
+__________________
+La discussione in Parlamento sulla #cannabis si è di nuovo arenata. Nel frattempo, la nostra raccolta firme sta volgendo al termine, ma il risultato è ancora da conquistare. Puoi aiutarci anc…
+---
+__________________
+È solo un primo passo verso la definitiva eliminazione delle barriere architettoniche, ma col nostro aiuto puoi farne uno anche tu.
+---
+__________________
