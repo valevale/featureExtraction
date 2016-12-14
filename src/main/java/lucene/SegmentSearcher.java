@@ -1,4 +1,4 @@
-package segmentation;
+package lucene;
 
 import java.io.File;
 import java.io.IOException;
@@ -46,7 +46,7 @@ public class SegmentSearcher {
 	 * e viene restituito un insieme di risultati della ricerca */
 	public TopDocs search(Segment searchSegment) 
 			throws IOException, ParseException{
-		String searchQuery = NodeUtils.getNodesContent(searchSegment.getNodes());
+		String searchQuery = NodeUtils.getNodesContent(searchSegment.getW3cNodes());
 
 		//		System.out.println("Searching "+ searchQuery);
 		try {
@@ -60,7 +60,7 @@ public class SegmentSearcher {
 		//Viene utilizzata una query costumizzata per permettere
 		//la ricerca basata sulla metrica della coseno similarità
 		CustomScoreQuery customQuery = new MyCustomScoreQuery(query);
-		TopDocs topDocs = indexSearcher.search(customQuery, 10);
+		TopDocs topDocs = indexSearcher.search(customQuery, 30);
 
 		//		TopDocs topDocs = indexSearcher.search(query, 10);
 		//		System.out.println(searchQuery);
@@ -77,6 +77,7 @@ public class SegmentSearcher {
 		return topDocs;
 	}
 
+	//TODO magari potresti restituire un segmento invece che un documento di lucene?
 	/* Dato un oggetto 'risultato', rstituisce il documento di lucene corrispondente
 	 * Si utilizza per ottenere il contenuto del documento */
 	public Document getDocument(ScoreDoc scoreDoc) 

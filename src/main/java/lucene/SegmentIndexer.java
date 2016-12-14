@@ -1,4 +1,4 @@
-package segmentation;
+package lucene;
 
 import java.io.File;
 import java.io.IOException;
@@ -66,10 +66,10 @@ public class SegmentIndexer {
         fieldType.setStoreTermVectors(true);
         fieldType.setTokenized(true);
 
-		String content = NodeUtils.getNodesContent(segment.getNodes());
+		String content = NodeUtils.getNodesContent(segment.getW3cNodes());
 
 		//si memorizza l'xPath e il contenuto del segmento
-		document.add(new Field("segmentPath", segment.getXPath(), StringField.TYPE_STORED));
+		document.add(new Field("segmentPath", segment.getAbsoluteXPath(), StringField.TYPE_STORED));
 		document.add(new Field("segmentContent", content, fieldType));
 
 		return document;

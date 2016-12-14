@@ -1,7 +1,6 @@
 package database;
 
 
-import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
 
@@ -13,7 +12,6 @@ import org.mongodb.morphia.query.Query;
 
 import com.mongodb.MongoClient;
 
-import model.Page;
 import model.PageEntry;
 import model.QueryEntry;
 import model.Source;

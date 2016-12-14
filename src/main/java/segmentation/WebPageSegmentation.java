@@ -18,12 +18,13 @@ import org.xml.sax.SAXException;
 
 import scala.Tuple2;
 
+//TODO fallo singleton
 public class WebPageSegmentation {
 
-	final static double parameterTextFusion = -1;
+//	final static double parameterTextFusion = ConfigurationTestMatchings.getSegmentationGrainParameter();
 	final static double parameterTreeFusion = 2;
 
-	public static List<Node> segment(Document doc) throws FileNotFoundException, IOException, ParserConfigurationException, SAXException, TransformerException {
+	public static List<Node> segment(Document doc, double parameterTextFusion) throws FileNotFoundException, IOException, ParserConfigurationException, SAXException, TransformerException {
 
 		Element body = doc.body();
 
@@ -219,7 +220,7 @@ public class WebPageSegmentation {
 
 
 	//data una lista di linee, calcola la densità del testo
-	public static int calculateDensity(List<String> lines) {
+	private static int calculateDensity(List<String> lines) {
 		int tokens = 0;
 		if (lines.size()==1) {
 			for (int j=0;j<lines.size();j++) {
@@ -244,13 +245,13 @@ public class WebPageSegmentation {
 	//	}
 
 	//TODO magari migliorare con stemming, o le parole divise in due...
-	public static int calculateTokens(String text) {
+	private static int calculateTokens(String text) {
 		String trimmed = text.trim();
 		int words = trimmed.isEmpty() ? 0 : trimmed.split("\\s+").length;
 		return words;
 	}
 
-	public static Map<Integer,List<String>> removeGaps(Map<Integer,List<String>> map, int dim) {
+	private static Map<Integer,List<String>> removeGaps(Map<Integer,List<String>> map, int dim) {
 		Map<Integer,List<String>> newMap = new HashMap<>();
 		int j=0;
 		for (int i=0; i<dim; i++) {
@@ -262,7 +263,7 @@ public class WebPageSegmentation {
 		return newMap;
 	}
 
-	public static Map<Integer,Tuple2<Node,Integer>> removeGapsNodes(Map<Integer,Tuple2<Node,Integer>> map, int dim) {
+	private static Map<Integer,Tuple2<Node,Integer>> removeGapsNodes(Map<Integer,Tuple2<Node,Integer>> map, int dim) {
 		Map<Integer,Tuple2<Node,Integer>> newMap = new HashMap<>();
 		int j=0;
 		for (int i=0; i<dim; i++) {
@@ -274,7 +275,7 @@ public class WebPageSegmentation {
 		return newMap;
 	}
 
-	public static Tuple2<Node,Integer> findLowestCommonAncestor(Tuple2<Node,Integer> ta, Tuple2<Node,Integer> tb)
+	private static Tuple2<Node,Integer> findLowestCommonAncestor(Tuple2<Node,Integer> ta, Tuple2<Node,Integer> tb)
 			throws FileNotFoundException, IOException {
 		Tuple2<Node,Integer> ancestor = null;
 
