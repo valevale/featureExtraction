@@ -1,0 +1,2290 @@
+
+        Pescara
+       
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.28421468
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.27946052
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.25328618
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.19887225
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.17353678
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.28421468
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.27946052
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.25328618
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.19887225
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.17353678
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+
+        Pescara
+       
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.28421468
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.27946052
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.25328618
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.19887225
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.17353678
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.28421468
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.27946052
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.25328618
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.19887225
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.17353678
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+
+        Pescara
+       
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.28421468
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.27946052
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.25328618
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.19887225
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.17353678
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+
+        Pescara
+       
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.28421468
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.27946052
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.25328618
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.19887225
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.17353678
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+65124
+---
+-
+1.0
+65124
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.38091892
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+__________________
+Studio di architettura Antonio Sabatino
+---
+-
+1.0
+
+      Studio di Architettura Antonio Sabatino
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+1.0
+ Studio di Architettura Antonio Sabatino 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.34135726
+
+             Sabatini Immobiliare, Di Marco Sabatini
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+-
+0.093367346
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.28421468
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.27946052
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.25328618
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.19887225
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.17353678
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.28421468
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.27946052
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.25328618
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.19887225
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.17353678
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.28421468
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.27946052
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.25328618
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.19887225
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.17353678
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.28421468
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.27946052
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.25328618
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.19887225
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.17353678
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.28421468
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.27946052
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.25328618
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.19887225
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.17353678
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+
+        Pescara
+       
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.28421468
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.27946052
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.25328618
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.19887225
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.17353678
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.28421468
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.27946052
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.25328618
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.19887225
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.17353678
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.28421468
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28046313
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.27946052
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.25328618
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.19887225
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.17353678
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+65124
+---
+-
+1.0
+65124
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.38091892
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+__________________
+Studio di architettura Antonio Sabatino
+---
+-
+1.0
+
+      Studio di Architettura Antonio Sabatino
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+1.0
+ Studio di Architettura Antonio Sabatino 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.34135726
+
+             Sabatini Immobiliare, Di Marco Sabatini
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+-
+0.093367346
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+Studio di architettura Antonio Sabatino - Pescara
+---
+-
+0.9341865
+
+      Studio di Architettura Antonio Sabatino
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.9341865
+ Studio di Architettura Antonio Sabatino 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.35678518
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.31889132
+
+             Sabatini Immobiliare, Di Marco Sabatini
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+-
+0.14939953
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.10140358
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.1000651
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.1000651
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.099707365
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.090368755
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.07095468
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+Scrivi la tua recensione di Studio di architettura Antonio Sabatino
+---
+-
+0.86387414
+
+      Studio di Architettura Antonio Sabatino
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.86387414
+ Studio di Architettura Antonio Sabatino 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.50370777
+Scrivi una recensione
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]
+-
+0.50370777
+Scrivi una recensione
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.50370777
+Scrivi una recensione
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.50370777
+Scrivi una recensione
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]
+-
+0.36213186
+ Scrivi per primo una recensione 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]
+-
+0.29488972
+
+             Sabatini Immobiliare, Di Marco Sabatini
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+-
+0.26136345
+
+         Conosci questa attività?   
+         Scrivi per primo una recensione  
+       
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]
+-
+0.08065763
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+Agenzie immobiliari Pescara
+---
+-
+0.85337436
+agenzie immobiliari
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[10]
+-
+0.85337436
+agenzie immobiliari
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[10]
+-
+0.70263785
+ Categoria: Agenzie immobiliari 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[2]
+-
+0.5212986
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.45291236
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.20516448
+
+             Sabatini Immobiliare, Di Marco Sabatini
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+-
+0.14816071
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.14620504
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.14620504
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.14568236
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.13203773
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.10367183
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+Ingegneri Pescara
+---
+-
+0.7645203
+ingegneri
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
+-
+0.7645203
+ingegneri
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
+-
+0.6445997
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.6068146
+ingegneri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[2]
+-
+0.6068146
+ingegneri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[2]
+-
+0.1832047
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.18078646
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.18078646
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.18014017
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.1632682
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.12819299
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.11186176
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+Risultati di ricerca per Studio di architettura Antonio Sabatino
+---
+-
+0.7374961
+
+      Studio di Architettura Antonio Sabatino
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.7374961
+ Studio di Architettura Antonio Sabatino 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.25174963
+
+             Sabatini Immobiliare, Di Marco Sabatini
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+-
+0.06885805
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+
+          Pescara (PE)
+         
+---
+-
+0.7336173
+(PE)
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[4]
+-
+0.67956287
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.42006323
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.41447085
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.41447085
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.41297653
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.3740139
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.1351462
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.117929146
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+Architetti, studi architettura
+---
+-
+0.7192037
+Architetti - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.7192037
+Architetti - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]
+-
+0.5591932
+ Categoria: Architetti - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.5591932
+ Categoria: Architetti - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[2]
+-
+0.55654454
+architetti
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[3]
+-
+0.55654454
+architetti
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[3]
+-
+0.3362974
+
+      Studio di Architettura Antonio Sabatino
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.3362974
+ Studio di Architettura Antonio Sabatino 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.28086227
+geometri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[1]
+-
+0.28086227
+geometri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[1]
+-
+0.27215335
+studi tecnici
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[6]
+-
+0.27215335
+studi tecnici
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[6]
+-
+0.26201707
+ingegneri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[2]
+-
+0.26201707
+ingegneri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[2]
+-
+0.1926338
+studi tecnici ed industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[4]
+-
+0.1926338
+studi tecnici ed industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[4]
+__________________
+
+            Viale Bovio Giovanni, 51 - 
+            65124 
+            Pescara
+           
+---
+-
+0.7175953
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.58061373
+105, Viale Giovanni Bovio
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
+-
+0.4081607
+65124
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.30285296
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.13603981
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.08607526
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.0849391
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.0849391
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.07670847
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.060229056
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+ 
+           Studio di architettura
+         
+---
+-
+0.70108974
+
+      Studio di Architettura Antonio Sabatino
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.70108974
+ Studio di Architettura Antonio Sabatino 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+__________________
+
+            Studio di Architettura
+           
+---
+-
+0.70108974
+
+      Studio di Architettura Antonio Sabatino
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.70108974
+ Studio di Architettura Antonio Sabatino 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+__________________
+Viale G. Bovio , 105
+---
+-
+0.67418265
+105, Viale Giovanni Bovio
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
+-
+0.5308949
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.09660722
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+Viale Bovio Giovanni, 51
+---
+-
+0.67418265
+105, Viale Giovanni Bovio
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
+-
+0.5308949
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.09660722
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+Architetti, studi architettura a Pescara
+---
+-
+0.63925344
+Architetti - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.63925344
+Architetti - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]
+-
+0.4970305
+ Categoria: Architetti - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.4970305
+ Categoria: Architetti - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[2]
+-
+0.49467626
+architetti
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[3]
+-
+0.49467626
+architetti
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[3]
+-
+0.45822746
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.29891285
+
+      Studio di Architettura Antonio Sabatino
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.29891285
+ Studio di Architettura Antonio Sabatino 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.2496402
+geometri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[1]
+-
+0.2496402
+geometri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[1]
+-
+0.24189942
+studi tecnici
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[6]
+-
+0.24189942
+studi tecnici
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[6]
+-
+0.23288994
+ingegneri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[2]
+-
+0.23288994
+ingegneri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[2]
+-
+0.17121963
+studi tecnici ed industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[4]
+-
+0.17121963
+studi tecnici ed industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[4]
+-
+0.13023497
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.12851591
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.12851591
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.12805648
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.11606268
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.09112874
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.07951932
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+Avvocati Pescara
+---
+-
+0.5080327
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.14439033
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.14248444
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.14248444
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.14197508
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.12867765
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.1010336
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.08816235
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+Categorie correlate a Pescara
+---
+-
+0.48087037
+categoria
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.48087037
+Categoria: 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/span[1]
+-
+0.4454388
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.28730568
+ Categoria: Architetti - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.28730568
+ Categoria: Architetti - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[2]
+-
+0.2547859
+ Categoria: Agenzie immobiliari 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[2]
+-
+0.1458787
+ Categoria: Perizie, stime e valutazioni - consulenza 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.12660025
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.124929175
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.124929175
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.124482565
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.1128235
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.08858543
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.07730001
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+
+       Studio di architettura Antonio Sabatino
+       
+        
+         
+          
+         
+         
+          Viale G. Bovio , 105
+         
+         
+          
+         
+         
+          65123
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0854216928
+         
+         
+           
+          mostra email  
+         
+         
+           
+          www.antoniosabatino.com
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Architetti, studi architettura a Pescara
+          
+         
+        
+         
+        
+       
+         
+          Impresa Verificata   |    
+        
+        
+        Opzioni 
+       
+      
+---
+-
+0.46412665
+
+      Studio di Architettura Antonio Sabatino
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.46412665
+ Studio di Architettura Antonio Sabatino 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.342695
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.28026593
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.2686555
+105, Viale Giovanni Bovio
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
+-
+0.22010858
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.19549347
+Architetti - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.19549347
+Architetti - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]
+-
+0.15199952
+ Categoria: Architetti - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.15199952
+ Categoria: Architetti - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[2]
+-
+0.15127955
+architetti
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[3]
+-
+0.15127955
+architetti
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[3]
+-
+0.15127955
+(PE)
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[4]
+-
+0.12734343
+imprese edili
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[5]
+-
+0.12734343
+imprese edili
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[5]
+-
+0.12524956
+
+             Sabatini Immobiliare, Di Marco Sabatini
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+-
+0.12493792
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.12493792
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.122003034
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.112742595
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.07634378
+geometri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[1]
+-
+0.07634378
+geometri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[1]
+-
+0.07397653
+studi tecnici
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[6]
+-
+0.07397653
+studi tecnici
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[6]
+-
+0.0712213
+ingegneri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[2]
+-
+0.0712213
+ingegneri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[2]
+-
+0.07054634
+ 
+     
+      Registrati con facebook 
+     oppure
+     
+    REGISTRATI CON L'EMAIL 
+   
+/html/body[1]/div[2]/div[1]/div[4]/div[2]
+-
+0.05573712
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.05236158
+studi tecnici ed industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[4]
+-
+0.05236158
+studi tecnici ed industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[4]
+__________________
+65123
+---
+-
+0.43042946
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+__________________
+65123
+---
+-
+0.43042946
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+__________________
+65123
+---
+-
+0.43042946
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+__________________
+65122
+---
+-
+0.4244547
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+65122
+---
+-
+0.4244547
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+ Impresa Verificata   |   
+---
+-
+0.41957554
+imprese edili
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[5]
+-
+0.41957554
+imprese edili
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[5]
+__________________
+
+        Descrizione attività: 
+        
+        Lo studio di architettura Antonio Sabatino nasce nel 2002 e si configura come laboratorio di idee, luogo di sperimentazione, punto di partenza per approfondire tematiche e tecnologie sempre nuove, elaborate con sensibilità e professionalità. “Tutti noi trascorriamo la maggior parte della nostra vita all’interno di edifici o nelle loro immediate vicinanze, la nostra esistenza è permeata dall’architettura e la qualità delle nostre vite è fortemente influenzata dalla qualità delle architetture in cui viviamo e che ci circondano.”  Siamo convinti che al centro di ogni architettura di qualità, nel rispetto della sostenibilità ambientale, ci sia l’uomo e il suo benessere fisico e intellettivo. Al tal fine abbiamo integrato tutte le competenze necessarie allo sviluppo della progettazione urbanistica, di architettura ecosostenibile, di interior design e direzione lavori. Lo studio si avvale di numerosi e qualificati professionisti esterni con i quali ha consolidati rapporti di collaborazione, fiducia e capacità di lavoro in team.  “E’ attraverso la condivisione del sapere che si oltrepassano le individualità a favore del dialogo, del confronto e dell’innovazione, sfruttando in modo completo il potenziale creativo generato dalle differenti sensibilità.” Lo Studio è dotato di importanti strumentazioni informatiche hardware e software per far fronte alle più diverse esigenze di rilevamento, analisi bioclimatica, restituzione grafica in 3D e render, controllo qualitativo costante in ogni fase di lavorazione e gestione del cantiere.
+        
+        
+        Prodotti e servizi:
+        
+        
+          
+           Studio di architettura
+         
+          
+           Progettazione urbanistica
+         
+          
+           architettura d’interni e design
+         
+          
+           progettazione eco sostenibile
+         
+          
+           bio architettura
+         
+        
+       
+---
+-
+0.39841107
+
+      Studio di Architettura Antonio Sabatino
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.39841107
+ Studio di Architettura Antonio Sabatino 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.042674422
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.03726669
+
+             Sabatini Immobiliare, Di Marco Sabatini
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+-
+0.02657189
+
+     Sei il proprietario di questa attività?
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[4]/div[1]
+-
+0.022329155
+
+     Scopri quali amici stanno già usando PagineGialle 
+   
+/html/body[1]/div[2]/div[1]/div[4]/div[1]
+-
+0.018479342
+
+        Attività simili nei dintorni
+       
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[1]
+-
+0.018479342
+
+        Altre attività in zona
+       
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[1]
+-
+0.016413108
+
+         Conosci questa attività?   
+         Scrivi per primo una recensione  
+       
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]
+-
+0.015293815
+ 
+    Pagine Bianche PagineBianche ti fa trovare i numeri di telefono e gli indirizzi di tutte le persone, le aziende, le istituzioni in Italia. 
+   
+/html/body[1]/div[3]/div[1]/div[2]/div[2]
+-
+0.010531925
+
+     Registra la tua Attività per gestire, aggiornare e arricchire le informazioni, i contatti o le fotografie.
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[4]/div[3]
+-
+0.009669678
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+Associazioni sindacali Pescara
+---
+-
+0.38492817
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.10940223
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.10795816
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.10795816
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.10757222
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.09749698
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.07655153
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.06679919
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+Lo studio di architettura Antonio Sabatino nasce nel 2002 e si configura come laboratorio di idee, luogo di sperimentazione, punto di partenza per approfondire tematiche e tecnologie sempre nuove, elaborate con sensibilità e professionalità. “Tutti noi trascorriamo la maggior parte della nostra vita all’interno di edifici o nelle loro immediate vicinanze, la nostra esistenza è permeata dall’architettura e la qualità delle nostre vite è fortemente influenzata dalla qualità delle architetture in cui viviamo e che ci circondano.”  Siamo convinti che al centro di ogni architettura di qualità, nel rispetto della sostenibilità ambientale, ci sia l’uomo e il suo benessere fisico e intellettivo. Al tal fine abbiamo integrato tutte le competenze necessarie allo sviluppo della progettazione urbanistica, di architettura ecosostenibile, di interior design e direzione lavori. Lo studio si avvale di numerosi e qualificati professionisti esterni con i quali ha consolidati rapporti di collaborazione, fiducia e capacità di lavoro in team.  “E’ attraverso la condivisione del sapere che si oltrepassano le individualità a favore del dialogo, del confronto e dell’innovazione, sfruttando in modo completo il potenziale creativo generato dalle differenti sensibilità.” Lo Studio è dotato di importanti strumentazioni informatiche hardware e software per far fronte alle più diverse esigenze di rilevamento, analisi bioclimatica, restituzione grafica in 3D e render, controllo qualitativo costante in ogni fase di lavorazione e gestione del cantiere.
+---
+-
+0.32914346
+
+      Studio di Architettura Antonio Sabatino
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.32914346
+ Studio di Architettura Antonio Sabatino 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.049682483
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.043386683
+
+             Sabatini Immobiliare, Di Marco Sabatini
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+-
+0.025996083
+
+     Scopri quali amici stanno già usando PagineGialle 
+   
+/html/body[1]/div[2]/div[1]/div[4]/div[1]
+-
+0.01780539
+ 
+    Pagine Bianche PagineBianche ti fa trovare i numeri di telefono e gli indirizzi di tutte le persone, le aziende, le istituzioni in Italia. 
+   
+/html/body[1]/div[3]/div[1]/div[2]/div[2]
+__________________
+Descrizione attività
+---
+-
+0.31706697
+
+     Sei il proprietario di questa attività?
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[4]/div[1]
+-
+0.22050329
+
+        Attività simili nei dintorni
+       
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[1]
+-
+0.22050329
+
+        Altre attività in zona
+       
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[1]
+-
+0.19584809
+
+         Conosci questa attività?   
+         Scrivi per primo una recensione  
+       
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]
+-
+0.12567137
+
+     Registra la tua Attività per gestire, aggiornare e arricchire le informazioni, i contatti o le fotografie.
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[4]/div[3]
+-
+0.11538268
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+Carocchi Marco
+---
+-
+0.30800042
+
+             Sabatini Immobiliare, Di Marco Sabatini
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+__________________
+ 
+           bio architettura
+         
+---
+-
+0.30118784
+
+      Studio di Architettura Antonio Sabatino
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.30118784
+ Studio di Architettura Antonio Sabatino 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+__________________
+Ciaramellano Arch. Antongiulio
+---
+-
+0.27482313
+
+             Emanuele Arch. D'Amico
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+__________________
+Sciartilli Arch. Elena
+---
+-
+0.27482313
+
+             Emanuele Arch. D'Amico
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+__________________
+Verzella Arch. Mauro
+---
+-
+0.27482313
+
+             Emanuele Arch. D'Amico
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+__________________
+Sargiacomo Ing. Silvio
+---
+-
+0.27482313
+
+             Ing. Fabio Maggi
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
+__________________
+Ing. Perfetti Pierluigi
+---
+-
+0.27482313
+
+             Ing. Fabio Maggi
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
+__________________
+Commercialisti - studio commercialista Pescara
+---
+-
+0.26431003
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.17241584
+
+      Studio di Architettura Antonio Sabatino
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.17241584
+ Studio di Architettura Antonio Sabatino 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.07512079
+
+             31, Vl. L. Muzii
+             65123 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.074129224
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.074129224
+
+             33, V. Forti
+             65122 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.07386422
+ 
+          105, Viale Giovanni Bovio - 
+          65124 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.066946074
+
+             32/2, V. Saline
+             65128 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.052563936
+ L'attività Progetto Luce è presente da 30 anni sul mercato dell'illuminazione, d'arredo e tecnico, a Pescara. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.04586751
+ Agenzia immobiliare Sabatini, con sede in viale Leopoldo Muzii 31 a Pescara, si occupa di con professionalità e competenza di compravendita immobiliare. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+ 
+           architettura d’interni e design
+         
+---
+-
+0.23716386
+
+      Studio di Architettura Antonio Sabatino
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.23716386
+ Studio di Architettura Antonio Sabatino 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+__________________
+
+           
+          mostra email  
+         
+---
+-
+0.22394909
+ 
+     
+      Registrati con facebook 
+     oppure
+     
+    REGISTRATI CON L'EMAIL 
+   
+/html/body[1]/div[2]/div[1]/div[4]/div[2]
+__________________
+mostra email
+---
+-
+0.22394909
+ 
+     
+      Registrati con facebook 
+     oppure
+     
+    REGISTRATI CON L'EMAIL 
+   
+/html/body[1]/div[2]/div[1]/div[4]/div[2]
+__________________
+Corso Vittorio Emanuele Ii, 394
+---
+-
+0.20923603
+
+             Emanuele Arch. D'Amico
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+__________________
+Corso Vittorio Emanuele Ii, 394
+---
+-
+0.20923603
+
+             Emanuele Arch. D'Amico
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+__________________

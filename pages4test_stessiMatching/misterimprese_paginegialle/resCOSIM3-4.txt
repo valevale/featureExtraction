@@ -1,0 +1,2362 @@
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.35820892
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.35820892
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.34181777
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Ing. Perfetti Pierluigi
+---
+-
+1.0
+
+      Ing. Perfetti Pierluigi
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+1.0
+ Ing. Perfetti Pierluigi 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.35820892
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.35820892
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.34181777
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+
+        Pescara
+       
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.35820892
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.35820892
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.34181777
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+65127
+---
+-
+1.0
+65127
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.35820892
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.35820892
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.34181777
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.35820892
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.35820892
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.34181777
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.35820892
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.35820892
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.34181777
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.35820892
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.35820892
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.34181777
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+65127
+---
+-
+1.0
+65127
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.35820892
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.35820892
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.34181777
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.35820892
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.35820892
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.34181777
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+65127
+---
+-
+1.0
+65127
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.35820892
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.35820892
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.34181777
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.35820892
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.35820892
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.34181777
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+
+        Pescara
+       
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.35820892
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.35820892
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.34181777
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.35820892
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.35820892
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.34181777
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+65127
+---
+-
+1.0
+65127
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.35820892
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.35820892
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.34181777
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+65127
+---
+-
+1.0
+65127
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.35820892
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.35820892
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.34181777
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+65127
+---
+-
+1.0
+65127
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.35820892
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.35820892
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.34181777
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Ing. Perfetti Pierluigi
+---
+-
+1.0
+
+      Ing. Perfetti Pierluigi
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+1.0
+ Ing. Perfetti Pierluigi 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.35820892
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.35820892
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.34181777
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Ing. Perfetti Pierluigi - Pescara
+---
+-
+0.89183635
+
+      Ing. Perfetti Pierluigi
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.89183635
+ Ing. Perfetti Pierluigi 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.45235813
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.16203871
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.16203871
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.15462404
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Periti, danni, infortunistica stradale a Pescara
+---
+-
+0.866335
+Periti danni e infortunistica stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]
+-
+0.866335
+Periti danni e infortunistica stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.7597135
+ Categoria: Periti danni e infortunistica stradale 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+-
+0.7597135
+ Categoria: Periti danni e infortunistica stradale 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.49946335
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.39287466
+periti
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[5]
+-
+0.39287466
+periti
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[5]
+-
+0.38259855
+ 
+       
+     
+       altri utenti hanno cercato anche 
+      
+     perizie 
+     perito assicurativo 
+     infortunistica 
+     infortunistica stradale 
+     periti 
+     periti industriali 
+     perizie, stime e valutazioni - consulenza 
+     polizia stradale 
+     assicurazioni - agenzie e consulenze 
+     avvocati - studi 
+     assicurazioni 
+     studi tecnici ed industriali  
+      
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]
+-
+0.38259855
+ 
+       
+     
+       altri utenti hanno cercato anche 
+      
+     perizie 
+     perito assicurativo 
+     infortunistica 
+     infortunistica stradale 
+     periti 
+     periti industriali 
+     perizie, stime e valutazioni - consulenza 
+     polizia stradale 
+     assicurazioni - agenzie e consulenze 
+     avvocati - studi 
+     assicurazioni 
+     studi tecnici ed industriali  
+      
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]
+-
+0.2570918
+periti industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[6]
+-
+0.2570918
+periti industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[6]
+-
+0.24676573
+polizia stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
+-
+0.24676573
+polizia stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
+-
+0.17891222
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.17891222
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.17072545
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.12684648
+ La Giesse è un'attività specializzata nel risarcimento danni in Via Mantova a Montesilvano. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.0730174
+ 
+    Tutto Città Visualizza mappe e cartine geografiche, calcola itinerari stradali, percorsi e distanze chilometriche con Tuttocitta. 
+   
+/html/body[1]/div[3]/div[1]/div[2]/div[1]
+__________________
+Scrivi la tua recensione di Ing. Perfetti Pierluigi
+---
+-
+0.82618785
+
+      Ing. Perfetti Pierluigi
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.82618785
+ Ing. Perfetti Pierluigi 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.56339467
+Scrivi una recensione
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]
+-
+0.56339467
+Scrivi una recensione
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.56339467
+Scrivi una recensione
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.41291144
+ Scrivi per primo una recensione 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]
+-
+0.30106258
+
+         Conosci questa attività?   
+         Scrivi per primo una recensione  
+       
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]
+__________________
+Pierluigi Perfetti
+---
+-
+0.79030716
+
+      Ing. Perfetti Pierluigi
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.79030716
+ Ing. Perfetti Pierluigi 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+__________________
+Avvocati Pescara
+---
+-
+0.7399996
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.48515305
+avvocati - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[10]
+-
+0.48515305
+avvocati - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[10]
+-
+0.38730064
+ Categoria: Avvocati - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[2]
+-
+0.26507446
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.26507446
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.252945
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.11632881
+
+             Studio Legale Associato di Benedetto - Toppetti, Avvocati Renato di Benedetto e Valeria Toppetti
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
+-
+0.0960361
+ 
+       
+     
+       altri utenti hanno cercato anche 
+      
+     perizie 
+     perito assicurativo 
+     infortunistica 
+     infortunistica stradale 
+     periti 
+     periti industriali 
+     perizie, stime e valutazioni - consulenza 
+     polizia stradale 
+     assicurazioni - agenzie e consulenze 
+     avvocati - studi 
+     assicurazioni 
+     studi tecnici ed industriali  
+      
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]
+-
+0.0960361
+ 
+       
+     
+       altri utenti hanno cercato anche 
+      
+     perizie 
+     perito assicurativo 
+     infortunistica 
+     infortunistica stradale 
+     periti 
+     periti industriali 
+     perizie, stime e valutazioni - consulenza 
+     polizia stradale 
+     assicurazioni - agenzie e consulenze 
+     avvocati - studi 
+     assicurazioni 
+     studi tecnici ed industriali  
+      
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]
+__________________
+
+          Pescara (PE)
+         
+---
+-
+0.7247633
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.6889979
+(PE)
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[4]
+-
+0.4973235
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.4973235
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.47430152
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.2103256
+
+             1, V. Mantova
+             65015 - Montesilvano (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+__________________
+Risultati di ricerca per Ing. Perfetti Pierluigi
+---
+-
+0.6966525
+
+      Ing. Perfetti Pierluigi
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.6966525
+ Ing. Perfetti Pierluigi 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+__________________
+Orari di apertura Ing. Perfetti Pierluigi
+---
+-
+0.6966525
+
+      Ing. Perfetti Pierluigi
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.6966525
+ Ing. Perfetti Pierluigi 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+__________________
+Studi tecnici a Pescara
+---
+-
+0.6386129
+studi tecnici ed industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[12]
+-
+0.6386129
+studi tecnici ed industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[12]
+-
+0.6188819
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.5454369
+ Categoria: Studi tecnici ed industriali 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.344806
+avvocati - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[10]
+-
+0.344806
+avvocati - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[10]
+-
+0.27597487
+ Categoria: Avvocati - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[2]
+-
+0.22601491
+ 
+       
+     
+       altri utenti hanno cercato anche 
+      
+     perizie 
+     perito assicurativo 
+     infortunistica 
+     infortunistica stradale 
+     periti 
+     periti industriali 
+     perizie, stime e valutazioni - consulenza 
+     polizia stradale 
+     assicurazioni - agenzie e consulenze 
+     avvocati - studi 
+     assicurazioni 
+     studi tecnici ed industriali  
+      
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]
+-
+0.22601491
+ 
+       
+     
+       altri utenti hanno cercato anche 
+      
+     perizie 
+     perito assicurativo 
+     infortunistica 
+     infortunistica stradale 
+     periti 
+     periti industriali 
+     perizie, stime e valutazioni - consulenza 
+     polizia stradale 
+     assicurazioni - agenzie e consulenze 
+     avvocati - studi 
+     assicurazioni 
+     studi tecnici ed industriali  
+      
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]
+-
+0.22168899
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.22168899
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.21154483
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Ingegneri a Pescara
+---
+-
+0.5715692
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.2047412
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.2047412
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.19537252
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Categorie correlate a Pescara
+---
+-
+0.50720626
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.46101466
+categoria
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.46101466
+Categoria: 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/span[1]
+-
+0.2654614
+ Categoria: Avvocati - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[2]
+-
+0.22678228
+ Categoria: Studi tecnici ed industriali 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.20701988
+ Categoria: Periti danni e infortunistica stradale 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+-
+0.20701988
+ Categoria: Periti danni e infortunistica stradale 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.1816858
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.1816858
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.17337212
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Agenzie immobiliari Pescara
+---
+-
+0.496231
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.3003386
+assicurazioni - agenzie e consulenze
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[9]
+-
+0.3003386
+assicurazioni - agenzie e consulenze
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[9]
+-
+0.17775436
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.17775436
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.16962057
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.077997
+ 
+       
+     
+       altri utenti hanno cercato anche 
+      
+     perizie 
+     perito assicurativo 
+     infortunistica 
+     infortunistica stradale 
+     periti 
+     periti industriali 
+     perizie, stime e valutazioni - consulenza 
+     polizia stradale 
+     assicurazioni - agenzie e consulenze 
+     avvocati - studi 
+     assicurazioni 
+     studi tecnici ed industriali  
+      
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]
+-
+0.077997
+ 
+       
+     
+       altri utenti hanno cercato anche 
+      
+     perizie 
+     perito assicurativo 
+     infortunistica 
+     infortunistica stradale 
+     periti 
+     periti industriali 
+     perizie, stime e valutazioni - consulenza 
+     polizia stradale 
+     assicurazioni - agenzie e consulenze 
+     avvocati - studi 
+     assicurazioni 
+     studi tecnici ed industriali  
+      
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]
+__________________
+
+            Studio Infortunistica Stradale
+           
+---
+-
+0.48025593
+Periti danni e infortunistica stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]
+-
+0.48025593
+Periti danni e infortunistica stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.42329216
+ Categoria: Periti danni e infortunistica stradale 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+-
+0.42329216
+ Categoria: Periti danni e infortunistica stradale 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.28319383
+polizia stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
+-
+0.28319383
+polizia stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
+-
+0.26903084
+ 
+       
+     
+       altri utenti hanno cercato anche 
+      
+     perizie 
+     perito assicurativo 
+     infortunistica 
+     infortunistica stradale 
+     periti 
+     periti industriali 
+     perizie, stime e valutazioni - consulenza 
+     polizia stradale 
+     assicurazioni - agenzie e consulenze 
+     avvocati - studi 
+     assicurazioni 
+     studi tecnici ed industriali  
+      
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]
+-
+0.26903084
+ 
+       
+     
+       altri utenti hanno cercato anche 
+      
+     perizie 
+     perito assicurativo 
+     infortunistica 
+     infortunistica stradale 
+     periti 
+     periti industriali 
+     perizie, stime e valutazioni - consulenza 
+     polizia stradale 
+     assicurazioni - agenzie e consulenze 
+     avvocati - studi 
+     assicurazioni 
+     studi tecnici ed industriali  
+      
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]
+-
+0.17120098
+
+             Studio Legale Associato di Benedetto - Toppetti, Avvocati Renato di Benedetto e Valeria Toppetti
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
+-
+0.0837964
+ 
+    Tutto Città Visualizza mappe e cartine geografiche, calcola itinerari stradali, percorsi e distanze chilometriche con Tuttocitta. 
+   
+/html/body[1]/div[3]/div[1]/div[2]/div[1]
+__________________
+Associazioni sindacali Pescara
+---
+-
+0.4418561
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.15827678
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.15827678
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.15103425
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Architetti, studi architettura Pescara
+---
+-
+0.41418922
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.23076282
+avvocati - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[10]
+-
+0.23076282
+avvocati - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[10]
+-
+0.18469732
+ Categoria: Avvocati - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[2]
+-
+0.18401535
+studi tecnici ed industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[12]
+-
+0.18401535
+studi tecnici ed industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[12]
+-
+0.1579809
+ Categoria: Studi tecnici ed industriali 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.14836627
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.14836627
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.14157724
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.09217748
+ 
+       
+     
+       altri utenti hanno cercato anche 
+      
+     perizie 
+     perito assicurativo 
+     infortunistica 
+     infortunistica stradale 
+     periti 
+     periti industriali 
+     perizie, stime e valutazioni - consulenza 
+     polizia stradale 
+     assicurazioni - agenzie e consulenze 
+     avvocati - studi 
+     assicurazioni 
+     studi tecnici ed industriali  
+      
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]
+-
+0.09217748
+ 
+       
+     
+       altri utenti hanno cercato anche 
+      
+     perizie 
+     perito assicurativo 
+     infortunistica 
+     infortunistica stradale 
+     periti 
+     periti industriali 
+     perizie, stime e valutazioni - consulenza 
+     polizia stradale 
+     assicurazioni - agenzie e consulenze 
+     avvocati - studi 
+     assicurazioni 
+     studi tecnici ed industriali  
+      
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]
+__________________
+Viale Gabriele d'Annunzio, 265
+---
+-
+0.40646493
+265, Vl. G. D'Annunzio
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
+-
+0.30788502
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.30788502
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.13676621
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+
+       Ing. Perfetti Pierluigi
+       Ricostruzione Incidenti Stradali
+       
+        
+         
+          
+         
+         
+          Viale Gabriele d'Annunzio, 265
+         
+         
+          
+         
+         
+          65127
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          08562118
+         
+         
+           393 0316464
+         
+         
+           
+          mostra email  
+         
+         
+           
+          www.dfpconsulting.it
+         
+        
+        
+        
+          Chiama
+        
+        
+         
+          N. Partita IVA:
+         
+         
+          02335400699
+         
+         
+          Anno di Costituzione:
+         
+         
+          2004
+         
+         
+          Numero di Dipendenti:
+         
+         
+          1
+         
+         
+          Responsabile:
+         
+         
+          Pierluigi Perfetti
+         
+         
+        
+        
+         
+          
+         
+         
+          Periti, danni, infortunistica stradale a Pescara
+          
+          Ingegneri a Pescara
+          
+          Studi tecnici a Pescara
+          
+         
+        
+         
+        
+       
+         
+          Impresa Verificata   |   Aggiornata 2 mesi fa  |    
+        
+        
+        Opzioni 
+       
+      
+---
+-
+0.40384632
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.33174747
+
+      Ing. Perfetti Pierluigi
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.33174747
+ Ing. Perfetti Pierluigi 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.3004659
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.3004659
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.2432055
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.2135363
+Periti danni e infortunistica stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]
+-
+0.2135363
+Periti danni e infortunistica stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.18725595
+ Categoria: Periti danni e infortunistica stradale 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+-
+0.18725595
+ Categoria: Periti danni e infortunistica stradale 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.13614887
+ 
+       
+     
+       altri utenti hanno cercato anche 
+      
+     perizie 
+     perito assicurativo 
+     infortunistica 
+     infortunistica stradale 
+     periti 
+     periti industriali 
+     perizie, stime e valutazioni - consulenza 
+     polizia stradale 
+     assicurazioni - agenzie e consulenze 
+     avvocati - studi 
+     assicurazioni 
+     studi tecnici ed industriali  
+      
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]
+-
+0.13614887
+ 
+       
+     
+       altri utenti hanno cercato anche 
+      
+     perizie 
+     perito assicurativo 
+     infortunistica 
+     infortunistica stradale 
+     periti 
+     periti industriali 
+     perizie, stime e valutazioni - consulenza 
+     polizia stradale 
+     assicurazioni - agenzie e consulenze 
+     avvocati - studi 
+     assicurazioni 
+     studi tecnici ed industriali  
+      
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]
+-
+0.10418041
+studi tecnici ed industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[12]
+-
+0.10418041
+studi tecnici ed industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[12]
+-
+0.10256402
+265, Vl. G. D'Annunzio
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
+-
+0.10096158
+65127
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.0997625
+polizia stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
+-
+0.0997625
+polizia stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
+-
+0.09597935
+(PE)
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[4]
+-
+0.08898011
+ Categoria: Studi tecnici ed industriali 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.081948705
+
+             1, V. Mantova
+             65015 - Montesilvano (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.07941572
+periti
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[5]
+-
+0.07941572
+periti
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[5]
+-
+0.06317972
+ 
+    Pagine Bianche PagineBianche ti fa trovare i numeri di telefono e gli indirizzi di tutte le persone, le aziende, le istituzioni in Italia. 
+   
+/html/body[1]/div[3]/div[1]/div[2]/div[2]
+-
+0.056250084
+avvocati - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[10]
+-
+0.056250084
+avvocati - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[10]
+-
+0.051968567
+periti industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[6]
+-
+0.051968567
+periti industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[6]
+-
+0.045021284
+ Categoria: Avvocati - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[2]
+-
+0.042925302
+ 
+     
+      Registrati con facebook 
+     oppure
+     
+    REGISTRATI CON L'EMAIL 
+   
+/html/body[1]/div[2]/div[1]/div[4]/div[2]
+__________________
+Viale D'annunzio Gabriele, 267
+---
+-
+0.34866342
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.18150297
+265, Vl. G. D'Annunzio
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
+-
+0.13860032
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.13860032
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+__________________
+
+            Via Tommaso Da Celano, 10 - 
+            65127 
+            Pescara
+           
+---
+-
+0.3204125
+65127
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.3204125
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.23140411
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.23140411
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.22065535
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.14255159
+ La Giesse è un'attività specializzata nel risarcimento danni in Via Mantova a Montesilvano. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+
+            Viale Marconi Guglielmo, 316 - 
+            65127 
+            Pescara
+           
+---
+-
+0.3124394
+65127
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.3124394
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.22564591
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.22564591
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.21516463
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Commercialisti - studio commercialista Pescara
+---
+-
+0.3042693
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.10899197
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.10899197
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.10400466
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.09087863
+
+             Studio Legale Associato di Benedetto - Toppetti, Avvocati Renato di Benedetto e Valeria Toppetti
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
+__________________
+Descrizione attività
+---
+-
+0.28614858
+
+     Sei il proprietario di questa attività?
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[4]/div[1]
+-
+0.2185773
+
+        Altre attività in zona
+       
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[1]
+-
+0.2185773
+
+        Attività simili nei dintorni
+       
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[1]
+-
+0.19152512
+
+         Conosci questa attività?   
+         Scrivi per primo una recensione  
+       
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]
+-
+0.13653292
+ La Giesse è un'attività specializzata nel risarcimento danni in Via Mantova a Montesilvano. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.11684928
+
+     Accedi a PG4You per aggiornare e modificare le info, i contatti o le foto relative alla tua Attività.
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[4]/div[3]
+__________________
+Marzocchi Ing. Sergio
+---
+-
+0.26504958
+
+      Ing. Perfetti Pierluigi
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.26504958
+ Ing. Perfetti Pierluigi 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+__________________
+Studio Tecnico Associato Studio Ass.michelini Bruni
+---
+-
+0.25266907
+
+             Studio Legale Associato di Benedetto - Toppetti, Avvocati Renato di Benedetto e Valeria Toppetti
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
+-
+0.15994437
+studi tecnici ed industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[12]
+-
+0.15994437
+studi tecnici ed industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[12]
+-
+0.13701487
+ Categoria: Studi tecnici ed industriali 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.039669372
+ 
+       
+     
+       altri utenti hanno cercato anche 
+      
+     perizie 
+     perito assicurativo 
+     infortunistica 
+     infortunistica stradale 
+     periti 
+     periti industriali 
+     perizie, stime e valutazioni - consulenza 
+     polizia stradale 
+     assicurazioni - agenzie e consulenze 
+     avvocati - studi 
+     assicurazioni 
+     studi tecnici ed industriali  
+      
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]
+-
+0.039669372
+ 
+       
+     
+       altri utenti hanno cercato anche 
+      
+     perizie 
+     perito assicurativo 
+     infortunistica 
+     infortunistica stradale 
+     periti 
+     periti industriali 
+     perizie, stime e valutazioni - consulenza 
+     polizia stradale 
+     assicurazioni - agenzie e consulenze 
+     avvocati - studi 
+     assicurazioni 
+     studi tecnici ed industriali  
+      
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]
+__________________
+Via Croce Benedetto, 206
+---
+-
+0.22848764
+
+             Studio Legale Associato di Benedetto - Toppetti, Avvocati Renato di Benedetto e Valeria Toppetti
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
+-
+0.16537985
+ La Giesse è un'attività specializzata nel risarcimento danni in Via Mantova a Montesilvano. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+Ricostruzione Incidenti Stradali
+---
+-
+0.22593215
+polizia stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
+-
+0.22593215
+polizia stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
+-
+0.16809294
+Periti danni e infortunistica stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]
+-
+0.16809294
+Periti danni e infortunistica stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.14855468
+ Categoria: Periti danni e infortunistica stradale 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+-
+0.14855468
+ Categoria: Periti danni e infortunistica stradale 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.09494999
+ 
+       
+     
+       altri utenti hanno cercato anche 
+      
+     perizie 
+     perito assicurativo 
+     infortunistica 
+     infortunistica stradale 
+     periti 
+     periti industriali 
+     perizie, stime e valutazioni - consulenza 
+     polizia stradale 
+     assicurazioni - agenzie e consulenze 
+     avvocati - studi 
+     assicurazioni 
+     studi tecnici ed industriali  
+      
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]
+-
+0.09494999
+ 
+       
+     
+       altri utenti hanno cercato anche 
+      
+     perizie 
+     perito assicurativo 
+     infortunistica 
+     infortunistica stradale 
+     periti 
+     periti industriali 
+     perizie, stime e valutazioni - consulenza 
+     polizia stradale 
+     assicurazioni - agenzie e consulenze 
+     avvocati - studi 
+     assicurazioni 
+     studi tecnici ed industriali  
+      
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]
+-
+0.06685279
+ 
+    Tutto Città Visualizza mappe e cartine geografiche, calcola itinerari stradali, percorsi e distanze chilometriche con Tuttocitta. 
+   
+/html/body[1]/div[3]/div[1]/div[2]/div[1]
+__________________
+
+           
+          mostra email  
+         
+---
+-
+0.22350755
+ 
+     
+      Registrati con facebook 
+     oppure
+     
+    REGISTRATI CON L'EMAIL 
+   
+/html/body[1]/div[2]/div[1]/div[4]/div[2]
+__________________
+mostra email
+---
+-
+0.22350755
+ 
+     
+      Registrati con facebook 
+     oppure
+     
+    REGISTRATI CON L'EMAIL 
+   
+/html/body[1]/div[2]/div[1]/div[4]/div[2]
+__________________
+Numero di Dipendenti:
+---
+-
+0.16283907
+ 
+    Pagine Bianche PagineBianche ti fa trovare i numeri di telefono e gli indirizzi di tutte le persone, le aziende, le istituzioni in Italia. 
+   
+/html/body[1]/div[3]/div[1]/div[2]/div[2]
+__________________
+Via Tommaso Da Celano, 10
+---
+-
+0.15991095
+ La Giesse è un'attività specializzata nel risarcimento danni in Via Mantova a Montesilvano. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+Via Tommaso Da Celano, 10
+---
+-
+0.15991095
+ La Giesse è un'attività specializzata nel risarcimento danni in Via Mantova a Montesilvano. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+Lo studio offre competenze per la Ricostruzione Cinematica di Incidenti o Sinistri Stradali, Lettura Scatola Nera, Comparativa dei Danni, Simulazione tramite software specifici.
+---
+-
+0.15761748
+Periti danni e infortunistica stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]
+-
+0.15761748
+Periti danni e infortunistica stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.13882981
+ Categoria: Periti danni e infortunistica stradale 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+-
+0.13882981
+ Categoria: Periti danni e infortunistica stradale 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.0910497
+
+             Giesse Gestione Sinistri, Di Paolone Carmelita & C.
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+-
+0.08806865
+polizia stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
+-
+0.08806865
+polizia stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
+-
+0.0532407
+
+             Studio Legale Associato di Benedetto - Toppetti, Avvocati Renato di Benedetto e Valeria Toppetti
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
+-
+0.045270465
+ La Giesse è un'attività specializzata nel risarcimento danni in Via Mantova a Montesilvano. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.037011635
+ 
+       
+     
+       altri utenti hanno cercato anche 
+      
+     perizie 
+     perito assicurativo 
+     infortunistica 
+     infortunistica stradale 
+     periti 
+     periti industriali 
+     perizie, stime e valutazioni - consulenza 
+     polizia stradale 
+     assicurazioni - agenzie e consulenze 
+     avvocati - studi 
+     assicurazioni 
+     studi tecnici ed industriali  
+      
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]
+-
+0.037011635
+ 
+       
+     
+       altri utenti hanno cercato anche 
+      
+     perizie 
+     perito assicurativo 
+     infortunistica 
+     infortunistica stradale 
+     periti 
+     periti industriali 
+     perizie, stime e valutazioni - consulenza 
+     polizia stradale 
+     assicurazioni - agenzie e consulenze 
+     avvocati - studi 
+     assicurazioni 
+     studi tecnici ed industriali  
+      
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]
+-
+0.026059309
+ 
+    Tutto Città Visualizza mappe e cartine geografiche, calcola itinerari stradali, percorsi e distanze chilometriche con Tuttocitta. 
+   
+/html/body[1]/div[3]/div[1]/div[2]/div[1]
+__________________
+
+            Studio di Ingegneria
+           
+---
+-
+0.15701407
+
+             Studio Legale Associato di Benedetto - Toppetti, Avvocati Renato di Benedetto e Valeria Toppetti
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
+__________________
+
+        Descrizione attività: 
+        
+        Lo studio offre competenze per la Ricostruzione Cinematica di Incidenti o Sinistri Stradali, Lettura Scatola Nera, Comparativa dei Danni, Simulazione tramite software specifici.
+        
+        
+        Prodotti e servizi:
+        
+        
+          
+           Progettazione Termoacustica
+         
+          
+           Analisi Rumore
+         
+          
+           Analisi Energetica negli Edifici
+         
+        
+       
+---
+-
+0.117088325
+Periti danni e infortunistica stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]
+-
+0.117088325
+Periti danni e infortunistica stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.103131644
+ Categoria: Periti danni e infortunistica stradale 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+-
+0.103131644
+ Categoria: Periti danni e infortunistica stradale 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.067637525
+
+             Giesse Gestione Sinistri, Di Paolone Carmelita & C.
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+-
+0.06542301
+polizia stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
+-
+0.06542301
+polizia stradale
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
+-
+0.06457054
+ La Giesse è un'attività specializzata nel risarcimento danni in Via Mantova a Montesilvano. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.0643836
+
+     Sei il proprietario di questa attività?
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[4]/div[1]
+-
+0.049180016
+
+        Altre attività in zona
+       
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[1]
+-
+0.049180016
+
+        Attività simili nei dintorni
+       
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[1]
+-
+0.043093264
+
+         Conosci questa attività?   
+         Scrivi per primo una recensione  
+       
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]
+-
+0.039550588
+
+             Studio Legale Associato di Benedetto - Toppetti, Avvocati Renato di Benedetto e Valeria Toppetti
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
+-
+0.0274946
+ 
+       
+     
+       altri utenti hanno cercato anche 
+      
+     perizie 
+     perito assicurativo 
+     infortunistica 
+     infortunistica stradale 
+     periti 
+     periti industriali 
+     perizie, stime e valutazioni - consulenza 
+     polizia stradale 
+     assicurazioni - agenzie e consulenze 
+     avvocati - studi 
+     assicurazioni 
+     studi tecnici ed industriali  
+      
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]
+-
+0.0274946
+ 
+       
+     
+       altri utenti hanno cercato anche 
+      
+     perizie 
+     perito assicurativo 
+     infortunistica 
+     infortunistica stradale 
+     periti 
+     periti industriali 
+     perizie, stime e valutazioni - consulenza 
+     polizia stradale 
+     assicurazioni - agenzie e consulenze 
+     avvocati - studi 
+     assicurazioni 
+     studi tecnici ed industriali  
+      
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]
+-
+0.026291158
+
+     Accedi a PG4You per aggiornare e modificare le info, i contatti o le foto relative alla tua Attività.
+    
+/html/body[1]/div[2]/div[1]/div[3]/div[4]/div[3]
+-
+0.019358518
+ 
+    Tutto Città Visualizza mappe e cartine geografiche, calcola itinerari stradali, percorsi e distanze chilometriche con Tuttocitta. 
+   
+/html/body[1]/div[3]/div[1]/div[2]/div[1]
+__________________
+Aggiornata 2 mesi fa  |   
+---
+-
+0.111336924
+ 
+    Pagine Bianche PagineBianche ti fa trovare i numeri di telefono e gli indirizzi di tutte le persone, le aziende, le istituzioni in Italia. 
+   
+/html/body[1]/div[3]/div[1]/div[2]/div[2]
+__________________

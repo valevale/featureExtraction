@@ -1,0 +1,203 @@
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Attardi Arturo - Piazzetta Ascensione, 14 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Ambrosone Giuseppina - Napoli 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[3]/td[1]/div[1]
+
+             Ambrosone Luigi 
+            
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]/b[1]
+Ambrosone Luigi 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[5]/b[1]
+063049
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[2]/b[1]
+80100
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[4]/b[1]
+081 405861
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Iannuzzi Maria - Piazzetta Ascensione, 29 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Tortora Francesco Srl. - Piazzetta Ascensione, 1 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Di Frenna Alfredo - Piazzetta Ascensione, 10 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Lubrano Rocco Parrucchieri - Piazzetta Ascensione, 26 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Manzo Avv. Diego - Piazzetta Ascensione, 10 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Lo Schiavo Elia Rodolfo - Piazzetta Ascensione, 10 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[4]/td[1]/p[1]
+Abitano in Piazzetta Ascensione Napoli
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Larocca Vittorio - Piazzetta Ascensione, 14 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Ambrosone Luigi - Napoli 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[1]/b[1]
+NA
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ De Matteis Aurelia - Piazzetta Ascensione, 28 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[1]/td[1]/p[1]
+Dati del Comune Napoli
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Saggiomo Giorgio - Piazzetta Ascensione, 28 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Ambrosone Luigi - Castel Volturno 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Ambrosone Luigi - Piazzetta Ascensione, 14 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[4]
+Numero di Telefono 081 405861 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[7]/td[1]/div[1]
+
+             Piazzetta Ascensione, 14
+            
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Ambrosone Avv. Nicola - Napoli 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[5]
+Codice Istat 063049 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Larocca Vittorio - Piazzetta Ascensione, 14 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Larocca Vittorio - Piazzetta Ascensione, 14 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/a[1]
+ Ambrosone Luigi - Avellino 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Tortora Francesco Srl. - Piazzetta Ascensione, 1 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[6]/b[1]
+F839
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Nicotra Salvatore - Piazzetta Ascensione, 28 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Farmacia De Anseris Dr. Maria - Piazzetta Ascensione, 30/31 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[3]/b[1]
+081
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Di Capua Giuseppe - Piazzetta Ascensione, 10 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Infante Fortezza Maria Rosaria - Piazzetta Ascensione, 28 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
+ Ambrosone Avv. Costantino - Napoli 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
+ Ambrosone Avv. Achille - Napoli 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ La Motta Avv. Patrizia - Piazzetta Ascensione, 10 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[2]
+Cap 80100 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Lo Schiavo Elia Rodolfo - Piazzetta Ascensione, 10 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[1]
+Provincia NA 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
+ Ambrosone Avv. Costantino Studio Legale - Napoli 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Ricciardi E. - Piazzetta Ascensione, 10 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
+Risultati ricerca Ambrosone Luigi 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Ambrosone Giuliano - Napoli 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Infante Fortezza Maria Rosaria - Piazzetta Ascensione, 28 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[4]/td[1]/div[1]
+
+             80121 Napoli (NA)
+            
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Capaldo Gaetano - Piazzetta Ascensione, 28 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
+Tutti Ambrosone di Napoli
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[5]/td[1]/div[1]
+
+             Tel:081405861
+            
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/a[1]
+ Parrocchie Ascensine A Chiaia - Piazzetta Ascensione 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/a[1]
+ Ambrosone Luigi - Napoli 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/p[1]
+Altri Ambrosone Luigi 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[6]
+Codice Catastale F839
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[3]
+Prefisso Telefonico 081 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/a[1]
+ Pignalosa Alessandro - Piazzetta Ascensione, 1 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Larocca Vittorio - Piazzetta Ascensione, 14 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[3]/tbody[1]/tr[1]/td[1]/p[1]
+Immagini Ambrosone Luigi Napoli
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/a[1]
+ Ambrosone Luigi - Cascine Vica 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Ambrosone Luigi - Benevento 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/a[1]
+ Pompilio Wilma - Piazzetta Ascensione 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ De Novellis Vincenzo - Piazzetta Ascensione, 10 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Larocca Vittorio - Piazzetta Ascensione, 14 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Manzo Avv. Diego Avvocato - Piazzetta Ascensione, 10 
+________________________________________________________________________

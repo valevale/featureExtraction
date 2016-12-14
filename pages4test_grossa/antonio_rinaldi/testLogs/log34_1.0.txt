@@ -1,0 +1,51 @@
+Valutiamo l'entry: /html/body[1]/div[2]/div[3]/span[1]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[2]/div[9]/ul[1]/li[1]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[2]/div[9]/ul[1]/li[2]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[2]/div[4]/div[1]/h3[1]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[2]/div[9]/ul[1]/li[4]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[2]/div[9]/ul[1]/li[5]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[2]/div[6]/a[1]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[2]/div[4]/h1[1]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: //html[1]/body[1]/div[2]/div[16]/ul[1]/li[3]/ul[1]/li[4]/a[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Calculation of averages
+avg precision: 0.8888889
+avg recall: 0.11111111
+Calculation of Precision and Recall based on matching
+Matchings precision: tp (0) / R (2) = 0.0
+Matching recall: tp (0) / GT (10) = 0.0

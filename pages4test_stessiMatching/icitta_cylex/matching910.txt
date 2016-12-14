@@ -1,0 +1,11 @@
+/html/body[1]/div[1]/div[3]/div[1]/a[3]
+/html/body[1]/div[1]/div[3]/div[1]/a[4]
+/html/body[1]/div[1]/div[3]/div[2]/div[1]/h1[1]
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/span[1]/strong[1]/h2
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/span[1]/h5[1]
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[1]
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[2]
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/strong[3]/a
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[1]/span[1]/strong
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[8]

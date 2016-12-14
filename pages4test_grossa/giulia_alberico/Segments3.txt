@@ -1,0 +1,58 @@
+//html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[1]/td[2]/div[2]/div[2]/div[1]/span[1]/a[1]/strong[1]
+Un amore sbagliato
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[1]/td[2]/div[2]/div[1]/div[1]/p[1]
+ Giulia Alberico è nata a San Vito Chietino e vive a Roma. È autrice di svariati romanzi, tra cui Madrigale (Sellerio 1999), Come Sheherazade (Rizzoli 2004), Il vento caldo del Garbino (Mondadori 2007). 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[1]/td[2]/div[2]/div[2]/div[1]/div[1]
+
+             Euro 15.00
+            Anno 2015
+              isbn: 978-88-454-2593-6
+             
+             
+              
+              
+             
+             
+              
+              
+             
+             
+           
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[1]/td[2]/div[2]/div[1]/div[1]/h1[1]
+Giulia Alberico
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[1]/td[2]/div[2]/div[1]/div[1]/p[1]
+ Giulia Alberico è nata a San Vito Chietino e vive a Roma. È autrice di svariati romanzi, tra cui Madrigale (Sellerio 1999), Come Sheherazade (Rizzoli 2004), Il vento caldo del Garbino (Mondadori 2007). 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[1]/td[2]/div[2]/div[2]/div[1]
+ 
+            
+            
+             
+            Un amore sbagliato  
+           
+             Euro 15.00
+            Anno 2015
+              isbn: 978-88-454-2593-6
+             
+             
+              
+              
+             
+             
+              
+              
+             
+             
+            
+          
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[1]/td[2]/div[2]/div[1]/div[1]/p[1]/i[3]
+Il vento caldo del Garbino
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[1]/td[2]/table[1]/tbody[1]/tr[1]/td[2]/div[2]/div[1]/div[1]/p[1]
+ Giulia Alberico è nata a San Vito Chietino e vive a Roma. È autrice di svariati romanzi, tra cui Madrigale (Sellerio 1999), Come Sheherazade (Rizzoli 2004), Il vento caldo del Garbino (Mondadori 2007). 
+________________________________________________________________________

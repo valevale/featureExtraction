@@ -1,0 +1,161 @@
+Valutiamo l'entry: /html/body[1]/div[1]/div[1]/div[7]/div[3]/div[3]/div[1]/div[1]/table[1]/tbody[2]/tr[1]/td[1]/span[1]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/span[1]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[1]/div[7]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[1]/div[7]/div[3]/div[3]/div[1]/div[1]/table[1]/tbody[2]/tr[2]/td[1]/span
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[1]/div[7]/div[3]/div[3]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/span
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[1]/div[7]/div[3]/div[3]/div[1]/div[1]/table[1]/tbody[1]/tr[6]/td[1]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[1]/div[7]/div[3]/div[3]/div[1]/div[1]/table[1]/tbody[2]/tr[3]/td[1]/span
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[1]/div[7]/div[3]/div[1]/div[4]/a[1]/span
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[1]/div[7]/div[3]/div[3]/div[1]/div[1]/table[1]/tbody[1]/tr[7]/td[1]/span
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[1]/div[1]/div[7]/div[3]/div[3]/div[1]/div[1]/table[1]/tbody[2]/tr[4]/td[1]/span
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: //html[1]/body[1]/div[1]/div[1]/div[7]/div[7]/table[1]/tbody[1]/tr[1]/td[2]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: //html[1]/body[1]/div[1]/div[1]/div[7]/div[3]/div[3]/div[1]/div[1]/table[1]/tbody[2]/tr[1]/td[1]/span[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: //html[1]/body[1]/div[1]/div[1]/div[7]/div[7]/table[1]/tbody[1]/tr[4]/td[2]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: //html[1]/body[1]/div[1]/div[1]/div[7]/div[7]/table[1]/tbody[1]/tr[3]/td[2]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: //html[1]/body[1]/div[1]/div[1]/div[7]/div[3]/div[3]/div[1]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/span[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: //html[1]/body[1]/div[1]/div[1]/div[7]/div[10]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: //html[1]/body[1]/div[1]/div[1]/div[7]/div[3]/div[3]/div[1]/div[1]/table[1]/tbody[1]/tr[6]/td[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: //html[1]/body[1]/div[1]/div[1]/div[7]/div[7]/table[1]/tbody[1]/tr[6]/td[2]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: //html[1]/body[1]/div[1]/div[1]/div[7]/div[7]/table[1]/tbody[1]/tr[5]/td[2]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: //html[1]/body[1]/div[1]/div[1]/div[7]/div[7]/table[1]/tbody[1]/tr[10]/td[2]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: //html[1]/body[1]/div[1]/div[1]/div[7]/div[7]/table[1]/tbody[1]/tr[4]/td[1]/a[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: //html[1]/body[1]/div[1]/div[1]/div[5]/div[1]/div[1]/div[1]/div[1]/div[1]/span[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: //html[1]/body[1]/div[1]/div[1]/div[7]/div[7]/table[1]/tbody[1]/tr[9]/td[2]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: //html[1]/body[1]/div[1]/div[1]/div[7]/div[7]/table[1]/tbody[1]/tr[1]/td[1]/a[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: //html[1]/body[1]/div[1]/div[1]/div[7]/div[7]/table[1]/tbody[1]/tr[2]/td[1]/a[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: //html[1]/body[1]/div[1]/div[1]/div[7]/div[3]/div[1]/div[4]/a[1]/span[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: //html[1]/body[1]/div[1]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/span[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: //html[1]/body[1]/div[1]/div[1]/div[7]/div[7]/table[1]/tbody[1]/tr[7]/td[2]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: //html[1]/body[1]/div[1]/div[1]/div[7]/div[7]/table[1]/tbody[1]/tr[3]/td[1]/a[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: //html[1]/body[1]/div[1]/div[1]/div[7]/div[7]/table[1]/tbody[1]/tr[8]/td[2]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Calculation of averages
+avg precision: 0.3548387
+avg recall: 0.6451613
+Calculation of Precision and Recall based on matching
+Matchings precision: tp (0) / R (22) = 0.0
+Matching recall: tp (0) / GT (17) = 0.0

@@ -1,0 +1,1860 @@
+Prato
+---
+-
+1.0
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.5136614
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.5136614
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.5136614
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.5136614
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.5136614
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.5136614
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.35587966
+Agenti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.35587966
+Agenti di commercio Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.34869188
+Recensioni Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.30475947
+Galleria Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.30475947
+Descrizione Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.2934578
+Shopping e acquisti Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a/span
+-
+0.27522242
+Agenti E Rappresentanti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a
+-
+0.25648326
+Ricerche simili Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.2488484
+VIA DELL' ALBERACCIO 2759100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.24686864
+V. A. VIVALDI. 7259100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.22906613
+V. M. CLEMENTI. 1359100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.22567034
+Aziende simili nelle vicinanze Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.21589436
+VIA RUGGERO LEONCAVALLO 959100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.21589436
+VIA AUGUSTO BORGIOLI, 12559100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.21459773
+V. P. MASCAGNI. 7459100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]
+__________________
+Prato
+---
+-
+1.0
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.5136614
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.5136614
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.5136614
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.5136614
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.5136614
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.5136614
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.35587966
+Agenti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.35587966
+Agenti di commercio Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.34869188
+Recensioni Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.30475947
+Galleria Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.30475947
+Descrizione Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.2934578
+Shopping e acquisti Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a/span
+-
+0.27522242
+Agenti E Rappresentanti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a
+-
+0.25648326
+Ricerche simili Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.2488484
+VIA DELL' ALBERACCIO 2759100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.24686864
+V. A. VIVALDI. 7259100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.22906613
+V. M. CLEMENTI. 1359100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.22567034
+Aziende simili nelle vicinanze Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.21589436
+VIA RUGGERO LEONCAVALLO 959100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.21589436
+VIA AUGUSTO BORGIOLI, 12559100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.21459773
+V. P. MASCAGNI. 7459100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]
+__________________
+Prato
+---
+-
+1.0
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.5136614
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.5136614
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.5136614
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.5136614
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.5136614
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.5136614
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.35587966
+Agenti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.35587966
+Agenti di commercio Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.34869188
+Recensioni Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.30475947
+Galleria Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.30475947
+Descrizione Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.2934578
+Shopping e acquisti Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a/span
+-
+0.27522242
+Agenti E Rappresentanti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a
+-
+0.25648326
+Ricerche simili Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.2488484
+VIA DELL' ALBERACCIO 2759100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.24686864
+V. A. VIVALDI. 7259100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.22906613
+V. M. CLEMENTI. 1359100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.22567034
+Aziende simili nelle vicinanze Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.21589436
+VIA RUGGERO LEONCAVALLO 959100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.21589436
+VIA AUGUSTO BORGIOLI, 12559100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.21459773
+V. P. MASCAGNI. 7459100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]
+__________________
+59100
+---
+-
+1.0
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+-
+1.0
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+__________________
+Gori Emanuele - Prato 
+---
+-
+1.0
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+1.0
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+1.0
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+1.0
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+1.0
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+1.0
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.8533315
+Gori Emanuele
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.8533315
+Gori Emanuele
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]/i[1]
+-
+0.8533315
+Gori Emanuele
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.8533315
+Gori Emanuele
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.6733697
+Recensioni Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.5875803
+Galleria Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.5875803
+Descrizione Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.5213687
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.5213687
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.5213687
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.5213687
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.5213687
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.5213687
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.5213687
+Prato 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.49426195
+
+          E-mail a Gori Emanuele✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.49426195
+E-mail a Gori Emanuele
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.49375197
+Ricerche simili Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.44947168
+ Più informazioni su Gori Emanuele
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.43407333
+Aziende simili nelle vicinanze Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.34246415
+ 
+     Gori Emanuele è iscritta nelle categorie:
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]
+-
+0.30429244
+
+     Scrivi tu la prima recensione per Gori Emanuele!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.18554449
+Agenti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.18554449
+Agenti di commercio Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.15299968
+Shopping e acquisti Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a/span
+__________________
+Gori Emanuele
+---
+-
+1.0
+Gori Emanuele
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+1.0
+Gori Emanuele
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]/i[1]
+-
+1.0
+Gori Emanuele
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+1.0
+Gori Emanuele
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.84935796
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.84935796
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.84935796
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.84935796
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.84935796
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.84935796
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.5792144
+
+          E-mail a Gori Emanuele✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.5792144
+E-mail a Gori Emanuele
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.57338977
+Recensioni Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.5267257
+ Più informazioni su Gori Emanuele
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.50059104
+Galleria Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.50059104
+Descrizione Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.42085326
+Ricerche simili Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.401326
+ 
+     Gori Emanuele è iscritta nelle categorie:
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]
+-
+0.37008163
+Aziende simili nelle vicinanze Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.35659343
+
+     Scrivi tu la prima recensione per Gori Emanuele!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+__________________
+Agenti E Rappresentanti Di Commercio a Prato
+---
+-
+1.0
+Agenti E Rappresentanti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a
+-
+0.842647
+Agenti E Rappresentanti di commercio, Agenti di commercio, Rappresentanti, Agenti D'affari in Mediazione
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.78773373
+Agenti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.78773373
+Agenti di commercio Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.73140436
+Agenti di commercio
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a/span
+-
+0.2925272
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.2925272
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.2925272
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.2925272
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.2925272
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.2925272
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.2925272
+Prato 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.15025991
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.15025991
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.15025991
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.15025991
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.15025991
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.15025991
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.10200185
+Recensioni Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.08915043
+Galleria Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.08915043
+Descrizione Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.08584438
+Shopping e acquisti Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a/span
+-
+0.07502833
+Ricerche simili Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.07279492
+VIA DELL' ALBERACCIO 2759100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.07221579
+V. A. VIVALDI. 7259100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.06700808
+V. M. CLEMENTI. 1359100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.06601471
+Aziende simili nelle vicinanze Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.063154966
+VIA RUGGERO LEONCAVALLO 959100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.063154966
+VIA AUGUSTO BORGIOLI, 12559100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.06277567
+V. P. MASCAGNI. 7459100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]
+__________________
+ AGENTI RAPPRESENTANTI COMMERCIO 
+---
+-
+0.9548487
+Agenti E Rappresentanti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a
+-
+0.88119286
+Agenti E Rappresentanti di commercio, Agenti di commercio, Rappresentanti, Agenti D'affari in Mediazione
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.7648615
+Agenti di commercio
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a/span
+-
+0.7084841
+Agenti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.7084841
+Agenti di commercio Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+__________________
+ Via Becherini Giuseppe 113   59100 Prato  (PO) 
+---
+-
+0.79750264
+VIA GIUSEPPE BECHERINI 113
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.30125985
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+-
+0.30125985
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[2]
+-
+0.30125985
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+0.30125985
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
+-
+0.30125985
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
+-
+0.30125985
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+0.30125985
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+-
+0.18507761
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.18507761
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.18507761
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.18507761
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.18507761
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.18507761
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.18507761
+Prato 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.16922161
+VIA DELL' ALBERACCIO 2759100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.14656658
+VIA RUGGERO LEONCAVALLO 959100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.14656658
+VIA AUGUSTO BORGIOLI, 12559100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.12690105
+VIA DELL' ALBERACCIO 27
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[1]
+-
+0.10900372
+VIA RUGGERO LEONCAVALLO 9
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[1]
+-
+0.10900372
+VIA AUGUSTO BORGIOLI, 125
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.09506722
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.09506722
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.09506722
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.09506722
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.09506722
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.09506722
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.06586536
+Agenti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.06586536
+Agenti di commercio Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.06453506
+Recensioni Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+__________________
+
+     Scrivi la tua recensione per Gori Emanuele - Prato:
+      
+      
+    
+---
+-
+0.76618
+Recensioni Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.76184607
+
+     Scrivi tu la prima recensione per Gori Emanuele!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.5350926
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.5350926
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.5350926
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.5350926
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.5350926
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.5350926
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.4566114
+Gori Emanuele
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.4566114
+Gori Emanuele
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]/i[1]
+-
+0.4566114
+Gori Emanuele
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.4566114
+Gori Emanuele
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.31440988
+Galleria Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.31440988
+Descrizione Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.2789805
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.2789805
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.2789805
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.2789805
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.2789805
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.2789805
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.2789805
+Prato 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.26824585
+
+     
+      Valutazione
+      
+      
+     
+     
+      Invia recensione
+     
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[2]
+-
+0.2644759
+
+          E-mail a Gori Emanuele✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.2644759
+E-mail a Gori Emanuele
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.26420304
+Ricerche simili Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.24050894
+ Più informazioni su Gori Emanuele
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.23226942
+Aziende simili nelle vicinanze Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.18325004
+ 
+     Gori Emanuele è iscritta nelle categorie:
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]
+-
+0.09928349
+Agenti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.09928349
+Agenti di commercio Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+__________________
+Aziende Simili:
+---
+-
+0.70710677
+Questa è la mia azienda
+/html/body[1]/div[5]/div[2]/div[1]/div[3]/div[1]/div[1]/a[3]
+-
+0.6457918
+Aziende simili nelle vicinanze Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.5192719
+ Visualizza la mappa con le aziende simili nei dintorni
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[7]/a
+-
+0.3629473
+Ricerche simili Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+__________________
+
+    > 
+   Toscana > 
+   Prato > 
+   Prato 
+  
+---
+-
+0.6036621
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.6036621
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.6036621
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.6036621
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.6036621
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.6036621
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.6036621
+Prato 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.31007788
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.31007788
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.31007788
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.31007788
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.31007788
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.31007788
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.21483104
+Agenti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.21483104
+Agenti di commercio Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.21049204
+Recensioni Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.18397173
+Galleria Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.18397173
+Descrizione Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.17714933
+Shopping e acquisti Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a/span
+-
+0.16614133
+Agenti E Rappresentanti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a
+-
+0.15482922
+Ricerche simili Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.15022033
+VIA DELL' ALBERACCIO 2759100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.14902523
+V. A. VIVALDI. 7259100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.13827854
+V. M. CLEMENTI. 1359100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.13622862
+Aziende simili nelle vicinanze Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.13032722
+VIA RUGGERO LEONCAVALLO 959100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.13032722
+VIA AUGUSTO BORGIOLI, 12559100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.12954451
+V. P. MASCAGNI. 7459100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]
+__________________
+Elimina Azienda
+---
+-
+0.59700316
+Questa è la mia azienda
+/html/body[1]/div[5]/div[2]/div[1]/div[3]/div[1]/div[1]/a[3]
+-
+0.2685123
+Aziende simili nelle vicinanze Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.21705654
+ Visualizza la mappa con le aziende simili nei dintorni
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[7]/a
+__________________
+Modifica Dati
+---
+-
+0.46598548
+Dati
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[1]/a[1]
+-
+0.46598548
+Dati
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[1]/a[1]
+-
+0.46598548
+Dati
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[1]/a[1]
+-
+0.46598548
+Dati
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[1]/a[1]
+-
+0.46598548
+Dati
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[1]/a[1]
+-
+0.46598548
+Dati
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[1]/a[1]
+-
+0.13766135
+
+        Presti Ignazio
+        
+         90 m
+        
+        Dati
+       
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[1]
+-
+0.13766135
+
+        Oliva Biagio
+        
+         100 m
+        
+        Dati
+       
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[1]
+-
+0.13766135
+
+        Marchi Marcella
+        
+         230 m
+        
+        Dati
+       
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[1]
+-
+0.13766135
+
+        Pace Natale
+        
+         200 m
+        
+        Dati
+       
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[1]
+-
+0.12365864
+
+        Tecnofibre Di Freda Michele
+        
+         170 m
+        
+        Dati
+       
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[1]
+-
+0.12365864
+
+        Ciatti Piero Luigi
+        
+         210 m
+        
+        Dati
+       
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[1]
+__________________
+ 
+     
+  
+  
+  
+    > 
+   Toscana > 
+   Prato > 
+   Prato 
+   
+   
+    
+    Gori Emanuele - Prato  
+    
+    
+     
+     
+      
+       Gori Emanuele  AGENTI RAPPRESENTANTI COMMERCIO   
+       
+        
+        Via Becherini Giuseppe 113   59100 Prato  (PO) 
+         
+        
+        0574433713  
+         
+       Agenti E Rappresentanti Di Commercio a Prato
+        
+        
+         
+         Modifica Dati 
+          
+         Elimina Azienda 
+         
+        
+        
+       
+      
+     
+     
+     
+     
+      Aziende Simili: 
+       
+      
+      Expo Agency Srl
+       Via Filzi Fabio 0034/a
+       59100 - Prato 
+      
+      
+      Nannicini Marco
+       Via Isola 11/a
+       59011 - Seano 
+      
+      
+      Conti Enrico Filati Srl Commercio Filati Testurizzati
+       Via Pantano 34
+       59013 - Montemurlo 
+      
+      
+      Mazzeigiuridica
+       Via Montalese 483
+       80066 - Fornacella 
+      
+      
+      Leader-tex Rappresentanze
+       Via Danubio 12
+       59100 - Prato 
+      
+     
+     
+     
+     
+    
+     Scrivi la tua recensione per Gori Emanuele - Prato:
+      
+      
+     
+     
+      
+       
+    
+   
+   
+   
+            
+          
+       
+  >   
+
+---
+-
+0.3887174
+Agenti E Rappresentanti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a
+-
+0.35878962
+Agenti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.35878962
+Agenti di commercio Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.3418755
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.3418755
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.3418755
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.3418755
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.3418755
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.3418755
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.32711723
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.32711723
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.32711723
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.32711723
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.32711723
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.32711723
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.32711723
+Prato 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.30190715
+VIA GIUSEPPE BECHERINI 113
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.29628706
+Recensioni Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.26562876
+Agenti E Rappresentanti di commercio, Agenti di commercio, Rappresentanti, Agenti D'affari in Mediazione
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.26348004
+Aziende simili nelle vicinanze Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.2555905
+Agenti di commercio
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a/span
+-
+0.24480751
+VIA DELL' ALBERACCIO 2759100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.21354946
+Ricerche simili Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.2120332
+VIA RUGGERO LEONCAVALLO 959100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.2120332
+VIA AUGUSTO BORGIOLI, 12559100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.20087934
+Galleria Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.20087934
+Descrizione Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.20077406
+Gori Emanuele
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.20077406
+Gori Emanuele
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]/i[1]
+-
+0.20077406
+Gori Emanuele
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+__________________
+ 
+      Leader-tex Rappresentanze
+       Via Danubio 12
+       59100 - Prato 
+     
+---
+-
+0.25364715
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+-
+0.25364715
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[2]
+-
+0.25364715
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+0.25364715
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
+-
+0.25364715
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
+-
+0.25364715
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+0.25364715
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+-
+0.15582699
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.15582699
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.15582699
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.15582699
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.15582699
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.15582699
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.15582699
+Prato 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.14247695
+VIA DELL' ALBERACCIO 2759100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.12340244
+VIA RUGGERO LEONCAVALLO 959100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.12340244
+VIA AUGUSTO BORGIOLI, 12559100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.106844954
+VIA DELL' ALBERACCIO 27
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[1]
+-
+0.0917762
+VIA RUGGERO LEONCAVALLO 9
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[1]
+-
+0.0917762
+VIA AUGUSTO BORGIOLI, 125
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.08502531
+VIA GIUSEPPE BECHERINI 113
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.0800423
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.0800423
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.0800423
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.0800423
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.0800423
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.0800423
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.055455655
+Agenti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.055455655
+Agenti di commercio Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.0543356
+Recensioni Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+__________________
+ 
+      Expo Agency Srl
+       Via Filzi Fabio 0034/a
+       59100 - Prato 
+     
+---
+-
+0.23455614
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+-
+0.23455614
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[2]
+-
+0.23455614
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+0.23455614
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
+-
+0.23455614
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
+-
+0.23455614
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+0.23455614
+59100
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+-
+0.1440985
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.1440985
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.1440985
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.1440985
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.1440985
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.1440985
+Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.1440985
+Prato 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.13175328
+VIA DELL' ALBERACCIO 2759100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.114114426
+VIA RUGGERO LEONCAVALLO 959100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.114114426
+VIA AUGUSTO BORGIOLI, 12559100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.098803155
+VIA DELL' ALBERACCIO 27
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[1]
+-
+0.08486857
+VIA RUGGERO LEONCAVALLO 9
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[1]
+-
+0.08486857
+VIA AUGUSTO BORGIOLI, 125
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.07862579
+VIA GIUSEPPE BECHERINI 113
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.07401783
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.07401783
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.07401783
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.07401783
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.07401783
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.07401783
+Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.051281724
+Agenti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.051281724
+Agenti di commercio Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.050245974
+Recensioni Gori Emanuele, Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+__________________
+Conti Enrico Filati Srl Commercio Filati Testurizzati
+---
+-
+0.1587989
+Agenti di commercio
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a/span
+-
+0.14760838
+Agenti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.14760838
+Agenti di commercio Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.1132966
+Agenti E Rappresentanti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a
+-
+0.09178271
+Agenti E Rappresentanti di commercio, Agenti di commercio, Rappresentanti, Agenti D'affari in Mediazione
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+__________________
+ 
+      Conti Enrico Filati Srl Commercio Filati Testurizzati
+       Via Pantano 34
+       59013 - Montemurlo 
+     
+---
+-
+0.12886916
+Agenti di commercio
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a/span
+-
+0.11978778
+Agenti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.11978778
+Agenti di commercio Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.09194295
+Agenti E Rappresentanti di commercio in Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a
+-
+0.07448391
+Agenti E Rappresentanti di commercio, Agenti di commercio, Rappresentanti, Agenti D'affari in Mediazione
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.07247862
+VIA DELL' ALBERACCIO 27
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[1]
+-
+0.07009133
+VIA DELL' ALBERACCIO 2759100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.062256686
+VIA RUGGERO LEONCAVALLO 9
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[1]
+-
+0.062256686
+VIA AUGUSTO BORGIOLI, 125
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.060724042
+VIA RUGGERO LEONCAVALLO 959100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.060724042
+VIA AUGUSTO BORGIOLI, 12559100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.057677194
+VIA GIUSEPPE BECHERINI 113
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+__________________
+ 
+      Mazzeigiuridica
+       Via Montalese 483
+       80066 - Fornacella 
+     
+---
+-
+0.111919045
+VIA DELL' ALBERACCIO 27
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[1]
+-
+0.10823267
+VIA DELL' ALBERACCIO 2759100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.096134685
+VIA RUGGERO LEONCAVALLO 9
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[1]
+-
+0.096134685
+VIA AUGUSTO BORGIOLI, 125
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.09376802
+VIA RUGGERO LEONCAVALLO 959100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.09376802
+VIA AUGUSTO BORGIOLI, 12559100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.08906318
+VIA GIUSEPPE BECHERINI 113
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+__________________
+ 
+      Nannicini Marco
+       Via Isola 11/a
+       59011 - Seano 
+     
+---
+-
+0.102774024
+VIA DELL' ALBERACCIO 27
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[1]
+-
+0.09938887
+VIA DELL' ALBERACCIO 2759100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.08827942
+VIA RUGGERO LEONCAVALLO 9
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[1]
+-
+0.08827942
+VIA AUGUSTO BORGIOLI, 125
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.086106144
+VIA RUGGERO LEONCAVALLO 959100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.086106144
+VIA AUGUSTO BORGIOLI, 12559100  Prato
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.08178574
+VIA GIUSEPPE BECHERINI 113
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+__________________

@@ -1,0 +1,568 @@
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/p[1]/span[1]
+ABSTRACT
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]
+
+          The hormone abscisic acid (ABA) is a small molecule involved in pivotal physiological functions in higher plants. Recently, ABA has been also identified as an endogenous hormone in mammals, regulating different cell f...The hormone abscisic acid (ABA) is a small molecule involved in pivotal physiological functions in higher plants. Recently, ABA has been also identified as an endogenous hormone in mammals, regulating different cell functions including inflammatory processes, stem cell expansion, insulin release, and glucose uptake. Aptamers are short, single-stranded (ss) oligonucleotidesable to recognize target molecules with high affinity. The small size of the ABA molecule represented a challenge for aptamer development and the aim of this study was to develop specific anti-ABA DNA aptamers. Biotinylated abscisic acid (bio-ABA) was immobilized on streptavidin-coated magnetic beads. DNA aptamers against bio-ABA were selected with 7 iterative rounds of the systematic evolution of ligands by exponential enrichment method (SELEX), each round comprising incubation of the ABA-binding beads with the ssDNA sequences, DNA elution, electrophoresis, and polymerase chain reaction (PCR) amplification. The PCR product was cloned and sequenced. The binding affinity of several clones was determined using bio-ABA immobilized on streptavidin-coated plates. Aptamer 2 and aptamer 9 showed the highest binding affinity, with dissociation constants values of 0.98 ± 0.14 μM and 0.80 ± 0.07 μM, respectively. Aptamers 2 and 9 were also able to bind free, unmodified ABA and to discriminate between different ABA enantiomers and isomers. Our findings indicate that ssDNA aptamers can selectively bind ABA and could be used for the development of ABA quantitation assays.
+           Kinetics, , Escherichia coli, cyclic AMP, Polymerase Chain Reaction, and 9 more
+          2013
+          Nucleic Acid Therapeutics
+         
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[11]/div[1]/div[2]/p[1]
+Transgenic mice for genotoxicity testing have been developed, although no such models have been produced for the evaluation of toxic, nongenotoxic chemical compounds. We have developed a transgenic mouse model for the...Transgenic mice for genotoxicity testing have been developed, although no such models have been produced for the evaluation of toxic, nongenotoxic chemical compounds. We have developed a transgenic mouse model for the analysis of toxic inorganic compounds. We engineered a mouse lineage with the human growth hormone (hGH) gene under the control of the human hsp70 promoter, in which a plasma-detectable hGH response can be elicited by exposure to heat shock. In primary cell cultures from these mice, hGH release was observed following treatment with several toxic inorganics. Transgenic mice injected intraperitoneally with sodium arsenite, cadmium chloride, copper sulphate, or methylmercurium chloride showed significant hGH levels in plasma.
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]/div[2]/p[1]/a[2]
+Fluorescent Dyes and Reagents
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]/div[1]/a[1]
+Inhibition of a protein-protein interaction between INI1 and c-Myc by small peptidomimetic molecules inspired by Helix-1 of c-Myc: identification of a new target of potential antineoplastic interest
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]
+
+        
+        with 
+        
+        
+        with 
+       
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]
+
+          Mice transgenic for the activated rat neu oncogene under the control of the mouse mammary tumor virus long terminal repeat (MMTV-LTR) (neu+ mice), develop breast tumors in 100% of cases. We have previously reported th...Mice transgenic for the activated rat neu oncogene under the control of the mouse mammary tumor virus long terminal repeat (MMTV-LTR) (neu+ mice), develop breast tumors in 100% of cases. We have previously reported that double transgenic mice obtained from crossing neu+ mice with mice transgenic for the herpes simplex virus thymidine kinase (HSVtk) gene can be used as a suitable model to test the &#39;suicide gene&#39; strategy for mammary tumor gene therapy in vivo. In the present study, we evaluated the efficacy of the HSVtk/ganciclovir (GCV) system in the neu+ mice by inoculating cells producing a retroviral vector bearing the HSVtk gene in the mammary tumors on one side of the animals, and comparing their weight with that of the contralateral tumors, after systemic GCV administration. A statistically significant effect of this therapy was clearly seen (P &lt; 0.001) but complete eradication of the tumors could not be achieved. This was not due to the inefficient delivery of GCV,...
+           Gene Therapy, Biological Sciences, Cell line, , Mice, and 7 more
+          1996
+          Gene therapy
+         
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]
+Signaling proteins as innovative targets for antineoplastic therapy: our experience with the signaling protein c-myc
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[8]/div[1]/div[1]/a[1]
+Internalization via Antennapedia protein transduction domain of an scFv antibody toward c-Myc protein
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[9]/div[1]/div[2]
+
+          Proteins, although structurally unsuitable for their own replication, are the structures that translate an abstract DNA sequence into real action, making possible catalysis, signaling and supramolecular morphologies. ...Proteins, although structurally unsuitable for their own replication, are the structures that translate an abstract DNA sequence into real action, making possible catalysis, signaling and supramolecular morphologies. Protein targets have most often been recognized by starting from ...
+           Biological Sciences
+          2001
+          Nature Genetics
+         
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[7]/div[1]/div[2]/p[1]/a[2]
+Fluorescent Dyes and Reagents
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/p[1]
+By Luca Bagnasco and A. Grozio
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]/p[1]/span[1]
+ABSTRACT
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]
+
+        
+         Email:
+        
+        
+         Password:
+        
+        
+         Remember me on this computer
+        
+        
+        
+        
+         
+         
+          Enter the email address you signed up with and we'll email you a reset link.
+          
+         
+        
+       
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[9]/div[1]/div[2]/p[1]
+Proteins, although structurally unsuitable for their own replication, are the structures that translate an abstract DNA sequence into real action, making possible catalysis, signaling and supramolecular morphologies. ...Proteins, although structurally unsuitable for their own replication, are the structures that translate an abstract DNA sequence into real action, making possible catalysis, signaling and supramolecular morphologies. Protein targets have most often been recognized by starting from ...
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/p[1]
+By Luca Bagnasco and A. Grozio
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]
+Signaling proteins as innovative targets for antineoplastic therapy: our experience with the signaling protein c-myc
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/p[2]/a[1]
+Cell Growth
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/a[1]
+Inhibition of Cancer Cell Growth and c-Myc Transcriptional Activity by a c-Myc Helix 1Type Peptide Fused to an Internali/ation Sequence1
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]
+
+         
+          Signaling proteins as innovative targets for antineoplastic therapy: our experience with the signaling protein c-myc
+         
+         By Luca Bagnasco and S. Pasa
+         
+           Signal Transduction, , Animals, Monoclonal Antibodies, Proteins, and 3 more
+          Tumori
+         
+         
+         
+          
+          
+          
+          
+          
+           
+            
+             
+             
+            
+           
+          
+           
+            
+             
+             
+            
+           
+          
+         
+        
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]/div[1]/a[1]
+Inhibition of a protein-protein interaction between INI1 and c-Myc by small peptidomimetic molecules inspired by Helix-1 of c-Myc: identification of a new target of potential antineoplastic interest
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[10]/div[1]/div[1]/a[1]
+Innovative leads for antineoplastic drugs suggested by a more intimate familiarity with structural motifs of oncoproteins
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[9]/div[1]/p[1]
+By Enrico Millo and Luca Bagnasco
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[6]/div[1]
+
+         
+          Inhibition of a protein-protein interaction between INI1 and c-Myc by small peptidomimetic molecules inspired by Helix-1 of c-Myc: identification of a new target of potential antineoplastic interest
+         
+         By Luca Bagnasco and Nicoletta Castagnino
+         
+           Biochemistry, Physiology, Kinetics, Fluorescence Microscopy, Transcription Factors, and 14 more
+          2007
+          The FASEB Journal
+         
+         
+         
+          
+          
+          
+          
+          
+          
+           
+            
+             
+             
+            
+           
+          
+           
+            
+             
+             
+            
+           
+          
+         
+        
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/span[4]/div[1]/a[1]
+  Microarray Data Analysis
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[7]/div[1]/div[2]
+
+           Physiology, Fluorescent Dyes and Reagents, Magnetic Resonance Spectroscopy, Apoptosis, Cell Division, and 15 more
+          2005
+          The FASEB Journal
+         
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[1]/a[1]
+A retro-inverso peptide homologous to helix 1 of c-Myc is a potent and specific inhibitor of proliferation in different cellular systems
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]
+
+          
+             
+           
+           
+          
+          
+           
+              
+            University of Genova, 
+            DinoGmi, 
+            Post-Doc
+           
+          University of Genova, DinoGmi, Post-Doc
+          
+          
+           
+              Microarray Data Analysis
+           
+           
+            
+           
+         
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[1]/a[1]
+Inhibition of Cancer Cell Growth and c-Myc Transcriptional Activity by a c-Myc Helix 1Type Peptide Fused to an Internali/ation Sequence1
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[7]/div[1]/div[1]/a[1]
+Sequence specific peptidomimetic molecules inhibitors of a protein-protein interaction at the helix 1 level of c-Myc
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[11]/div[1]/div[2]
+
+          Transgenic mice for genotoxicity testing have been developed, although no such models have been produced for the evaluation of toxic, nongenotoxic chemical compounds. We have developed a transgenic mouse model for the...Transgenic mice for genotoxicity testing have been developed, although no such models have been produced for the evaluation of toxic, nongenotoxic chemical compounds. We have developed a transgenic mouse model for the analysis of toxic inorganic compounds. We engineered a mouse lineage with the human growth hormone (hGH) gene under the control of the human hsp70 promoter, in which a plasma-detectable hGH response can be elicited by exposure to heat shock. In primary cell cultures from these mice, hGH release was observed following treatment with several toxic inorganics. Transgenic mice injected intraperitoneally with sodium arsenite, cadmium chloride, copper sulphate, or methylmercurium chloride showed significant hGH levels in plasma.
+           Multidisciplinary, , Human Growth Hormone, Liver, Mice, and 7 more
+          1997
+          Nature Biotechnology
+         
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[1]/a[1]
+A retro-inverso peptide homologous to helix 1 of c-Myc is a potent and specific inhibitor of proliferation in different cellular systems
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[10]/div[1]/div[2]
+
+          Transgenic mice for genotoxicity testing have been developed, although no such models have been produced for the evaluation of toxic, nongenotoxic chemical compounds. We have developed a transgenic mouse model for the...Transgenic mice for genotoxicity testing have been developed, although no such models have been produced for the evaluation of toxic, nongenotoxic chemical compounds. We have developed a transgenic mouse model for the analysis of toxic inorganic compounds. We engineered a mouse lineage with the human growth hormone (hGH) gene under the control of the human hsp70 promoter, in which a plasma-detectable hGH response can be elicited by exposure to heat shock. In primary cell cultures from these mice, hGH release was observed following treatment with several toxic inorganics. Transgenic mice injected intraperitoneally with sodium arsenite, cadmium chloride, copper sulphate, or methylmercurium chloride showed significant hGH levels in plasma.
+           Multidisciplinary, , Human Growth Hormone, Liver, Mice, and 7 more
+          1997
+          Nature Biotechnology
+         
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]
+
+        
+         Luca Bagnasco
+        
+        
+         
+          
+             
+           
+           
+          
+          
+           
+              
+            University of Genova, 
+            DinoGmi, 
+            Post-Doc
+           
+          University of Genova, DinoGmi, Post-Doc
+          
+          
+           
+              Microarray Data Analysis
+           
+           
+            
+           
+         
+        
+        
+         19 Followers
+         
+         15 Following
+         
+         15 Co-authors
+         
+         
+         
+        
+        
+         
+            
+         
+          
+         
+        
+       
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]
+
+         
+          Sequence specific peptidomimetic molecules inhibitors of a protein-protein interaction at the helix 1 level of c-Myc
+         
+         By Luca Bagnasco, Cristina D'Arrigo, and S. Pasa
+         
+           Physiology, Fluorescent Dyes and Reagents, Magnetic Resonance Spectroscopy, Apoptosis, Cell Division, and 15 more
+          2005
+          The FASEB Journal
+         
+         
+         
+          
+          
+          
+          
+          
+          
+           
+            
+             
+             
+            
+           
+          
+           
+            
+             
+             
+            
+           
+          
+         
+        
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]/div[2]
+
+           Physiology, Fluorescent Dyes and Reagents, Magnetic Resonance Spectroscopy, Apoptosis, Cell Division, and 15 more
+          2005
+          The FASEB Journal
+         
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]/ul[1]/li[1]
+Luca Bagnasco
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[10]/div[1]/div[1]/a[1]
+A transgenic mouse model for the detection of cellular stress induced by toxic inorganic compounds
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[1]/a[1]
+Selection and Characterization of Single Stranded DNA Aptamers for the Hormone Abscisic Acid
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[10]/div[1]/div[2]/p[1]
+Transgenic mice for genotoxicity testing have been developed, although no such models have been produced for the evaluation of toxic, nongenotoxic chemical compounds. We have developed a transgenic mouse model for the...Transgenic mice for genotoxicity testing have been developed, although no such models have been produced for the evaluation of toxic, nongenotoxic chemical compounds. We have developed a transgenic mouse model for the analysis of toxic inorganic compounds. We engineered a mouse lineage with the human growth hormone (hGH) gene under the control of the human hsp70 promoter, in which a plasma-detectable hGH response can be elicited by exposure to heat shock. In primary cell cultures from these mice, hGH release was observed following treatment with several toxic inorganics. Transgenic mice injected intraperitoneally with sodium arsenite, cadmium chloride, copper sulphate, or methylmercurium chloride showed significant hGH levels in plasma.
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[5]/div[1]/div[2]
+
+           Physiology, Transcription Factors, Cell Division, Cell line, , and 11 more
+          2000
+          The FASEB Journal
+         
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[3]/div[1]/div[2]/p[3]
+2000
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[7]/div[1]
+
+         
+          Inhibition of a protein-protein interaction between INI1 and c-Myc by small peptidomimetic molecules inspired by Helix-1 of c-Myc: identification of a new target of potential antineoplastic interest
+         
+         By Luca Bagnasco and Nicoletta Castagnino
+         
+           Biochemistry, Physiology, Kinetics, Fluorescence Microscopy, Transcription Factors, and 14 more
+          2007
+          The FASEB Journal
+         
+         
+         
+          
+          
+          
+          
+          
+          
+           
+            
+             
+             
+            
+           
+          
+           
+            
+             
+             
+            
+           
+          
+         
+        
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[10]/div[1]/div[2]/p[2]/a[1]
+Biological Sciences
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[10]/div[1]/p[1]
+By Enrico Millo and Luca Bagnasco
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[6]/div[1]/div[2]
+
+           Physiology, Transcription Factors, Cell Division, Cell line, , and 11 more
+          2000
+          The FASEB Journal
+         
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]/p[1]
+Mice transgenic for the activated rat neu oncogene under the control of the mouse mammary tumor virus long terminal repeat (MMTV-LTR) (neu+ mice), develop breast tumors in 100% of cases. We have previously reported th...Mice transgenic for the activated rat neu oncogene under the control of the mouse mammary tumor virus long terminal repeat (MMTV-LTR) (neu+ mice), develop breast tumors in 100% of cases. We have previously reported that double transgenic mice obtained from crossing neu+ mice with mice transgenic for the herpes simplex virus thymidine kinase (HSVtk) gene can be used as a suitable model to test the &#39;suicide gene&#39; strategy for mammary tumor gene therapy in vivo. In the present study, we evaluated the efficacy of the HSVtk/ganciclovir (GCV) system in the neu+ mice by inoculating cells producing a retroviral vector bearing the HSVtk gene in the mammary tumors on one side of the animals, and comparing their weight with that of the contralateral tumors, after systemic GCV administration. A statistically significant effect of this therapy was clearly seen (P &lt; 0.001) but complete eradication of the tumors could not be achieved. This was not due to the inefficient delivery of GCV,...
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[8]/div[1]/div[1]/a[1]
+Sequence specific peptidomimetic molecules inhibitors of a protein-protein interaction at the helix 1 level of c-Myc
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[9]/div[1]/div[1]/a[1]
+Internalization via Antennapedia protein transduction domain of an scFv antibody toward c-Myc protein
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/small[1]
+Remember me on this computer
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[2]
+
+          Mice transgenic for the activated rat neu oncogene under the control of the mouse mammary tumor virus long terminal repeat (MMTV-LTR) (neu+ mice), develop breast tumors in 100% of cases. We have previously reported th...Mice transgenic for the activated rat neu oncogene under the control of the mouse mammary tumor virus long terminal repeat (MMTV-LTR) (neu+ mice), develop breast tumors in 100% of cases. We have previously reported that double transgenic mice obtained from crossing neu+ mice with mice transgenic for the herpes simplex virus thymidine kinase (HSVtk) gene can be used as a suitable model to test the &#39;suicide gene&#39; strategy for mammary tumor gene therapy in vivo. In the present study, we evaluated the efficacy of the HSVtk/ganciclovir (GCV) system in the neu+ mice by inoculating cells producing a retroviral vector bearing the HSVtk gene in the mammary tumors on one side of the animals, and comparing their weight with that of the contralateral tumors, after systemic GCV administration. A statistically significant effect of this therapy was clearly seen (P &lt; 0.001) but complete eradication of the tumors could not be achieved. This was not due to the inefficient delivery of GCV,...
+           Gene Therapy, Biological Sciences, Cell line, , Mice, and 7 more
+          1996
+          Gene therapy
+         
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[11]/div[1]/div[1]/a[1]
+A transgenic mouse model for the detection of cellular stress induced by toxic inorganic compounds
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[1]/a[1]
+Selection and Characterization of Single Stranded DNA Aptamers for the Hormone Abscisic Acid
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/div[1]/a[1]
+Partial regression, yet incomplete eradication of mammary tumors in transgenic mice by retrovirally mediated HSVtk transfer 'in vivo
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[9]/div[1]/div[1]/a[1]
+Innovative leads for antineoplastic drugs suggested by a more intimate familiarity with structural motifs of oncoproteins
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[10]/div[1]/div[2]
+
+          Proteins, although structurally unsuitable for their own replication, are the structures that translate an abstract DNA sequence into real action, making possible catalysis, signaling and supramolecular morphologies. ...Proteins, although structurally unsuitable for their own replication, are the structures that translate an abstract DNA sequence into real action, making possible catalysis, signaling and supramolecular morphologies. Protein targets have most often been recognized by starting from ...
+           Biological Sciences
+          2001
+          Nature Genetics
+         
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[9]/div[1]/div[2]/p[2]/a[1]
+Biological Sciences
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]/p[3]
+2000
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[10]/div[1]/div[2]/p[1]
+Proteins, although structurally unsuitable for their own replication, are the structures that translate an abstract DNA sequence into real action, making possible catalysis, signaling and supramolecular morphologies. ...Proteins, although structurally unsuitable for their own replication, are the structures that translate an abstract DNA sequence into real action, making possible catalysis, signaling and supramolecular morphologies. Protein targets have most often been recognized by starting from ...
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/a[1]
+Partial regression, yet incomplete eradication of mammary tumors in transgenic mice by retrovirally mediated HSVtk transfer 'in vivo
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[7]/div[1]
+
+         
+          Sequence specific peptidomimetic molecules inhibitors of a protein-protein interaction at the helix 1 level of c-Myc
+         
+         By Luca Bagnasco, Cristina D'Arrigo, and S. Pasa
+         
+           Physiology, Fluorescent Dyes and Reagents, Magnetic Resonance Spectroscopy, Apoptosis, Cell Division, and 15 more
+          2005
+          The FASEB Journal
+         
+         
+         
+          
+          
+          
+          
+          
+          
+           
+            
+             
+             
+            
+           
+          
+           
+            
+             
+             
+            
+           
+          
+         
+        
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]
+
+         
+          Signaling proteins as innovative targets for antineoplastic therapy: our experience with the signaling protein c-myc
+         
+         By Luca Bagnasco and S. Pasa
+         
+           Signal Transduction, , Animals, Monoclonal Antibodies, Proteins, and 3 more
+          Tumori
+         
+         
+         
+          
+          
+          
+          
+          
+           
+            
+             
+             
+            
+           
+          
+           
+            
+             
+             
+            
+           
+          
+         
+        
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/p[1]
+Enter the email address you signed up with and we'll email you a reset link.
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[4]/div[1]/div[2]/p[1]
+The hormone abscisic acid (ABA) is a small molecule involved in pivotal physiological functions in higher plants. Recently, ABA has been also identified as an endogenous hormone in mammals, regulating different cell f...The hormone abscisic acid (ABA) is a small molecule involved in pivotal physiological functions in higher plants. Recently, ABA has been also identified as an endogenous hormone in mammals, regulating different cell functions including inflammatory processes, stem cell expansion, insulin release, and glucose uptake. Aptamers are short, single-stranded (ss) oligonucleotidesable to recognize target molecules with high affinity. The small size of the ABA molecule represented a challenge for aptamer development and the aim of this study was to develop specific anti-ABA DNA aptamers. Biotinylated abscisic acid (bio-ABA) was immobilized on streptavidin-coated magnetic beads. DNA aptamers against bio-ABA were selected with 7 iterative rounds of the systematic evolution of ligands by exponential enrichment method (SELEX), each round comprising incubation of the ABA-binding beads with the ssDNA sequences, DNA elution, electrophoresis, and polymerase chain reaction (PCR) amplification. The PCR product was cloned and sequenced. The binding affinity of several clones was determined using bio-ABA immobilized on streptavidin-coated plates. Aptamer 2 and aptamer 9 showed the highest binding affinity, with dissociation constants values of 0.98 ± 0.14 μM and 0.80 ± 0.07 μM, respectively. Aptamers 2 and 9 were also able to bind free, unmodified ABA and to discriminate between different ABA enantiomers and isomers. Our findings indicate that ssDNA aptamers can selectively bind ABA and could be used for the development of ABA quantitation assays.
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]/p[2]/a[1]
+Cell Growth
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[9]/div[1]/div[2]
+
+           Physiology, Confocal Microscopy, , Monoclonal Antibodies, Medical Physiology, and 3 more
+          2007
+          The FASEB Journal
+         
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]/p[1]
+The hormone abscisic acid (ABA) is a small molecule involved in pivotal physiological functions in higher plants. Recently, ABA has been also identified as an endogenous hormone in mammals, regulating different cell f...The hormone abscisic acid (ABA) is a small molecule involved in pivotal physiological functions in higher plants. Recently, ABA has been also identified as an endogenous hormone in mammals, regulating different cell functions including inflammatory processes, stem cell expansion, insulin release, and glucose uptake. Aptamers are short, single-stranded (ss) oligonucleotidesable to recognize target molecules with high affinity. The small size of the ABA molecule represented a challenge for aptamer development and the aim of this study was to develop specific anti-ABA DNA aptamers. Biotinylated abscisic acid (bio-ABA) was immobilized on streptavidin-coated magnetic beads. DNA aptamers against bio-ABA were selected with 7 iterative rounds of the systematic evolution of ligands by exponential enrichment method (SELEX), each round comprising incubation of the ABA-binding beads with the ssDNA sequences, DNA elution, electrophoresis, and polymerase chain reaction (PCR) amplification. The PCR product was cloned and sequenced. The binding affinity of several clones was determined using bio-ABA immobilized on streptavidin-coated plates. Aptamer 2 and aptamer 9 showed the highest binding affinity, with dissociation constants values of 0.98 ± 0.14 μM and 0.80 ± 0.07 μM, respectively. Aptamers 2 and 9 were also able to bind free, unmodified ABA and to discriminate between different ABA enantiomers and isomers. Our findings indicate that ssDNA aptamers can selectively bind ABA and could be used for the development of ABA quantitation assays.
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[5]/div[1]/div[2]
+
+          The hormone abscisic acid (ABA) is a small molecule involved in pivotal physiological functions in higher plants. Recently, ABA has been also identified as an endogenous hormone in mammals, regulating different cell f...The hormone abscisic acid (ABA) is a small molecule involved in pivotal physiological functions in higher plants. Recently, ABA has been also identified as an endogenous hormone in mammals, regulating different cell functions including inflammatory processes, stem cell expansion, insulin release, and glucose uptake. Aptamers are short, single-stranded (ss) oligonucleotidesable to recognize target molecules with high affinity. The small size of the ABA molecule represented a challenge for aptamer development and the aim of this study was to develop specific anti-ABA DNA aptamers. Biotinylated abscisic acid (bio-ABA) was immobilized on streptavidin-coated magnetic beads. DNA aptamers against bio-ABA were selected with 7 iterative rounds of the systematic evolution of ligands by exponential enrichment method (SELEX), each round comprising incubation of the ABA-binding beads with the ssDNA sequences, DNA elution, electrophoresis, and polymerase chain reaction (PCR) amplification. The PCR product was cloned and sequenced. The binding affinity of several clones was determined using bio-ABA immobilized on streptavidin-coated plates. Aptamer 2 and aptamer 9 showed the highest binding affinity, with dissociation constants values of 0.98 ± 0.14 μM and 0.80 ± 0.07 μM, respectively. Aptamers 2 and 9 were also able to bind free, unmodified ABA and to discriminate between different ABA enantiomers and isomers. Our findings indicate that ssDNA aptamers can selectively bind ABA and could be used for the development of ABA quantitation assays.
+           Kinetics, , Escherichia coli, cyclic AMP, Polymerase Chain Reaction, and 9 more
+          2013
+          Nucleic Acid Therapeutics
+         
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[2]/div[1]/div[1]/div[1]/div[1]
+
+      ×
+      Close
+      
+     
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/p[1]
+Mice transgenic for the activated rat neu oncogene under the control of the mouse mammary tumor virus long terminal repeat (MMTV-LTR) (neu+ mice), develop breast tumors in 100% of cases. We have previously reported th...Mice transgenic for the activated rat neu oncogene under the control of the mouse mammary tumor virus long terminal repeat (MMTV-LTR) (neu+ mice), develop breast tumors in 100% of cases. We have previously reported that double transgenic mice obtained from crossing neu+ mice with mice transgenic for the herpes simplex virus thymidine kinase (HSVtk) gene can be used as a suitable model to test the &#39;suicide gene&#39; strategy for mammary tumor gene therapy in vivo. In the present study, we evaluated the efficacy of the HSVtk/ganciclovir (GCV) system in the neu+ mice by inoculating cells producing a retroviral vector bearing the HSVtk gene in the mammary tumors on one side of the animals, and comparing their weight with that of the contralateral tumors, after systemic GCV administration. A statistically significant effect of this therapy was clearly seen (P &lt; 0.001) but complete eradication of the tumors could not be achieved. This was not due to the inefficient delivery of GCV,...
+________________________________________________________________________
+//html[1]/body[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[8]/div[1]/div[2]
+
+           Physiology, Confocal Microscopy, , Monoclonal Antibodies, Medical Physiology, and 3 more
+          2007
+          The FASEB Journal
+         
+________________________________________________________________________

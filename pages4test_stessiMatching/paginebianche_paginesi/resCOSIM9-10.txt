@@ -1,0 +1,231 @@
+VILLANI DANIELA
+---
+-
+1.0
+ VILLANI DANIELA
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]
+-
+0.7566168
+Scrivi a Villani Daniela
+/html/body[1]/div[3]/div[4]/div[1]/div[3]/div[1]/div[1]/h3[1]
+-
+0.5166777
+ 
+      Scrivi a Villani Daniela    
+       
+       
+       
+       Invia richiesta  
+     
+/html/body[1]/div[3]/div[4]/div[1]/div[3]/div[1]/div[1]
+-
+0.34661624
+ villani ragioniere commercialista
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[12]
+__________________
+Villani Daniela
+---
+-
+1.0
+ VILLANI DANIELA
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]
+-
+0.7566168
+Scrivi a Villani Daniela
+/html/body[1]/div[3]/div[4]/div[1]/div[3]/div[1]/div[1]/h3[1]
+-
+0.5166777
+ 
+      Scrivi a Villani Daniela    
+       
+       
+       
+       Invia richiesta  
+     
+/html/body[1]/div[3]/div[4]/div[1]/div[3]/div[1]/div[1]
+-
+0.34661624
+ villani ragioniere commercialista
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[12]
+__________________
+09033
+---
+-
+1.0
+09033
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[2]
+-
+0.35525903
+V. Vico I Parrocchia, 22 - 09033 Decimomannu (Cagliari)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]
+__________________
+Vicolo I I Parrocchia 22 - 09033 Decimomannu (CA)
+---
+-
+0.55052686
+V. Vico I Parrocchia, 22 - 09033 Decimomannu (Cagliari)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]
+-
+0.37151363
+09033
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[2]
+-
+0.3532362
+V. Vico I Parrocchia, 22
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[1]
+-
+0.27227968
+Decimomannu (Cagliari)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[3]/strong
+__________________
+Vicolo I I Parrocchia 22
+---
+-
+0.49955148
+V. Vico I Parrocchia, 22
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[1]
+-
+0.37841052
+V. Vico I Parrocchia, 22 - 09033 Decimomannu (Cagliari)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]
+__________________
+Lo studio di Villani Daniela si trova a Decimomannu in provincia di Cagliari, dove riceve su appuntamento. Lo studio di Villani Daniela si occupa di consulenza fiscale, societaria, amministrativa, aziendale e contrattualistica.
+---
+-
+0.4680094
+ VILLANI DANIELA
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]
+-
+0.35410374
+Scrivi a Villani Daniela
+/html/body[1]/div[3]/div[4]/div[1]/div[3]/div[1]/div[1]/h3[1]
+-
+0.24376637
+Decimomannu (Cagliari)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[3]/strong
+-
+0.242246
+ consulenza societaria
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[6]
+-
+0.242246
+ consulenza fiscale
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[5]
+-
+0.242246
+ consulenza amministrativa
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[4]
+-
+0.24181001
+ 
+      Scrivi a Villani Daniela    
+       
+       
+       
+       Invia richiesta  
+     
+/html/body[1]/div[3]/div[4]/div[1]/div[3]/div[1]/div[1]
+-
+0.16221966
+ villani ragioniere commercialista
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[12]
+-
+0.1602802
+Cagliari
+/html/body[1]/div[3]/div[3]/a[1]/h1[1]
+-
+0.1602802
+
+       Cagliari 
+     
+/html/body[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]
+-
+0.11567308
+V. Vico I Parrocchia, 22 - 09033 Decimomannu (Cagliari)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]
+-
+0.11341142
+Cambia Provincia
+/html/body[1]/div[3]/div[3]/a[1]/span[1]
+-
+0.11341142
+   CagliariCambia Provincia 
+/html/body[1]/div[3]/div[3]/a[1]
+-
+0.073432
+ consulenza contrattuale
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[7]
+-
+0.073432
+ consulenza contabile
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[9]
+-
+0.073432
+ consulenze contabili
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[2]
+-
+0.073432
+ consulenze contrattuali
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[10]
+-
+0.0660549
+ consulenza contabille
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[8]
+__________________
+Decimomannu (CA)
+---
+-
+0.45255813
+Decimomannu (Cagliari)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[3]/strong
+-
+0.21937089
+V. Vico I Parrocchia, 22 - 09033 Decimomannu (Cagliari)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]
+__________________
+Ragionieri - studi
+---
+-
+0.43663532
+ragioniere commercialista
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]
+-
+0.3650218
+ villani ragioniere commercialista
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[12]
+__________________
+070 961814
+---
+-
+0.42763907
+070 96.18.14
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[2]/span[1]/a
+__________________
+fax: 070 961814
+---
+-
+0.3410368
+070 96.18.14
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[2]/span[1]/a
+__________________
+tel: 070 961814
+---
+-
+0.3410368
+070 96.18.14
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[2]/span[1]/a
+__________________
+
+              tel:
+              
+               070 961814
+               370 1324726
+              
+              
+             
+---
+-
+0.25943342
+070 96.18.14
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[2]/span[1]/a
+__________________

@@ -1,0 +1,12 @@
+Valutiamo l'entry: 
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Calculation of averages
+avg precision: 1.0
+avg recall: 0.0
+Calculation of Precision and Recall based on matching
+R vuoto
+Matchings precision: tp (0) / R (0) = 1.0
+Matching recall: tp (0) / GT (0) = 0.0

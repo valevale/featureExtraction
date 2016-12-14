@@ -1,0 +1,528 @@
+Bagnasco Luca
+---
+-
+1.0
+
+             Bagnasco Luca 
+            
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[3]/td[1]/div[1]
+-
+0.7012106
+ Bagnasco Luca - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.7012106
+ Bagnasco Luca - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.6168106
+ Bagnasco Luca - Corso Brigate Partigiane, 18 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.6067688
+ Bagnasco Luca - Genova 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.6067688
+ Bagnasco Luca - Genova 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/a[1]
+-
+0.5512981
+ Bagnasco Luca - Volpiano 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/a[1]
+-
+0.5512981
+ Bagnasco Luca - Trinita' 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.5512981
+Altri Bagnasco Luca 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/p[1]
+-
+0.48090202
+Immagini Bagnasco Luca Cairo Montenotte
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[3]/tbody[1]/tr[1]/td[1]/p[1]
+-
+0.42331588
+Risultati ricerca Bagnasco Luca 
+//html[1]/body[1]/table[1]/tbody[1]/tr[9]/td[1]/p[1]
+-
+0.40846163
+ Bagnasco & Bagnasco Srl - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
+-
+0.32300955
+Tutti Bagnasco di Cairo Montenotte
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
+-
+0.21728708
+ Bagnasco Ezio - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.19976304
+ Bagnasco Egle - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.19976304
+ Bagnasco Franco - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.1651705
+ Bagnasco Dr. Ezio - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
+-
+0.15706855
+ Bagnasco Pongibove Giuseppina - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.14125207
+ Studio Tecnico Bagnasco Ing.Paolo - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.13361983
+ Bagnasco Prof. Emanuele Guglielmo - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+__________________
+Cairo Montenotte
+---
+-
+0.84189475
+Tutti Bagnasco di Cairo Montenotte
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
+-
+0.69334054
+ Bagnasco Luca - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.69334054
+ Bagnasco Luca - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.5623705
+ Bagnasco Ezio - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.5242185
+ Bagnasco & Bagnasco Srl - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
+-
+0.5165545
+ Bagnasco Egle - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.5165545
+ Bagnasco Franco - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.49434656
+Abitano in Corso Brigate Partigiane Cairo Montenotte
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[4]/td[1]/p[1]
+-
+0.48802945
+
+             17014 Cairo Montenotte (SV)
+            
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[4]/td[1]/div[1]
+-
+0.47580913
+Immagini Bagnasco Luca Cairo Montenotte
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[3]/tbody[1]/tr[1]/td[1]/p[1]
+-
+0.42644742
+ Bagnasco Dr. Ezio - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
+-
+0.41982257
+Dati del Comune Cairo Montenotte
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[1]/td[1]/p[1]
+-
+0.4054006
+ Bagnasco Pongibove Giuseppina - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.36436865
+ Studio Tecnico Bagnasco Ing.Paolo - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.34459305
+ Bagnasco Prof. Emanuele Guglielmo - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+__________________
+ 0195090306
+---
+-
+0.6544872
+
+             Tel:0195090306
+            
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[5]/td[1]/div[1]
+__________________
+ C. Brigate Partigiane, 18 - 17014 Cairo Montenotte
+---
+-
+0.59546906
+
+             17014 Cairo Montenotte (SV)
+            
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[4]/td[1]/div[1]
+-
+0.5918474
+17014
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[2]/b[1]
+-
+0.5569367
+
+             Corso Brigate Partigiane, 18
+            
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[7]/td[1]/div[1]
+-
+0.44572514
+Tutti Bagnasco di Cairo Montenotte
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
+-
+0.4286445
+ Bagnasco Luca - Corso Brigate Partigiane, 18 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.38960043
+Abitano in Corso Brigate Partigiane Cairo Montenotte
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[4]/td[1]/p[1]
+-
+0.36707598
+ Bagnasco Luca - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.36707598
+ Bagnasco Luca - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.29773635
+ Bagnasco Ezio - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.2775375
+ Bagnasco & Bagnasco Srl - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
+-
+0.27347994
+ Bagnasco Egle - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.27347994
+ Bagnasco Franco - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.2519081
+Immagini Bagnasco Luca Cairo Montenotte
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[3]/tbody[1]/tr[1]/td[1]/p[1]
+-
+0.24779741
+ Flash Di Molinari Enrico e C. Snc - Corso Brigate Partigiane, 18 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.24779741
+ Flash Di Molinari Enrico e C. Snc - Corso Brigate Partigiane, 18 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.22577448
+ Bagnasco Dr. Ezio - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
+-
+0.22226708
+Dati del Comune Cairo Montenotte
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[1]/td[1]/p[1]
+-
+0.21463163
+ Bagnasco Pongibove Giuseppina - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.21118167
+ Eff & Gibi Di Bertelli Fabio - Corso Brigate Partigiane, 18 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.19604361
+ Nuova Ceramica Ilsa Di Buscaglia Danilo - Corso Brigate Partigiane, 18 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.19290805
+ Studio Tecnico Bagnasco Ing.Paolo - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.18800676
+ Nuova Altec Ferramenta Di Ravera Paolo & C. Snc - Corso Brigate Partigiane, 18 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.18243822
+ Bagnasco Prof. Emanuele Guglielmo - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.11283172
+ Sugliano Giovanni - Corso Brigate Partigiane, 23 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.11045647
+ Bergamasco Edoardo - Corso Brigate Partigiane 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/a[1]
+-
+0.10695231
+ 
+             Provincia SV 
+             Cap 17014 
+             Prefisso Telefonico 019 
+             Numero di Telefono 019 5090306 
+             Codice Istat 009015 
+             Codice Catastale B369
+            
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]
+-
+0.10695224
+ Sugliano F. - Corso Brigate Partigiane, 23 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.10151214
+ New Fantasy Srl - Corso Brigate Partigiane 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/a[1]
+-
+0.099556245
+ Pierozzi Giampiero - Corso Brigate Partigiane, 23 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.09659407
+ B & C. S.N.C. Autofficina - Corso Brigate Partigiane, 2 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+__________________
+    
+      
+   Bagnasco Luca 
+     
+    C. Brigate Partigiane, 18 - 17014 Cairo Montenotte 
+    0195090306 
+    
+    Categoria non assegnata a Cairo Montenotte   
+    
+     
+     
+     
+     
+      
+    
+     
+     
+     
+     
+     
+          
+   
+    0.0
+    
+    
+     
+     
+     
+     
+     
+    
+   
+     0 opinioni 
+    
+   
+    Scrivi Opinione
+      
+    
+     
+  
+---
+-
+0.3855811
+ Bagnasco Luca - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.3855811
+ Bagnasco Luca - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.36789742
+Tutti Bagnasco di Cairo Montenotte
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
+-
+0.29480904
+
+             17014 Cairo Montenotte (SV)
+            
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[4]/td[1]/div[1]
+-
+0.26763266
+ Bagnasco & Bagnasco Srl - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
+-
+0.2636465
+ Bagnasco Luca - Corso Brigate Partigiane, 18 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.26255795
+Immagini Bagnasco Luca Cairo Montenotte
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[3]/tbody[1]/tr[1]/td[1]/p[1]
+-
+0.2448582
+ Bagnasco Ezio - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.22480737
+ Bagnasco Egle - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.22480737
+ Bagnasco Franco - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.22343239
+Abitano in Corso Brigate Partigiane Cairo Montenotte
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[4]/td[1]/p[1]
+-
+0.20284854
+17014
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[2]/b[1]
+-
+0.19088331
+
+             Corso Brigate Partigiane, 18
+            
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[7]/td[1]/div[1]
+-
+0.18544723
+ Bagnasco Dr. Ezio - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
+-
+0.18329391
+
+             Bagnasco Luca 
+            
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[3]/td[1]/div[1]
+-
+0.17626633
+ Bagnasco Pongibove Giuseppina - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.15837987
+ Studio Tecnico Bagnasco Ing.Paolo - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.15715443
+
+             Tel:0195090306
+            
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[5]/td[1]/div[1]
+-
+0.1523587
+Dati del Comune Cairo Montenotte
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[1]/td[1]/p[1]
+-
+0.14976473
+ Bagnasco Prof. Emanuele Guglielmo - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.11121702
+ Bagnasco Luca - Genova 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.11121702
+ Bagnasco Luca - Genova 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/a[1]
+-
+0.10104958
+ Bagnasco Luca - Volpiano 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/a[1]
+-
+0.10104958
+ Bagnasco Luca - Trinita' 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.10104958
+Altri Bagnasco Luca 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/p[1]
+-
+0.08492956
+ Flash Di Molinari Enrico e C. Snc - Corso Brigate Partigiane, 18 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.08492956
+ Flash Di Molinari Enrico e C. Snc - Corso Brigate Partigiane, 18 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.07759122
+Risultati ricerca Bagnasco Luca 
+//html[1]/body[1]/table[1]/tbody[1]/tr[9]/td[1]/p[1]
+-
+0.072379954
+ Eff & Gibi Di Bertelli Fabio - Corso Brigate Partigiane, 18 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.06719157
+ Nuova Ceramica Ilsa Di Buscaglia Danilo - Corso Brigate Partigiane, 18 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+__________________
+Categoria non assegnata a Cairo Montenotte
+---
+-
+0.35344642
+Tutti Bagnasco di Cairo Montenotte
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
+-
+0.29108003
+ Bagnasco Luca - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.29108003
+ Bagnasco Luca - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.23609582
+ Bagnasco Ezio - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.22007875
+ Bagnasco & Bagnasco Srl - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
+-
+0.21686123
+ Bagnasco Egle - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.21686123
+ Bagnasco Franco - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.20753784
+Abitano in Corso Brigate Partigiane Cairo Montenotte
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[4]/td[1]/p[1]
+-
+0.2048858
+
+             17014 Cairo Montenotte (SV)
+            
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[4]/td[1]/div[1]
+-
+0.19975543
+Immagini Bagnasco Luca Cairo Montenotte
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[3]/tbody[1]/tr[1]/td[1]/p[1]
+-
+0.17903227
+ Bagnasco Dr. Ezio - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
+-
+0.176251
+Dati del Comune Cairo Montenotte
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[1]/td[1]/p[1]
+-
+0.17019632
+ Bagnasco Pongibove Giuseppina - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.1529702
+ Studio Tecnico Bagnasco Ing.Paolo - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.14466794
+ Bagnasco Prof. Emanuele Guglielmo - Cairo Montenotte 
+//html[1]/body[1]/table[1]/tbody[1]/tr[10]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+__________________

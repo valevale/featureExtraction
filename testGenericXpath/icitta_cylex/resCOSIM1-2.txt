@@ -1,0 +1,4709 @@
+Roma
+---
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.6938155
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.37457725
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[3]/a[1]
+-
+0.37457725
+Diritto Penale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[4]/a[1]
+-
+0.33955657
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.33541074
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.33427265
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.33427265
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.30956912
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
+-
+0.29605144
+Galleria Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.26768482
+Dettagli azienda Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.2592218
+Viale TRASTEVERE. 25900153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.2592218
+Viale TRASTEVERE. 25900153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.25513068
+Siti sociali Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.25080428
+Persone di contattoAvvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+__________________
+Roma
+---
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.6938155
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.37457725
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[3]/a[1]
+-
+0.37457725
+Diritto Penale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[4]/a[1]
+-
+0.33955657
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.33541074
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.33427265
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.33427265
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.30956912
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
+-
+0.29605144
+Galleria Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.26768482
+Dettagli azienda Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.2592218
+Viale TRASTEVERE. 25900153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.2592218
+Viale TRASTEVERE. 25900153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.25513068
+Siti sociali Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.25080428
+Persone di contattoAvvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+__________________
+Avvocato Fabio Sarra - Roma 
+---
+-
+1.0
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+1.0
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+1.0
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+1.0
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+1.0
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+1.0
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+1.0
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+1.0
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+1.0
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.8712804
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.8712804
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]/i[1]
+-
+0.8712804
+Avvocato Fabio Sarra, 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.8712804
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.8712804
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.71139747
+Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.7027899
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.6841802
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.6841802
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.60535824
+Galleria Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.5720985
+E-mail a Avvocato Fabio Sarra, 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]
+-
+0.5720985
+
+        E-mail a Avvocato Fabio Sarra, ✕
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]
+-
+0.5720985
+E-mail a Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.5720985
+
+          E-mail a Avvocato Fabio Sarra✕
+         
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.5470006
+Dettagli azienda Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.5238893
+ Più informazioni su Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[9]/a[1]
+-
+0.5212084
+Siti sociali Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.50865036
+Ricerche simili Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]
+-
+0.49078554
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.49078554
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.49078554
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+__________________
+Roma
+---
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.6938155
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.48609692
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.37457725
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[3]/a[1]
+-
+0.37457725
+Diritto Penale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[4]/a[1]
+-
+0.33955657
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.33541074
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.33427265
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.33427265
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.30956912
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
+-
+0.29605144
+Galleria Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.26768482
+Dettagli azienda Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.2592218
+Viale TRASTEVERE. 25900153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.2592218
+Viale TRASTEVERE. 25900153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.25513068
+Siti sociali Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.25080428
+Persone di contattoAvvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+__________________
+www.avvocatofabiosarra.it
+---
+-
+1.0
+www.avvocatofabiosarra.it
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[3]/div[2]/span[1]/a[1]
+__________________
+00153
+---
+-
+1.0
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+__________________
+Avvocato Fabio Sarra
+---
+-
+1.0
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+1.0
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]/i[1]
+-
+1.0
+Avvocato Fabio Sarra, 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+1.0
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+1.0
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.8686927
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.8686927
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.8686927
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.8686927
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.8686927
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.8686927
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.8686927
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.8686927
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.8686927
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.81649655
+Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.6566182
+E-mail a Avvocato Fabio Sarra, 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]
+-
+0.6566182
+
+        E-mail a Avvocato Fabio Sarra, ✕
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]
+-
+0.6566182
+E-mail a Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.6566182
+
+          E-mail a Avvocato Fabio Sarra✕
+         
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.6012867
+ Più informazioni su Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[9]/a[1]
+-
+0.5952821
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.5952821
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.5268611
+Galleria Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.47616604
+Dettagli azienda Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.46974745
+ 
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]
+-
+0.45375106
+Siti sociali Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.44283536
+Ricerche simili Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]
+-
+0.423051
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+-
+0.4107747
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.394707
+Aziende simili nelle vicinanze Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]
+__________________
+
+     Scrivi la tua recensione per Avvocato Fabio Sarra - Roma:
+      
+      
+    
+---
+-
+0.77388304
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.7718795
+
+     Scrivi tu la prima recensione per Avvocato Fabio Sarra!
+    
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/div[1]
+-
+0.5470006
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.5470006
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.5470006
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.5470006
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.5470006
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.5470006
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.5470006
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.5470006
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.5470006
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.4765909
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.4765909
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]/i[1]
+-
+0.4765909
+Avvocato Fabio Sarra, 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.4765909
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.4765909
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.38913482
+Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.38442647
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.37424698
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.3311313
+Galleria Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.3129382
+E-mail a Avvocato Fabio Sarra, 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]
+-
+0.3129382
+
+        E-mail a Avvocato Fabio Sarra, ✕
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]
+-
+0.3129382
+E-mail a Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.3129382
+
+          E-mail a Avvocato Fabio Sarra✕
+         
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.29961407
+
+     
+      Valutazione
+      
+      
+     
+     
+      Invia recensione
+     
+    
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/div[2]
+-
+0.29920965
+Dettagli azienda Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.28656775
+ Più informazioni su Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[9]/a[1]
+-
+0.2851013
+Siti sociali Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.278232
+Ricerche simili Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]
+-
+0.26846
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+__________________
+ Via Panfilo Castaldi 8   00153 Roma  (RM) 
+---
+-
+0.7599455
+Via Panfilo Castaldi 8
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.557648
+V. PANFILO CASTALDI. 8
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.34217077
+V. PANFILO CASTALDI. 1700153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.34217077
+V. PANFILO CASTALDI. 800153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.3349098
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
+-
+0.3349098
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+0.3349098
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+0.3349098
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
+-
+0.3349098
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[2]
+-
+0.3349098
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+-
+0.3349098
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+-
+0.30440953
+V. PANFILO CASTALDI. 17
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+-
+0.19480327
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.19480327
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.19480327
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.19480327
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.19480327
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.19480327
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.19480327
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.1598361
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+-
+0.13515753
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+__________________
+ Via Panfilo Castaldi 8   00153 Roma  (RM) 
+---
+-
+0.7599455
+Via Panfilo Castaldi 8
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.557648
+V. PANFILO CASTALDI. 8
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.34217077
+V. PANFILO CASTALDI. 1700153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.34217077
+V. PANFILO CASTALDI. 800153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.3349098
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
+-
+0.3349098
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+0.3349098
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+0.3349098
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
+-
+0.3349098
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[2]
+-
+0.3349098
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+-
+0.3349098
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+-
+0.30440953
+V. PANFILO CASTALDI. 17
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+-
+0.19480327
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.19480327
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.19480327
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.19480327
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.19480327
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.19480327
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.19480327
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.1598361
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+-
+0.13515753
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+__________________
+ Via Panfilo Castaldi 8   00153 Roma  (RM) 
+---
+-
+0.7599455
+Via Panfilo Castaldi 8
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.557648
+V. PANFILO CASTALDI. 8
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.34217077
+V. PANFILO CASTALDI. 1700153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.34217077
+V. PANFILO CASTALDI. 800153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.3349098
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
+-
+0.3349098
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+0.3349098
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+0.3349098
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
+-
+0.3349098
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[2]
+-
+0.3349098
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+-
+0.3349098
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+-
+0.30440953
+V. PANFILO CASTALDI. 17
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+-
+0.19480327
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.19480327
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.19480327
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.19480327
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.19480327
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.19480327
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.19480327
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.1598361
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+-
+0.13515753
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.09469328
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+__________________
+http://www.avvocatofabiosarra.it 
+---
+-
+0.66087097
+www.avvocatofabiosarra.it
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[3]/div[2]/span[1]/a[1]
+__________________
+Aziende Simili:
+---
+-
+0.63938576
+Aziende simili nelle vicinanze Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]
+-
+0.51825345
+ Visualizza la mappa con le aziende simili nei dintorni
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[7]/a[1]
+-
+0.43682677
+Dettagli azienda
+//html[1]/body[1]/div[5]/div[1]/ul[1]/li[3]/a[1]
+-
+0.3744936
+Ricerche simili Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]
+-
+0.36188874
+Dettagli azienda Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+__________________
+
+    > 
+   Lazio > 
+   Roma > 
+   Roma 
+  
+---
+-
+0.5982184
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.5982184
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.5982184
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.5982184
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.5982184
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.5982184
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.5982184
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.4150532
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.22407901
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[3]/a[1]
+-
+0.22407901
+Diritto Penale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[4]/a[1]
+-
+0.20312901
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.20064889
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.19996805
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.19996805
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.18518995
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
+-
+0.17710342
+Galleria Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.160134
+Dettagli azienda Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.15507124
+Viale TRASTEVERE. 25900153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.15507124
+Viale TRASTEVERE. 25900153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.15262386
+Siti sociali Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.15003574
+Persone di contattoAvvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+__________________
+
+    > 
+   Lazio > 
+   Roma > 
+   Roma 
+  
+---
+-
+0.5982184
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.5982184
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.5982184
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.5982184
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.5982184
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.5982184
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.5982184
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.4150532
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.22407901
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[3]/a[1]
+-
+0.22407901
+Diritto Penale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[4]/a[1]
+-
+0.20312901
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.20064889
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.19996805
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.19996805
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.18518995
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
+-
+0.17710342
+Galleria Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.160134
+Dettagli azienda Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.15507124
+Viale TRASTEVERE. 25900153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.15507124
+Viale TRASTEVERE. 25900153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.15262386
+Siti sociali Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.15003574
+Persone di contattoAvvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+__________________
+
+    > 
+   Lazio > 
+   Roma > 
+   Roma 
+  
+---
+-
+0.5982184
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.5982184
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.5982184
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.5982184
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.5982184
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.5982184
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.5982184
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.4150532
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.29079214
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.22407901
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[3]/a[1]
+-
+0.22407901
+Diritto Penale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[4]/a[1]
+-
+0.20312901
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.20064889
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.19996805
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.19996805
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.18518995
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
+-
+0.17710342
+Galleria Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.160134
+Dettagli azienda Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.15507124
+Viale TRASTEVERE. 25900153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.15507124
+Viale TRASTEVERE. 25900153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.15262386
+Siti sociali Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.15003574
+Persone di contattoAvvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+__________________
+Avvocato Fabio Sarra Patrocinante in Cassazione  www.avvocatofabiosarra.it
+---
+-
+0.5977348
+www.avvocatofabiosarra.it
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[3]/div[2]/span[1]/a[1]
+-
+0.44980597
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.44980597
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]/i[1]
+-
+0.44980597
+Avvocato Fabio Sarra, 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.44980597
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.44980597
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.40674606
+Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+-
+0.40674606
+Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+-
+0.40674606
+Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+-
+0.40674606
+Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+-
+0.39074317
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.39074317
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.39074317
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.39074317
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.39074317
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.39074317
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.39074317
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.39074317
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.39074317
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.36726502
+Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.31511974
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+-
+0.29535073
+E-mail a Avvocato Fabio Sarra, 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]
+-
+0.29535073
+
+        E-mail a Avvocato Fabio Sarra, ✕
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]
+-
+0.29535073
+E-mail a Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.29535073
+
+          E-mail a Avvocato Fabio Sarra✕
+         
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.27046233
+ Più informazioni su Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[9]/a[1]
+-
+0.2677614
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.2677614
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.23698525
+Galleria Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.21418232
+Dettagli azienda Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+__________________
+Avvocato Fabio Sarra Patrocinante in Cassazione  www.avvocatofabiosarra.it
+---
+-
+0.5977348
+www.avvocatofabiosarra.it
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[3]/div[2]/span[1]/a[1]
+-
+0.44980597
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.44980597
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]/i[1]
+-
+0.44980597
+Avvocato Fabio Sarra, 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.44980597
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.44980597
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.40674606
+Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+-
+0.40674606
+Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+-
+0.40674606
+Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+-
+0.40674606
+Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+-
+0.39074317
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.39074317
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.39074317
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.39074317
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.39074317
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.39074317
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.39074317
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.39074317
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.39074317
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.36726502
+Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.31511974
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+-
+0.29535073
+E-mail a Avvocato Fabio Sarra, 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]
+-
+0.29535073
+
+        E-mail a Avvocato Fabio Sarra, ✕
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]
+-
+0.29535073
+E-mail a Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.29535073
+
+          E-mail a Avvocato Fabio Sarra✕
+         
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.27046233
+ Più informazioni su Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[9]/a[1]
+-
+0.2677614
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.2677614
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.23698525
+Galleria Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.21418232
+Dettagli azienda Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+__________________
+Web:
+---
+-
+0.54558283
+Visita il sito web
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/div[1]/a[2]
+-
+0.10336077
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+__________________
+Studio Legale Sevardi - Diritto D'autore
+---
+-
+0.5394505
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
+-
+0.44838485
+Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/span[1]
+-
+0.26382998
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+-
+0.20816875
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[3]/a[1]
+-
+0.20816875
+Diritto Penale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[4]/a[1]
+-
+0.06029187
+Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+-
+0.06029187
+Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+-
+0.06029187
+Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+-
+0.06029187
+Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+__________________
+Studio Legale Avv. Carmelo A. Pirrone
+---
+-
+0.5293821
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
+-
+0.2913823
+Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/span[1]
+-
+0.18907079
+Sforza Arturo (Avv.)
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[1]/strong[1]/a[1]/span[1]
+-
+0.18907079
+Simone Michele (Avv.)
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[1]/strong[1]/a[1]/span[1]
+-
+0.15482818
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+-
+0.13823919
+
+        Simone Michele (Avv.)
+        
+         60 m
+        
+        Dati
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[1]
+-
+0.13823919
+
+        Sforza Arturo (Avv.)
+        
+         70 m
+        
+        Dati
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[1]
+__________________
+ 
+     
+  
+  
+  
+    > 
+   Lazio > 
+   Roma > 
+   Roma 
+   
+   
+    
+    Avvocato Fabio Sarra - Roma  
+    
+    
+     
+     
+      
+       Avvocato Fabio Sarra  AVVOCATI STUDI   
+       
+        
+        Via Panfilo Castaldi 8   00153 Roma  (RM) 
+         
+        
+        065809748  - 3473210163 
+         
+       Email
+        
+       Web: http://www.avvocatofabiosarra.it   
+       Avvocati - Studi a Roma
+        
+       
+      
+     
+    
+     
+     
+     Avvocato Fabio Sarra Patrocinante in Cassazione  www.avvocatofabiosarra.it
+    
+     
+     
+     
+      Aziende Simili: 
+       
+      
+      Risoluzione Debiti
+       Via Antonio Canova 24
+       Oo186 - Roma 
+      
+      
+      Studio Legale Sevardi - Diritto D'autore
+       Via Luigi Rizzo, 50
+       00136 - Roma 
+      
+      
+      Studio Legale Avv. Carmelo A. Pirrone
+       Via Emanuele Filiberto 109
+       00185 - Roma 
+      
+      
+      Legale Tributario Di Stefano
+       Via Roma, 12
+       00043 - Ciampino 
+      
+      
+      Avvocato Pietro Framalicco
+       Via Taranto, 18
+       00182 - Roma 
+      
+     
+     
+     
+     
+    
+     Scrivi la tua recensione per Avvocato Fabio Sarra - Roma:
+      
+      
+     
+     
+      
+       
+    
+   
+   
+   
+            
+          
+       
+  >   
+
+---
+-
+0.47297224
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.47297224
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.47297224
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.47297224
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.47297224
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.47297224
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.47297224
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.47297224
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.47297224
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.46161583
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.39617056
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.39617056
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.39617056
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.39617056
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.39617056
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.39617056
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.39617056
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.38626078
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.37938544
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+-
+0.37511972
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
+-
+0.35825908
+Via Panfilo Castaldi 8
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.32359827
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.31968752
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.31968752
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]/i[1]
+-
+0.31968752
+Avvocato Fabio Sarra, 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.31968752
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.31968752
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.29941264
+Dettagli azienda Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.28631762
+Galleria Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.28465828
+Aziende simili nelle vicinanze Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]
+__________________
+Avvocati - Studi a Roma
+---
+-
+0.47139138
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.32919097
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.32919097
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.32919097
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.32919097
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.32919097
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.32919097
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.32919097
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.3291691
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.3291691
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.3291691
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.3291691
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.3291691
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.3291691
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.3291691
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.3291691
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.3291691
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.22597899
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.22597899
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.2000754
+Galleria Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.19316457
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.19316457
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]/i[1]
+-
+0.19316457
+Avvocato Fabio Sarra, 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.19316457
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.19316457
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.180866
+Dettagli azienda Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.17236836
+Siti sociali Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.16822931
+Ricerche simili Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]
+-
+0.1499734
+Aziende simili nelle vicinanze Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]
+-
+0.14662777
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+__________________
+ 
+        
+        Via Panfilo Castaldi 8   00153 Roma  (RM) 
+         
+        
+        065809748  - 3473210163 
+         
+       Email
+        
+       Web: http://www.avvocatofabiosarra.it   
+       Avvocati - Studi a Roma
+        
+      
+---
+-
+0.4458115
+Via Panfilo Castaldi 8
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.3271365
+V. PANFILO CASTALDI. 8
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.26959673
+www.avvocatofabiosarra.it
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[3]/div[2]/span[1]/a[1]
+-
+0.24344876
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.22855729
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.22855729
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.22855729
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.22855729
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.22855729
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.22855729
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.22855729
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.22806631
+V. PANFILO CASTALDI. 1700153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.22806631
+V. PANFILO CASTALDI. 800153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.1964702
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
+-
+0.1964702
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+0.1964702
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+0.1964702
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
+-
+0.1964702
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[2]
+-
+0.1964702
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+-
+0.1964702
+00153
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+-
+0.17857765
+V. PANFILO CASTALDI. 17
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+-
+0.17081183
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+-
+0.16999845
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.16999845
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.16999845
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.16999845
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.16999845
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.16999845
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.16999845
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.16999845
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+__________________
+ 
+      Studio Legale Sevardi - Diritto D'autore
+       Via Luigi Rizzo, 50
+       00136 - Roma 
+     
+---
+-
+0.39989585
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
+-
+0.29631725
+Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/span[1]
+-
+0.2168416
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+-
+0.18753585
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[3]/a[1]
+-
+0.18753585
+Diritto Penale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[4]/a[1]
+-
+0.15381065
+
+        Marchionni Alessandro
+        
+         50 m
+        
+        Dati
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[1]
+-
+0.15310964
+Via Panfilo Castaldi 8
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.13101542
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.13101542
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.13101542
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.13101542
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.13101542
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.13101542
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.13101542
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.090900525
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.06368619
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.06368619
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.06368619
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.06368619
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.06368619
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.06368619
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.06368619
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.06368619
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.06368619
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.044487145
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.04394398
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.04379487
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.04379487
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.03984417
+Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+-
+0.03984417
+Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+__________________
+ 
+      Studio Legale Sevardi - Diritto D'autore
+       Via Luigi Rizzo, 50
+       00136 - Roma 
+     
+---
+-
+0.39989585
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
+-
+0.29631725
+Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/span[1]
+-
+0.2168416
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+-
+0.18753585
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[3]/a[1]
+-
+0.18753585
+Diritto Penale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[4]/a[1]
+-
+0.15381065
+
+        Marchionni Alessandro
+        
+         50 m
+        
+        Dati
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[1]
+-
+0.15310964
+Via Panfilo Castaldi 8
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.13101542
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.13101542
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.13101542
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.13101542
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.13101542
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.13101542
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.13101542
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.090900525
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.06368619
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.06368619
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.06368619
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.06368619
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.06368619
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.06368619
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.06368619
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.06368619
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.06368619
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.044487145
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.04394398
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.04379487
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.04379487
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.03984417
+Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+-
+0.03984417
+Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+__________________
+ 
+      Studio Legale Avv. Carmelo A. Pirrone
+       Via Emanuele Filiberto 109
+       00185 - Roma 
+     
+---
+-
+0.3912958
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
+-
+0.19200383
+Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/span[1]
+-
+0.1498169
+Via Panfilo Castaldi 8
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.14338149
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+-
+0.12819783
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.12819783
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.12819783
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.12819783
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.12819783
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.12819783
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.12819783
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.124586545
+Sforza Arturo (Avv.)
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[1]/strong[1]/a[1]/span[1]
+-
+0.124586545
+Simone Michele (Avv.)
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[1]/strong[1]/a[1]/span[1]
+-
+0.0910915
+
+        Simone Michele (Avv.)
+        
+         60 m
+        
+        Dati
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[1]
+-
+0.0910915
+
+        Sforza Arturo (Avv.)
+        
+         70 m
+        
+        Dati
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[1]
+-
+0.08894564
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.062316574
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.062316574
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.062316574
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.062316574
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.062316574
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.062316574
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.062316574
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.062316574
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.062316574
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.048019994
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[3]/a[1]
+-
+0.048019994
+Diritto Penale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[4]/a[1]
+-
+0.04353042
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.042998936
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.04285303
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+__________________
+ 
+      Studio Legale Avv. Carmelo A. Pirrone
+       Via Emanuele Filiberto 109
+       00185 - Roma 
+     
+---
+-
+0.3912958
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
+-
+0.19200383
+Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/span[1]
+-
+0.1498169
+Via Panfilo Castaldi 8
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.14338149
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+-
+0.12819783
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.12819783
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.12819783
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.12819783
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.12819783
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.12819783
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.12819783
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.124586545
+Sforza Arturo (Avv.)
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[1]/strong[1]/a[1]/span[1]
+-
+0.124586545
+Simone Michele (Avv.)
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[1]/strong[1]/a[1]/span[1]
+-
+0.0910915
+
+        Simone Michele (Avv.)
+        
+         60 m
+        
+        Dati
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[1]
+-
+0.0910915
+
+        Sforza Arturo (Avv.)
+        
+         70 m
+        
+        Dati
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[1]
+-
+0.08894564
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.062316574
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.062316574
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.062316574
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.062316574
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.062316574
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.062316574
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.062316574
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.062316574
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.062316574
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.048019994
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[3]/a[1]
+-
+0.048019994
+Diritto Penale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[4]/a[1]
+-
+0.04353042
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.042998936
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.04285303
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+__________________
+Legale Tributario Di Stefano
+---
+-
+0.30714393
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
+-
+0.26047724
+Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/span[1]
+-
+0.13863124
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+__________________
+ AVVOCATI STUDI 
+---
+-
+0.25422874
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.2045664
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.2045664
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]/i[1]
+-
+0.2045664
+Avvocato Fabio Sarra, 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.2045664
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.2045664
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.1780714
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.1780714
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.1780714
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.1780714
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.1780714
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.1780714
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.1780714
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.1780714
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.1780714
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.13496609
+E-mail a Avvocato Fabio Sarra, 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]
+-
+0.13496609
+
+        E-mail a Avvocato Fabio Sarra, ✕
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]
+-
+0.13496609
+E-mail a Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.13496609
+
+          E-mail a Avvocato Fabio Sarra✕
+         
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.12366561
+ Più informazioni su Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[9]/a[1]
+-
+0.12243808
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.12243808
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.122066766
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+-
+0.10843565
+Galleria Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.098044135
+Dettagli azienda Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.0967275
+ 
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]
+-
+0.09344532
+Siti sociali Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.09120493
+Ricerche simili Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]
+-
+0.08132037
+Aziende simili nelle vicinanze Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]
+-
+0.080331504
+Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+__________________
+ 
+      Legale Tributario Di Stefano
+       Via Roma, 12
+       00043 - Ciampino 
+     
+---
+-
+0.24263956
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
+-
+0.17275272
+Via Panfilo Castaldi 8
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.16567345
+Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/span[1]
+-
+0.14782393
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.14782393
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.14782393
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.14782393
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.14782393
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.14782393
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.14782393
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.13580269
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+-
+0.10256254
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.07185677
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.07185677
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.07185677
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.07185677
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.07185677
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.07185677
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.07185677
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.07185677
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.07185677
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.05537149
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[3]/a[1]
+-
+0.05537149
+Diritto Penale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[4]/a[1]
+-
+0.050194595
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.049581744
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.049413502
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.049413502
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.043763492
+Galleria Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.03957023
+Dettagli azienda Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.03831919
+Viale TRASTEVERE. 25900153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]
+__________________
+ 
+      Legale Tributario Di Stefano
+       Via Roma, 12
+       00043 - Ciampino 
+     
+---
+-
+0.24263956
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
+-
+0.17275272
+Via Panfilo Castaldi 8
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.16567345
+Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/span[1]
+-
+0.14782393
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.14782393
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.14782393
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.14782393
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.14782393
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.14782393
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.14782393
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.13580269
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+-
+0.10256254
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.07185677
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.07185677
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.07185677
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.07185677
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.07185677
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.07185677
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.07185677
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.07185677
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.07185677
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.05537149
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[3]/a[1]
+-
+0.05537149
+Diritto Penale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[4]/a[1]
+-
+0.050194595
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.049581744
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.049413502
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.049413502
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.043763492
+Galleria Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.03957023
+Dettagli azienda Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.03831919
+Viale TRASTEVERE. 25900153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]
+__________________
+ 
+      Avvocato Pietro Framalicco
+       Via Taranto, 18
+       00182 - Roma 
+     
+---
+-
+0.21925488
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.17893514
+Via Panfilo Castaldi 8
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.15311421
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.15311421
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.15311421
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.15311421
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.15311421
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.15311421
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.15311421
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.15310405
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.15310405
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.15310405
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.15310405
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.15310405
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.15310405
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.15310405
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.15310405
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.15310405
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.105107985
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.105107985
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.10269417
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+-
+0.09305963
+Galleria Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.08984524
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.08984524
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]/i[1]
+-
+0.08984524
+Avvocato Fabio Sarra, 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.08984524
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.08984524
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.08412491
+Dettagli azienda Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.08017246
+Siti sociali Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.07824729
+Ricerche simili Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]
+__________________
+ 
+      Avvocato Pietro Framalicco
+       Via Taranto, 18
+       00182 - Roma 
+     
+---
+-
+0.21925488
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.17893514
+Via Panfilo Castaldi 8
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.15311421
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.15311421
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.15311421
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.15311421
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.15311421
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.15311421
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.15311421
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.15310405
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.15310405
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.15310405
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.15310405
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.15310405
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.15310405
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.15310405
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.15310405
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.15310405
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.105107985
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.105107985
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.10269417
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+-
+0.09305963
+Galleria Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.08984524
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.08984524
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]/i[1]
+-
+0.08984524
+Avvocato Fabio Sarra, 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.08984524
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.08984524
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.08412491
+Dettagli azienda Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.08017246
+Siti sociali Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.07824729
+Ricerche simili Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]
+__________________
+ 
+      Risoluzione Debiti
+       Via Antonio Canova 24
+       Oo186 - Roma 
+     
+---
+-
+0.1974819
+V. ROLLI ETTORE. 24
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[1]
+-
+0.17015634
+Via Panfilo Castaldi 8
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.14560223
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.14560223
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.14560223
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.14560223
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.14560223
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.14560223
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.14560223
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.10102108
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.0707768
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.0707768
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.0707768
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.0707768
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.0707768
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.0707768
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.0707768
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.0707768
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.0707768
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.05453928
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[3]/a[1]
+-
+0.05453928
+Diritto Penale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[4]/a[1]
+-
+0.049440194
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.04883655
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.04867084
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.04867084
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.046550304
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+-
+0.045073953
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
+-
+0.043105748
+Galleria Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.038975507
+Dettagli azienda Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.037743267
+Viale TRASTEVERE. 25900153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]
+__________________
+ 
+      Risoluzione Debiti
+       Via Antonio Canova 24
+       Oo186 - Roma 
+     
+---
+-
+0.1974819
+V. ROLLI ETTORE. 24
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[1]
+-
+0.17015634
+Via Panfilo Castaldi 8
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.14560223
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.14560223
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.14560223
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.14560223
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.14560223
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.14560223
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.14560223
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.10102108
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.0707768
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.0707768
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.0707768
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.0707768
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.0707768
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.0707768
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.0707768
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.0707768
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.0707768
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.05453928
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[3]/a[1]
+-
+0.05453928
+Diritto Penale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[4]/a[1]
+-
+0.049440194
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.04883655
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.04867084
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.04867084
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.046550304
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+-
+0.045073953
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
+-
+0.043105748
+Galleria Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.038975507
+Dettagli azienda Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.037743267
+Viale TRASTEVERE. 25900153  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]
+__________________
+Avvocato Pietro Framalicco
+---
+-
+0.18579522
+Avvocato in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+-
+0.14950104
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.14950104
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]/i[1]
+-
+0.14950104
+Avvocato Fabio Sarra, 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.14950104
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.14950104
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.13013797
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.13013797
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.13013797
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+-
+0.13013797
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.13013797
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.13013797
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
+-
+0.13013797
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.13013797
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.13013797
+Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+-
+0.09863579
+E-mail a Avvocato Fabio Sarra, 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]
+-
+0.09863579
+
+        E-mail a Avvocato Fabio Sarra, ✕
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]
+-
+0.09863579
+E-mail a Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.09863579
+
+          E-mail a Avvocato Fabio Sarra✕
+         
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.09037718
+ Più informazioni su Avvocato Fabio Sarra
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[9]/a[1]
+-
+0.089480095
+Descrizione Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.089480095
+Recensioni Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+-
+0.08920872
+
+    Descrizione Avvocato Fabio Sarra, Roma
+    
+     
+      
+      
+      Visita il sito web
+     
+     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+    
+    
+    
+    
+    
+    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
+    
+     Zone servite
+    Roma, Via Panfilo Castaldi 8
+     
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+    
+     Servizi professionali
+     Consulenza aziendale
+    
+    
+    
+      Più informazioni su Avvocato Fabio Sarra
+    
+   
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+-
+0.07924685
+Galleria Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.071652524
+Dettagli azienda Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.070690304
+ 
+     Avvocato Fabio Sarra è iscritta nelle categorie:
+    
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]
+-
+0.06829163
+Siti sociali Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.0666543
+Ricerche simili Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]
+-
+0.05943048
+Aziende simili nelle vicinanze Avvocato Fabio Sarra, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]
+-
+0.0587078
+Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+__________________

@@ -1,0 +1,300 @@
+52025
+---
+-
+1.0
+52025
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[2]
+-
+0.33027264
+V. 14 Luglio, 33 - Levane - 52025 Montevarchi (Arezzo)
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]
+__________________
+Dentisti medici chirurghi ed odontoiatri
+---
+-
+0.7432604
+ medico chirurgo
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[4]
+-
+0.52556443
+odontoiatra
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]
+-
+0.4139397
+Dentisti
+//html[1]/body[1]/div[3]/div[2]/ul[1]/li[15]/a[1]
+-
+0.4139397
+DENTISTI
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[5]/span[1]/a[1]
+-
+0.4139397
+ dentista
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[2]
+-
+0.4094084
+Dentisti
+//html[1]/body[1]/div[3]/div[2]/ul[1]/li[15]/a[1]
+-
+0.049424656
+  
+  
+   Scegli una categoria
+   Abbigliamento
+   Agenzia viaggi
+   Agenzie funebri
+   Agenzie immobiliari
+   Alberghi
+   Antincendio
+   Arredamenti
+   Arredamento per negozi
+   Arredamento ufficio
+   Automobili
+   Avvocati
+   Ceramiche
+   Costruzioni meccaniche
+   Dentisti
+   Elettrodomestici
+   Estetiste
+   Giardinaggio
+   Gru
+   Impianti di condizionamento
+   Impianti di riscaldamento
+   Impianti elettrici
+   Imprese edili
+   Ottica ed occhiali
+   Palestre
+   Piscine
+   Ricevimenti
+   Ristoranti
+   Scuole di lingua
+   Serramenti
+   Traslochi
+    Close Menu 
+ 
+//html[1]/body[1]/div[3]/div[2]
+-
+0.043551076
+  
+  
+   Scegli una categoria
+   Abbigliamento
+   Agenzia viaggi
+   Agenzie funebri
+   Agenzie immobiliari
+   Alberghi
+   Antincendio
+   Arredamenti
+   Arredamento per negozi
+   Arredamento ufficio
+   Automobili
+   Avvocati
+   Ceramiche
+   Costruzioni meccaniche
+   Dentisti
+   Elettrodomestici
+   Estetiste
+   Giardinaggio
+   Gru
+   Impianti di condizionamento
+   Impianti di riscaldamento
+   Impianti elettrici
+   Imprese edili
+   Ottica ed occhiali
+   Palestre
+   Piscine
+   Ricevimenti
+   Ristoranti
+   Scuole di lingua
+   Serramenti
+   Traslochi
+    Close Menu 
+ 
+//html[1]/body[1]/div[3]/div[2]
+__________________
+RINALDI DR. ADRIANO
+---
+-
+0.5683491
+ DOTT. RINALDI ADRIANO
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]
+-
+0.47223818
+Scrivi a Dott. Rinaldi Adriano
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[3]/div[1]/div[1]/h3[1]
+-
+0.3486893
+ 
+      Scrivi a Dott. Rinaldi Adriano    
+       
+       
+       
+       Invia richiesta  
+     
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[3]/div[1]/div[1]
+__________________
+Via XIV Luglio 33 - 52025 Levane (AR)
+---
+-
+0.45894024
+V. 14 Luglio, 33 - Levane - 52025 Montevarchi (Arezzo)
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]
+-
+0.43072316
+V. 14 Luglio, 33 - Levane
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[1]
+-
+0.33476102
+52025
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[2]
+__________________
+055 9788222
+---
+-
+0.426049
+055 97.88.222
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[2]/span[1]/a[1]
+__________________
+Rinaldi Dr. Adriano Studio Odontoiatrico
+---
+-
+0.40415594
+ DOTT. RINALDI ADRIANO
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]
+-
+0.33581093
+Scrivi a Dott. Rinaldi Adriano
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[3]/div[1]/div[1]/h3[1]
+-
+0.24795474
+ 
+      Scrivi a Dott. Rinaldi Adriano    
+       
+       
+       
+       Invia richiesta  
+     
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[3]/div[1]/div[1]
+__________________
+Via XIV Luglio 33
+---
+-
+0.36594498
+V. 14 Luglio, 33 - Levane
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[1]
+-
+0.29088682
+V. 14 Luglio, 33 - Levane - 52025 Montevarchi (Arezzo)
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]
+__________________
+tel: 055 9788222
+---
+-
+0.3395971
+055 97.88.222
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[2]/span[1]/a[1]
+__________________
+
+              tel:
+              
+               055 9788222
+              
+              
+             
+---
+-
+0.3395971
+055 97.88.222
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[2]/span[1]/a[1]
+__________________
+Levane (AR)
+---
+-
+0.25390908
+V. 14 Luglio, 33 - Levane
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[1]
+-
+0.20322518
+V. 14 Luglio, 33 - Levane - 52025 Montevarchi (Arezzo)
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]
+__________________
+Rinaldi dr. Adriano ha il suo ambulatorio dentistico a Levane, frazione di Montevarchi in provincia di Arezzo. Il dottor Rinaldi Adriano mette a disposizione della sua clientela una vasta gamma di servizi per la cura ed il benessere della bocca e dei denti; grazie al costante aggiornamento tecnico ed odontoiatrico di tutto il suo staff sanitario, assicura ottime cure dentali, risolutive di ogni problema, in poche e ravvicinate sedute. Il dottor Rinaldi dispone di un ambulatorio attrezzato con le migliori apparecchiature tecnologiche disponibili e dei materiali più affidabili per la cura e l'igiene di ogni elemento dentale; è specializzato in tutte le pratiche dentistiche, implantologiche, ortodontiche, gnatologiche e di igiene orale e riceve in studio ogni giorno feriale su appuntamento.
+---
+-
+0.21532238
+ DOTT. RINALDI ADRIANO
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]
+-
+0.17891017
+Scrivi a Dott. Rinaldi Adriano
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[3]/div[1]/div[1]/h3[1]
+-
+0.13210297
+ 
+      Scrivi a Dott. Rinaldi Adriano    
+       
+       
+       
+       Invia richiesta  
+     
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[3]/div[1]/div[1]
+-
+0.10958398
+Montevarchi (Arezzo)
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[3]/strong[1]
+-
+0.07662313
+V. 14 Luglio, 33 - Levane - 52025 Montevarchi (Arezzo)
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]
+-
+0.07189472
+
+       Arezzo 
+     
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]
+-
+0.07189472
+Arezzo
+//html[1]/body[1]/div[3]/div[3]/a[1]/h1[1]
+-
+0.050889313
+Cambia Provincia
+//html[1]/body[1]/div[3]/div[3]/a[1]/span[1]
+-
+0.050889313
+   ArezzoCambia Provincia 
+//html[1]/body[1]/div[3]/div[3]/a[1]
+-
+0.048594266
+Cambia Provincia
+//html[1]/body[1]/div[3]/div[3]/a[1]/span[1]
+-
+0.048594266
+   La SpeziaCambia Provincia 
+//html[1]/body[1]/div[3]/div[3]/a[1]
+-
+0.034126755
+V. 14 Luglio, 33 - Levane
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[1]
+-
+0.015188036
+DIR. SANITARIA DOTT.SSA LOREDANA ANGELELLI da lunedi' a sabato 9:30-12:00 / 15:30-19:00 CHIUSO GIOVEDI' MATTINA E SABATO POMERIGGIO
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[3]
+__________________
+
+            Z34/07/14/00/001/Z34071400001
+           
+---
+-
+0.13600215
+V. 14 Luglio, 33 - Levane
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[1]
+-
+0.12649792
+DIR. SANITARIA DOTT.SSA LOREDANA ANGELELLI da lunedi' a sabato 9:30-12:00 / 15:30-19:00 CHIUSO GIOVEDI' MATTINA E SABATO POMERIGGIO
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[3]
+-
+0.10885417
+V. 14 Luglio, 33 - Levane - 52025 Montevarchi (Arezzo)
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]
+__________________

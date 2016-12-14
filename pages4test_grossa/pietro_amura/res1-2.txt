@@ -1,0 +1,168 @@
+Viale Giuseppe Mazzini , 140
+---
+-
+1.8362856
+
+		 Viale Giuseppe Mazzini 140
+         
+          00195
+         
+         
+          () 
+/html/*[2]/*[4]/*[6]/*[2]/*[2]/*[2]/*[1]/*[2]/*[2]
+-
+1.049306
+
+          
+		 Viale Giuseppe Mazzini 140
+         
+          00195
+         
+         
+          () 	  
+     
+   
+             
+            0664561829
+            
+                           
+    
+  
+ 
+     
+    
+       Avvocati - Studi a Roma 
+     
+ 
+
+Modifica Dati 
+
+Elimina Azienda
+
+
+
+ 
+
+
+
+
+  
+/html/*[2]/*[4]/*[6]/*[2]/*[2]/*[2]/*[1]/*[2]
+__________________
+AMURA AVV. PIETRO
+---
+-
+1.5332382
+Amura Avv. Pietro
+/html/*[2]/*[4]/*[6]/*[2]/*[2]/*[2]/*[1]/*[1]/*[1]/h2
+-
+1.5332382
+Amura Avv. Pietro - Roma 
+/html/*[2]/*[4]/*[6]/*[2]/*[1]/*[1]
+-
+0.9582739
+Scrivi la tua recensione per Amura Avv. Pietro - Roma:
+       
+      
+/html/*[2]/*[4]/*[6]/*[2]/*[2]/*[11]
+__________________
+
+		AMURA AVV. PIETRO    
+---
+-
+1.5332382
+Amura Avv. Pietro
+/html/*[2]/*[4]/*[6]/*[2]/*[2]/*[2]/*[1]/*[1]/*[1]/h2
+-
+1.5332382
+Amura Avv. Pietro - Roma 
+/html/*[2]/*[4]/*[6]/*[2]/*[1]/*[1]
+-
+0.9582739
+Scrivi la tua recensione per Amura Avv. Pietro - Roma:
+       
+      
+/html/*[2]/*[4]/*[6]/*[2]/*[2]/*[11]
+__________________
+
+	      
+		      Viale Giuseppe Mazzini , 140 		                  00195 
+          		      ROMA (RM)
+		      
+	      
+	      	      
+		      06 64561829	      
+	              
+      
+---
+-
+0.7298457
+
+		 Viale Giuseppe Mazzini 140
+         
+          00195
+         
+         
+          () 
+/html/*[2]/*[4]/*[6]/*[2]/*[2]/*[2]/*[1]/*[2]/*[2]
+-
+0.524597
+
+          
+		 Viale Giuseppe Mazzini 140
+         
+          00195
+         
+         
+          () 	  
+     
+   
+             
+            0664561829
+            
+                           
+    
+  
+ 
+     
+    
+       Avvocati - Studi a Roma 
+     
+ 
+
+Modifica Dati 
+
+Elimina Azienda
+
+
+
+ 
+
+
+
+
+  
+/html/*[2]/*[4]/*[6]/*[2]/*[2]/*[2]/*[1]/*[2]
+__________________
+Roma
+---
+-
+0.70273256
+Avvocati - Studi a Roma
+/html/*[2]/*[4]/*[6]/*[2]/*[2]/*[2]/*[1]/*[2]/*[7]/a
+-
+0.70273256
+Amura Avv. Pietro - Roma 
+/html/*[2]/*[4]/*[6]/*[2]/*[1]/*[1]
+__________________
+Roma
+---
+-
+0.70273256
+Avvocati - Studi a Roma
+/html/*[2]/*[4]/*[6]/*[2]/*[2]/*[2]/*[1]/*[2]/*[7]/a
+-
+0.70273256
+Amura Avv. Pietro - Roma 
+/html/*[2]/*[4]/*[6]/*[2]/*[1]/*[1]
+__________________

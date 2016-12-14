@@ -1,0 +1,118 @@
+Valutiamo l'entry: /html/body[1]/div[3]/div[3]/div[4]/p[2]
+GT: [/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[2]/div[1]/div[1]/div[1]/div[2]/div[2]/a[1]/h2, /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[4]/div[1]/div[1]/div[1]/div[2]/div[2]/a[1]/h2, /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[3]/div[1]/div[1]/div[1]/div[2]/div[2]/a[1]/h2, /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[3]/div[1]/div[1]/div[1]/div[2]/div[2]/a[1]/h2, /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[2]/div[1]/div[1]/div[1]/div[2]/div[2]/a[1]/h2, /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/div[1]/div[2]/div[2]/a[1]/h2, /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[4]/div[1]/div[1]/div[1]/div[2]/div[2]/a[1]/h2]
+ size: 7
+R: [/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[2]/div[1]/div[1]/div[1]/div[2]/div[2]/a[1]/h2, /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/div[1]/div[2]/div[2]/a[1]/h2]
+ size: 2
+True positives: [/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[2]/div[1]/div[1]/div[1]/div[2]/div[2]/a[1]/h2, /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/div[1]/div[2]/div[2]/a[1]/h2]
+ size: 2
+Precision: tp (2) / R (2) = 1.0
+Recall: tp (2) / GT (7) = 0.2857143
+_______________
+Valutiamo l'entry: /html/body[1]/div[3]/h1[1]
+GT: [/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]/span[1]/span[1], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[3]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[4]/ul[1]/li[3]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[3]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2]]
+ size: 14
+R: [/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]/span[1]/span[1], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[3]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[4]/ul[1]/li[3]/div[1]/div[1]/div[1]/div[2]/div[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[3]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]]
+ size: 15
+True positives: [/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]/span[1]/span[1], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[3]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[4]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[6]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[3]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[1]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[3]/div[3]/ul[1]/li[5]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2], /html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[2]/div[1]/div[1]/div[1]/div[2]/div[2]/div[1]/span[2]]
+ size: 13
+Precision: tp (13) / R (15) = 0.8666667
+Recall: tp (13) / GT (14) = 0.9285714
+_______________
+Valutiamo l'entry: /html/body[1]/div[3]/div[3]/div[4]/p[1]/b[1]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[3]/div[3]/div[4]/p[2]/i[3]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[3]/div[3]/div[4]/p[2]/i[2]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[3]/div[3]/div[4]/p[2]/i[1]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[3]/div[3]/div[4]/p[2]/i[5]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[3]/div[3]/div[4]/p[2]/i[4]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[3]/div[3]/div[4]/ul[1]/li[1]/cite/a[1]/span
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+_______________
+Valutiamo l'entry: /html/body[1]/div[3]/div[3]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[3]/div[3]/div[4]/ul[1]/li[1]/cite
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[3]/div[3]/div[6]/div[2]/ul[1]/li[3]/a
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[3]/div[3]/div[4]/p[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[3]/div[3]/div[4]/table[4]/tbody[1]/tr[1]/td[1]/div[1]/b[1]/a
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[5]/ul[1]/li[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[3]/div[3]/div[4]/ul[1]/li[3]/cite/a[1]/span
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+_______________
+Valutiamo l'entry: /html/body[1]/div[3]/div[3]/div[4]/ul[1]/li[3]/cite
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[3]/div[3]/div[4]/h2[1]/span[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[3]/div[3]/div[4]/ul[1]/li[2]/cite/a[1]/span
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[3]/div[3]/div[4]/ul[1]/li[2]/cite
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Calculation of averages
+avg precision: 0.39333335
+avg recall: 0.66071427
+Calculation of Precision and Recall based on matching
+Matchings precision: tp (15) / R (125) = 0.12
+Matching recall: tp (15) / GT (40) = 0.375

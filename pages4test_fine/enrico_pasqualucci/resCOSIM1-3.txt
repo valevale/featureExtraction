@@ -1,0 +1,5071 @@
+Cerca
+---
+-
+1.0
+
+  Cerca
+ 
+/html/body[1]/div[2]/div[5]
+__________________
+Roma
+---
+-
+1.0
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.34869134
+
+             00198 
+             Roma 
+            
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.32566476
+Imprese edili Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.3157017
+Immobiliare e ristrutturazioni Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a/span
+-
+0.31076637
+Impresa edile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a
+-
+0.30696565
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.30696565
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.29439422
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.27399272
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.24267347
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.23677531
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.21150634
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.17206934
+
+       
+        LAG SPA
+        
+         60 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 8400198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]
+-
+0.17098273
+
+       
+        Co.ge.l
+        
+         40 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 4300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]
+-
+0.14965221
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.1472912
+
+       
+        Stretto Di Messina SPA
+        
+         80 m
+        
+        Dati
+       
+       
+        VIA NIZZA 14200198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]
+-
+0.14591442
+
+       
+        Eurocar Di Pasquale Rocco E C.snc
+        
+         60 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 8400198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]
+-
+0.14203718
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+-
+0.087341726
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+__________________
+Cerca
+---
+-
+1.0
+
+  Cerca
+ 
+/html/body[1]/div[2]/div[5]
+__________________
+www.pasqualuccicostruzioni.it
+---
+-
+1.0
+www.pasqualuccicostruzioni.it
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[4]/div[2]/span[1]/a
+__________________
+Roma
+---
+-
+1.0
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.34869134
+
+             00198 
+             Roma 
+            
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.32566476
+Imprese edili Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.3157017
+Immobiliare e ristrutturazioni Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a/span
+-
+0.31076637
+Impresa edile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a
+-
+0.30696565
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.30696565
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.29439422
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.27399272
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.24267347
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.23677531
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.21150634
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.17206934
+
+       
+        LAG SPA
+        
+         60 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 8400198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]
+-
+0.17098273
+
+       
+        Co.ge.l
+        
+         40 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 4300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]
+-
+0.14965221
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.1472912
+
+       
+        Stretto Di Messina SPA
+        
+         80 m
+        
+        Dati
+       
+       
+        VIA NIZZA 14200198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]
+-
+0.14591442
+
+       
+        Eurocar Di Pasquale Rocco E C.snc
+        
+         60 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 8400198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]
+-
+0.14203718
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+-
+0.087341726
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+__________________
+Roma
+---
+-
+1.0
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.34869134
+
+             00198 
+             Roma 
+            
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.32566476
+Imprese edili Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.3157017
+Immobiliare e ristrutturazioni Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a/span
+-
+0.31076637
+Impresa edile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a
+-
+0.30696565
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.30696565
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.29439422
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.27399272
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.24267347
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.23677531
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.21150634
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.17206934
+
+       
+        LAG SPA
+        
+         60 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 8400198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]
+-
+0.17098273
+
+       
+        Co.ge.l
+        
+         40 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 4300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]
+-
+0.14965221
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.1472912
+
+       
+        Stretto Di Messina SPA
+        
+         80 m
+        
+        Dati
+       
+       
+        VIA NIZZA 14200198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]
+-
+0.14591442
+
+       
+        Eurocar Di Pasquale Rocco E C.snc
+        
+         60 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 8400198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]
+-
+0.14203718
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+-
+0.087341726
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+__________________
+Roma
+---
+-
+1.0
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.40502468
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.34869134
+
+             00198 
+             Roma 
+            
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.32566476
+Imprese edili Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.3157017
+Immobiliare e ristrutturazioni Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a/span
+-
+0.31076637
+Impresa edile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a
+-
+0.30696565
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.30696565
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.29439422
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.27399272
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.24267347
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.23677531
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.21150634
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.17206934
+
+       
+        LAG SPA
+        
+         60 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 8400198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]
+-
+0.17098273
+
+       
+        Co.ge.l
+        
+         40 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 4300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]
+-
+0.14965221
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.1472912
+
+       
+        Stretto Di Messina SPA
+        
+         80 m
+        
+        Dati
+       
+       
+        VIA NIZZA 14200198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]
+-
+0.14591442
+
+       
+        Eurocar Di Pasquale Rocco E C.snc
+        
+         60 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 8400198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]
+-
+0.14203718
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+-
+0.087341726
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+__________________
+Azienda
+---
+-
+1.0
+Questa è la mia azienda
+/html/body[1]/div[5]/div[2]/div[1]/div[3]/div[1]/div[1]/a[4]
+-
+0.4237364
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.36049986
+ Visualizza la mappa con le aziende simili nei dintorni
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[7]/a
+__________________
+Cerca
+---
+-
+1.0
+
+  Cerca
+ 
+/html/body[1]/div[2]/div[5]
+__________________
+00198
+---
+-
+0.9163468
+
+             00198 
+             Roma 
+            
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+__________________
+Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+---
+-
+0.6519043
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.6519043
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.6470737
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+-
+0.5919598
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.5919598
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.5919598
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.5919598
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.5919598
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.5919598
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.5919598
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.44830602
+E-mail a Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.44830602
+
+          E-mail a Pasqualucci Enrico Ing. (Srl)✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.44830602
+ Più informazioni su Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.44586635
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.44586635
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.42732105
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.3973014
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.3624891
+Imprese edili
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a/span
+-
+0.3513868
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.34276125
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.34099448
+Imprese edili Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.32475233
+Impresa edile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a
+-
+0.30587736
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.29498065
+
+     Scrivi tu la prima recensione per Pasqualucci Enrico Ing. (Srl)!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.22323103
+Costruzioni Valerio Carducci Spa
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+-
+0.20957299
+Gia. Fi. Costruzioni S.p.a.
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a/span
+-
+0.13882478
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.13171647
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+__________________
+VIA SAVOIA, 39/A, 00198, Roma, Roma
+---
+-
+0.63654816
+
+             00198 
+             Roma 
+            
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.48176613
+V. SAVOIA. 39
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.4341823
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.31464046
+
+       
+        LAG SPA
+        
+         60 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 8400198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]
+-
+0.31261116
+
+       
+        Co.ge.l
+        
+         40 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 4300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]
+-
+0.26601076
+
+       
+        Eurocar Di Pasquale Rocco E C.snc
+        
+         60 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 8400198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]
+-
+0.17585453
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.17585453
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.17585453
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.17585453
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.17585453
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.17585453
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.17585453
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.15839708
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.15588309
+
+       
+        Stretto Di Messina SPA
+        
+         80 m
+        
+        Dati
+       
+       
+        VIA NIZZA 14200198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]
+-
+0.15029119
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+-
+0.14139788
+Imprese edili Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.13707207
+Immobiliare e ristrutturazioni Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a/span
+-
+0.13492925
+Impresa edile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a
+-
+0.13327904
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.13327904
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.12782076
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.11896279
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.105364524
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.10280364
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.091832295
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.03792223
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+__________________
+telefono di Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+---
+-
+0.5108029
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.5108029
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.50701797
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.3512725
+E-mail a Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.3512725
+
+          E-mail a Pasqualucci Enrico Ing. (Srl)✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.3512725
+ Più informazioni su Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.34936088
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.34936088
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.33482963
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.31130758
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.28403023
+Imprese edili
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a/span
+-
+0.27533093
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.26857233
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.26718798
+Imprese edili Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.25446138
+Impresa edile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a
+-
+0.23967178
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.23113362
+
+     Scrivi tu la prima recensione per Pasqualucci Enrico Ing. (Srl)!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.17491382
+Costruzioni Valerio Carducci Spa
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+-
+0.16421199
+Gia. Fi. Costruzioni S.p.a.
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a/span
+-
+0.10877687
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.103207126
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+__________________
+Report su Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+---
+-
+0.5108029
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.5108029
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.50701797
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.3512725
+E-mail a Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.3512725
+
+          E-mail a Pasqualucci Enrico Ing. (Srl)✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.3512725
+ Più informazioni su Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.34936088
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.34936088
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.33482963
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.31130758
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.28403023
+Imprese edili
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a/span
+-
+0.27533093
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.26857233
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.26718798
+Imprese edili Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.25446138
+Impresa edile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a
+-
+0.23967178
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.23113362
+
+     Scrivi tu la prima recensione per Pasqualucci Enrico Ing. (Srl)!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.17491382
+Costruzioni Valerio Carducci Spa
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+-
+0.16421199
+Gia. Fi. Costruzioni S.p.a.
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a/span
+-
+0.10877687
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.103207126
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+__________________
+ Report di Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+---
+-
+0.5108029
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.5108029
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.50701797
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.3512725
+E-mail a Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.3512725
+
+          E-mail a Pasqualucci Enrico Ing. (Srl)✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.3512725
+ Più informazioni su Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.34936088
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.34936088
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.33482963
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.31130758
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.28403023
+Imprese edili
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a/span
+-
+0.27533093
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.26857233
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.26718798
+Imprese edili Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.25446138
+Impresa edile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a
+-
+0.23967178
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.23113362
+
+     Scrivi tu la prima recensione per Pasqualucci Enrico Ing. (Srl)!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.17491382
+Costruzioni Valerio Carducci Spa
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+-
+0.16421199
+Gia. Fi. Costruzioni S.p.a.
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a/span
+-
+0.10877687
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.103207126
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+__________________
+Report su Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+---
+-
+0.5108029
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.5108029
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.50701797
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.46383312
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.3512725
+E-mail a Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.3512725
+
+          E-mail a Pasqualucci Enrico Ing. (Srl)✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.3512725
+ Più informazioni su Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.34936088
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.34936088
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.33482963
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.31130758
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.28403023
+Imprese edili
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a/span
+-
+0.27533093
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.26857233
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.26718798
+Imprese edili Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.25446138
+Impresa edile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a
+-
+0.23967178
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.23113362
+
+     Scrivi tu la prima recensione per Pasqualucci Enrico Ing. (Srl)!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.17491382
+Costruzioni Valerio Carducci Spa
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+-
+0.16421199
+Gia. Fi. Costruzioni S.p.a.
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a/span
+-
+0.10877687
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.103207126
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+__________________
+
+    
+      > 
+     
+      Lazio
+      > 
+     
+      Roma
+      > 
+     
+      Roma
+      | 
+     Attività > 
+     
+      Altri lavori specializzati di costruzione nca
+     
+    
+    Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+     Contatto Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+    
+    
+     
+      
+       
+        
+         
+          
+          Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+         
+         
+          
+          0623... 
+           
+            Codice Fiscale di Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+           
+         
+         
+          
+          0151... 
+           
+            Partita IVA di Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+           
+         
+         
+          
+          
+           
+             Report di Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+           
+         
+         
+          Sito Web
+          www.pasqualuccicostruzioni.it
+         
+         
+          
+          SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+         
+         
+          Attività
+          43.99 - Altri lavori specializzati di costruzione nca
+         
+        
+        
+         
+          
+          VIA SAVOIA, 39/A, 00198, Roma, Roma 
+         
+         
+          
+          Roma
+         
+         
+          
+          00198
+         
+         
+          
+          Roma
+         
+         
+          
+          Lazio
+         
+         
+          
+          
+         
+        
+       
+       
+        
+         
+          
+           
+            
+           
+           
+            
+             
+            
+           
+         
+        
+       
+      
+      
+       
+       
+       
+      
+      
+       
+         L'azienda Impresa Costruzioni Ing. Enrico Pasqualucci Srl si trova in VIA SAVOIA, 39/A, 00198, Roma, Roma. La sua attività è Codice Ateco 2007 (43.99) "Altri lavori specializzati di costruzione nca". Il report aggiornato è stato emesso il 15/08/2016. È possibile accedere alla scheda azienda di Impresa Costruzioni Ing. Enrico Pasqualucci Srl .  La forma giuridica della società Impresa Costruzioni Ing. Enrico Pasqualucci Srl è "SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale". 
+        
+       
+      
+      
+      
+       Report su Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+      
+      
+       
+        
+         
+         
+          
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+   
+---
+-
+0.5089377
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+-
+0.4749714
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.4749714
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.4749714
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.4749714
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.4749714
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.4749714
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.4749714
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.44795334
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.44795334
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.35723794
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.35723794
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.3423267
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.3182037
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.30805168
+E-mail a Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.30805168
+
+          E-mail a Pasqualucci Enrico Ing. (Srl)✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.30805168
+ Più informazioni su Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.28890914
+Imprese edili Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.28242296
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.28133887
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.2750924
+Impresa edile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a
+-
+0.2744173
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.24908291
+Imprese edili
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a/span
+-
+0.20269476
+
+     Scrivi tu la prima recensione per Pasqualucci Enrico Ing. (Srl)!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.19940998
+Costruzioni Valerio Carducci Spa
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+-
+0.19429252
+
+             00198 
+             Roma 
+            
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.1872094
+Gia. Fi. Costruzioni S.p.a.
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a/span
+-
+0.16636395
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.16217269
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.15778974
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+__________________
+Dati finanziari di Impresa Costruzioni Ing. Enrico Pasqualucci Srl:
+---
+-
+0.47573656
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.47573656
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.47221142
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+-
+0.43199125
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.43199125
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.43199125
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.43199125
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.43199125
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.43199125
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.43199125
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.32715783
+E-mail a Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.32715783
+
+          E-mail a Pasqualucci Enrico Ing. (Srl)✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.32715783
+ Più informazioni su Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.32537743
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.32537743
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.31184372
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.28993645
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.26453167
+Imprese edili
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a/span
+-
+0.25642958
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.250135
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.24884567
+Imprese edili Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.23699273
+Impresa edile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a
+-
+0.22321843
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.2152664
+
+     Scrivi tu la prima recensione per Pasqualucci Enrico Ing. (Srl)!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.1943844
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.18437423
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+-
+0.16290608
+Costruzioni Valerio Carducci Spa
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+-
+0.15293893
+Gia. Fi. Costruzioni S.p.a.
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a/span
+-
+0.10633881
+
+       
+        LAG SPA
+        
+         60 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 8400198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]
+-
+0.10566264
+
+       
+        Co.ge.l
+        
+         40 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 4300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]
+__________________
+Tutti i dati e le informazioni dell’azienda Impresa Costruzioni Ing. Enrico Pasqualucci Srl con sede in Roma provengono dalla banca dati di aziende di iCribis e vengono trattati e forniti da Cribis D&B (P.IVA 01691720468). Nella pagina corrente trovi, se disponibili, le informazioni sul Codice Fiscale di Impresa Costruzioni Ing. Enrico Pasqualucci Srl, telefono di Impresa Costruzioni Ing. Enrico Pasqualucci Srl o domicilio fiscale di Impresa Costruzioni Ing. Enrico Pasqualucci Srl. Inoltre, potrà conoscere i Dati commerciali di Impresa Costruzioni Ing. Enrico Pasqualucci Srl, come il Capitale Sociale, Fatturato, Risultati.. In ogni caso, le informazioni fornite sulle società devono essere considerate soltanto come un elemento da analizzare quando si valutano decisioni commerciali e non devono quindi determinare le stesse.
+---
+-
+0.44985697
+ Più informazioni su Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.44699284
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+-
+0.40138483
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.40138483
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.380661
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.380661
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.380661
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.380661
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.380661
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.380661
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.380661
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.2863047
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.2863047
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.27602708
+E-mail a Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.27602708
+
+          E-mail a Pasqualucci Enrico Ing. (Srl)✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.27435425
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.2731952
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.26020324
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.2550211
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.22318864
+Imprese edili
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a/span
+-
+0.22252572
+Imprese edili Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.21992896
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.21188366
+Impresa edile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a
+-
+0.18162292
+
+     Scrivi tu la prima recensione per Pasqualucci Enrico Ing. (Srl)!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.14370918
+Questa è la mia azienda
+/html/body[1]/div[5]/div[2]/div[1]/div[3]/div[1]/div[1]/a[4]
+-
+0.13823202
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.13744587
+Costruzioni Valerio Carducci Spa
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+-
+0.13110767
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+-
+0.12903646
+Gia. Fi. Costruzioni S.p.a.
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a/span
+-
+0.06013941
+
+       
+        LAG SPA
+        
+         60 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 8400198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]
+__________________
+Codice Fiscale di Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+---
+-
+0.43387568
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.43387568
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.4306607
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+-
+0.39397958
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.39397958
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.39397958
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.39397958
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.39397958
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.39397958
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.39397958
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.29837063
+E-mail a Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.29837063
+
+          E-mail a Pasqualucci Enrico Ing. (Srl)✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.29837063
+ Più informazioni su Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.2967469
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.2967469
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.28440404
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.26442447
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.24125507
+Imprese edili
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a/span
+-
+0.23386592
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.22812515
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.22694929
+Imprese edili Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.21613932
+Impresa edile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a
+-
+0.20357706
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.19632474
+
+     Scrivi tu la prima recensione per Pasqualucci Enrico Ing. (Srl)!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.14857168
+Costruzioni Valerio Carducci Spa
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+-
+0.13948156
+Gia. Fi. Costruzioni S.p.a.
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a/span
+-
+0.092395
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.08766406
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+__________________
+ Datti commerciali di Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+---
+-
+0.43387568
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.43387568
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.4306607
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+-
+0.39397958
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.39397958
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.39397958
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.39397958
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.39397958
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.39397958
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.39397958
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.29837063
+E-mail a Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.29837063
+
+          E-mail a Pasqualucci Enrico Ing. (Srl)✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.29837063
+ Più informazioni su Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.2967469
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.2967469
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.28440404
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.26442447
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.24125507
+Imprese edili
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a/span
+-
+0.23386592
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.22812515
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.22694929
+Imprese edili Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.21613932
+Impresa edile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a
+-
+0.20357706
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.19632474
+
+     Scrivi tu la prima recensione per Pasqualucci Enrico Ing. (Srl)!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.14857168
+Costruzioni Valerio Carducci Spa
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+-
+0.13948156
+Gia. Fi. Costruzioni S.p.a.
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a/span
+-
+0.092395
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.08766406
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+__________________
+Partita IVA di Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+---
+-
+0.43387568
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.43387568
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.4306607
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+-
+0.39397958
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.39397958
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.39397958
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.39397958
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.39397958
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.39397958
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.39397958
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.29837063
+E-mail a Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.29837063
+
+          E-mail a Pasqualucci Enrico Ing. (Srl)✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.29837063
+ Più informazioni su Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.2967469
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.2967469
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.28440404
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.26442447
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.24125507
+Imprese edili
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a/span
+-
+0.23386592
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.22812515
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.22694929
+Imprese edili Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.21613932
+Impresa edile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a
+-
+0.20357706
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.19632474
+
+     Scrivi tu la prima recensione per Pasqualucci Enrico Ing. (Srl)!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.14857168
+Costruzioni Valerio Carducci Spa
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+-
+0.13948156
+Gia. Fi. Costruzioni S.p.a.
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a/span
+-
+0.092395
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.08766406
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+__________________
+Impresa Costruzioni Ing. Enrico Pasqualucci Srl di Roma                                   
+
+ 
+  
+   Impresa Costruzioni Ing. Enrico Pasqualucci Srl di Roma
+  
+  
+   Tutta la Informazione di Impresa Costruzioni Ing. Enrico Pasqualucci Srl di Roma (Lazio). Telefono, indirizzo, vendite, impiegati, società equilibrio, ultime notizie su Impresa Costruzioni Ing. Enrico Pasqualucci Srl e molto di più
+  
+  
+   
+    
+     
+      
+     
+     
+      
+       
+       Cerca
+      
+     
+    
+   
+  
+  
+   
+   
+  
+  
+   
+    
+     
+     
+     
+      
+       
+        
+        Cerca
+       
+      
+     
+    
+   
+  
+  
+   
+   
+   
+   
+   
+   
+   
+  
+  
+   
+  
+  
+   
+   
+    
+   
+   
+    
+      > 
+     
+      Lazio
+      > 
+     
+      Roma
+      > 
+     
+      Roma
+      | 
+     Attività > 
+     
+      Altri lavori specializzati di costruzione nca
+     
+    
+    Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+     Contatto Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+    
+    
+     
+      
+       
+        
+         
+          
+          Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+         
+         
+          
+          0623... 
+           
+            Codice Fiscale di Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+           
+         
+         
+          
+          0151... 
+           
+            Partita IVA di Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+           
+         
+         
+          
+          
+           
+             Report di Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+           
+         
+         
+          Sito Web
+          www.pasqualuccicostruzioni.it
+         
+         
+          
+          SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+         
+         
+          Attività
+          43.99 - Altri lavori specializzati di costruzione nca
+         
+        
+        
+         
+          
+          VIA SAVOIA, 39/A, 00198, Roma, Roma 
+         
+         
+          
+          Roma
+         
+         
+          
+          00198
+         
+         
+          
+          Roma
+         
+         
+          
+          Lazio
+         
+         
+          
+          
+         
+        
+       
+       
+        
+         
+          
+           
+            
+           
+           
+            
+             
+            
+           
+         
+        
+       
+      
+      
+       
+       
+       
+      
+      
+       
+         L'azienda Impresa Costruzioni Ing. Enrico Pasqualucci Srl si trova in VIA SAVOIA, 39/A, 00198, Roma, Roma. La sua attività è Codice Ateco 2007 (43.99) "Altri lavori specializzati di costruzione nca". Il report aggiornato è stato emesso il 15/08/2016. È possibile accedere alla scheda azienda di Impresa Costruzioni Ing. Enrico Pasqualucci Srl .  La forma giuridica della società Impresa Costruzioni Ing. Enrico Pasqualucci Srl è "SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale". 
+        
+       
+      
+      
+      
+       Report su Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+      
+      
+       
+        
+         
+         
+          
+          
+          
+          
+          
+         
+        
+       
+      
+     
+    
+   
+   
+    Datti commerciali di Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+   
+    
+     
+      
+       
+        Ultimo bilancio
+        2015
+       
+       
+        Gamma di Capitale Sociale
+        Disponibile
+       
+       
+        Gamma di Fatturato
+        Disponibile
+       
+       
+        Gamma di Risultati
+        Disponibile
+       
+      
+     
+     Dati finanziari di Impresa Costruzioni Ing. Enrico Pasqualucci Srl:
+     L’ultimo bilancio depositato da Impresa Costruzioni Ing. Enrico Pasqualucci Srl nel registro delle imprese corrisponde all’anno 2015 e riporta un range di fatturato di 'Tra 6.000.000 e 30.000.000 Euro'.
+      Il fatturato di Impresa Costruzioni Ing. Enrico Pasqualucci Srl durante il 2015 è aumentato del 19,62% rispetto a 2013.
+      Il Capitale Sociale di Impresa Costruzioni Ing. Enrico Pasqualucci Srl durante il 2015 è rimasto invariato rispetto al 2013.
+      Il risultato netto ottenuto da Impresa Costruzioni Ing. Enrico Pasqualucci Srl durante il 2015, dopo gli oneri finanziari, le tasse e gli ammortamenti è diminuito del 29,53% rispetto a 2013.
+    
+    
+     
+      
+     
+     
+      
+     
+     
+      
+     
+    
+   
+   
+    
+     Report su Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+    
+    
+     
+      
+       
+       
+        
+        
+        
+        
+        
+       
+      
+     
+    
+   
+   
+    Aziende simili a Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+    Aziende simili a Impresa Costruzioni Ing. Enrico Pasqualucci Srl in Roma e la sua attività (Altri lavori specializzati di costruzione nca)
+    
+     
+      
+       Azienda
+       
+      
+     
+     
+      
+       ARSNOVA SOCIETA' A RESPONSABILITA' LIMITATA
+       SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+      
+      
+       M.T. TECNO DISTRIBUZIONE S.R.L. IN LIQUIDAZIONE
+       SOCIETA' A RESPONSABILITA' LIMITATA CON UNICO SOCIO - Società di capitale
+      
+      
+       CONSUD S.R.L.
+       SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+      
+      
+       SERVIZIO PONTEGGI S.R.L. IN LIQUIDAZIONE
+       SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+      
+      
+       CO.GE.A. S.R.L. IN LIQUIDAZIONE
+       SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+      
+      
+       ROMA RENT - SOCIETA' A RESPONSABILITA' LIMITATA IN LIQUIDAZIONE
+       SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+      
+      
+       ELEM - S.R.L.
+       SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+      
+      
+       C.M. COSTRUZIONI SOCIETA' A RESPONSABILITA' LIMITATA
+       SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+      
+      
+       TEKNO PONTEGGI 2001 SRL
+       SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+      
+      
+       BALDINI PONTEGGI E COSTRUZIONI SOCIETA' A RESPONSABILITA' LIMITAT A
+       SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+      
+     
+    
+   
+   
+   REGISTRATI GRATUITAMENTE!
+   2 REPORT IN OMAGGIO PER AVERE ULTERIORI INFORMAZIONI SULLE AZIENDE DI TUO INTERESSE.
+   
+   
+    
+     
+    
+    
+     
+     
+      
+      
+      
+      
+      
+     
+    
+   
+   
+    
+   
+   
+    
+     
+      
+      
+      
+      
+       
+        
+         
+         Cerca
+        
+       
+      
+     
+    
+   
+  
+  
+   
+    
+     
+      
+      CRIBIS D&B S.r.l.
+      Sede di Milano:
+      Via dei Valtorta, 48
+      20127 Milano
+     
+     
+     
+     
+     
+     
+     
+     
+    
+    
+     
+     
+      Tutti i dati e le informazioni dell’azienda Impresa Costruzioni Ing. Enrico Pasqualucci Srl con sede in Roma provengono dalla banca dati di aziende di iCribis e vengono trattati e forniti da Cribis D&B (P.IVA 01691720468). Nella pagina corrente trovi, se disponibili, le informazioni sul Codice Fiscale di Impresa Costruzioni Ing. Enrico Pasqualucci Srl, telefono di Impresa Costruzioni Ing. Enrico Pasqualucci Srl o domicilio fiscale di Impresa Costruzioni Ing. Enrico Pasqualucci Srl. Inoltre, potrà conoscere i Dati commerciali di Impresa Costruzioni Ing. Enrico Pasqualucci Srl, come il Capitale Sociale, Fatturato, Risultati.. In ogni caso, le informazioni fornite sulle società devono essere considerate soltanto come un elemento da analizzare quando si valutano decisioni commerciali e non devono quindi determinare le stesse.
+      
+     
+    
+   
+  
+  
+   
+   
+    
+    
+   
+  
+ 
+ 
+  
+  
+   
+   
+   
+   
+   
+   
+  
+ 
+
+---
+-
+0.42734766
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+-
+0.3826699
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.3826699
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.3826699
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.3826699
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.3826699
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.3826699
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.3826699
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.38132906
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.38132906
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.31984022
+ Più informazioni su Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.28781566
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.28781566
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.27580214
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.26223502
+E-mail a Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.26223502
+
+          E-mail a Pasqualucci Enrico Ing. (Srl)✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.25636694
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.25510415
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.25399014
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.23656696
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.23372552
+Imprese edili Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.22254784
+Impresa edile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a
+-
+0.21766597
+Imprese edili
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a/span
+-
+0.17254788
+
+     Scrivi tu la prima recensione per Pasqualucci Enrico Ing. (Srl)!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.15715605
+Costruzioni Valerio Carducci Spa
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+-
+0.14754069
+Gia. Fi. Costruzioni S.p.a.
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a/span
+-
+0.12980166
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.12307325
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+-
+0.096657366
+Questa è la mia azienda
+/html/body[1]/div[5]/div[2]/div[1]/div[3]/div[1]/div[1]/a[4]
+-
+0.08551935
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+__________________
+ L'azienda Impresa Costruzioni Ing. Enrico Pasqualucci Srl si trova in VIA SAVOIA, 39/A, 00198, Roma, Roma. La sua attività è Codice Ateco 2007 (43.99) "Altri lavori specializzati di costruzione nca". Il report aggiornato è stato emesso il 15/08/2016. È possibile accedere alla scheda azienda di Impresa Costruzioni Ing. Enrico Pasqualucci Srl .  La forma giuridica della società Impresa Costruzioni Ing. Enrico Pasqualucci Srl è "SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale". 
+---
+-
+0.3757927
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+-
+0.34063512
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.34063512
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.34063512
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.34063512
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.34063512
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.34063512
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.34063512
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.3289769
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.3289769
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.26170155
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.25620022
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.25620022
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.24550632
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.22820602
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.22623312
+E-mail a Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.22623312
+
+          E-mail a Pasqualucci Enrico Ing. (Srl)✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.22623312
+ Più informazioni su Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.20555446
+Imprese edili Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.2017677
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.19680378
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.19630788
+Questa è la mia azienda
+/html/body[1]/div[5]/div[2]/div[1]/div[3]/div[1]/div[1]/a[4]
+-
+0.19572404
+Impresa edile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a
+-
+0.18292649
+Imprese edili
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a/span
+-
+0.15020171
+Costruzioni Valerio Carducci Spa
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+-
+0.14885902
+
+     Scrivi tu la prima recensione per Pasqualucci Enrico Ing. (Srl)!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.14550847
+
+             00198 
+             Roma 
+            
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.14101185
+Gia. Fi. Costruzioni S.p.a.
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a/span
+-
+0.13008651
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.123382
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+__________________
+
+     
+      
+       
+        Ultimo bilancio
+        2015
+       
+       
+        Gamma di Capitale Sociale
+        Disponibile
+       
+       
+        Gamma di Fatturato
+        Disponibile
+       
+       
+        Gamma di Risultati
+        Disponibile
+       
+      
+     
+     Dati finanziari di Impresa Costruzioni Ing. Enrico Pasqualucci Srl:
+     L’ultimo bilancio depositato da Impresa Costruzioni Ing. Enrico Pasqualucci Srl nel registro delle imprese corrisponde all’anno 2015 e riporta un range di fatturato di 'Tra 6.000.000 e 30.000.000 Euro'.
+      Il fatturato di Impresa Costruzioni Ing. Enrico Pasqualucci Srl durante il 2015 è aumentato del 19,62% rispetto a 2013.
+      Il Capitale Sociale di Impresa Costruzioni Ing. Enrico Pasqualucci Srl durante il 2015 è rimasto invariato rispetto al 2013.
+      Il risultato netto ottenuto da Impresa Costruzioni Ing. Enrico Pasqualucci Srl durante il 2015, dopo gli oneri finanziari, le tasse e gli ammortamenti è diminuito del 29,53% rispetto a 2013.
+    
+---
+-
+0.3335112
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+-
+0.3181288
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.3181288
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.28887594
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.28887594
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.28887594
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.28887594
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.28887594
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.28887594
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.28887594
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.24167085
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.21877302
+E-mail a Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.21877302
+
+          E-mail a Pasqualucci Enrico Ing. (Srl)✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.21877302
+ Più informazioni su Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.21758246
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.21758246
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.21227331
+Imprese edili
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a/span
+-
+0.20853238
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.19968608
+Imprese edili Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.19388281
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.1901747
+Impresa edile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a
+-
+0.16726723
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.14926793
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.14395034
+
+     Scrivi tu la prima recensione per Pasqualucci Enrico Ing. (Srl)!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.108936585
+Costruzioni Valerio Carducci Spa
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+-
+0.10227147
+Gia. Fi. Costruzioni S.p.a.
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a/span
+-
+0.08241904
+Siti sociali
+/html/body[1]/div[5]/div[1]/ul[1]/li[4]/a
+-
+0.08036213
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.076223746
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+-
+0.0534813
+ultimo aggiornamento 5 mesi fa 
+/html/body[1]/div[5]/div[2]/div[1]/div[3]/div[1]/div[2]/span[1]
+__________________
+Gamma di Capitale Sociale
+---
+-
+0.32864106
+Siti sociali
+/html/body[1]/div[5]/div[1]/ul[1]/li[4]/a
+-
+0.25852317
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+__________________
+
+      > 
+     
+      Lazio
+      > 
+     
+      Roma
+      > 
+     
+      Roma
+      | 
+     Attività > 
+     
+      Altri lavori specializzati di costruzione nca
+     
+    
+---
+-
+0.28659433
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.13345496
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+-
+0.11607779
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.11607779
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.11607779
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.11607779
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.11607779
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.11607779
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.11607779
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.11051502
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.10843098
+Costruzioni Valerio Carducci Spa
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+-
+0.10485167
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+-
+0.1017968
+Gia. Fi. Costruzioni S.p.a.
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a/span
+-
+0.09993297
+
+             00198 
+             Roma 
+            
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.093333684
+Imprese edili Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.090478316
+Immobiliare e ristrutturazioni Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a/span
+-
+0.08906389
+Impresa edile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a
+-
+0.08797462
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.08797462
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.084371716
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.07852476
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.069548845
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.067858465
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.060616516
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.0493141
+
+       
+        LAG SPA
+        
+         60 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 8400198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]
+-
+0.049002685
+
+       
+        Co.ge.l
+        
+         40 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 4300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]
+-
+0.042212825
+
+       
+        Stretto Di Messina SPA
+        
+         80 m
+        
+        Dati
+       
+       
+        VIA NIZZA 14200198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]
+-
+0.041818246
+
+       
+        Eurocar Di Pasquale Rocco E C.snc
+        
+         60 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 8400198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]
+__________________
+2 REPORT IN OMAGGIO PER AVERE ULTERIORI INFORMAZIONI SULLE AZIENDE DI TUO INTERESSE.
+---
+-
+0.27487874
+Questa è la mia azienda
+/html/body[1]/div[5]/div[2]/div[1]/div[3]/div[1]/div[1]/a[4]
+-
+0.20245661
+ Più informazioni su Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.11647612
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.09909374
+ Visualizza la mappa con le aziende simili nei dintorni
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[7]/a
+-
+0.055010706
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+__________________
+
+        Ultimo bilancio
+        2015
+       
+---
+-
+0.20823222
+ultimo aggiornamento 5 mesi fa 
+/html/body[1]/div[5]/div[2]/div[1]/div[3]/div[1]/div[2]/span[1]
+__________________
+ROMA RENT - SOCIETA' A RESPONSABILITA' LIMITATA IN LIQUIDAZIONE
+---
+-
+0.16412582
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.066475004
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.066475004
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.066475004
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.066475004
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.066475004
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.066475004
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.066475004
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.05722925
+
+             00198 
+             Roma 
+            
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.05345
+Imprese edili Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.0518148
+Immobiliare e ristrutturazioni Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a/span
+-
+0.051004786
+Impresa edile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a
+-
+0.05038099
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.05038099
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.04831769
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.044969283
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.039828982
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.03886094
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.03471365
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.028241022
+
+       
+        LAG SPA
+        
+         60 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 8400198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]
+-
+0.028062683
+
+       
+        Co.ge.l
+        
+         40 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 4300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]
+-
+0.02456179
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.02417429
+
+       
+        Stretto Di Messina SPA
+        
+         80 m
+        
+        Dati
+       
+       
+        VIA NIZZA 14200198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]
+-
+0.023948323
+
+       
+        Eurocar Di Pasquale Rocco E C.snc
+        
+         60 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 8400198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]
+-
+0.023311967
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+-
+0.014335032
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+__________________
+Altri lavori specializzati di costruzione nca
+---
+-
+0.13757879
+Costruzioni Valerio Carducci Spa
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+-
+0.13728814
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+-
+0.12916124
+Gia. Fi. Costruzioni S.p.a.
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a/span
+-
+0.08555864
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.08117775
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+__________________
+C.M. COSTRUZIONI SOCIETA' A RESPONSABILITA' LIMITATA
+---
+-
+0.13369665
+Costruzioni Valerio Carducci Spa
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+-
+0.12551662
+Gia. Fi. Costruzioni S.p.a.
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a/span
+-
+0.08314438
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.07888711
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+-
+0.048417713
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+__________________
+43.99 - Altri lavori specializzati di costruzione nca
+---
+-
+0.12360774
+Costruzioni Valerio Carducci Spa
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+-
+0.12334661
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+-
+0.11604498
+Gia. Fi. Costruzioni S.p.a.
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a/span
+-
+0.07687021
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.072934195
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+__________________
+BALDINI PONTEGGI E COSTRUZIONI SOCIETA' A RESPONSABILITA' LIMITAT A
+---
+-
+0.120769285
+Costruzioni Valerio Carducci Spa
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+-
+0.11338021
+Gia. Fi. Costruzioni S.p.a.
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a/span
+-
+0.075105004
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.07125938
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+-
+0.043736126
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+__________________
+TEKNO PONTEGGI 2001 SRL
+---
+-
+0.11361401
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.11361401
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.10345458
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.10345458
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.10345458
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.10345458
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.10345458
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.10345458
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.10345458
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.07879099
+E-mail a Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.07879099
+
+          E-mail a Pasqualucci Enrico Ing. (Srl)✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.07879099
+ Più informazioni su Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.078368686
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.078368686
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.075155154
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.06994115
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.06696307
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+-
+0.061939284
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.060432635
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.053978845
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.0520689
+
+     Scrivi tu la prima recensione per Pasqualucci Enrico Ing. (Srl)!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+__________________
+
+    Aziende simili a Impresa Costruzioni Ing. Enrico Pasqualucci Srl
+    Aziende simili a Impresa Costruzioni Ing. Enrico Pasqualucci Srl in Roma e la sua attività (Altri lavori specializzati di costruzione nca)
+    
+     
+      
+       Azienda
+       
+      
+     
+     
+      
+       ARSNOVA SOCIETA' A RESPONSABILITA' LIMITATA
+       SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+      
+      
+       M.T. TECNO DISTRIBUZIONE S.R.L. IN LIQUIDAZIONE
+       SOCIETA' A RESPONSABILITA' LIMITATA CON UNICO SOCIO - Società di capitale
+      
+      
+       CONSUD S.R.L.
+       SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+      
+      
+       SERVIZIO PONTEGGI S.R.L. IN LIQUIDAZIONE
+       SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+      
+      
+       CO.GE.A. S.R.L. IN LIQUIDAZIONE
+       SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+      
+      
+       ROMA RENT - SOCIETA' A RESPONSABILITA' LIMITATA IN LIQUIDAZIONE
+       SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+      
+      
+       ELEM - S.R.L.
+       SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+      
+      
+       C.M. COSTRUZIONI SOCIETA' A RESPONSABILITA' LIMITATA
+       SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+      
+      
+       TEKNO PONTEGGI 2001 SRL
+       SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+      
+      
+       BALDINI PONTEGGI E COSTRUZIONI SOCIETA' A RESPONSABILITA' LIMITAT A
+       SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+      
+     
+    
+   
+---
+-
+0.07765434
+Aziende simili nelle vicinanze Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.068228915
+
+    Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+    
+    
+    
+    
+    Impresa edile, Ristrutturazioni, Lavori di costruzione
+     
+     Pasqualucci Enrico Ing. (Srl) è iscritta nelle categorie:
+    
+    
+     Immobiliare e ristrutturazioni
+     Imprese edili
+    
+    
+    
+      Più informazioni su Pasqualucci Enrico Ing. (Srl)
+    
+   
+/html/body[1]/div[5]/div[2]/div[1]/div[5]
+-
+0.06477112
+Questa è la mia azienda
+/html/body[1]/div[5]/div[2]/div[1]/div[3]/div[1]/div[1]/a[4]
+-
+0.058445904
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.058445904
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]/small[1]
+-
+0.058445904
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.058445904
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.058445904
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.058445904
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.058445904
+Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.055064283
+Ricerche simili Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.05427241
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.05427241
+Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.04395863
+Orari Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[4]/div[1]/div[1]/h2[1]
+-
+0.04395863
+Recensioni Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.042123783
+Descrizione Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.04129879
+Costruzioni Valerio Carducci Spa
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+-
+0.039313376
+ Visualizza la mappa con le aziende simili nei dintorni
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[7]/a
+-
+0.03915541
+Galleria Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.03877199
+Gia. Fi. Costruzioni S.p.a.
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a/span
+-
+0.037322428
+E-mail a Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.037322428
+
+          E-mail a Pasqualucci Enrico Ing. (Srl)✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.037322428
+ Più informazioni su Pasqualucci Enrico Ing. (Srl)
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.034619145
+Siti sociali Pasqualucci Enrico Ing. (Srl), Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.03257019
+Imprese edili Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.03101256
+Impresa edile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a
+-
+0.028974144
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.027489362
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+-
+0.026824875
+Imprese edili
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a/span
+-
+0.024557764
+
+     Scrivi tu la prima recensione per Pasqualucci Enrico Ing. (Srl)!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+__________________
+
+     
+      
+      CRIBIS D&B S.r.l.
+      Sede di Milano:
+      Via dei Valtorta, 48
+      20127 Milano
+     
+     
+     
+     
+     
+     
+     
+     
+    
+---
+-
+0.052194152
+
+       
+        LAG SPA
+        
+         60 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 8400198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]
+-
+0.051862273
+
+       
+        Co.ge.l
+        
+         40 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 4300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]
+-
+0.045355752
+
+       
+        Gia. Fi. Costruzioni S.p.a.
+        
+         10 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA00198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]
+-
+0.04463651
+
+       
+        Stretto Di Messina SPA
+        
+         80 m
+        
+        Dati
+       
+       
+        VIA NIZZA 14200198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]
+-
+0.044217177
+
+       
+        Eurocar Di Pasquale Rocco E C.snc
+        
+         60 m
+        
+        Dati
+       
+       
+        VIA SAVOIA 8400198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]
+-
+0.043036576
+
+       
+        Costruzioni Valerio Carducci Spa
+        
+         30 m
+        
+        Dati
+       
+       
+        VIA CIVITAVECCHIA 300198  Roma
+       
+      
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]
+__________________

@@ -1,0 +1,21 @@
+Valutiamo l'entry: /html/body[1]/div[3]/div[3]/div[4]/p[2]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[3]/h1[1]
+No gruppo di matching in R
+Precision: 1.0
+Recall: 0.0
+_______________
+Valutiamo l'entry: //html[1]/body[1]/div[3]/h1[1]
+Non è presente in GT
+Precision: 0.0
+Recall: 1.0
+_______________
+Calculation of averages
+avg precision: 0.6666667
+avg recall: 0.33333334
+Calculation of Precision and Recall based on matching
+Matchings precision: tp (0) / R (13) = 0.0
+Matching recall: tp (0) / GT (23) = 0.0

@@ -1,0 +1,3601 @@
+ Milano
+---
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.81714326
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.7213057
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.63081086
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.60884774
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.60884774
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.57826585
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5137235
+Elettricista Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.47691253
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.4006251
+Lavori Elettrici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.32673052
+Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.304778
+Promozione E Riscatto Punti Premi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+-
+0.16750151
+ALFACARS S.R.L. "TAXI PRIVATO" - "N.C.C." - MILANO - BERGAMO - BRESCIA - VERONA
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/ul[1]/li[3]/a/span[1]
+-
+0.13192476
+ Il magazine della Rete Civica di Milano! ... Una breve rassegna, da diversi fra i numerosissimi siti, di come viene interpretato la festa del "fuoco di Sant'Antonio ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[41]/td[2]/p[1]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.81714326
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.7213057
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.63081086
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.60884774
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.60884774
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.57826585
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5137235
+Elettricista Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.47691253
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.4006251
+Lavori Elettrici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.32673052
+Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.304778
+Promozione E Riscatto Punti Premi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+-
+0.16750151
+ALFACARS S.R.L. "TAXI PRIVATO" - "N.C.C." - MILANO - BERGAMO - BRESCIA - VERONA
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/ul[1]/li[3]/a/span[1]
+-
+0.13192476
+ Il magazine della Rete Civica di Milano! ... Una breve rassegna, da diversi fra i numerosissimi siti, di come viene interpretato la festa del "fuoco di Sant'Antonio ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[41]/td[2]/p[1]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.81714326
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.7213057
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.63081086
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.60884774
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.60884774
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.57826585
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5137235
+Elettricista Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.47691253
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.4006251
+Lavori Elettrici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.32673052
+Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.304778
+Promozione E Riscatto Punti Premi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+-
+0.16750151
+ALFACARS S.R.L. "TAXI PRIVATO" - "N.C.C." - MILANO - BERGAMO - BRESCIA - VERONA
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/ul[1]/li[3]/a/span[1]
+-
+0.13192476
+ Il magazine della Rete Civica di Milano! ... Una breve rassegna, da diversi fra i numerosissimi siti, di come viene interpretato la festa del "fuoco di Sant'Antonio ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[41]/td[2]/p[1]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.81714326
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.7213057
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.63081086
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.60884774
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.60884774
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.57826585
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5137235
+Elettricista Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.47691253
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.4006251
+Lavori Elettrici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.32673052
+Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.304778
+Promozione E Riscatto Punti Premi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+-
+0.16750151
+ALFACARS S.R.L. "TAXI PRIVATO" - "N.C.C." - MILANO - BERGAMO - BRESCIA - VERONA
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/ul[1]/li[3]/a/span[1]
+-
+0.13192476
+ Il magazine della Rete Civica di Milano! ... Una breve rassegna, da diversi fra i numerosissimi siti, di come viene interpretato la festa del "fuoco di Sant'Antonio ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[41]/td[2]/p[1]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.81714326
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.7213057
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.63081086
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.60884774
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.60884774
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.57826585
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5137235
+Elettricista Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.47691253
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.4006251
+Lavori Elettrici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.32673052
+Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.304778
+Promozione E Riscatto Punti Premi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+-
+0.16750151
+ALFACARS S.R.L. "TAXI PRIVATO" - "N.C.C." - MILANO - BERGAMO - BRESCIA - VERONA
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/ul[1]/li[3]/a/span[1]
+-
+0.13192476
+ Il magazine della Rete Civica di Milano! ... Una breve rassegna, da diversi fra i numerosissimi siti, di come viene interpretato la festa del "fuoco di Sant'Antonio ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[41]/td[2]/p[1]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.81714326
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.7213057
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.63081086
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.60884774
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.60884774
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.57826585
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5137235
+Elettricista Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.47691253
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.4006251
+Lavori Elettrici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.32673052
+Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.304778
+Promozione E Riscatto Punti Premi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+-
+0.16750151
+ALFACARS S.R.L. "TAXI PRIVATO" - "N.C.C." - MILANO - BERGAMO - BRESCIA - VERONA
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/ul[1]/li[3]/a/span[1]
+-
+0.13192476
+ Il magazine della Rete Civica di Milano! ... Una breve rassegna, da diversi fra i numerosissimi siti, di come viene interpretato la festa del "fuoco di Sant'Antonio ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[41]/td[2]/p[1]
+__________________
+Milano
+---
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.81714326
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.7213057
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.63081086
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.60884774
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.60884774
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.57826585
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5137235
+Elettricista Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.47691253
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.4006251
+Lavori Elettrici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.32673052
+Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.304778
+Promozione E Riscatto Punti Premi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+-
+0.16750151
+ALFACARS S.R.L. "TAXI PRIVATO" - "N.C.C." - MILANO - BERGAMO - BRESCIA - VERONA
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/ul[1]/li[3]/a/span[1]
+-
+0.13192476
+ Il magazine della Rete Civica di Milano! ... Una breve rassegna, da diversi fra i numerosissimi siti, di come viene interpretato la festa del "fuoco di Sant'Antonio ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[41]/td[2]/p[1]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.81714326
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.7213057
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.63081086
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.60884774
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.60884774
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.57826585
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5137235
+Elettricista Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.47691253
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.4006251
+Lavori Elettrici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.32673052
+Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.304778
+Promozione E Riscatto Punti Premi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+-
+0.16750151
+ALFACARS S.R.L. "TAXI PRIVATO" - "N.C.C." - MILANO - BERGAMO - BRESCIA - VERONA
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/ul[1]/li[3]/a/span[1]
+-
+0.13192476
+ Il magazine della Rete Civica di Milano! ... Una breve rassegna, da diversi fra i numerosissimi siti, di come viene interpretato la festa del "fuoco di Sant'Antonio ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[41]/td[2]/p[1]
+__________________
+ Milano
+---
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.81714326
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.7213057
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.63081086
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.60884774
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.60884774
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.57826585
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5137235
+Elettricista Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.47691253
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.4006251
+Lavori Elettrici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.32673052
+Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.304778
+Promozione E Riscatto Punti Premi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+-
+0.16750151
+ALFACARS S.R.L. "TAXI PRIVATO" - "N.C.C." - MILANO - BERGAMO - BRESCIA - VERONA
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/ul[1]/li[3]/a/span[1]
+-
+0.13192476
+ Il magazine della Rete Civica di Milano! ... Una breve rassegna, da diversi fra i numerosissimi siti, di come viene interpretato la festa del "fuoco di Sant'Antonio ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[41]/td[2]/p[1]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.81714326
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.7213057
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.63081086
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.60884774
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.60884774
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.57826585
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5137235
+Elettricista Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.47691253
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.4006251
+Lavori Elettrici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.32673052
+Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.304778
+Promozione E Riscatto Punti Premi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+-
+0.16750151
+ALFACARS S.R.L. "TAXI PRIVATO" - "N.C.C." - MILANO - BERGAMO - BRESCIA - VERONA
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/ul[1]/li[3]/a/span[1]
+-
+0.13192476
+ Il magazine della Rete Civica di Milano! ... Una breve rassegna, da diversi fra i numerosissimi siti, di come viene interpretato la festa del "fuoco di Sant'Antonio ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[41]/td[2]/p[1]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.81714326
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.7213057
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.63081086
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.60884774
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.60884774
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.57826585
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5137235
+Elettricista Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.47691253
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.4006251
+Lavori Elettrici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.32673052
+Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.304778
+Promozione E Riscatto Punti Premi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+-
+0.16750151
+ALFACARS S.R.L. "TAXI PRIVATO" - "N.C.C." - MILANO - BERGAMO - BRESCIA - VERONA
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/ul[1]/li[3]/a/span[1]
+-
+0.13192476
+ Il magazine della Rete Civica di Milano! ... Una breve rassegna, da diversi fra i numerosissimi siti, di come viene interpretato la festa del "fuoco di Sant'Antonio ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[41]/td[2]/p[1]
+__________________
+ Lombardia
+---
+-
+0.7981639
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5522596
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.48760962
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.3295868
+via Eugenio Carpi 14MI 20131MilanoMilano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]
+-
+0.3225565
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.18170728
+ Ospedale S.Antonio Gallarate ... Da giovedì 15 settembre 2011, entra a regime la circolare della regione Lombardia che prevede il riconoscimento del diritto di ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/p[1]
+__________________
+antonio pagani srl a Milano
+---
+-
+0.6969689
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.6969689
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.5651853
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.54899514
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
+-
+0.54899514
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.54899514
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/h3[1]/a
+-
+0.54899514
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.54899514
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.4293832
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+0.4293832
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
+-
+0.4293832
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+0.4293832
+Milano
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.36948428
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.3508676
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.2874003
+Valutazioni di Antonio Pagani:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.28160095
+Planet House srl - Agenzia Immobiliare
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
+-
+0.24829766
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.22058426
+Elettricista Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.2187629
+Contenuti correlati per: Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.20477825
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.1835425
+Antonio Pagani per Cantù — Candidato sindaco per le ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.18201464
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+-
+0.18178786
+Padre Antonio Pagani, dell'Ordine dei Francescani minori è il ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/span[1]
+-
+0.17202172
+Lavori Elettrici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.1487268
+FAN ART - Production Designer di Antonio Calabrese - Pagani …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/span[1]
+-
+0.14029261
+Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.13086656
+Promozione E Riscatto Punti Premi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+-
+0.12231431
+Sant' Antonio
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.12231431
+Antonio Borghesi
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/span[1]
+-
+0.10982386
+Ipazia di Alessandria: martire pagana - Maat
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+__________________
+ 0270630363
+---
+-
+0.67576313
+39 0270630363
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[4]
+-
+0.67576313
+39 0270630363
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/ul[1]/li[2]/a/strong[1]
+__________________
+
+        
+         Via Carpi Eugenio, 5
+       
+---
+-
+0.6695213
+via Eugenio Carpi 14
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.57882494
+via Eugenio Carpi 14, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.57882494
+
+           via Eugenio Carpi 14, MI 20131
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.47405377
+via Eugenio Carpi 14MI 20131MilanoMilano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]
+-
+0.4637077
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.12337599
+ [Comunicato stampa del 13 luglio 2012] Quale futuro ci aspetta? Domande per alcune risposte indispensabili. Lo scorso 5 luglio la Giunta Comunale ha approvato e ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+-
+0.068784826
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+__________________
+
+        
+         Via Carpi Eugenio, 13
+       
+---
+-
+0.6695213
+via Eugenio Carpi 14
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.57882494
+via Eugenio Carpi 14, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.57882494
+
+           via Eugenio Carpi 14, MI 20131
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.47405377
+via Eugenio Carpi 14MI 20131MilanoMilano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]
+-
+0.4637077
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.12337599
+ [Comunicato stampa del 13 luglio 2012] Quale futuro ci aspetta? Domande per alcune risposte indispensabili. Lo scorso 5 luglio la Giunta Comunale ha approvato e ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+-
+0.068784826
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+__________________
+
+        
+         Via Carpi Eugenio, 11
+       
+---
+-
+0.63525426
+via Eugenio Carpi 14
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.5491999
+via Eugenio Carpi 14, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.5491999
+
+           via Eugenio Carpi 14, MI 20131
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.449791
+via Eugenio Carpi 14MI 20131MilanoMilano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]
+-
+0.4399745
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.06526432
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+__________________
+
+        
+         Via Carpi Eugenio, 7
+       
+---
+-
+0.63525426
+via Eugenio Carpi 14
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.5491999
+via Eugenio Carpi 14, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.5491999
+
+           via Eugenio Carpi 14, MI 20131
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.449791
+via Eugenio Carpi 14MI 20131MilanoMilano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]
+-
+0.4399745
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.06526432
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+__________________
+antonio pagani srl
+---
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/h3[1]/a
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.47494662
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.47494662
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.31822962
+Valutazioni di Antonio Pagani:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.31180817
+Planet House srl - Agenzia Immobiliare
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
+-
+0.27832463
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.24222952
+Contenuti correlati per: Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.20323104
+Antonio Pagani per Cantù — Candidato sindaco per le ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.20153928
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+-
+0.20128816
+Padre Antonio Pagani, dell'Ordine dei Francescani minori è il ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/span[1]
+-
+0.16468069
+FAN ART - Production Designer di Antonio Calabrese - Pagani …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/span[1]
+-
+0.13543491
+Sant' Antonio
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.13543491
+Antonio Borghesi
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/span[1]
+-
+0.12160462
+Ipazia di Alessandria: martire pagana - Maat
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.10809217
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.10612515
+ Padre Antonio Pagani, dell'Ordine dei Francescani minori è il fondatore delle suore Dimesse. Nacque a Venezia nel 1526, si laureò a Padova in Diritto civile ed ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.10485281
+Chi e' Antonio Modeo - waatp.it
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/span[1]
+-
+0.09898272
+Marilina e Antonio Di Lauro
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/span[1]
+-
+0.081754856
+Bibbia e Religione | Antonio Cucinotta
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.08014615
+Azienda Ospedaliera S. Antonio Gallarate
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/span[1]
+-
+0.076835684
+Reparti Ospedale S. Antonio Abate - GALLARATE
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[39]/td[2]/span[1]
+-
+0.07587025
+PARROCCHIA S. ANTONIO DI PADOVA - Benvenuti nel mio sito …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/span[1]
+-
+0.06903479
+ Chi e' Antonio Modeo - waatp.it.Guarda anche Antonio Modeo: foto, profili reti sociali, videoclip, weblink, ai blogs, alle notizie, libri, profili microblogs  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/p[1]
+-
+0.06847218
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+-
+0.064545356
+ IPAZIA DI ALESSANDRIA: MARTIRE PAGANA . Il 30 aprile del 311 Galerio, a nome anche di Costantino e di Licinio, emanò l'editto di Nicomedia.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/p[1]
+-
+0.06352238
+Antonio Fineschi - Concessionaria Mercedes-Benz Toscana - Prato
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+antonio pagani srl
+---
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/h3[1]/a
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.47494662
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.47494662
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.31822962
+Valutazioni di Antonio Pagani:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.31180817
+Planet House srl - Agenzia Immobiliare
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
+-
+0.27832463
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.24222952
+Contenuti correlati per: Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.20323104
+Antonio Pagani per Cantù — Candidato sindaco per le ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.20153928
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+-
+0.20128816
+Padre Antonio Pagani, dell'Ordine dei Francescani minori è il ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/span[1]
+-
+0.16468069
+FAN ART - Production Designer di Antonio Calabrese - Pagani …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/span[1]
+-
+0.13543491
+Sant' Antonio
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.13543491
+Antonio Borghesi
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/span[1]
+-
+0.12160462
+Ipazia di Alessandria: martire pagana - Maat
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.10809217
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.10612515
+ Padre Antonio Pagani, dell'Ordine dei Francescani minori è il fondatore delle suore Dimesse. Nacque a Venezia nel 1526, si laureò a Padova in Diritto civile ed ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.10485281
+Chi e' Antonio Modeo - waatp.it
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/span[1]
+-
+0.09898272
+Marilina e Antonio Di Lauro
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/span[1]
+-
+0.081754856
+Bibbia e Religione | Antonio Cucinotta
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.08014615
+Azienda Ospedaliera S. Antonio Gallarate
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/span[1]
+-
+0.076835684
+Reparti Ospedale S. Antonio Abate - GALLARATE
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[39]/td[2]/span[1]
+-
+0.07587025
+PARROCCHIA S. ANTONIO DI PADOVA - Benvenuti nel mio sito …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/span[1]
+-
+0.06903479
+ Chi e' Antonio Modeo - waatp.it.Guarda anche Antonio Modeo: foto, profili reti sociali, videoclip, weblink, ai blogs, alle notizie, libri, profili microblogs  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/p[1]
+-
+0.06847218
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+-
+0.064545356
+ IPAZIA DI ALESSANDRIA: MARTIRE PAGANA . Il 30 aprile del 311 Galerio, a nome anche di Costantino e di Licinio, emanò l'editto di Nicomedia.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/p[1]
+-
+0.06352238
+Antonio Fineschi - Concessionaria Mercedes-Benz Toscana - Prato
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+antonio pagani srl
+---
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/h3[1]/a
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.47494662
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.47494662
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.31822962
+Valutazioni di Antonio Pagani:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.31180817
+Planet House srl - Agenzia Immobiliare
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
+-
+0.27832463
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.24222952
+Contenuti correlati per: Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.20323104
+Antonio Pagani per Cantù — Candidato sindaco per le ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.20153928
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+-
+0.20128816
+Padre Antonio Pagani, dell'Ordine dei Francescani minori è il ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/span[1]
+-
+0.16468069
+FAN ART - Production Designer di Antonio Calabrese - Pagani …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/span[1]
+-
+0.13543491
+Sant' Antonio
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.13543491
+Antonio Borghesi
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/span[1]
+-
+0.12160462
+Ipazia di Alessandria: martire pagana - Maat
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.10809217
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.10612515
+ Padre Antonio Pagani, dell'Ordine dei Francescani minori è il fondatore delle suore Dimesse. Nacque a Venezia nel 1526, si laureò a Padova in Diritto civile ed ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.10485281
+Chi e' Antonio Modeo - waatp.it
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/span[1]
+-
+0.09898272
+Marilina e Antonio Di Lauro
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/span[1]
+-
+0.081754856
+Bibbia e Religione | Antonio Cucinotta
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.08014615
+Azienda Ospedaliera S. Antonio Gallarate
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/span[1]
+-
+0.076835684
+Reparti Ospedale S. Antonio Abate - GALLARATE
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[39]/td[2]/span[1]
+-
+0.07587025
+PARROCCHIA S. ANTONIO DI PADOVA - Benvenuti nel mio sito …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/span[1]
+-
+0.06903479
+ Chi e' Antonio Modeo - waatp.it.Guarda anche Antonio Modeo: foto, profili reti sociali, videoclip, weblink, ai blogs, alle notizie, libri, profili microblogs  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/p[1]
+-
+0.06847218
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+-
+0.064545356
+ IPAZIA DI ALESSANDRIA: MARTIRE PAGANA . Il 30 aprile del 311 Galerio, a nome anche di Costantino e di Licinio, emanò l'editto di Nicomedia.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/p[1]
+-
+0.06352238
+Antonio Fineschi - Concessionaria Mercedes-Benz Toscana - Prato
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+antonio pagani srl
+---
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/h3[1]/a
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.47494662
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.47494662
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.31822962
+Valutazioni di Antonio Pagani:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.31180817
+Planet House srl - Agenzia Immobiliare
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
+-
+0.27832463
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.24222952
+Contenuti correlati per: Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.20323104
+Antonio Pagani per Cantù — Candidato sindaco per le ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.20153928
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+-
+0.20128816
+Padre Antonio Pagani, dell'Ordine dei Francescani minori è il ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/span[1]
+-
+0.16468069
+FAN ART - Production Designer di Antonio Calabrese - Pagani …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/span[1]
+-
+0.13543491
+Sant' Antonio
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.13543491
+Antonio Borghesi
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/span[1]
+-
+0.12160462
+Ipazia di Alessandria: martire pagana - Maat
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.10809217
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.10612515
+ Padre Antonio Pagani, dell'Ordine dei Francescani minori è il fondatore delle suore Dimesse. Nacque a Venezia nel 1526, si laureò a Padova in Diritto civile ed ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.10485281
+Chi e' Antonio Modeo - waatp.it
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/span[1]
+-
+0.09898272
+Marilina e Antonio Di Lauro
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/span[1]
+-
+0.081754856
+Bibbia e Religione | Antonio Cucinotta
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.08014615
+Azienda Ospedaliera S. Antonio Gallarate
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/span[1]
+-
+0.076835684
+Reparti Ospedale S. Antonio Abate - GALLARATE
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[39]/td[2]/span[1]
+-
+0.07587025
+PARROCCHIA S. ANTONIO DI PADOVA - Benvenuti nel mio sito …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/span[1]
+-
+0.06903479
+ Chi e' Antonio Modeo - waatp.it.Guarda anche Antonio Modeo: foto, profili reti sociali, videoclip, weblink, ai blogs, alle notizie, libri, profili microblogs  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/p[1]
+-
+0.06847218
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+-
+0.064545356
+ IPAZIA DI ALESSANDRIA: MARTIRE PAGANA . Il 30 aprile del 311 Galerio, a nome anche di Costantino e di Licinio, emanò l'editto di Nicomedia.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/p[1]
+-
+0.06352238
+Antonio Fineschi - Concessionaria Mercedes-Benz Toscana - Prato
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+antonio pagani srl
+---
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/h3[1]/a
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.47494662
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.47494662
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.31822962
+Valutazioni di Antonio Pagani:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.31180817
+Planet House srl - Agenzia Immobiliare
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
+-
+0.27832463
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.24222952
+Contenuti correlati per: Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.20323104
+Antonio Pagani per Cantù — Candidato sindaco per le ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.20153928
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+-
+0.20128816
+Padre Antonio Pagani, dell'Ordine dei Francescani minori è il ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/span[1]
+-
+0.16468069
+FAN ART - Production Designer di Antonio Calabrese - Pagani …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/span[1]
+-
+0.13543491
+Sant' Antonio
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.13543491
+Antonio Borghesi
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/span[1]
+-
+0.12160462
+Ipazia di Alessandria: martire pagana - Maat
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.10809217
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.10612515
+ Padre Antonio Pagani, dell'Ordine dei Francescani minori è il fondatore delle suore Dimesse. Nacque a Venezia nel 1526, si laureò a Padova in Diritto civile ed ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.10485281
+Chi e' Antonio Modeo - waatp.it
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/span[1]
+-
+0.09898272
+Marilina e Antonio Di Lauro
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/span[1]
+-
+0.081754856
+Bibbia e Religione | Antonio Cucinotta
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.08014615
+Azienda Ospedaliera S. Antonio Gallarate
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/span[1]
+-
+0.076835684
+Reparti Ospedale S. Antonio Abate - GALLARATE
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[39]/td[2]/span[1]
+-
+0.07587025
+PARROCCHIA S. ANTONIO DI PADOVA - Benvenuti nel mio sito …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/span[1]
+-
+0.06903479
+ Chi e' Antonio Modeo - waatp.it.Guarda anche Antonio Modeo: foto, profili reti sociali, videoclip, weblink, ai blogs, alle notizie, libri, profili microblogs  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/p[1]
+-
+0.06847218
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+-
+0.064545356
+ IPAZIA DI ALESSANDRIA: MARTIRE PAGANA . Il 30 aprile del 311 Galerio, a nome anche di Costantino e di Licinio, emanò l'editto di Nicomedia.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/p[1]
+-
+0.06352238
+Antonio Fineschi - Concessionaria Mercedes-Benz Toscana - Prato
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+antonio pagani srl
+---
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/h3[1]/a
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.47494662
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.47494662
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.31822962
+Valutazioni di Antonio Pagani:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.31180817
+Planet House srl - Agenzia Immobiliare
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
+-
+0.27832463
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.24222952
+Contenuti correlati per: Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.20323104
+Antonio Pagani per Cantù — Candidato sindaco per le ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.20153928
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+-
+0.20128816
+Padre Antonio Pagani, dell'Ordine dei Francescani minori è il ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/span[1]
+-
+0.16468069
+FAN ART - Production Designer di Antonio Calabrese - Pagani …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/span[1]
+-
+0.13543491
+Sant' Antonio
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.13543491
+Antonio Borghesi
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/span[1]
+-
+0.12160462
+Ipazia di Alessandria: martire pagana - Maat
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.10809217
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.10612515
+ Padre Antonio Pagani, dell'Ordine dei Francescani minori è il fondatore delle suore Dimesse. Nacque a Venezia nel 1526, si laureò a Padova in Diritto civile ed ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.10485281
+Chi e' Antonio Modeo - waatp.it
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/span[1]
+-
+0.09898272
+Marilina e Antonio Di Lauro
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/span[1]
+-
+0.081754856
+Bibbia e Religione | Antonio Cucinotta
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.08014615
+Azienda Ospedaliera S. Antonio Gallarate
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/span[1]
+-
+0.076835684
+Reparti Ospedale S. Antonio Abate - GALLARATE
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[39]/td[2]/span[1]
+-
+0.07587025
+PARROCCHIA S. ANTONIO DI PADOVA - Benvenuti nel mio sito …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/span[1]
+-
+0.06903479
+ Chi e' Antonio Modeo - waatp.it.Guarda anche Antonio Modeo: foto, profili reti sociali, videoclip, weblink, ai blogs, alle notizie, libri, profili microblogs  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/p[1]
+-
+0.06847218
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+-
+0.064545356
+ IPAZIA DI ALESSANDRIA: MARTIRE PAGANA . Il 30 aprile del 311 Galerio, a nome anche di Costantino e di Licinio, emanò l'editto di Nicomedia.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/p[1]
+-
+0.06352238
+Antonio Fineschi - Concessionaria Mercedes-Benz Toscana - Prato
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+antonio pagani srl
+---
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/h3[1]/a
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.47494662
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.47494662
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.31822962
+Valutazioni di Antonio Pagani:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.31180817
+Planet House srl - Agenzia Immobiliare
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
+-
+0.27832463
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.24222952
+Contenuti correlati per: Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.20323104
+Antonio Pagani per Cantù — Candidato sindaco per le ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.20153928
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+-
+0.20128816
+Padre Antonio Pagani, dell'Ordine dei Francescani minori è il ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/span[1]
+-
+0.16468069
+FAN ART - Production Designer di Antonio Calabrese - Pagani …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/span[1]
+-
+0.13543491
+Sant' Antonio
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.13543491
+Antonio Borghesi
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/span[1]
+-
+0.12160462
+Ipazia di Alessandria: martire pagana - Maat
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.10809217
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.10612515
+ Padre Antonio Pagani, dell'Ordine dei Francescani minori è il fondatore delle suore Dimesse. Nacque a Venezia nel 1526, si laureò a Padova in Diritto civile ed ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.10485281
+Chi e' Antonio Modeo - waatp.it
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/span[1]
+-
+0.09898272
+Marilina e Antonio Di Lauro
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/span[1]
+-
+0.081754856
+Bibbia e Religione | Antonio Cucinotta
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.08014615
+Azienda Ospedaliera S. Antonio Gallarate
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/span[1]
+-
+0.076835684
+Reparti Ospedale S. Antonio Abate - GALLARATE
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[39]/td[2]/span[1]
+-
+0.07587025
+PARROCCHIA S. ANTONIO DI PADOVA - Benvenuti nel mio sito …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/span[1]
+-
+0.06903479
+ Chi e' Antonio Modeo - waatp.it.Guarda anche Antonio Modeo: foto, profili reti sociali, videoclip, weblink, ai blogs, alle notizie, libri, profili microblogs  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/p[1]
+-
+0.06847218
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+-
+0.064545356
+ IPAZIA DI ALESSANDRIA: MARTIRE PAGANA . Il 30 aprile del 311 Galerio, a nome anche di Costantino e di Licinio, emanò l'editto di Nicomedia.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/p[1]
+-
+0.06352238
+Antonio Fineschi - Concessionaria Mercedes-Benz Toscana - Prato
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+antonio pagani srl
+---
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/h3[1]/a
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.6078857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.47494662
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.47494662
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.31822962
+Valutazioni di Antonio Pagani:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.31180817
+Planet House srl - Agenzia Immobiliare
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
+-
+0.27832463
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.24222952
+Contenuti correlati per: Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.20323104
+Antonio Pagani per Cantù — Candidato sindaco per le ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.20153928
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+-
+0.20128816
+Padre Antonio Pagani, dell'Ordine dei Francescani minori è il ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/span[1]
+-
+0.16468069
+FAN ART - Production Designer di Antonio Calabrese - Pagani …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/span[1]
+-
+0.13543491
+Sant' Antonio
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.13543491
+Antonio Borghesi
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/span[1]
+-
+0.12160462
+Ipazia di Alessandria: martire pagana - Maat
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.10809217
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.10612515
+ Padre Antonio Pagani, dell'Ordine dei Francescani minori è il fondatore delle suore Dimesse. Nacque a Venezia nel 1526, si laureò a Padova in Diritto civile ed ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.10485281
+Chi e' Antonio Modeo - waatp.it
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/span[1]
+-
+0.09898272
+Marilina e Antonio Di Lauro
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/span[1]
+-
+0.081754856
+Bibbia e Religione | Antonio Cucinotta
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.08014615
+Azienda Ospedaliera S. Antonio Gallarate
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/span[1]
+-
+0.076835684
+Reparti Ospedale S. Antonio Abate - GALLARATE
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[39]/td[2]/span[1]
+-
+0.07587025
+PARROCCHIA S. ANTONIO DI PADOVA - Benvenuti nel mio sito …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/span[1]
+-
+0.06903479
+ Chi e' Antonio Modeo - waatp.it.Guarda anche Antonio Modeo: foto, profili reti sociali, videoclip, weblink, ai blogs, alle notizie, libri, profili microblogs  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/p[1]
+-
+0.06847218
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+-
+0.064545356
+ IPAZIA DI ALESSANDRIA: MARTIRE PAGANA . Il 30 aprile del 311 Galerio, a nome anche di Costantino e di Licinio, emanò l'editto di Nicomedia.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/p[1]
+-
+0.06352238
+Antonio Fineschi - Concessionaria Mercedes-Benz Toscana - Prato
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+ V. E. Carpi, 14
+---
+-
+0.52788335
+via Eugenio Carpi 14
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.457083
+via Eugenio Carpi 14, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.457083
+
+           via Eugenio Carpi 14, MI 20131
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.36678296
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.17726454
+via Eugenio Carpi 14MI 20131MilanoMilano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]
+-
+0.1278161
+ Incarichi: Componente della Commissione speciale per l'esame di disegni di legge di conversione di Decreti-legge. Componente della commissione "V Bilancio Tesoro e ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/p[1]
+__________________
+Aziende Milano
+---
+-
+0.48120233
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+0.48120233
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
+-
+0.48120233
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+0.48120233
+Milano
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.43977213
+Azienda Ospedaliera S. Antonio Gallarate
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/span[1]
+-
+0.39321122
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.347094
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.30354765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.29297894
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.29297894
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.27826288
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.24720494
+Elettricista Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.22949141
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.19278175
+Lavori Elettrici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.1572235
+Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.14665988
+Promozione E Riscatto Punti Premi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+-
+0.08060212
+ALFACARS S.R.L. "TAXI PRIVATO" - "N.C.C." - MILANO - BERGAMO - BRESCIA - VERONA
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/ul[1]/li[3]/a/span[1]
+-
+0.0634825
+ Il magazine della Rete Civica di Milano! ... Una breve rassegna, da diversi fra i numerosissimi siti, di come viene interpretato la festa del "fuoco di Sant'Antonio ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[41]/td[2]/p[1]
+__________________
+Aziende Milano > 
+---
+-
+0.48120233
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+0.48120233
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
+-
+0.48120233
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+0.48120233
+Milano
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.43977213
+Azienda Ospedaliera S. Antonio Gallarate
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/span[1]
+-
+0.39321122
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.347094
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.30354765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.29297894
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.29297894
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.27826288
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.24720494
+Elettricista Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.22949141
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.19278175
+Lavori Elettrici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.1572235
+Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.14665988
+Promozione E Riscatto Punti Premi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+-
+0.08060212
+ALFACARS S.R.L. "TAXI PRIVATO" - "N.C.C." - MILANO - BERGAMO - BRESCIA - VERONA
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/ul[1]/li[3]/a/span[1]
+-
+0.0634825
+ Il magazine della Rete Civica di Milano! ... Una breve rassegna, da diversi fra i numerosissimi siti, di come viene interpretato la festa del "fuoco di Sant'Antonio ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[41]/td[2]/p[1]
+__________________
+Aziende Lombardia
+---
+-
+0.47595
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.40272233
+Azienda Ospedaliera S. Antonio Gallarate
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/span[1]
+-
+0.32931578
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.2907646
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.19653463
+via Eugenio Carpi 14MI 20131MilanoMilano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]
+-
+0.1923424
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.10835315
+ Ospedale S.Antonio Gallarate ... Da giovedì 15 settembre 2011, entra a regime la circolare della regione Lombardia che prevede il riconoscimento del diritto di ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/p[1]
+__________________
+Aziende Lombardia > 
+---
+-
+0.47595
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.40272233
+Azienda Ospedaliera S. Antonio Gallarate
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/span[1]
+-
+0.32931578
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.2907646
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.19653463
+via Eugenio Carpi 14MI 20131MilanoMilano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]
+-
+0.1923424
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.10835315
+ Ospedale S.Antonio Gallarate ... Da giovedì 15 settembre 2011, entra a regime la circolare della regione Lombardia che prevede il riconoscimento del diritto di ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/p[1]
+__________________
+Mappa antonio pagani srl
+---
+-
+0.43213248
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
+-
+0.43213248
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.43213248
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/h3[1]/a
+-
+0.43213248
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.43213248
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.33762905
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.33762905
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.22622238
+Valutazioni di Antonio Pagani:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.22165753
+Planet House srl - Agenzia Immobiliare
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
+-
+0.19785483
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.1721956
+Contenuti correlati per: Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.14447245
+Antonio Pagani per Cantù — Candidato sindaco per le ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.1432698
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+-
+0.1430913
+Padre Antonio Pagani, dell'Ordine dei Francescani minori è il ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/span[1]
+-
+0.11706785
+FAN ART - Production Designer di Antonio Calabrese - Pagani …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/span[1]
+-
+0.096277684
+Sant' Antonio
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.096277684
+Antonio Borghesi
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/span[1]
+-
+0.08644603
+Ipazia di Alessandria: martire pagana - Maat
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.076840326
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.07544202
+ Padre Antonio Pagani, dell'Ordine dei Francescani minori è il fondatore delle suore Dimesse. Nacque a Venezia nel 1526, si laureò a Padova in Diritto civile ed ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.074537545
+Chi e' Antonio Modeo - waatp.it
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/span[1]
+-
+0.070364624
+Marilina e Antonio Di Lauro
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/span[1]
+-
+0.05811772
+Bibbia e Religione | Antonio Cucinotta
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.05697412
+Azienda Ospedaliera S. Antonio Gallarate
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/span[1]
+-
+0.05462079
+Reparti Ospedale S. Antonio Abate - GALLARATE
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[39]/td[2]/span[1]
+-
+0.053934485
+PARROCCHIA S. ANTONIO DI PADOVA - Benvenuti nel mio sito …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/span[1]
+-
+0.04907531
+ Chi e' Antonio Modeo - waatp.it.Guarda anche Antonio Modeo: foto, profili reti sociali, videoclip, weblink, ai blogs, alle notizie, libri, profili microblogs  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/p[1]
+-
+0.04867536
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+-
+0.045883864
+ IPAZIA DI ALESSANDRIA: MARTIRE PAGANA . Il 30 aprile del 311 Galerio, a nome anche di Costantino e di Licinio, emanò l'editto di Nicomedia.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/p[1]
+-
+0.045156658
+Antonio Fineschi - Concessionaria Mercedes-Benz Toscana - Prato
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+Trova antonio pagani srl sulla mappa, in V. E. Carpi, 14 a Milano:
+---
+-
+0.35789636
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.35789636
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.32907066
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.3186847
+via Eugenio Carpi 14
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.29022494
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.28191125
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
+-
+0.28191125
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.28191125
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/h3[1]/a
+-
+0.28191125
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.28191125
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.27594233
+via Eugenio Carpi 14, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.27594233
+
+           via Eugenio Carpi 14, MI 20131
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.22049004
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+0.22049004
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
+-
+0.22049004
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+0.22049004
+Milano
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.20710738
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+-
+0.18973169
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.18017194
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.14758122
+Valutazioni di Antonio Pagani:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.14460322
+Planet House srl - Agenzia Immobiliare
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
+-
+0.12750186
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.11327091
+Elettricista Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.112335645
+Contenuti correlati per: Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.10701512
+via Eugenio Carpi 14MI 20131MilanoMilano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]
+-
+0.09424982
+Antonio Pagani per Cantù — Candidato sindaco per le ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.0933488
+Padre Antonio Pagani, dell'Ordine dei Francescani minori è il ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/span[1]
+-
+0.08833385
+Lavori Elettrici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.077162944
+ Incarichi: Componente della Commissione speciale per l'esame di disegni di legge di conversione di Decreti-legge. Componente della commissione "V Bilancio Tesoro e ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/p[1]
+-
+0.076371826
+FAN ART - Production Designer di Antonio Calabrese - Pagani …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/span[1]
+__________________
+Vuoi telefonare a antonio pagani srl?
+---
+-
+0.35346526
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
+-
+0.35346526
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.35346526
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/h3[1]/a
+-
+0.35346526
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.35346526
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.27616566
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.27616566
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.18503992
+Valutazioni di Antonio Pagani:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.18130606
+Planet House srl - Agenzia Immobiliare
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
+-
+0.16183652
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.1408484
+Contenuti correlati per: Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.11817209
+Antonio Pagani per Cantù — Candidato sindaco per le ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.11718837
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+-
+0.11704237
+Padre Antonio Pagani, dell'Ordine dei Francescani minori è il ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/span[1]
+-
+0.09575634
+FAN ART - Production Designer di Antonio Calabrese - Pagani …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/span[1]
+-
+0.07875089
+Sant' Antonio
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.07875089
+Antonio Borghesi
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/span[1]
+-
+0.070709035
+Ipazia di Alessandria: martire pagana - Maat
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.062851995
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.061708245
+ Padre Antonio Pagani, dell'Ordine dei Francescani minori è il fondatore delle suore Dimesse. Nacque a Venezia nel 1526, si laureò a Padova in Diritto civile ed ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.06096842
+Chi e' Antonio Modeo - waatp.it
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/span[1]
+-
+0.057555158
+Marilina e Antonio Di Lauro
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/span[1]
+-
+0.047537725
+Bibbia e Religione | Antonio Cucinotta
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.046602316
+Azienda Ospedaliera S. Antonio Gallarate
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/span[1]
+-
+0.04467739
+Reparti Ospedale S. Antonio Abate - GALLARATE
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[39]/td[2]/span[1]
+-
+0.044116028
+PARROCCHIA S. ANTONIO DI PADOVA - Benvenuti nel mio sito …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/span[1]
+-
+0.040141433
+ Chi e' Antonio Modeo - waatp.it.Guarda anche Antonio Modeo: foto, profili reti sociali, videoclip, weblink, ai blogs, alle notizie, libri, profili microblogs  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/p[1]
+-
+0.039814293
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+-
+0.037530974
+ IPAZIA DI ALESSANDRIA: MARTIRE PAGANA . Il 30 aprile del 311 Galerio, a nome anche di Costantino e di Licinio, emanò l'editto di Nicomedia.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/p[1]
+-
+0.036936153
+Antonio Fineschi - Concessionaria Mercedes-Benz Toscana - Prato
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+Scrivi la tua recensione su antonio pagani srl:
+---
+-
+0.35346526
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
+-
+0.35346526
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.35346526
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/h3[1]/a
+-
+0.35346526
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.35346526
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.27616566
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.27616566
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.18503992
+Valutazioni di Antonio Pagani:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.18130606
+Planet House srl - Agenzia Immobiliare
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
+-
+0.16183652
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.1408484
+Contenuti correlati per: Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.11817209
+Antonio Pagani per Cantù — Candidato sindaco per le ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.11718837
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+-
+0.11704237
+Padre Antonio Pagani, dell'Ordine dei Francescani minori è il ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/span[1]
+-
+0.09575634
+FAN ART - Production Designer di Antonio Calabrese - Pagani …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/span[1]
+-
+0.07875089
+Sant' Antonio
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.07875089
+Antonio Borghesi
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/span[1]
+-
+0.070709035
+Ipazia di Alessandria: martire pagana - Maat
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.062851995
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.061708245
+ Padre Antonio Pagani, dell'Ordine dei Francescani minori è il fondatore delle suore Dimesse. Nacque a Venezia nel 1526, si laureò a Padova in Diritto civile ed ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.06096842
+Chi e' Antonio Modeo - waatp.it
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/span[1]
+-
+0.057555158
+Marilina e Antonio Di Lauro
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/span[1]
+-
+0.047537725
+Bibbia e Religione | Antonio Cucinotta
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.046602316
+Azienda Ospedaliera S. Antonio Gallarate
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/span[1]
+-
+0.04467739
+Reparti Ospedale S. Antonio Abate - GALLARATE
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[39]/td[2]/span[1]
+-
+0.044116028
+PARROCCHIA S. ANTONIO DI PADOVA - Benvenuti nel mio sito …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/span[1]
+-
+0.040141433
+ Chi e' Antonio Modeo - waatp.it.Guarda anche Antonio Modeo: foto, profili reti sociali, videoclip, weblink, ai blogs, alle notizie, libri, profili microblogs  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/p[1]
+-
+0.039814293
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+-
+0.037530974
+ IPAZIA DI ALESSANDRIA: MARTIRE PAGANA . Il 30 aprile del 311 Galerio, a nome anche di Costantino e di Licinio, emanò l'editto di Nicomedia.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/p[1]
+-
+0.036936153
+Antonio Fineschi - Concessionaria Mercedes-Benz Toscana - Prato
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+Bergamo
+---
+-
+0.30937055
+ALFACARS S.R.L. "TAXI PRIVATO" - "N.C.C." - MILANO - BERGAMO - BRESCIA - VERONA
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/ul[1]/li[3]/a/span[1]
+__________________
+Brescia
+---
+-
+0.30937055
+ALFACARS S.R.L. "TAXI PRIVATO" - "N.C.C." - MILANO - BERGAMO - BRESCIA - VERONA
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/ul[1]/li[3]/a/span[1]
+__________________
+Capoluoghi di provincia della regione Lombardia
+---
+-
+0.30190727
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.20889343
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.19508001
+ Ospedale S.Antonio Gallarate ... Da giovedì 15 settembre 2011, entra a regime la circolare della regione Lombardia che prevede il riconoscimento del diritto di ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/p[1]
+-
+0.18443942
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.14177419
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+-
+0.12466694
+via Eugenio Carpi 14MI 20131MilanoMilano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]
+-
+0.12200771
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+__________________
+Telefonare.it mette a tua disposizione i contatti di antonio pagani srl
+---
+-
+0.2741857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
+-
+0.2741857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.2741857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/h3[1]/a
+-
+0.2741857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.2741857
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.21422377
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.21422377
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.14353687
+Valutazioni di Antonio Pagani:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.14064048
+Planet House srl - Agenzia Immobiliare
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
+-
+0.1255378
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.10925717
+Contenuti correlati per: Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.09166698
+Antonio Pagani per Cantù — Candidato sindaco per le ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.09090391
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+-
+0.09079065
+Padre Antonio Pagani, dell'Ordine dei Francescani minori è il ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/span[1]
+-
+0.074278906
+FAN ART - Production Designer di Antonio Calabrese - Pagani …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/span[1]
+-
+0.061087664
+Sant' Antonio
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.061087664
+Antonio Borghesi
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/span[1]
+-
+0.05484953
+Ipazia di Alessandria: martire pagana - Maat
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.048754767
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.04786755
+ Padre Antonio Pagani, dell'Ordine dei Francescani minori è il fondatore delle suore Dimesse. Nacque a Venezia nel 1526, si laureò a Padova in Diritto civile ed ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.047293663
+Chi e' Antonio Modeo - waatp.it
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/span[1]
+-
+0.044645965
+Marilina e Antonio Di Lauro
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/span[1]
+-
+0.036875375
+Bibbia e Religione | Antonio Cucinotta
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.03614977
+Azienda Ospedaliera S. Antonio Gallarate
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/span[1]
+-
+0.034656588
+Reparti Ospedale S. Antonio Abate - GALLARATE
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[39]/td[2]/span[1]
+-
+0.034221135
+PARROCCHIA S. ANTONIO DI PADOVA - Benvenuti nel mio sito …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/span[1]
+-
+0.031138014
+ Chi e' Antonio Modeo - waatp.it.Guarda anche Antonio Modeo: foto, profili reti sociali, videoclip, weblink, ai blogs, alle notizie, libri, profili microblogs  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/p[1]
+-
+0.03088425
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+-
+0.02911306
+ IPAZIA DI ALESSANDRIA: MARTIRE PAGANA . Il 30 aprile del 311 Galerio, a nome anche di Costantino e di Licinio, emanò l'editto di Nicomedia.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/p[1]
+-
+0.028651653
+Antonio Fineschi - Concessionaria Mercedes-Benz Toscana - Prato
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+antonio pagani srl non risponde se chiami il numero di telefono 0270630363?
+---
+-
+0.25813025
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
+-
+0.25813025
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.25813025
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/h3[1]/a
+-
+0.25813025
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.25813025
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.2278481
+39 0270630363
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[4]
+-
+0.2278481
+39 0270630363
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/ul[1]/li[2]/a/strong[1]
+-
+0.20167951
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.20167951
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.1351318
+Valutazioni di Antonio Pagani:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.13240503
+Planet House srl - Agenzia Immobiliare
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
+-
+0.11818672
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.10285942
+Contenuti correlati per: Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.08629925
+Antonio Pagani per Cantù — Candidato sindaco per le ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.08558087
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+-
+0.08547424
+Padre Antonio Pagani, dell'Ordine dei Francescani minori è il ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/span[1]
+-
+0.069929376
+FAN ART - Production Designer di Antonio Calabrese - Pagani …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/span[1]
+-
+0.057510562
+Sant' Antonio
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.057510562
+Antonio Borghesi
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/span[1]
+-
+0.051637724
+Ipazia di Alessandria: martire pagana - Maat
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.045899842
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.04506458
+ Padre Antonio Pagani, dell'Ordine dei Francescani minori è il fondatore delle suore Dimesse. Nacque a Venezia nel 1526, si laureò a Padova in Diritto civile ed ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.0445243
+Chi e' Antonio Modeo - waatp.it
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/span[1]
+-
+0.042031646
+Marilina e Antonio Di Lauro
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/span[1]
+-
+0.034716073
+Bibbia e Religione | Antonio Cucinotta
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.034032952
+Azienda Ospedaliera S. Antonio Gallarate
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/span[1]
+-
+0.03262721
+Reparti Ospedale S. Antonio Abate - GALLARATE
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[39]/td[2]/span[1]
+-
+0.032217257
+PARROCCHIA S. ANTONIO DI PADOVA - Benvenuti nel mio sito …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/span[1]
+-
+0.029314673
+ Chi e' Antonio Modeo - waatp.it.Guarda anche Antonio Modeo: foto, profili reti sociali, videoclip, weblink, ai blogs, alle notizie, libri, profili microblogs  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/p[1]
+-
+0.029075766
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+__________________
+mitek impianti srl
+---
+-
+0.19381745
+Planet House srl - Agenzia Immobiliare
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
+-
+0.1252752
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+__________________
+emmegi gomme srl
+---
+-
+0.19381745
+Planet House srl - Agenzia Immobiliare
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
+-
+0.1252752
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+__________________
+Puoi provare a contattare le aziende più vicine a antonio pagani srl per verificare il numero di telefono e gli orari di apertura al pubblico:
+---
+-
+0.1807563
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
+-
+0.1807563
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.1807563
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/h3[1]/a
+-
+0.1807563
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.1807563
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.15402906
+Azienda Ospedaliera S. Antonio Gallarate
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/span[1]
+-
+0.14122653
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.14122653
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.107670605
+Orari messe « Diocesi di Nocera Inferiore-Sarno
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[25]/td[2]/span[1]
+-
+0.09462635
+Valutazioni di Antonio Pagani:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.092716925
+Planet House srl - Agenzia Immobiliare
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
+-
+0.08276051
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.07202754
+Contenuti correlati per: Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.06043125
+Antonio Pagani per Cantù — Candidato sindaco per le ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.059928194
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+-
+0.05985353
+Padre Antonio Pagani, dell'Ordine dei Francescani minori è il ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/span[1]
+-
+0.048968207
+FAN ART - Production Designer di Antonio Calabrese - Pagani …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/span[1]
+-
+0.040271904
+Sant' Antonio
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.040271904
+Antonio Borghesi
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/span[1]
+-
+0.036159433
+Ipazia di Alessandria: martire pagana - Maat
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.03214147
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.031556576
+ Padre Antonio Pagani, dell'Ordine dei Francescani minori è il fondatore delle suore Dimesse. Nacque a Venezia nel 1526, si laureò a Padova in Diritto civile ed ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.031178242
+Chi e' Antonio Modeo - waatp.it
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/span[1]
+-
+0.029432753
+Marilina e Antonio Di Lauro
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/span[1]
+-
+0.024310008
+Bibbia e Religione | Antonio Cucinotta
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.02284728
+Reparti Ospedale S. Antonio Abate - GALLARATE
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[39]/td[2]/span[1]
+-
+0.022560205
+PARROCCHIA S. ANTONIO DI PADOVA - Benvenuti nel mio sito …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/span[1]
+-
+0.020527666
+ Chi e' Antonio Modeo - waatp.it.Guarda anche Antonio Modeo: foto, profili reti sociali, videoclip, weblink, ai blogs, alle notizie, libri, profili microblogs  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/p[1]
+-
+0.020360371
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+-
+0.019192718
+ IPAZIA DI ALESSANDRIA: MARTIRE PAGANA . Il 30 aprile del 311 Galerio, a nome anche di Costantino e di Licinio, emanò l'editto di Nicomedia.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/p[1]
+__________________
+
+        
+         Via Monte Nevoso, 12
+       
+---
+-
+0.17087014
+via Eugenio Carpi 14
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.1485809
+via Eugenio Carpi 14, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.1485809
+
+           via Eugenio Carpi 14, MI 20131
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.12238296
+via Eugenio Carpi 14MI 20131MilanoMilano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]
+-
+0.11977246
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.09112317
+ Home; Diocesi. Anno Pastorale 2011/12. Sosta Ecclesiale. Lettera del Vescovo; Informazioni e note; Relatori; Cortili dell’Evangelizzazione; Logo Sosta Ecclesiale  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.09112317
+ Home; Diocesi. Anno Pastorale 2011/12. Sosta Ecclesiale. Lettera del Vescovo; Informazioni e note; Relatori; Cortili dell’Evangelizzazione; Logo Sosta Ecclesiale  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[25]/td[2]/p[1]
+-
+0.057034086
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+__________________
+societa' di tecnologie e ricerche srl
+---
+-
+0.16509609
+Planet House srl - Agenzia Immobiliare
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
+-
+0.106710956
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+__________________
+
+        
+         Via Monte Nevoso, 10
+       
+---
+-
+0.16174327
+via Eugenio Carpi 14
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.14064458
+via Eugenio Carpi 14, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.14064458
+
+           via Eugenio Carpi 14, MI 20131
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.11584599
+via Eugenio Carpi 14MI 20131MilanoMilano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]
+-
+0.113374926
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.053987663
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+__________________
+
+        
+         Via Monte Nevoso, 16
+       
+---
+-
+0.16174327
+via Eugenio Carpi 14
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.14064458
+via Eugenio Carpi 14, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.14064458
+
+           via Eugenio Carpi 14, MI 20131
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.11584599
+via Eugenio Carpi 14MI 20131MilanoMilano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]
+-
+0.113374926
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.053987663
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+__________________
+
+        
+         Via Porpora Nicola Antonio, 169
+       
+---
+-
+0.15838744
+via Eugenio Carpi 14
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.1377265
+via Eugenio Carpi 14, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.1377265
+
+           via Eugenio Carpi 14, MI 20131
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.12463643
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
+-
+0.12463643
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.12463643
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/h3[1]/a
+-
+0.12463643
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.12463643
+Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.11344243
+via Eugenio Carpi 14MI 20131MilanoMilano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]
+-
+0.11102263
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.097871706
+ ANTONIO PAGANI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.097871706
+Antonio Pagani Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.08956376
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+-
+0.072455995
+Sant' Antonio
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.072455995
+Antonio Borghesi
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/span[1]
+-
+0.065866016
+Valutazioni di Antonio Pagani:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.057655383
+Antonio Pagani - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.056094952
+Chi e' Antonio Modeo - waatp.it
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/span[1]
+-
+0.05295453
+Marilina e Antonio Di Lauro
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/span[1]
+-
+0.05021179
+Contenuti correlati per: Antonio Pagani
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.043737832
+Bibbia e Religione | Antonio Cucinotta
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.042877194
+Azienda Ospedaliera S. Antonio Gallarate
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/span[1]
+-
+0.04215388
+Antonio Pagani per Cantù — Candidato sindaco per le ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.04175206
+Padre Antonio Pagani, dell'Ordine dei Francescani minori è il ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/span[1]
+-
+0.041106135
+Reparti Ospedale S. Antonio Abate - GALLARATE
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[39]/td[2]/span[1]
+-
+0.040589646
+PARROCCHIA S. ANTONIO DI PADOVA - Benvenuti nel mio sito …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/span[1]
+-
+0.03693276
+ Chi e' Antonio Modeo - waatp.it.Guarda anche Antonio Modeo: foto, profili reti sociali, videoclip, weblink, ai blogs, alle notizie, libri, profili microblogs  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[31]/td[2]/p[1]
+-
+0.034175113
+FAN ART - Production Designer di Antonio Calabrese - Pagani …
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/span[1]
+-
+0.033983685
+Antonio Fineschi - Concessionaria Mercedes-Benz Toscana - Prato
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+-
+0.03174972
+ 2012: Antonio Seracini: Uguali e diversi: pp. 69: euro 10,00: Pietro Barlassina Prefazione di Antonio Seracini: Quaderno d'aria: pp. 236: euro 14,00  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[47]/td[2]/p[1]
+__________________
+pulito pulito srl
+---
+-
+0.14624506
+Planet House srl - Agenzia Immobiliare
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
+-
+0.09452646
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+__________________
+Sesto San Giovanni
+---
+-
+0.1195186
+ Nato a San Floro (CZ), vive e lavora a Roma. Giornalista, scrittore, collaboratore di periodici, riviste, del sito www.paesionline.ite corrispondente de "il ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+__________________
+San Donato Milanese
+---
+-
+0.1195186
+ Nato a San Floro (CZ), vive e lavora a Roma. Giornalista, scrittore, collaboratore di periodici, riviste, del sito www.paesionline.ite corrispondente de "il ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+__________________

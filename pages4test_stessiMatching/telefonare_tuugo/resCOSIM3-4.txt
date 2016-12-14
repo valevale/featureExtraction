@@ -1,0 +1,3123 @@
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+0.78226525
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.63745266
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.5317495
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5317495
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.48183787
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.4768788
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.41542
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+0.39905334
+ Affari & Servizi Professionali, Scienza - Ingegneria - Consulenza, Ingegneri, Ingegneria, Laboratori Di Sperimentazione, Laboratori di Sperimentazioni, servizi ingegneristici, Servizi Ingegneristici E Gestionali, Affari & Servizi Professionali Milano, Scienza - Ingegneria - Consulenza Milano, Ingegneri Milano, Ingegneria Milano, Laboratori Di Sperimentazione Milano, Laboratori di Sperimentazioni Milano, servizi ingegneristici Milano, Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.34085098
+Scienza - Ingegneria - Consulenza Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[10]
+-
+0.3324531
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.32509056
+Affari & Servizi Professionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.25754374
+Hachette Fascicoli, Milano, 2009,
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.23827757
+milano che cambia - Ordine degli architetti, P.P.C della ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/span[1]
+-
+0.15153715
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.13516977
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+-
+0.12810309
+ /milano che cambia Un Atlante delle trasformazioni della città e della sua Provincia. Nel 1973 venne allestita una mostra, e relativo catalogo, intitolata "Per quale ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/p[1]
+-
+0.12730831
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.12412618
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+0.78226525
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.63745266
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.5317495
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5317495
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.48183787
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.4768788
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.41542
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+0.39905334
+ Affari & Servizi Professionali, Scienza - Ingegneria - Consulenza, Ingegneri, Ingegneria, Laboratori Di Sperimentazione, Laboratori di Sperimentazioni, servizi ingegneristici, Servizi Ingegneristici E Gestionali, Affari & Servizi Professionali Milano, Scienza - Ingegneria - Consulenza Milano, Ingegneri Milano, Ingegneria Milano, Laboratori Di Sperimentazione Milano, Laboratori di Sperimentazioni Milano, servizi ingegneristici Milano, Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.34085098
+Scienza - Ingegneria - Consulenza Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[10]
+-
+0.3324531
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.32509056
+Affari & Servizi Professionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.25754374
+Hachette Fascicoli, Milano, 2009,
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.23827757
+milano che cambia - Ordine degli architetti, P.P.C della ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/span[1]
+-
+0.15153715
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.13516977
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+-
+0.12810309
+ /milano che cambia Un Atlante delle trasformazioni della città e della sua Provincia. Nel 1973 venne allestita una mostra, e relativo catalogo, intitolata "Per quale ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/p[1]
+-
+0.12730831
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.12412618
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+0.78226525
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.63745266
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.5317495
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5317495
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.48183787
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.4768788
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.41542
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+0.39905334
+ Affari & Servizi Professionali, Scienza - Ingegneria - Consulenza, Ingegneri, Ingegneria, Laboratori Di Sperimentazione, Laboratori di Sperimentazioni, servizi ingegneristici, Servizi Ingegneristici E Gestionali, Affari & Servizi Professionali Milano, Scienza - Ingegneria - Consulenza Milano, Ingegneri Milano, Ingegneria Milano, Laboratori Di Sperimentazione Milano, Laboratori di Sperimentazioni Milano, servizi ingegneristici Milano, Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.34085098
+Scienza - Ingegneria - Consulenza Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[10]
+-
+0.3324531
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.32509056
+Affari & Servizi Professionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.25754374
+Hachette Fascicoli, Milano, 2009,
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.23827757
+milano che cambia - Ordine degli architetti, P.P.C della ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/span[1]
+-
+0.15153715
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.13516977
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+-
+0.12810309
+ /milano che cambia Un Atlante delle trasformazioni della città e della sua Provincia. Nel 1973 venne allestita una mostra, e relativo catalogo, intitolata "Per quale ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/p[1]
+-
+0.12730831
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.12412618
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+__________________
+ Milano
+---
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+0.78226525
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.63745266
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.5317495
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5317495
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.48183787
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.4768788
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.41542
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+0.39905334
+ Affari & Servizi Professionali, Scienza - Ingegneria - Consulenza, Ingegneri, Ingegneria, Laboratori Di Sperimentazione, Laboratori di Sperimentazioni, servizi ingegneristici, Servizi Ingegneristici E Gestionali, Affari & Servizi Professionali Milano, Scienza - Ingegneria - Consulenza Milano, Ingegneri Milano, Ingegneria Milano, Laboratori Di Sperimentazione Milano, Laboratori di Sperimentazioni Milano, servizi ingegneristici Milano, Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.34085098
+Scienza - Ingegneria - Consulenza Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[10]
+-
+0.3324531
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.32509056
+Affari & Servizi Professionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.25754374
+Hachette Fascicoli, Milano, 2009,
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.23827757
+milano che cambia - Ordine degli architetti, P.P.C della ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/span[1]
+-
+0.15153715
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.13516977
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+-
+0.12810309
+ /milano che cambia Un Atlante delle trasformazioni della città e della sua Provincia. Nel 1973 venne allestita una mostra, e relativo catalogo, intitolata "Per quale ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/p[1]
+-
+0.12730831
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.12412618
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+0.78226525
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.63745266
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.5317495
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5317495
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.48183787
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.4768788
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.41542
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+0.39905334
+ Affari & Servizi Professionali, Scienza - Ingegneria - Consulenza, Ingegneri, Ingegneria, Laboratori Di Sperimentazione, Laboratori di Sperimentazioni, servizi ingegneristici, Servizi Ingegneristici E Gestionali, Affari & Servizi Professionali Milano, Scienza - Ingegneria - Consulenza Milano, Ingegneri Milano, Ingegneria Milano, Laboratori Di Sperimentazione Milano, Laboratori di Sperimentazioni Milano, servizi ingegneristici Milano, Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.34085098
+Scienza - Ingegneria - Consulenza Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[10]
+-
+0.3324531
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.32509056
+Affari & Servizi Professionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.25754374
+Hachette Fascicoli, Milano, 2009,
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.23827757
+milano che cambia - Ordine degli architetti, P.P.C della ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/span[1]
+-
+0.15153715
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.13516977
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+-
+0.12810309
+ /milano che cambia Un Atlante delle trasformazioni della città e della sua Provincia. Nel 1973 venne allestita una mostra, e relativo catalogo, intitolata "Per quale ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/p[1]
+-
+0.12730831
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.12412618
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+0.78226525
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.63745266
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.5317495
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5317495
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.48183787
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.4768788
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.41542
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+0.39905334
+ Affari & Servizi Professionali, Scienza - Ingegneria - Consulenza, Ingegneri, Ingegneria, Laboratori Di Sperimentazione, Laboratori di Sperimentazioni, servizi ingegneristici, Servizi Ingegneristici E Gestionali, Affari & Servizi Professionali Milano, Scienza - Ingegneria - Consulenza Milano, Ingegneri Milano, Ingegneria Milano, Laboratori Di Sperimentazione Milano, Laboratori di Sperimentazioni Milano, servizi ingegneristici Milano, Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.34085098
+Scienza - Ingegneria - Consulenza Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[10]
+-
+0.3324531
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.32509056
+Affari & Servizi Professionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.25754374
+Hachette Fascicoli, Milano, 2009,
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.23827757
+milano che cambia - Ordine degli architetti, P.P.C della ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/span[1]
+-
+0.15153715
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.13516977
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+-
+0.12810309
+ /milano che cambia Un Atlante delle trasformazioni della città e della sua Provincia. Nel 1973 venne allestita una mostra, e relativo catalogo, intitolata "Per quale ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/p[1]
+-
+0.12730831
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.12412618
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+__________________
+Milano
+---
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+0.78226525
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.63745266
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.5317495
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5317495
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.48183787
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.4768788
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.41542
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+0.39905334
+ Affari & Servizi Professionali, Scienza - Ingegneria - Consulenza, Ingegneri, Ingegneria, Laboratori Di Sperimentazione, Laboratori di Sperimentazioni, servizi ingegneristici, Servizi Ingegneristici E Gestionali, Affari & Servizi Professionali Milano, Scienza - Ingegneria - Consulenza Milano, Ingegneri Milano, Ingegneria Milano, Laboratori Di Sperimentazione Milano, Laboratori di Sperimentazioni Milano, servizi ingegneristici Milano, Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.34085098
+Scienza - Ingegneria - Consulenza Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[10]
+-
+0.3324531
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.32509056
+Affari & Servizi Professionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.25754374
+Hachette Fascicoli, Milano, 2009,
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.23827757
+milano che cambia - Ordine degli architetti, P.P.C della ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/span[1]
+-
+0.15153715
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.13516977
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+-
+0.12810309
+ /milano che cambia Un Atlante delle trasformazioni della città e della sua Provincia. Nel 1973 venne allestita una mostra, e relativo catalogo, intitolata "Per quale ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/p[1]
+-
+0.12730831
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.12412618
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+__________________
+ Via Brera, 9
+---
+-
+1.0
+via Brera 9
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.8497592
+via Brera 9, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.8497592
+
+           via Brera 9, 20121
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.66035926
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.08006122
+ Via Cornacchiara, 805 47824 Poggio Berni (RN) p.iva 01903410403 tel. +39 0541 686556 fax +39 0541 686546 email: info@focchi.it  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+0.78226525
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.63745266
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.5317495
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5317495
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.48183787
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.4768788
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.41542
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+0.39905334
+ Affari & Servizi Professionali, Scienza - Ingegneria - Consulenza, Ingegneri, Ingegneria, Laboratori Di Sperimentazione, Laboratori di Sperimentazioni, servizi ingegneristici, Servizi Ingegneristici E Gestionali, Affari & Servizi Professionali Milano, Scienza - Ingegneria - Consulenza Milano, Ingegneri Milano, Ingegneria Milano, Laboratori Di Sperimentazione Milano, Laboratori di Sperimentazioni Milano, servizi ingegneristici Milano, Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.34085098
+Scienza - Ingegneria - Consulenza Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[10]
+-
+0.3324531
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.32509056
+Affari & Servizi Professionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.25754374
+Hachette Fascicoli, Milano, 2009,
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.23827757
+milano che cambia - Ordine degli architetti, P.P.C della ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/span[1]
+-
+0.15153715
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.13516977
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+-
+0.12810309
+ /milano che cambia Un Atlante delle trasformazioni della città e della sua Provincia. Nel 1973 venne allestita una mostra, e relativo catalogo, intitolata "Per quale ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/p[1]
+-
+0.12730831
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.12412618
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+0.78226525
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.63745266
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.5317495
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5317495
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.48183787
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.4768788
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.41542
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+0.39905334
+ Affari & Servizi Professionali, Scienza - Ingegneria - Consulenza, Ingegneri, Ingegneria, Laboratori Di Sperimentazione, Laboratori di Sperimentazioni, servizi ingegneristici, Servizi Ingegneristici E Gestionali, Affari & Servizi Professionali Milano, Scienza - Ingegneria - Consulenza Milano, Ingegneri Milano, Ingegneria Milano, Laboratori Di Sperimentazione Milano, Laboratori di Sperimentazioni Milano, servizi ingegneristici Milano, Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.34085098
+Scienza - Ingegneria - Consulenza Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[10]
+-
+0.3324531
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.32509056
+Affari & Servizi Professionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.25754374
+Hachette Fascicoli, Milano, 2009,
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.23827757
+milano che cambia - Ordine degli architetti, P.P.C della ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/span[1]
+-
+0.15153715
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.13516977
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+-
+0.12810309
+ /milano che cambia Un Atlante delle trasformazioni della città e della sua Provincia. Nel 1973 venne allestita una mostra, e relativo catalogo, intitolata "Per quale ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/p[1]
+-
+0.12730831
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.12412618
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+0.78226525
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.63745266
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.5317495
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5317495
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.48183787
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.4768788
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.41542
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+0.39905334
+ Affari & Servizi Professionali, Scienza - Ingegneria - Consulenza, Ingegneri, Ingegneria, Laboratori Di Sperimentazione, Laboratori di Sperimentazioni, servizi ingegneristici, Servizi Ingegneristici E Gestionali, Affari & Servizi Professionali Milano, Scienza - Ingegneria - Consulenza Milano, Ingegneri Milano, Ingegneria Milano, Laboratori Di Sperimentazione Milano, Laboratori di Sperimentazioni Milano, servizi ingegneristici Milano, Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.34085098
+Scienza - Ingegneria - Consulenza Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[10]
+-
+0.3324531
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.32509056
+Affari & Servizi Professionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.25754374
+Hachette Fascicoli, Milano, 2009,
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.23827757
+milano che cambia - Ordine degli architetti, P.P.C della ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/span[1]
+-
+0.15153715
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.13516977
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+-
+0.12810309
+ /milano che cambia Un Atlante delle trasformazioni della città e della sua Provincia. Nel 1973 venne allestita una mostra, e relativo catalogo, intitolata "Per quale ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/p[1]
+-
+0.12730831
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.12412618
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+__________________
+ Milano
+---
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+0.78226525
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.63745266
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.5317495
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5317495
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.48183787
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.4768788
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.41542
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+0.39905334
+ Affari & Servizi Professionali, Scienza - Ingegneria - Consulenza, Ingegneri, Ingegneria, Laboratori Di Sperimentazione, Laboratori di Sperimentazioni, servizi ingegneristici, Servizi Ingegneristici E Gestionali, Affari & Servizi Professionali Milano, Scienza - Ingegneria - Consulenza Milano, Ingegneri Milano, Ingegneria Milano, Laboratori Di Sperimentazione Milano, Laboratori di Sperimentazioni Milano, servizi ingegneristici Milano, Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.34085098
+Scienza - Ingegneria - Consulenza Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[10]
+-
+0.3324531
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.32509056
+Affari & Servizi Professionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.25754374
+Hachette Fascicoli, Milano, 2009,
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.23827757
+milano che cambia - Ordine degli architetti, P.P.C della ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/span[1]
+-
+0.15153715
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.13516977
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+-
+0.12810309
+ /milano che cambia Un Atlante delle trasformazioni della città e della sua Provincia. Nel 1973 venne allestita una mostra, e relativo catalogo, intitolata "Per quale ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/p[1]
+-
+0.12730831
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.12412618
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+__________________
+ Lombardia
+---
+-
+0.8298815
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.8298815
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.59676075
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.48538953
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.36253792
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+__________________
+arata isozaki associati s.r.l. a Milano
+---
+-
+0.7495885
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.65361005
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.65361005
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.65361005
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.60916054
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.59743
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.4232263
+ Arata Isozaki e Attilio Gobbi firmano Bergamo Porta Sud ... quale vincitore del concorso il candidato Arata Isozaki Associati S.r.l. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/p[1]
+-
+0.4048542
+Valutazioni di Arata Isozaki Associati:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.36698344
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+0.36698344
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+0.34463277
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.31844455
+Contenuti correlati per: Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.2870784
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.27765033
+ COMUNICATO STAMPA. AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI PROGETTO PER PIAZZA D'ARMI ... del Parco di Piazza d'Armi ad Arata Isozaki e Associati, ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+-
+0.27696097
+Comunicato Stampa: AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.2747009
+ © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 21 Gennaio 2010. ... Simone Utzeri, Shintaro Tobari, Haruna Watanabe / Arata Isozaki Associati ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+-
+0.25933716
+ Arata Isozaki & Associates. Associate designers. M+T & Partners. Principal-in-charge ... Arata Isozaki Associati", Ottagono 214, ottobre/october 2008, pp. 186-187 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[2]/p[1]
+-
+0.24763304
+ Le avventure cinesi di Arata Isozaki cominciano a partire dal 1998 con il ... © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 04 Settembre 2008. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/p[1]
+-
+0.23794259
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.23628873
+ ... Isozaki & Associates Co, Ltd., Tokyo, Studio associato M+ ... Le immagini sono gentilmente concesse Ferrovie dello Stato S.p.A e Arata Isozaki Associati. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/p[1]
+-
+0.19514325
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.19514325
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.17500663
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.15245226
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+0.14644597
+ Affari & Servizi Professionali, Scienza - Ingegneria - Consulenza, Ingegneri, Ingegneria, Laboratori Di Sperimentazione, Laboratori di Sperimentazioni, servizi ingegneristici, Servizi Ingegneristici E Gestionali, Affari & Servizi Professionali Milano, Scienza - Ingegneria - Consulenza Milano, Ingegneri Milano, Ingegneria Milano, Laboratori Di Sperimentazione Milano, Laboratori di Sperimentazioni Milano, servizi ingegneristici Milano, Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.12915769
+MSC Associati - Architettura e Ingegneria
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.12508668
+Scienza - Ingegneria - Consulenza Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[10]
+-
+0.12200478
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.119302854
+Affari & Servizi Professionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.09924705
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+__________________
+ 0287386348
+---
+-
+0.70710677
+39 0287386348
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[4]
+-
+0.70710677
+39 0287386348
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/ul[1]/li[2]/a/strong[1]
+__________________
+arata isozaki associati s.r.l.
+---
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.6097011
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.5813572
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.45497075
+ Arata Isozaki e Attilio Gobbi firmano Bergamo Porta Sud ... quale vincitore del concorso il candidato Arata Isozaki Associati S.r.l. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/p[1]
+-
+0.43522066
+Valutazioni di Arata Isozaki Associati:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.39829984
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.3423298
+Contenuti correlati per: Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.31993
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.2984757
+ COMUNICATO STAMPA. AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI PROGETTO PER PIAZZA D'ARMI ... del Parco di Piazza d'Armi ad Arata Isozaki e Associati, ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+-
+0.29773465
+Comunicato Stampa: AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.29530507
+ © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 21 Gennaio 2010. ... Simone Utzeri, Shintaro Tobari, Haruna Watanabe / Arata Isozaki Associati ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+-
+0.27878895
+ Arata Isozaki & Associates. Associate designers. M+T & Partners. Principal-in-charge ... Arata Isozaki Associati", Ottagono 214, ottobre/october 2008, pp. 186-187 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[2]/p[1]
+-
+0.26620698
+ Le avventure cinesi di Arata Isozaki cominciano a partire dal 1998 con il ... © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 04 Settembre 2008. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/p[1]
+-
+0.25401175
+ ... Isozaki & Associates Co, Ltd., Tokyo, Studio associato M+ ... Le immagini sono gentilmente concesse Ferrovie dello Stato S.p.A e Arata Isozaki Associati. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/p[1]
+-
+0.20665497
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.13884528
+MSC Associati - Architettura e Ingegneria
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.09534922
+Torre Isozaki, o “il Dritto”: aperto il cantiere del ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/span[1]
+-
+0.07899551
+CITY LIFE – Torre Isozaki (TcA) | Ariatta - Ingegneria di ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.07049373
+ Sito di MSC Associati srl, società di progettazione e di servizi nel campo dell'ingegneria e dell'architettura  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/p[1]
+-
+0.053325742
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+__________________
+arata isozaki associati s.r.l.
+---
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.6097011
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.5813572
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.45497075
+ Arata Isozaki e Attilio Gobbi firmano Bergamo Porta Sud ... quale vincitore del concorso il candidato Arata Isozaki Associati S.r.l. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/p[1]
+-
+0.43522066
+Valutazioni di Arata Isozaki Associati:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.39829984
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.3423298
+Contenuti correlati per: Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.31993
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.2984757
+ COMUNICATO STAMPA. AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI PROGETTO PER PIAZZA D'ARMI ... del Parco di Piazza d'Armi ad Arata Isozaki e Associati, ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+-
+0.29773465
+Comunicato Stampa: AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.29530507
+ © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 21 Gennaio 2010. ... Simone Utzeri, Shintaro Tobari, Haruna Watanabe / Arata Isozaki Associati ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+-
+0.27878895
+ Arata Isozaki & Associates. Associate designers. M+T & Partners. Principal-in-charge ... Arata Isozaki Associati", Ottagono 214, ottobre/october 2008, pp. 186-187 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[2]/p[1]
+-
+0.26620698
+ Le avventure cinesi di Arata Isozaki cominciano a partire dal 1998 con il ... © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 04 Settembre 2008. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/p[1]
+-
+0.25401175
+ ... Isozaki & Associates Co, Ltd., Tokyo, Studio associato M+ ... Le immagini sono gentilmente concesse Ferrovie dello Stato S.p.A e Arata Isozaki Associati. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/p[1]
+-
+0.20665497
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.13884528
+MSC Associati - Architettura e Ingegneria
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.09534922
+Torre Isozaki, o “il Dritto”: aperto il cantiere del ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/span[1]
+-
+0.07899551
+CITY LIFE – Torre Isozaki (TcA) | Ariatta - Ingegneria di ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.07049373
+ Sito di MSC Associati srl, società di progettazione e di servizi nel campo dell'ingegneria e dell'architettura  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/p[1]
+-
+0.053325742
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+__________________
+arata isozaki associati s.r.l.
+---
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.6097011
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.5813572
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.45497075
+ Arata Isozaki e Attilio Gobbi firmano Bergamo Porta Sud ... quale vincitore del concorso il candidato Arata Isozaki Associati S.r.l. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/p[1]
+-
+0.43522066
+Valutazioni di Arata Isozaki Associati:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.39829984
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.3423298
+Contenuti correlati per: Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.31993
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.2984757
+ COMUNICATO STAMPA. AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI PROGETTO PER PIAZZA D'ARMI ... del Parco di Piazza d'Armi ad Arata Isozaki e Associati, ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+-
+0.29773465
+Comunicato Stampa: AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.29530507
+ © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 21 Gennaio 2010. ... Simone Utzeri, Shintaro Tobari, Haruna Watanabe / Arata Isozaki Associati ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+-
+0.27878895
+ Arata Isozaki & Associates. Associate designers. M+T & Partners. Principal-in-charge ... Arata Isozaki Associati", Ottagono 214, ottobre/october 2008, pp. 186-187 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[2]/p[1]
+-
+0.26620698
+ Le avventure cinesi di Arata Isozaki cominciano a partire dal 1998 con il ... © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 04 Settembre 2008. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/p[1]
+-
+0.25401175
+ ... Isozaki & Associates Co, Ltd., Tokyo, Studio associato M+ ... Le immagini sono gentilmente concesse Ferrovie dello Stato S.p.A e Arata Isozaki Associati. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/p[1]
+-
+0.20665497
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.13884528
+MSC Associati - Architettura e Ingegneria
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.09534922
+Torre Isozaki, o “il Dritto”: aperto il cantiere del ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/span[1]
+-
+0.07899551
+CITY LIFE – Torre Isozaki (TcA) | Ariatta - Ingegneria di ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.07049373
+ Sito di MSC Associati srl, società di progettazione e di servizi nel campo dell'ingegneria e dell'architettura  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/p[1]
+-
+0.053325742
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+__________________
+arata isozaki associati s.r.l.
+---
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.6097011
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.5813572
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.45497075
+ Arata Isozaki e Attilio Gobbi firmano Bergamo Porta Sud ... quale vincitore del concorso il candidato Arata Isozaki Associati S.r.l. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/p[1]
+-
+0.43522066
+Valutazioni di Arata Isozaki Associati:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.39829984
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.3423298
+Contenuti correlati per: Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.31993
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.2984757
+ COMUNICATO STAMPA. AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI PROGETTO PER PIAZZA D'ARMI ... del Parco di Piazza d'Armi ad Arata Isozaki e Associati, ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+-
+0.29773465
+Comunicato Stampa: AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.29530507
+ © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 21 Gennaio 2010. ... Simone Utzeri, Shintaro Tobari, Haruna Watanabe / Arata Isozaki Associati ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+-
+0.27878895
+ Arata Isozaki & Associates. Associate designers. M+T & Partners. Principal-in-charge ... Arata Isozaki Associati", Ottagono 214, ottobre/october 2008, pp. 186-187 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[2]/p[1]
+-
+0.26620698
+ Le avventure cinesi di Arata Isozaki cominciano a partire dal 1998 con il ... © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 04 Settembre 2008. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/p[1]
+-
+0.25401175
+ ... Isozaki & Associates Co, Ltd., Tokyo, Studio associato M+ ... Le immagini sono gentilmente concesse Ferrovie dello Stato S.p.A e Arata Isozaki Associati. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/p[1]
+-
+0.20665497
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.13884528
+MSC Associati - Architettura e Ingegneria
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.09534922
+Torre Isozaki, o “il Dritto”: aperto il cantiere del ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/span[1]
+-
+0.07899551
+CITY LIFE – Torre Isozaki (TcA) | Ariatta - Ingegneria di ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.07049373
+ Sito di MSC Associati srl, società di progettazione e di servizi nel campo dell'ingegneria e dell'architettura  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/p[1]
+-
+0.053325742
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+__________________
+arata isozaki associati s.r.l.
+---
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.6097011
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.5813572
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.45497075
+ Arata Isozaki e Attilio Gobbi firmano Bergamo Porta Sud ... quale vincitore del concorso il candidato Arata Isozaki Associati S.r.l. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/p[1]
+-
+0.43522066
+Valutazioni di Arata Isozaki Associati:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.39829984
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.3423298
+Contenuti correlati per: Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.31993
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.2984757
+ COMUNICATO STAMPA. AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI PROGETTO PER PIAZZA D'ARMI ... del Parco di Piazza d'Armi ad Arata Isozaki e Associati, ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+-
+0.29773465
+Comunicato Stampa: AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.29530507
+ © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 21 Gennaio 2010. ... Simone Utzeri, Shintaro Tobari, Haruna Watanabe / Arata Isozaki Associati ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+-
+0.27878895
+ Arata Isozaki & Associates. Associate designers. M+T & Partners. Principal-in-charge ... Arata Isozaki Associati", Ottagono 214, ottobre/october 2008, pp. 186-187 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[2]/p[1]
+-
+0.26620698
+ Le avventure cinesi di Arata Isozaki cominciano a partire dal 1998 con il ... © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 04 Settembre 2008. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/p[1]
+-
+0.25401175
+ ... Isozaki & Associates Co, Ltd., Tokyo, Studio associato M+ ... Le immagini sono gentilmente concesse Ferrovie dello Stato S.p.A e Arata Isozaki Associati. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/p[1]
+-
+0.20665497
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.13884528
+MSC Associati - Architettura e Ingegneria
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.09534922
+Torre Isozaki, o “il Dritto”: aperto il cantiere del ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/span[1]
+-
+0.07899551
+CITY LIFE – Torre Isozaki (TcA) | Ariatta - Ingegneria di ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.07049373
+ Sito di MSC Associati srl, società di progettazione e di servizi nel campo dell'ingegneria e dell'architettura  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/p[1]
+-
+0.053325742
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+__________________
+arata isozaki associati s.r.l.
+---
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.6097011
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.5813572
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.45497075
+ Arata Isozaki e Attilio Gobbi firmano Bergamo Porta Sud ... quale vincitore del concorso il candidato Arata Isozaki Associati S.r.l. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/p[1]
+-
+0.43522066
+Valutazioni di Arata Isozaki Associati:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.39829984
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.3423298
+Contenuti correlati per: Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.31993
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.2984757
+ COMUNICATO STAMPA. AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI PROGETTO PER PIAZZA D'ARMI ... del Parco di Piazza d'Armi ad Arata Isozaki e Associati, ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+-
+0.29773465
+Comunicato Stampa: AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.29530507
+ © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 21 Gennaio 2010. ... Simone Utzeri, Shintaro Tobari, Haruna Watanabe / Arata Isozaki Associati ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+-
+0.27878895
+ Arata Isozaki & Associates. Associate designers. M+T & Partners. Principal-in-charge ... Arata Isozaki Associati", Ottagono 214, ottobre/october 2008, pp. 186-187 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[2]/p[1]
+-
+0.26620698
+ Le avventure cinesi di Arata Isozaki cominciano a partire dal 1998 con il ... © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 04 Settembre 2008. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/p[1]
+-
+0.25401175
+ ... Isozaki & Associates Co, Ltd., Tokyo, Studio associato M+ ... Le immagini sono gentilmente concesse Ferrovie dello Stato S.p.A e Arata Isozaki Associati. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/p[1]
+-
+0.20665497
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.13884528
+MSC Associati - Architettura e Ingegneria
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.09534922
+Torre Isozaki, o “il Dritto”: aperto il cantiere del ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/span[1]
+-
+0.07899551
+CITY LIFE – Torre Isozaki (TcA) | Ariatta - Ingegneria di ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.07049373
+ Sito di MSC Associati srl, società di progettazione e di servizi nel campo dell'ingegneria e dell'architettura  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/p[1]
+-
+0.053325742
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+__________________
+arata isozaki associati s.r.l.
+---
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.6097011
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.5813572
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.45497075
+ Arata Isozaki e Attilio Gobbi firmano Bergamo Porta Sud ... quale vincitore del concorso il candidato Arata Isozaki Associati S.r.l. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/p[1]
+-
+0.43522066
+Valutazioni di Arata Isozaki Associati:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.39829984
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.3423298
+Contenuti correlati per: Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.31993
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.2984757
+ COMUNICATO STAMPA. AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI PROGETTO PER PIAZZA D'ARMI ... del Parco di Piazza d'Armi ad Arata Isozaki e Associati, ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+-
+0.29773465
+Comunicato Stampa: AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.29530507
+ © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 21 Gennaio 2010. ... Simone Utzeri, Shintaro Tobari, Haruna Watanabe / Arata Isozaki Associati ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+-
+0.27878895
+ Arata Isozaki & Associates. Associate designers. M+T & Partners. Principal-in-charge ... Arata Isozaki Associati", Ottagono 214, ottobre/october 2008, pp. 186-187 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[2]/p[1]
+-
+0.26620698
+ Le avventure cinesi di Arata Isozaki cominciano a partire dal 1998 con il ... © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 04 Settembre 2008. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/p[1]
+-
+0.25401175
+ ... Isozaki & Associates Co, Ltd., Tokyo, Studio associato M+ ... Le immagini sono gentilmente concesse Ferrovie dello Stato S.p.A e Arata Isozaki Associati. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/p[1]
+-
+0.20665497
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.13884528
+MSC Associati - Architettura e Ingegneria
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.09534922
+Torre Isozaki, o “il Dritto”: aperto il cantiere del ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/span[1]
+-
+0.07899551
+CITY LIFE – Torre Isozaki (TcA) | Ariatta - Ingegneria di ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.07049373
+ Sito di MSC Associati srl, società di progettazione e di servizi nel campo dell'ingegneria e dell'architettura  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/p[1]
+-
+0.053325742
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+__________________
+arata isozaki associati s.r.l.
+---
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.70263463
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.6097011
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.5813572
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.45497075
+ Arata Isozaki e Attilio Gobbi firmano Bergamo Porta Sud ... quale vincitore del concorso il candidato Arata Isozaki Associati S.r.l. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/p[1]
+-
+0.43522066
+Valutazioni di Arata Isozaki Associati:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.39829984
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.3423298
+Contenuti correlati per: Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.31993
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.2984757
+ COMUNICATO STAMPA. AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI PROGETTO PER PIAZZA D'ARMI ... del Parco di Piazza d'Armi ad Arata Isozaki e Associati, ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+-
+0.29773465
+Comunicato Stampa: AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.29530507
+ © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 21 Gennaio 2010. ... Simone Utzeri, Shintaro Tobari, Haruna Watanabe / Arata Isozaki Associati ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+-
+0.27878895
+ Arata Isozaki & Associates. Associate designers. M+T & Partners. Principal-in-charge ... Arata Isozaki Associati", Ottagono 214, ottobre/october 2008, pp. 186-187 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[2]/p[1]
+-
+0.26620698
+ Le avventure cinesi di Arata Isozaki cominciano a partire dal 1998 con il ... © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 04 Settembre 2008. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/p[1]
+-
+0.25401175
+ ... Isozaki & Associates Co, Ltd., Tokyo, Studio associato M+ ... Le immagini sono gentilmente concesse Ferrovie dello Stato S.p.A e Arata Isozaki Associati. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/p[1]
+-
+0.20665497
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.13884528
+MSC Associati - Architettura e Ingegneria
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.09534922
+Torre Isozaki, o “il Dritto”: aperto il cantiere del ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/span[1]
+-
+0.07899551
+CITY LIFE – Torre Isozaki (TcA) | Ariatta - Ingegneria di ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.07049373
+ Sito di MSC Associati srl, società di progettazione e di servizi nel campo dell'ingegneria e dell'architettura  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/p[1]
+-
+0.053325742
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+__________________
+
+        
+         Via Brera, 7
+       
+---
+-
+0.55407333
+via Brera 9
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.47342396
+via Brera 9, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.47342396
+
+           via Brera 9, 20121
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.37001482
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.06898355
+ Via Cornacchiara, 805 47824 Poggio Berni (RN) p.iva 01903410403 tel. +39 0541 686556 fax +39 0541 686546 email: info@focchi.it  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+__________________
+
+        
+         Via Brera, 15
+       
+---
+-
+0.55407333
+via Brera 9
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.47342396
+via Brera 9, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.47342396
+
+           via Brera 9, 20121
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.37001482
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.06898355
+ Via Cornacchiara, 805 47824 Poggio Berni (RN) p.iva 01903410403 tel. +39 0541 686556 fax +39 0541 686546 email: info@focchi.it  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+__________________
+
+        
+         Via Brera, 3
+       
+---
+-
+0.55407333
+via Brera 9
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.47342396
+via Brera 9, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.47342396
+
+           via Brera 9, 20121
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.37001482
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.06898355
+ Via Cornacchiara, 805 47824 Poggio Berni (RN) p.iva 01903410403 tel. +39 0541 686556 fax +39 0541 686546 email: info@focchi.it  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+__________________
+
+        
+         Via Brera, 16
+       
+---
+-
+0.55407333
+via Brera 9
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.47342396
+via Brera 9, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.47342396
+
+           via Brera 9, 20121
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.37001482
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.06898355
+ Via Cornacchiara, 805 47824 Poggio Berni (RN) p.iva 01903410403 tel. +39 0541 686556 fax +39 0541 686546 email: info@focchi.it  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+__________________
+
+        
+         Via Brera, 10
+       
+---
+-
+0.55407333
+via Brera 9
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.47342396
+via Brera 9, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.47342396
+
+           via Brera 9, 20121
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.37001482
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.06898355
+ Via Cornacchiara, 805 47824 Poggio Berni (RN) p.iva 01903410403 tel. +39 0541 686556 fax +39 0541 686546 email: info@focchi.it  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+__________________
+
+        
+         Via Brera, 6
+       
+---
+-
+0.55407333
+via Brera 9
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.47342396
+via Brera 9, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.47342396
+
+           via Brera 9, 20121
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.37001482
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.06898355
+ Via Cornacchiara, 805 47824 Poggio Berni (RN) p.iva 01903410403 tel. +39 0541 686556 fax +39 0541 686546 email: info@focchi.it  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+__________________
+Trova arata isozaki associati s.r.l. sulla mappa, in Via Brera, 9 a Milano:
+---
+-
+0.54324853
+via Brera 9
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.46163046
+via Brera 9, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.46163046
+
+           via Brera 9, 20121
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.45822713
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.40857857
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.35626358
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.35626358
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.35626358
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.33203545
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.32564145
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.23068817
+ Arata Isozaki e Attilio Gobbi firmano Bergamo Porta Sud ... quale vincitore del concorso il candidato Arata Isozaki Associati S.r.l. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/p[1]
+-
+0.22067408
+Valutazioni di Arata Isozaki Associati:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.20003186
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+0.20003186
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+0.18784916
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.17357475
+Contenuti correlati per: Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.15647799
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.15133901
+ COMUNICATO STAMPA. AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI PROGETTO PER PIAZZA D'ARMI ... del Parco di Piazza d'Armi ad Arata Isozaki e Associati, ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+-
+0.15096325
+Comunicato Stampa: AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.14973137
+ © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 21 Gennaio 2010. ... Simone Utzeri, Shintaro Tobari, Haruna Watanabe / Arata Isozaki Associati ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+-
+0.14135703
+ Arata Isozaki & Associates. Associate designers. M+T & Partners. Principal-in-charge ... Arata Isozaki Associati", Ottagono 214, ottobre/october 2008, pp. 186-187 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[2]/p[1]
+-
+0.13497747
+ Le avventure cinesi di Arata Isozaki cominciano a partire dal 1998 con il ... © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 04 Settembre 2008. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/p[1]
+-
+0.12969549
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.12879401
+ ... Isozaki & Associates Co, Ltd., Tokyo, Studio associato M+ ... Le immagini sono gentilmente concesse Ferrovie dello Stato S.p.A e Arata Isozaki Associati. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/p[1]
+-
+0.10636683
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.10636683
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.083097234
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+0.07982339
+ Affari & Servizi Professionali, Scienza - Ingegneria - Consulenza, Ingegneri, Ingegneria, Laboratori Di Sperimentazione, Laboratori di Sperimentazioni, servizi ingegneristici, Servizi Ingegneristici E Gestionali, Affari & Servizi Professionali Milano, Scienza - Ingegneria - Consulenza Milano, Ingegneri Milano, Ingegneria Milano, Laboratori Di Sperimentazione Milano, Laboratori di Sperimentazioni Milano, servizi ingegneristici Milano, Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.07040005
+MSC Associati - Architettura e Ingegneria
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.06818106
+Scienza - Ingegneria - Consulenza Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[10]
+__________________
+Mappa arata isozaki associati s.r.l.
+---
+-
+0.524724
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.524724
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.524724
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.4553218
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.4341547
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.3397699
+ Arata Isozaki e Attilio Gobbi firmano Bergamo Porta Sud ... quale vincitore del concorso il candidato Arata Isozaki Associati S.r.l. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/p[1]
+-
+0.3250206
+Valutazioni di Arata Isozaki Associati:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.29744834
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.2556502
+Contenuti correlati per: Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.23892213
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.22290018
+ COMUNICATO STAMPA. AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI PROGETTO PER PIAZZA D'ARMI ... del Parco di Piazza d'Armi ad Arata Isozaki e Associati, ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+-
+0.22234675
+Comunicato Stampa: AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.22053236
+ © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 21 Gennaio 2010. ... Simone Utzeri, Shintaro Tobari, Haruna Watanabe / Arata Isozaki Associati ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+-
+0.20819822
+ Arata Isozaki & Associates. Associate designers. M+T & Partners. Principal-in-charge ... Arata Isozaki Associati", Ottagono 214, ottobre/october 2008, pp. 186-187 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[2]/p[1]
+-
+0.19880204
+ Le avventure cinesi di Arata Isozaki cominciano a partire dal 1998 con il ... © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 04 Settembre 2008. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/p[1]
+-
+0.18969472
+ ... Isozaki & Associates Co, Ltd., Tokyo, Studio associato M+ ... Le immagini sono gentilmente concesse Ferrovie dello Stato S.p.A e Arata Isozaki Associati. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/p[1]
+-
+0.1543289
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.10368897
+MSC Associati - Architettura e Ingegneria
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.07120632
+Torre Isozaki, o “il Dritto”: aperto il cantiere del ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/span[1]
+-
+0.058993455
+CITY LIFE – Torre Isozaki (TcA) | Ariatta - Ingegneria di ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.052644365
+ Sito di MSC Associati srl, società di progettazione e di servizi nel campo dell'ingegneria e dell'architettura  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/p[1]
+-
+0.0398234
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+__________________
+Aziende Lombardia > 
+---
+-
+0.4629675
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.4629675
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.33291593
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.27078512
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.20224968
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+__________________
+Aziende Lombardia
+---
+-
+0.4629675
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.4629675
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.33291593
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.27078512
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.20224968
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+__________________
+Vuoi telefonare a arata isozaki associati s.r.l.?
+---
+-
+0.4369217
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.4369217
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.4369217
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.3791325
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.36150736
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.282916
+ Arata Isozaki e Attilio Gobbi firmano Bergamo Porta Sud ... quale vincitore del concorso il candidato Arata Isozaki Associati S.r.l. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/p[1]
+-
+0.27063474
+Valutazioni di Arata Isozaki Associati:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.24767613
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.21287209
+Contenuti correlati per: Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.19894317
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.18560217
+ COMUNICATO STAMPA. AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI PROGETTO PER PIAZZA D'ARMI ... del Parco di Piazza d'Armi ad Arata Isozaki e Associati, ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+-
+0.18514135
+Comunicato Stampa: AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.18363056
+ © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 21 Gennaio 2010. ... Simone Utzeri, Shintaro Tobari, Haruna Watanabe / Arata Isozaki Associati ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+-
+0.17336029
+ Arata Isozaki & Associates. Associate designers. M+T & Partners. Principal-in-charge ... Arata Isozaki Associati", Ottagono 214, ottobre/october 2008, pp. 186-187 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[2]/p[1]
+-
+0.16553639
+ Le avventure cinesi di Arata Isozaki cominciano a partire dal 1998 con il ... © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 04 Settembre 2008. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/p[1]
+-
+0.15795301
+ ... Isozaki & Associates Co, Ltd., Tokyo, Studio associato M+ ... Le immagini sono gentilmente concesse Ferrovie dello Stato S.p.A e Arata Isozaki Associati. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/p[1]
+-
+0.12850496
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.08633864
+MSC Associati - Architettura e Ingegneria
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.05929133
+Torre Isozaki, o “il Dritto”: aperto il cantiere del ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/span[1]
+-
+0.049122047
+CITY LIFE – Torre Isozaki (TcA) | Ariatta - Ingegneria di ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.043835353
+ Sito di MSC Associati srl, società di progettazione e di servizi nel campo dell'ingegneria e dell'architettura  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/p[1]
+-
+0.03315973
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+__________________
+Scrivi la tua recensione su arata isozaki associati s.r.l.:
+---
+-
+0.4369217
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.4369217
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.4369217
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.3791325
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.36150736
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.282916
+ Arata Isozaki e Attilio Gobbi firmano Bergamo Porta Sud ... quale vincitore del concorso il candidato Arata Isozaki Associati S.r.l. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/p[1]
+-
+0.27063474
+Valutazioni di Arata Isozaki Associati:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.24767613
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.21287209
+Contenuti correlati per: Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.19894317
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.18560217
+ COMUNICATO STAMPA. AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI PROGETTO PER PIAZZA D'ARMI ... del Parco di Piazza d'Armi ad Arata Isozaki e Associati, ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+-
+0.18514135
+Comunicato Stampa: AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.18363056
+ © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 21 Gennaio 2010. ... Simone Utzeri, Shintaro Tobari, Haruna Watanabe / Arata Isozaki Associati ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+-
+0.17336029
+ Arata Isozaki & Associates. Associate designers. M+T & Partners. Principal-in-charge ... Arata Isozaki Associati", Ottagono 214, ottobre/october 2008, pp. 186-187 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[2]/p[1]
+-
+0.16553639
+ Le avventure cinesi di Arata Isozaki cominciano a partire dal 1998 con il ... © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 04 Settembre 2008. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/p[1]
+-
+0.15795301
+ ... Isozaki & Associates Co, Ltd., Tokyo, Studio associato M+ ... Le immagini sono gentilmente concesse Ferrovie dello Stato S.p.A e Arata Isozaki Associati. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/p[1]
+-
+0.12850496
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.08633864
+MSC Associati - Architettura e Ingegneria
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.05929133
+Torre Isozaki, o “il Dritto”: aperto il cantiere del ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/span[1]
+-
+0.049122047
+CITY LIFE – Torre Isozaki (TcA) | Ariatta - Ingegneria di ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.043835353
+ Sito di MSC Associati srl, società di progettazione e di servizi nel campo dell'ingegneria e dell'architettura  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/p[1]
+-
+0.03315973
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+__________________
+Aziende Milano > 
+---
+-
+0.40503377
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+0.40503377
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+0.31684384
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.25818983
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.21537647
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.21537647
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.1951606
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.19315201
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.16825911
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+0.16163008
+ Affari & Servizi Professionali, Scienza - Ingegneria - Consulenza, Ingegneri, Ingegneria, Laboratori Di Sperimentazione, Laboratori di Sperimentazioni, servizi ingegneristici, Servizi Ingegneristici E Gestionali, Affari & Servizi Professionali Milano, Scienza - Ingegneria - Consulenza Milano, Ingegneri Milano, Ingegneria Milano, Laboratori Di Sperimentazione Milano, Laboratori di Sperimentazioni Milano, servizi ingegneristici Milano, Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.13805616
+Scienza - Ingegneria - Consulenza Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[10]
+-
+0.13465472
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.13167264
+Affari & Servizi Professionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.1043139
+Hachette Fascicoli, Milano, 2009,
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.09651046
+milano che cambia - Ordine degli architetti, P.P.C della ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/span[1]
+-
+0.06137766
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.05474832
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+-
+0.051886078
+ /milano che cambia Un Atlante delle trasformazioni della città e della sua Provincia. Nel 1973 venne allestita una mostra, e relativo catalogo, intitolata "Per quale ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/p[1]
+-
+0.05156416
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.050275292
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+__________________
+Aziende Milano
+---
+-
+0.40503377
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+0.40503377
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+0.31684384
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.25818983
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.21537647
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.21537647
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.1951606
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.19315201
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.16825911
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+0.16163008
+ Affari & Servizi Professionali, Scienza - Ingegneria - Consulenza, Ingegneri, Ingegneria, Laboratori Di Sperimentazione, Laboratori di Sperimentazioni, servizi ingegneristici, Servizi Ingegneristici E Gestionali, Affari & Servizi Professionali Milano, Scienza - Ingegneria - Consulenza Milano, Ingegneri Milano, Ingegneria Milano, Laboratori Di Sperimentazione Milano, Laboratori di Sperimentazioni Milano, servizi ingegneristici Milano, Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.13805616
+Scienza - Ingegneria - Consulenza Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[10]
+-
+0.13465472
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.13167264
+Affari & Servizi Professionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.1043139
+Hachette Fascicoli, Milano, 2009,
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[37]/td[2]/span[1]
+-
+0.09651046
+milano che cambia - Ordine degli architetti, P.P.C della ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/span[1]
+-
+0.06137766
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.05474832
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+-
+0.051886078
+ /milano che cambia Un Atlante delle trasformazioni della città e della sua Provincia. Nel 1973 venne allestita una mostra, e relativo catalogo, intitolata "Per quale ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/p[1]
+-
+0.05156416
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.050275292
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+__________________
+Telefonare.it mette a tua disposizione i contatti di arata isozaki associati s.r.l.
+---
+-
+0.34398767
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.34398767
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.34398767
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.29849038
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.28461412
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.22273928
+ Arata Isozaki e Attilio Gobbi firmano Bergamo Porta Sud ... quale vincitore del concorso il candidato Arata Isozaki Associati S.r.l. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/p[1]
+-
+0.21307026
+Valutazioni di Arata Isozaki Associati:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.194995
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.16759384
+Contenuti correlati per: Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.15662761
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.14612427
+ COMUNICATO STAMPA. AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI PROGETTO PER PIAZZA D'ARMI ... del Parco di Piazza d'Armi ad Arata Isozaki e Associati, ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+-
+0.14576147
+Comunicato Stampa: AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.14457203
+ © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 21 Gennaio 2010. ... Simone Utzeri, Shintaro Tobari, Haruna Watanabe / Arata Isozaki Associati ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+-
+0.13648626
+ Arata Isozaki & Associates. Associate designers. M+T & Partners. Principal-in-charge ... Arata Isozaki Associati", Ottagono 214, ottobre/october 2008, pp. 186-187 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[2]/p[1]
+-
+0.13032651
+ Le avventure cinesi di Arata Isozaki cominciano a partire dal 1998 con il ... © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 04 Settembre 2008. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/p[1]
+-
+0.12435613
+ ... Isozaki & Associates Co, Ltd., Tokyo, Studio associato M+ ... Le immagini sono gentilmente concesse Ferrovie dello Stato S.p.A e Arata Isozaki Associati. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/p[1]
+-
+0.10117174
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.06797426
+MSC Associati - Architettura e Ingegneria
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.046679962
+Torre Isozaki, o “il Dritto”: aperto il cantiere del ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/span[1]
+-
+0.038673706
+CITY LIFE – Torre Isozaki (TcA) | Ariatta - Ingegneria di ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.0345115
+ Sito di MSC Associati srl, società di progettazione e di servizi nel campo dell'ingegneria e dell'architettura  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/p[1]
+-
+0.026106596
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+__________________
+arata isozaki associati s.r.l. non risponde se chiami il numero di telefono 0287386348?
+---
+-
+0.32484215
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.32484215
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.32484215
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.28187713
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.26877314
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.2326129
+39 0287386348
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[4]
+-
+0.2326129
+39 0287386348
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/ul[1]/li[2]/a/strong[1]
+-
+0.21034215
+ Arata Isozaki e Attilio Gobbi firmano Bergamo Porta Sud ... quale vincitore del concorso il candidato Arata Isozaki Associati S.r.l. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/p[1]
+-
+0.20121127
+Valutazioni di Arata Isozaki Associati:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.18414204
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.15826596
+Contenuti correlati per: Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.14791009
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.13799134
+ COMUNICATO STAMPA. AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI PROGETTO PER PIAZZA D'ARMI ... del Parco di Piazza d'Armi ad Arata Isozaki e Associati, ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+-
+0.13764873
+Comunicato Stampa: AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.13652548
+ © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 21 Gennaio 2010. ... Simone Utzeri, Shintaro Tobari, Haruna Watanabe / Arata Isozaki Associati ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+-
+0.12888975
+ Arata Isozaki & Associates. Associate designers. M+T & Partners. Principal-in-charge ... Arata Isozaki Associati", Ottagono 214, ottobre/october 2008, pp. 186-187 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[2]/p[1]
+-
+0.123072855
+ Le avventure cinesi di Arata Isozaki cominciano a partire dal 1998 con il ... © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 04 Settembre 2008. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/p[1]
+-
+0.117434755
+ ... Isozaki & Associates Co, Ltd., Tokyo, Studio associato M+ ... Le immagini sono gentilmente concesse Ferrovie dello Stato S.p.A e Arata Isozaki Associati. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/p[1]
+-
+0.09554076
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.06419098
+MSC Associati - Architettura e Ingegneria
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.044081863
+Torre Isozaki, o “il Dritto”: aperto il cantiere del ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/span[1]
+-
+0.036521215
+CITY LIFE – Torre Isozaki (TcA) | Ariatta - Ingegneria di ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.03259067
+ Sito di MSC Associati srl, società di progettazione e di servizi nel campo dell'ingegneria e dell'architettura  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/p[1]
+-
+0.024653565
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+__________________
+Capoluoghi di provincia della regione Lombardia
+---
+-
+0.3111482
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.3111482
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.223744
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.18198752
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.13592665
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.124176174
+ /milano che cambia Un Atlante delle trasformazioni della città e della sua Provincia. Nel 1973 venne allestita una mostra, e relativo catalogo, intitolata "Per quale ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/p[1]
+__________________
+Bergamo
+---
+-
+0.26607218
+ Arata Isozaki e Attilio Gobbi firmano Bergamo Porta Sud ... quale vincitore del concorso il candidato Arata Isozaki Associati S.r.l. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/p[1]
+__________________
+
+        
+         v. Brera, 16
+       
+---
+-
+0.25277615
+via Brera 9
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.21685074
+via Brera 9, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.21685074
+
+           via Brera 9, 20121
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.17020735
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+__________________
+Puoi provare a contattare le aziende più vicine a arata isozaki associati s.r.l. per verificare il numero di telefono e gli orari di apertura al pubblico:
+---
+-
+0.22532651
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.22532651
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.22532651
+Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.19552386
+ ARATA ISOZAKI ASSOCIATI | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.1864343
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.14590366
+ Arata Isozaki e Attilio Gobbi firmano Bergamo Porta Sud ... quale vincitore del concorso il candidato Arata Isozaki Associati S.r.l. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/p[1]
+-
+0.13957004
+Valutazioni di Arata Isozaki Associati:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.12772998
+Arata Isozaki Associati - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.109781064
+Contenuti correlati per: Arata Isozaki Associati
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.10259773
+ ... concorso, vinto dallo Studio Arata Isozaki Associati di Milano, ha raccolto le ... dello Studio Arata Isozaki Associati, a seguire tavola rotonda con il sindaco ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+-
+0.095717594
+ COMUNICATO STAMPA. AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI PROGETTO PER PIAZZA D'ARMI ... del Parco di Piazza d'Armi ad Arata Isozaki e Associati, ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+-
+0.09547994
+Comunicato Stampa: AFFIDATO A ARATA ISOZAKI ED ASSOCIATI L INCARICO DI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.094700806
+ © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 21 Gennaio 2010. ... Simone Utzeri, Shintaro Tobari, Haruna Watanabe / Arata Isozaki Associati ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+-
+0.089404285
+ Arata Isozaki & Associates. Associate designers. M+T & Partners. Principal-in-charge ... Arata Isozaki Associati", Ottagono 214, ottobre/october 2008, pp. 186-187 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[2]/p[1]
+-
+0.08536939
+ Le avventure cinesi di Arata Isozaki cominciano a partire dal 1998 con il ... © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 04 Settembre 2008. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/p[1]
+-
+0.08145853
+ ... Isozaki & Associates Co, Ltd., Tokyo, Studio associato M+ ... Le immagini sono gentilmente concesse Ferrovie dello Stato S.p.A e Arata Isozaki Associati. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/p[1]
+-
+0.066271774
+ MILANO. Arata Isozaki Associati ... Mandanti STUDIO DI ARCHITETTURA ASSOCIATO M+T PARTNERS (FI), ARCH. BIANCHINI ENRICO, ARCH. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/p[1]
+-
+0.04452602
+MSC Associati - Architettura e Ingegneria
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/span[1]
+-
+0.030577354
+Torre Isozaki, o “il Dritto”: aperto il cantiere del ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/span[1]
+-
+0.025332915
+CITY LIFE – Torre Isozaki (TcA) | Ariatta - Ingegneria di ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.022606494
+ Sito di MSC Associati srl, società di progettazione e di servizi nel campo dell'ingegneria e dell'architettura  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/p[1]
+-
+0.017100928
+ Inaugurato il cantiere della Torre Isozaki, soprannominata il Dritto, il grattacielo più alto d’Italia inserito nel progetto di riqualificazione CityLife a Milano.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+__________________
+
+        
+         Via Del Carmine, 4/6
+       
+---
+-
+0.19434269
+via Brera 9
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.16690955
+via Brera 9, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.16690955
+
+           via Brera 9, 20121
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.13116628
+via Brera 9, Milano, Milano, Lombardia, 20121
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.0518439
+ Via Cornacchiara, 805 47824 Poggio Berni (RN) p.iva 01903410403 tel. +39 0541 686556 fax +39 0541 686546 email: info@focchi.it  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+__________________
+due dei giardini (s.r.l.)
+---
+-
+0.13536796
+ Architetto, Direttore di Arata Isozaki Associati ... 1968), architetto, è presidente della Arata Isozaki Associati s.r.l. di Milano. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[11]/td[2]/p[1]
+-
+0.11913655
+ Arata Isozaki e Attilio Gobbi firmano Bergamo Porta Sud ... quale vincitore del concorso il candidato Arata Isozaki Associati S.r.l. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[13]/td[2]/p[1]
+__________________
+Sesto San Giovanni
+---
+-
+0.1296278
+ Appartamento - Portici Tipologia edificio: Residenze Private e Residenziale Progetto: Giovanni Francesco Frascino Località: Italia (Campania), Napoli  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[25]/td[2]/p[1]
+-
+0.09349898
+ 04 ottobre 2013 Pescara, Aurum, Sala tosti Largo Gardone Riviera orario convegno 16.30 – 19.00 . 05 - 19 ottobre 2013 Museo Michetti Piazza San Domenico 1 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/p[1]
+__________________
+pellegrini walter & c. srl
+---
+-
+0.122546375
+ Sito di MSC Associati srl, società di progettazione e di servizi nel campo dell'ingegneria e dell'architettura  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[27]/td[2]/p[1]
+-
+0.119403385
+ SCHEDA TECNICA: © 2010 Ariatta Ingegneria dei Sistemi Srl - P.I. IT10702670158  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/p[1]
+-
+0.090385735
+ Le avventure cinesi di Arata Isozaki cominciano a partire dal 1998 con il ... © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 04 Settembre 2008. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/p[1]
+-
+0.08375176
+ © Arata Isozaki & Andrea Maffei Associati srl . Pubblicata il 21 Gennaio 2010. ... Simone Utzeri, Shintaro Tobari, Haruna Watanabe / Arata Isozaki Associati ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+__________________
+banca nazionale del lavoro s.p.a.
+---
+-
+0.1102922
+ ... Isozaki & Associates Co, Ltd., Tokyo, Studio associato M+ ... Le immagini sono gentilmente concesse Ferrovie dello Stato S.p.A e Arata Isozaki Associati. ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/p[1]
+__________________
+San Donato Milanese
+---
+-
+0.08938863
+ 04 ottobre 2013 Pescara, Aurum, Sala tosti Largo Gardone Riviera orario convegno 16.30 – 19.00 . 05 - 19 ottobre 2013 Museo Michetti Piazza San Domenico 1 ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/p[1]
+__________________

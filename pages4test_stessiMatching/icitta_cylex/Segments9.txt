@@ -1,0 +1,202 @@
+/html/body[1]/div[1]/div[3]/div[1]/a[3]
+Prato
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[1]/a[4]
+Prato
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[3]
+ 
+      Nannicini Marco
+       Via Isola 11/a
+       59011 - Seano 
+     
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[1]
+
+    > 
+   Toscana > 
+   Prato > 
+   Prato 
+  
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[2]
+Prato
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[1]/h1[1]
+Gori Emanuele - Prato 
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[2]
+ 
+      Expo Agency Srl
+       Via Filzi Fabio 0034/a
+       59100 - Prato 
+     
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/span[1]/strong[1]/h2
+Gori Emanuele
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/strong[3]/a
+Agenti E Rappresentanti Di Commercio a Prato
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]
+Modifica Dati
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]
+ Via Becherini Giuseppe 113   59100 Prato  (PO) 
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[6]
+ 
+      Leader-tex Rappresentanze
+       Via Danubio 12
+       59100 - Prato 
+     
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[4]
+ 
+      Conti Enrico Filati Srl Commercio Filati Testurizzati
+       Via Pantano 34
+       59013 - Montemurlo 
+     
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/span[1]/h5[1]
+ AGENTI RAPPRESENTANTI COMMERCIO 
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[6]/a[1]
+Leader-tex Rappresentanze
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[8]
+
+     Scrivi la tua recensione per Gori Emanuele - Prato:
+      
+      
+    
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[1]/a[2]
+Toscana
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[5]/a[1]
+Mazzeigiuridica
+________________________________________________________________________
+/html/body[1]/div[1]
+ 
+     
+  
+  
+  
+    > 
+   Toscana > 
+   Prato > 
+   Prato 
+   
+   
+    
+    Gori Emanuele - Prato  
+    
+    
+     
+     
+      
+       Gori Emanuele  AGENTI RAPPRESENTANTI COMMERCIO   
+       
+        
+        Via Becherini Giuseppe 113   59100 Prato  (PO) 
+         
+        
+        0574433713  
+         
+       Agenti E Rappresentanti Di Commercio a Prato
+        
+        
+         
+         Modifica Dati 
+          
+         Elimina Azienda 
+         
+        
+        
+       
+      
+     
+     
+     
+     
+      Aziende Simili: 
+       
+      
+      Expo Agency Srl
+       Via Filzi Fabio 0034/a
+       59100 - Prato 
+      
+      
+      Nannicini Marco
+       Via Isola 11/a
+       59011 - Seano 
+      
+      
+      Conti Enrico Filati Srl Commercio Filati Testurizzati
+       Via Pantano 34
+       59013 - Montemurlo 
+      
+      
+      Mazzeigiuridica
+       Via Montalese 483
+       80066 - Fornacella 
+      
+      
+      Leader-tex Rappresentanze
+       Via Danubio 12
+       59100 - Prato 
+      
+     
+     
+     
+     
+    
+     Scrivi la tua recensione per Gori Emanuele - Prato:
+      
+      
+     
+     
+      
+       
+    
+   
+   
+   
+            
+          
+       
+  >   
+
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[2]/a[1]
+Expo Agency Srl
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[4]/a[1]
+Conti Enrico Filati Srl Commercio Filati Testurizzati
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[5]
+ 
+      Mazzeigiuridica
+       Via Montalese 483
+       80066 - Fornacella 
+     
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[1]
+59100
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[1]/span[1]/strong
+Aziende Simili:
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[2]
+ 0574433713 
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[3]
+PO
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/a[2]
+Elimina Azienda
+________________________________________________________________________
+/html/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[3]/a[1]
+Nannicini Marco
+________________________________________________________________________

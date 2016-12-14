@@ -1,0 +1,1774 @@
+
+        Pescara
+       
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.34092006
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.3289957
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28436792
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.1930121
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+
+        Pescara
+       
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.34092006
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.3289957
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28436792
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.1930121
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+65121
+---
+-
+1.0
+65121
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.38212207
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.3686334
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+__________________
+Via Perugia, 9
+---
+-
+1.0
+9, Via Perugia
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
+-
+0.7406159
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.34092006
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.3289957
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28436792
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.1930121
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.34092006
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.3289957
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28436792
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.1930121
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+Ingegneri
+---
+-
+1.0
+ingegneri
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[4]
+-
+1.0
+ingegneri
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[4]
+-
+0.7386529
+Ingegneri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.7386529
+Ingegneri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]
+-
+0.55882794
+ Categoria: Ingegneri - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.55882794
+ Categoria: Ingegneri - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+-
+0.34409332
+
+             Studio di Ingegneria Prosperi Antonino
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+-
+0.16404957
+ Lo Studio d'Ingegneria Prosperi opera a Montesilvano (PE) nell'edilizia pubblica e privata attraverso progettazioni, collaudi e consulenze qualificate. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.15134858
+
+             Studio De Marco. Ingegneria Industriale, Creazione ed Efficientamento D'Impresa, De Marco Cesare Augusto
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
+__________________
+65121
+---
+-
+1.0
+65121
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.38212207
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.3686334
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+__________________
+65121
+---
+-
+1.0
+65121
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.38212207
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.3686334
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.34092006
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.3289957
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28436792
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.1930121
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+
+        Pescara
+       
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.34092006
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.3289957
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28436792
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.1930121
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.34092006
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.3289957
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28436792
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.1930121
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.34092006
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.3289957
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28436792
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.1930121
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.34092006
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.3289957
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28436792
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.1930121
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.34092006
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.3289957
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28436792
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.1930121
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+Via Perugia, 9
+---
+-
+1.0
+9, Via Perugia
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
+-
+0.7406159
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+__________________
+085 4214339
+---
+-
+1.0
+085 4214339
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[2]/span[1]/span[1]
+-
+0.7463192
+tel. 085 4214339 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[2]/span[1]
+__________________
+65121
+---
+-
+1.0
+65121
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.38212207
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.3686334
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.34092006
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.3289957
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28436792
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.1930121
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+65121
+---
+-
+1.0
+65121
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.38212207
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.3686334
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.34092006
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.3289957
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28436792
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.1930121
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+
+            Via Perugia, 9 - 
+            65121 
+            Pescara
+           
+---
+-
+0.93137765
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.81062824
+9, Via Perugia
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
+-
+0.43600085
+65121
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.39087746
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.2916036
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.11115301
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.07544408
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+Ingegneri a Pescara
+---
+-
+0.76022553
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.6496592
+ingegneri
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[4]
+-
+0.6496592
+ingegneri
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[4]
+-
+0.4798726
+Ingegneri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.4798726
+Ingegneri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]
+-
+0.36304775
+ Categoria: Ingegneri - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.36304775
+ Categoria: Ingegneri - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+-
+0.2591761
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.25011095
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.2235434
+
+             Studio di Ingegneria Prosperi Antonino
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+-
+0.21618375
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.14673273
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.10657631
+ Lo Studio d'Ingegneria Prosperi opera a Montesilvano (PE) nell'edilizia pubblica e privata attraverso progettazioni, collaudi e consulenze qualificate. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.098325
+
+             Studio De Marco. Ingegneria Industriale, Creazione ed Efficientamento D'Impresa, De Marco Cesare Augusto
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
+__________________
+Sargiacomo Ing. Silvio
+---
+-
+0.7463192
+
+      Sargiacomo Silvio
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.7463192
+ Sargiacomo Silvio 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+__________________
+Sargiacomo Ing. Silvio
+---
+-
+0.7463192
+
+      Sargiacomo Silvio
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.7463192
+ Sargiacomo Silvio 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+__________________
+
+          Pescara (PE)
+         
+---
+-
+0.72279
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.6910677
+(PE)
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[4]
+-
+0.47404328
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.4573044
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.3948037
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.20177361
+
+             99, V. Marinelli
+             65015 - Montesilvano (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.13950723
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.12692018
+ Lo Studio d'Ingegneria Prosperi opera a Montesilvano (PE) nell'edilizia pubblica e privata attraverso progettazioni, collaudi e consulenze qualificate. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+__________________
+Sargiacomo Ing. Silvio - Pescara
+---
+-
+0.68292904
+
+      Sargiacomo Silvio
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.68292904
+ Sargiacomo Silvio 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.403311
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.13749681
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.1326876
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.11468871
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.07784391
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+Scrivi la tua recensione di Sargiacomo Ing. Silvio
+---
+-
+0.641105
+
+      Sargiacomo Silvio
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.641105
+ Sargiacomo Silvio 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.51193774
+Scrivi una recensione
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.51193774
+Scrivi una recensione
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.51193774
+Scrivi una recensione
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]
+-
+0.51193774
+Scrivi una recensione
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]
+-
+0.36730054
+ Scrivi per primo una recensione 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]
+-
+0.26278475
+
+         Conosci questa attività?   
+         Scrivi per primo una recensione  
+       
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]
+__________________
+
+            Studio D'ingegneria
+           
+---
+-
+0.6081579
+ingegneri
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[4]
+-
+0.6081579
+ingegneri
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[4]
+-
+0.5746901
+
+             Studio di Ingegneria Prosperi Antonino
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+-
+0.44921756
+Ingegneri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.44921756
+Ingegneri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]
+-
+0.33985564
+ Categoria: Ingegneri - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.33985564
+ Categoria: Ingegneri - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+-
+0.27069485
+ Lo Studio d'Ingegneria Prosperi opera a Montesilvano (PE) nell'edilizia pubblica e privata attraverso progettazioni, collaudi e consulenze qualificate. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.24960662
+
+             Studio De Marco. Ingegneria Industriale, Creazione ed Efficientamento D'Impresa, De Marco Cesare Augusto
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
+__________________
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+---
+-
+0.60607785
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.40581158
+9, Via Perugia
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
+-
+0.3913572
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.33134377
+085 4214339
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[2]/span[1]/span[1]
+-
+0.33134377
+
+      Sargiacomo Silvio
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.33134377
+ Sargiacomo Silvio 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.27178407
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.24728821
+tel. 085 4214339 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[2]/span[1]
+-
+0.21826796
+65121
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.18709052
+(PE)
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[4]
+-
+0.16721933
+ingegneri
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[4]
+-
+0.16721933
+ingegneri
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[4]
+-
+0.16535069
+studi tecnici
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[5]
+-
+0.16535069
+studi tecnici
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[5]
+-
+0.1627228
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.15801702
+
+             Studio di Ingegneria Prosperi Antonino
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+-
+0.12587348
+studi tecnici ed industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[2]
+-
+0.12587348
+studi tecnici ed industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[2]
+-
+0.12351704
+Ingegneri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.12351704
+Ingegneri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]
+-
+0.10906409
+ Lo Studio d'Ingegneria Prosperi opera a Montesilvano (PE) nell'edilizia pubblica e privata attraverso progettazioni, collaudi e consulenze qualificate. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.09344684
+ Categoria: Ingegneri - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.09344684
+ Categoria: Ingegneri - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+-
+0.075536676
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.06863194
+
+             Studio De Marco. Ingegneria Industriale, Creazione ed Efficientamento D'Impresa, De Marco Cesare Augusto
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
+-
+0.054625515
+
+             99, V. Marinelli
+             65015 - Montesilvano (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+__________________
+Architetti, studi architettura Pescara
+---
+-
+0.569626
+architetti - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[1]
+-
+0.569626
+architetti - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[1]
+-
+0.4537849
+architetti
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[7]
+-
+0.4537849
+architetti
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[7]
+-
+0.4537849
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.4455332
+ Categoria: Architetti - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.22417443
+Ingegneri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.22417443
+Ingegneri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]
+-
+0.1936578
+geometri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[3]
+-
+0.1936578
+studi tecnici
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[5]
+-
+0.1936578
+geometri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[3]
+-
+0.1936578
+studi tecnici
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[5]
+-
+0.1701278
+ Categoria: Ingegneri - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.1701278
+ Categoria: Ingegneri - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+-
+0.15470436
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.14929329
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.14924787
+studi tecnici ed industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[2]
+-
+0.14924787
+studi tecnici ed industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[2]
+-
+0.12904187
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.087585986
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+Avvocati Pescara
+---
+-
+0.5521142
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.1882268
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.18164322
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.15700357
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.10656472
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+
+            Studio Tecnico
+           
+---
+-
+0.5511401
+studi tecnici
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[5]
+-
+0.5511401
+studi tecnici
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[5]
+-
+0.4195563
+studi tecnici ed industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[2]
+-
+0.4195563
+studi tecnici ed industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[2]
+-
+0.33045548
+
+             Studio di Ingegneria Prosperi Antonino
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+-
+0.15618016
+ Lo Studio d'Ingegneria Prosperi opera a Montesilvano (PE) nell'edilizia pubblica e privata attraverso progettazioni, collaudi e consulenze qualificate. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.14403394
+
+             Studio De Marco. Ingegneria Industriale, Creazione ed Efficientamento D'Impresa, De Marco Cesare Augusto
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
+__________________
+Studio Tecnico
+---
+-
+0.5511401
+studi tecnici
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[5]
+-
+0.5511401
+studi tecnici
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[5]
+-
+0.4195563
+studi tecnici ed industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[2]
+-
+0.4195563
+studi tecnici ed industriali
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[2]
+-
+0.33045548
+
+             Studio di Ingegneria Prosperi Antonino
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+-
+0.15618016
+ Lo Studio d'Ingegneria Prosperi opera a Montesilvano (PE) nell'edilizia pubblica e privata attraverso progettazioni, collaudi e consulenze qualificate. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.14403394
+
+             Studio De Marco. Ingegneria Industriale, Creazione ed Efficientamento D'Impresa, De Marco Cesare Augusto
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
+__________________
+Risultati di ricerca per Sargiacomo Ing. Silvio
+---
+-
+0.54344046
+
+      Sargiacomo Silvio
+     
+/html/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+-
+0.54344046
+ Sargiacomo Silvio 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+__________________
+Categorie correlate a Pescara
+---
+-
+0.48826027
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.46683115
+Categoria: 
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/span[1]
+-
+0.46683115
+categoria
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.2940043
+ Categoria: Ingegneri - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.2940043
+ Categoria: Ingegneri - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+-
+0.27528688
+ Categoria: Architetti - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.24702176
+ Categoria: Imprese edili 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[2]
+-
+0.16645771
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.16063553
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.13884555
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.094240144
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+
+            Via Firenze, 4 - 
+            65121 
+            Pescara
+           
+---
+-
+0.44952807
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.38860866
+65121
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.3483901
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.25990704
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.22608706
+9, Via Perugia
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
+-
+0.09907097
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.06724351
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+Associazioni sindacali Pescara
+---
+-
+0.4240551
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.14456889
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.13951232
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.12058767
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.08184777
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+Agenzie immobiliari Pescara
+---
+-
+0.4240551
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.14456889
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.13951232
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.12058767
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.08184777
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+
+            Studio di Ingegneria e Architettura
+           
+---
+-
+0.41427943
+ingegneri
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[4]
+-
+0.41427943
+ingegneri
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[4]
+-
+0.39148107
+
+             Studio di Ingegneria Prosperi Antonino
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+-
+0.3060087
+Ingegneri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.3060087
+Ingegneri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]
+-
+0.23151094
+ Categoria: Ingegneri - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.23151094
+ Categoria: Ingegneri - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+-
+0.18439834
+ Lo Studio d'Ingegneria Prosperi opera a Montesilvano (PE) nell'edilizia pubblica e privata attraverso progettazioni, collaudi e consulenze qualificate. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.17003296
+
+             Studio De Marco. Ingegneria Industriale, Creazione ed Efficientamento D'Impresa, De Marco Cesare Augusto
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
+__________________
+Dedo Ingegneria S.r.l.
+---
+-
+0.37150243
+ingegneri
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[4]
+-
+0.37150243
+ingegneri
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[4]
+-
+0.27441135
+Ingegneri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.27441135
+Ingegneri - studi
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]
+-
+0.20760596
+ Categoria: Ingegneri - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.20760596
+ Categoria: Ingegneri - studi 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+-
+0.12783152
+
+             Studio di Ingegneria Prosperi Antonino
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+-
+0.06094482
+ Lo Studio d'Ingegneria Prosperi opera a Montesilvano (PE) nell'edilizia pubblica e privata attraverso progettazioni, collaudi e consulenze qualificate. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.05622637
+
+             Studio De Marco. Ingegneria Industriale, Creazione ed Efficientamento D'Impresa, De Marco Cesare Augusto
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
+__________________
+Commercialisti - studio commercialista Pescara
+---
+-
+0.2966135
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.15028118
+
+             Studio di Ingegneria Prosperi Antonino
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+-
+0.1011215
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.09758458
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.084347375
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.07102603
+ Lo Studio d'Ingegneria Prosperi opera a Montesilvano (PE) nell'edilizia pubblica e privata attraverso progettazioni, collaudi e consulenze qualificate. 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.06550229
+
+             Studio De Marco. Ingegneria Industriale, Creazione ed Efficientamento D'Impresa, De Marco Cesare Augusto
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
+-
+0.05725
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+
+            Corso Vittorio Emanuele Ii, 10 - 
+            65122 
+            Pescara
+           
+---
+-
+0.26606667
+Pescara
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.18291406
+
+             Emanuele Arch. D'Amico
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+-
+0.09070745
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.08753479
+
+             41, V. Pesaro
+             65121 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.07566082
+
+             26, V. Lungaterno Sud
+             65126 - Pescara (PE)
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.051354088
+ L'impresa Lamante, a Pescara, realizza costruzioni edili civili ed industriali, occupandosi anche della gestione di appalti e di vendite dirette dal costruttore 
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+Via Firenze, 4
+---
+-
+0.26504958
+9, Via Perugia
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
+-
+0.20178357
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+__________________
+Via Bologna, 8
+---
+-
+0.26504958
+9, Via Perugia
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
+-
+0.20178357
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+__________________
+Via Bologna, 1
+---
+-
+0.26504958
+9, Via Perugia
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
+-
+0.20178357
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+__________________
+Via Firenze, 51
+---
+-
+0.26504958
+9, Via Perugia
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
+-
+0.20178357
+ 
+          9, Via Perugia - 
+          65121 
+          Pescara 
+          (PE) 
+         
+/html/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+__________________
+Corso Vittorio Emanuele Ii, 10
+---
+-
+0.20875275
+
+             Emanuele Arch. D'Amico
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+__________________
+Costantini Ing. Rafael - Polacchi Arch. Gianni
+---
+-
+0.1897538
+
+             Emanuele Arch. D'Amico
+            
+/html/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+__________________

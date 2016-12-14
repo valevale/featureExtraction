@@ -1,0 +1,7 @@
+/home/valentina/workspace_nuovo/FeatureExtractor/testGenericXpath/icitta_cylex/
+/home/valentina/workspace_nuovo/FeatureExtractor/testGenericXpath/misterimprese_paginegialle/
+/home/valentina/workspace_nuovo/FeatureExtractor/testGenericXpath/paginebianche_paginesi/
+/home/valentina/workspace_nuovo/FeatureExtractor/testGenericXpath/prelex_professionistadvisor/
+/home/valentina/workspace_nuovo/FeatureExtractor/testGenericXpath/prontoimprese_trovanumeri/
+/home/valentina/workspace_nuovo/FeatureExtractor/testGenericXpath/telefonare_tuugo/
+/home/valentina/workspace_nuovo/FeatureExtractor/testGenericXpath/inelenco_empresite/

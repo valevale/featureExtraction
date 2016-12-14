@@ -1,0 +1,42 @@
+/html/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[1]/td[4]/div[1]/u[1]
+nome:Stefanelli AND nome:Luigi 
+________________________________________________________________________
+/html/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[2]/td[1]
+ 02437406
+________________________________________________________________________
+/html/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+Stefanelli
+________________________________________________________________________
+/html/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
+ Via Valparaiso, 11
+________________________________________________________________________
+/html/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+ 
+               Stefanelli  
+             
+________________________________________________________________________
+/html/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+
+              Stefanelli Luigi  
+             
+________________________________________________________________________
+/html/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[1]/td[4]/div[1]
+
+          Risultati 
+         nome:Stefanelli AND nome:Luigi  1 - 1 di 1 risultati in (0 Secondi) 
+        
+________________________________________________________________________
+/html/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[9]/td[1]/div[1]/a[1]
+024374
+________________________________________________________________________
+/html/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+Via Valparaiso Milano
+________________________________________________________________________
+/html/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+
+              Informazioni aggiuntive su Stefanelli Luigi  
+             
+________________________________________________________________________
+/html/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+ 20144 Milano (MI)
+________________________________________________________________________

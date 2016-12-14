@@ -1,0 +1,48 @@
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[1]/td[4]/div[1]
+
+          Risultati 
+         nome:Giusti AND nome:Osvaldo  1 - 1 di 1 risultati in (0 Secondi) 
+        
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+Giusti
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+ 
+               Giusti  
+             
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+Via Giusti Giuseppe Campi Bisenzio
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+
+              Informazioni aggiuntive su Giusti Osvaldo  
+             
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[9]/td[1]/div[1]/a[1]
+05589545
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[2]/td[1]
+ 0558954526
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+
+              Giusti Osvaldo  
+             
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+ 50013 Campi Bisenzio (FI)
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[1]/td[4]/div[1]/u[1]
+nome:Giusti AND nome:Osvaldo 
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[1]/td[4]/div[1]
+
+          Risultati 
+         nome:Giusti AND nome:Osvaldo  1 - 1 di 1 risultati in (0 Secondi) 
+        
+________________________________________________________________________
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
+ Via Giusti Giuseppe, 26
+________________________________________________________________________

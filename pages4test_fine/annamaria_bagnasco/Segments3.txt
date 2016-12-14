@@ -1,0 +1,32 @@
+/html/body[1]/div[2]/div[3]/div[1]/div[1]/ul[1]/li[1]/strong[1]/span
+Loredana Sasso
+________________________________________________________________________
+/html/body[1]/div[2]/div[3]/div[1]/div[1]/ul[1]/li[1]/span[1]
+ è Professore associato della Facoltà di Medicina e Chirurgia, Dipartimento della Salute.
+________________________________________________________________________
+/html/body[1]/div[2]/div[3]/div[1]/div[1]/ul[1]/li[3]/strong[1]/span
+Annamaria Bagnasco
+________________________________________________________________________
+/html/body[1]/div[2]/div[3]/div[1]/div[1]/ul[1]/li[3]/span[1]
+ è Ricercatore universitario della Facoltà di Medicina e Chirurgia presso l’Università degli Studi di Genova. 
+________________________________________________________________________
+/html/body[1]/div[2]/div[3]/div[1]/div[1]/div[1]/a[1]
+Scienze infermieristiche generali e cliniche 3/ed  Loredana Sasso, Carmelo Gagliano e Annamaria Bagnasco  Euro: 56.00  ISBN: 9788838646225 Pagine 530
+________________________________________________________________________
+/html/body[1]/div[2]/div[3]/div[1]/h1[1]
+Loredana Sasso, Carmelo Gagliano e Annamaria Bagnasco 
+________________________________________________________________________
+/html/body[1]/div[2]/div[3]/div[1]/div[1]/ul[1]/li[2]/span[1]
+ è Dottore Magistrale in Scienze Infermieristiche e Ostetriche, è attualmente Responsabile dell’UO Infermieristica presso l’AO Villa Scassi di Genova Sampierdarena.
+________________________________________________________________________
+/html/body[1]/div[2]/div[3]/div[1]/strong[1]/div[1]
+
+     Elenco libri di:
+    
+________________________________________________________________________
+/html/body[1]/div[1]/h3[1]/a
+The McGraw-Hill Companies
+________________________________________________________________________
+/html/body[1]/div[2]/div[3]/div[1]/div[1]/ul[1]/li[2]/strong[1]/span
+Carmelo Gagliano
+________________________________________________________________________
