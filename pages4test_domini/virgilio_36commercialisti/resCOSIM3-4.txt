@@ -1,0 +1,1798 @@
+02037
+---
+-
+1.0
+02037
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[2]
+__________________
+Poggio Moiano
+---
+-
+1.0
+Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.7143231
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.4111392
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.23806925
+Michiorri Lara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span
+-
+0.23806925
+Lori Barbara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+__________________
+ AMICI MAURO 
+---
+-
+1.0
+Amici Mauro
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]/span[1]
+-
+0.57054704
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.54212266
+Indirizzo de Amici Mauro
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[1]
+-
+0.54212266
+Telefono de Amici Mauro :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[2]
+-
+0.48917177
+L'indirizzo dello studio commercialista di Amici Mauro è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+-
+0.4282016
+Gli orari di apertura di Amici Mauro sono i seguenti :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[3]
+-
+0.34749427
+Il numero di telefono di Amici Mauro è 765875014. Il suo fax è 765875015.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[6]
+-
+0.33323562
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+Poggio Moiano
+---
+-
+1.0
+Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.7143231
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.4111392
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.23806925
+Michiorri Lara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span
+-
+0.23806925
+Lori Barbara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+__________________
+Poggio Moiano
+---
+-
+1.0
+Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.7143231
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.4111392
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.23806925
+Michiorri Lara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span
+-
+0.23806925
+Lori Barbara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+__________________
+POGGIO MOIANO
+---
+-
+1.0
+Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.7143231
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.4111392
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.23806925
+Michiorri Lara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span
+-
+0.23806925
+Lori Barbara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+__________________
+AMICI MAURO
+---
+-
+1.0
+Amici Mauro
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]/span[1]
+-
+0.57054704
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.54212266
+Indirizzo de Amici Mauro
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[1]
+-
+0.54212266
+Telefono de Amici Mauro :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[2]
+-
+0.48917177
+L'indirizzo dello studio commercialista di Amici Mauro è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+-
+0.4282016
+Gli orari di apertura di Amici Mauro sono i seguenti :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[3]
+-
+0.34749427
+Il numero di telefono di Amici Mauro è 765875014. Il suo fax è 765875015.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[6]
+-
+0.33323562
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+Rieti
+---
+-
+1.0
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+1.0
+ > Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+__________________
+Colle di Tora
+---
+-
+0.93401057
+Commercialisti a Colle di Tora
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+__________________
+Colle Di Tora
+---
+-
+0.93401057
+Commercialisti a Colle di Tora
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+__________________
+Monteleone Sabino
+---
+-
+0.92009157
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.32159388
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.22361921
+Maschietti Nicolino (Palombara Sabina)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.22361921
+Ottaviani Diego (Montopoli di Sabina)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+Monteleone Sabino
+---
+-
+0.92009157
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.32159388
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.22361921
+Maschietti Nicolino (Palombara Sabina)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.22361921
+Ottaviani Diego (Montopoli di Sabina)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+Scandriglia
+---
+-
+0.87956834
+Commercialisti a Scandriglia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+__________________
+Scandriglia
+---
+-
+0.87956834
+Commercialisti a Scandriglia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+__________________
+Via Enrico Mattei, POGGIO MOIANO
+---
+-
+0.69754124
+via Enrico Mattei 12
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[1]
+-
+0.5420943
+Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.38723046
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.2228762
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.12905599
+Michiorri Lara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span
+-
+0.12905599
+Lori Barbara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+__________________
+Via Enrico Mattei , 1
+---
+-
+0.68905324
+via Enrico Mattei 12
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[1]
+__________________
+Dottori commercialisti - studi a Colle di Tora
+---
+-
+0.6757335
+Commercialisti a Colle di Tora
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.09660854
+Commercialisti a Ponticelli
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.09660854
+Commercialisti a Fiacchini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.09660854
+Commercialisti a Scandriglia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.09660854
+Commercialisti a Posticciola
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.09660854
+Commercialisti a Cerdomare
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.09004773
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.0808021
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.0808021
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.076277904
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.076047175
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.07139483
+Commercialisti a Osteria nuova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.07139483
+Commercialisti a Villetta Sant'Antonio
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.065584764
+L'indirizzo dello studio commercialista di Amici Mauro è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+__________________
+Tutti i comuni di Rieti
+---
+-
+0.6707419
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+0.6707419
+ > Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.52445465
+Comuni vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[3]
+__________________
+Dottori commercialisti - studi a Monteleone Sabino
+---
+-
+0.6411214
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.27701604
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.1325148
+Maschietti Nicolino (Palombara Sabina)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.1325148
+Ottaviani Diego (Montopoli di Sabina)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+-
+0.10057873
+Commercialisti a Ponticelli
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.10057873
+Commercialisti a Fiacchini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.10057873
+Commercialisti a Scandriglia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.10057873
+Commercialisti a Posticciola
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.10057873
+Commercialisti a Cerdomare
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.09374831
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.0794126
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.07917239
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.07432885
+Commercialisti a Osteria nuova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.07432885
+Commercialisti a Colle di Tora
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.07432885
+Commercialisti a Villetta Sant'Antonio
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.06828002
+L'indirizzo dello studio commercialista di Amici Mauro è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+__________________
+RIETI (RI)
+---
+-
+0.61367613
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+0.61367613
+ > Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+__________________
+Dottori commercialisti - studi a Scandriglia
+---
+-
+0.5658485
+Commercialisti a Scandriglia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.10805815
+Commercialisti a Ponticelli
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.10805815
+Commercialisti a Fiacchini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.10805815
+Commercialisti a Posticciola
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.10805815
+Commercialisti a Cerdomare
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.10071978
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.090378396
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.090378396
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.08531802
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.08505994
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.07985622
+Commercialisti a Osteria nuova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.07985622
+Commercialisti a Colle di Tora
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.07985622
+Commercialisti a Villetta Sant'Antonio
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.073357575
+L'indirizzo dello studio commercialista di Amici Mauro è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+__________________
+Dottori commercialisti - studi a Poggio Moiano
+---
+-
+0.543192
+Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.4752451
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.32332078
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.12931733
+Michiorri Lara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span
+-
+0.12931733
+Lori Barbara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.10483726
+Commercialisti a Ponticelli
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.10483726
+Commercialisti a Fiacchini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.10483726
+Commercialisti a Scandriglia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.10483726
+Commercialisti a Posticciola
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.10483726
+Commercialisti a Cerdomare
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.08768449
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.08768449
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.08252456
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.07747595
+Commercialisti a Osteria nuova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.07747595
+Commercialisti a Colle di Tora
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.07747595
+Commercialisti a Villetta Sant'Antonio
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.07117101
+L'indirizzo dello studio commercialista di Amici Mauro è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+__________________
+Nerola
+---
+-
+0.5193421
+Manganelli Fabio (Nerola)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+__________________
+ Via Enrico Mattei , 1 02037 POGGIO MOIANO (RI)  
+---
+-
+0.5097266
+via Enrico Mattei 12
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[1]
+-
+0.3958405
+Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.35452777
+02037
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[2]
+-
+0.28894103
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.16892642
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.09430735
+Michiorri Lara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span
+-
+0.09430735
+Lori Barbara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+__________________
+Attività simili a POGGIO MOIANO e nei dintorni
+---
+-
+0.48489684
+Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.346373
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.19936009
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.11543903
+Michiorri Lara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span
+-
+0.11543903
+Lori Barbara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+__________________
+Trova DOTTORI COMMERCIALISTI - STUDI vicino a Via Enrico Mattei, POGGIO MOIANO
+---
+-
+0.4688723
+via Enrico Mattei 12
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[1]
+-
+0.3643842
+Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.31880403
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.22788359
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.21689013
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.18098363
+Comuni vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[3]
+-
+0.086748675
+Michiorri Lara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span
+-
+0.086748675
+Lori Barbara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.070326954
+Commercialisti a Ponticelli
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.070326954
+Commercialisti a Fiacchini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.070326954
+Commercialisti a Scandriglia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.070326954
+Commercialisti a Posticciola
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.070326954
+Commercialisti a Cerdomare
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.05882053
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.05882053
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.051972438
+Commercialisti a Osteria nuova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.051972438
+Commercialisti a Colle di Tora
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.051972438
+Commercialisti a Villetta Sant'Antonio
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.047742955
+L'indirizzo dello studio commercialista di Amici Mauro è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+__________________
+Castel Di Tora
+---
+-
+0.40067136
+Commercialisti a Colle di Tora
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+__________________
+Castel di Tora
+---
+-
+0.40067136
+Commercialisti a Colle di Tora
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+__________________
+Francia Dottoressalia Studio Commercialista
+---
+-
+0.358277
+L'indirizzo dello studio commercialista di Amici Mauro è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+-
+0.10805815
+Commercialisti a Ponticelli
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.10805815
+Commercialisti a Fiacchini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.10805815
+Commercialisti a Scandriglia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.10805815
+Commercialisti a Posticciola
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.10805815
+Commercialisti a Cerdomare
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.10071978
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.090378396
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.090378396
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.08531802
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.08505994
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.07985622
+Commercialisti a Osteria nuova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.07985622
+Commercialisti a Colle di Tora
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.07985622
+Commercialisti a Villetta Sant'Antonio
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+__________________
+Studio Legale Tagliaferri
+---
+-
+0.35591528
+Informazioni legali
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[4]
+-
+0.30533203
+L'indirizzo dello studio commercialista di Amici Mauro è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+__________________
+Dottori commercialisti - studi a Castel di Tora
+---
+-
+0.34045574
+Commercialisti a Colle di Tora
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.09335123
+Commercialisti a Ponticelli
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.09335123
+Commercialisti a Fiacchini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.09335123
+Commercialisti a Scandriglia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.09335123
+Commercialisti a Posticciola
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.09335123
+Commercialisti a Cerdomare
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.087011635
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.07807773
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.07807773
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.07370608
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.07348313
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.068987645
+Commercialisti a Osteria nuova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.068987645
+Commercialisti a Villetta Sant'Antonio
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.063373476
+L'indirizzo dello studio commercialista di Amici Mauro è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+__________________
+Poggio Nativo
+---
+-
+0.34034234
+Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.24843052
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.19285068
+Michiorri Lara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span
+-
+0.19285068
+Lori Barbara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.14524238
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+Poggio Nativo
+---
+-
+0.34034234
+Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.24843052
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.19285068
+Michiorri Lara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span
+-
+0.19285068
+Lori Barbara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.14524238
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+Torricella In Sabina
+---
+-
+0.29125834
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.29125834
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.2025255
+Maschietti Nicolino (Palombara Sabina)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.2025255
+Ottaviani Diego (Montopoli di Sabina)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+Torricella in Sabina
+---
+-
+0.29125834
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.29125834
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.2025255
+Maschietti Nicolino (Palombara Sabina)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.2025255
+Ottaviani Diego (Montopoli di Sabina)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+Pozzaglia Sabina
+---
+-
+0.29125834
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.29125834
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.2025255
+Maschietti Nicolino (Palombara Sabina)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.2025255
+Ottaviani Diego (Montopoli di Sabina)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+Frasso Sabino
+---
+-
+0.29125834
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.29125834
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.2025255
+Maschietti Nicolino (Palombara Sabina)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.2025255
+Ottaviani Diego (Montopoli di Sabina)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+Frasso Sabino
+---
+-
+0.29125834
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.29125834
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.2025255
+Maschietti Nicolino (Palombara Sabina)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.2025255
+Ottaviani Diego (Montopoli di Sabina)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+Studio Legale Michiorri Avv. Paolo
+---
+-
+0.27282768
+Informazioni legali
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[4]
+-
+0.234053
+L'indirizzo dello studio commercialista di Amici Mauro è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+-
+0.2101248
+Michiorri Lara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span
+__________________
+Dottori commercialisti - studi a Frasso Sabino
+---
+-
+0.26693484
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.26693484
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.12769231
+Maschietti Nicolino (Palombara Sabina)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.12769231
+Ottaviani Diego (Montopoli di Sabina)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+-
+0.096918456
+Commercialisti a Ponticelli
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.096918456
+Commercialisti a Fiacchini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.096918456
+Commercialisti a Scandriglia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.096918456
+Commercialisti a Posticciola
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.096918456
+Commercialisti a Cerdomare
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.090336606
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.0765226
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.07629113
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.07162386
+Commercialisti a Osteria nuova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.07162386
+Commercialisti a Colle di Tora
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.07162386
+Commercialisti a Villetta Sant'Antonio
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.06579516
+L'indirizzo dello studio commercialista di Amici Mauro è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+__________________
+Dottori commercialisti - studi a Torricella in Sabina
+---
+-
+0.26693484
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.26693484
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.12769231
+Maschietti Nicolino (Palombara Sabina)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.12769231
+Ottaviani Diego (Montopoli di Sabina)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+-
+0.096918456
+Commercialisti a Ponticelli
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.096918456
+Commercialisti a Fiacchini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.096918456
+Commercialisti a Scandriglia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.096918456
+Commercialisti a Posticciola
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.096918456
+Commercialisti a Cerdomare
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.090336606
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.0765226
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.07629113
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.07162386
+Commercialisti a Osteria nuova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.07162386
+Commercialisti a Colle di Tora
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.07162386
+Commercialisti a Villetta Sant'Antonio
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.06579516
+L'indirizzo dello studio commercialista di Amici Mauro è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+__________________
+Poggio San Lorenzo
+---
+-
+0.2601483
+Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.18989345
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.14740975
+Michiorri Lara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span
+-
+0.14740975
+Lori Barbara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.11101926
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+Poggio San Lorenzo
+---
+-
+0.2601483
+Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.18989345
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.14740975
+Michiorri Lara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span
+-
+0.14740975
+Lori Barbara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.11101926
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+ Pubblicita' e servizi per le aziende 
+---
+-
+0.24271472
+Data di creazione dell'azienda: 1992
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[9]
+-
+0.20327634
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+Ragionieri - studi
+---
+-
+0.2426446
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+ 60, V. Riosole 02047 POGGIO MIRTETO (RI) 
+---
+-
+0.2373746
+Michiorri Lara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span
+-
+0.2373746
+Lori Barbara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.16458654
+Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.1201388
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.07023792
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+Dottori commercialisti - studi a Poggio Nativo
+---
+-
+0.2335805
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.21239185
+Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.18240204
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.12034916
+Michiorri Lara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span
+-
+0.12034916
+Lori Barbara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.09756679
+Commercialisti a Ponticelli
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.09756679
+Commercialisti a Fiacchini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.09756679
+Commercialisti a Scandriglia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.09756679
+Commercialisti a Posticciola
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.09756679
+Commercialisti a Cerdomare
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.08160357
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.08160357
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.07680148
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.072102994
+Commercialisti a Osteria nuova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.072102994
+Commercialisti a Colle di Tora
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.072102994
+Commercialisti a Villetta Sant'Antonio
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.0662353
+L'indirizzo dello studio commercialista di Amici Mauro è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+__________________
+Dottori commercialisti - studi a Poggio San Lorenzo
+---
+-
+0.20669152
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.18794204
+Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.16140455
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.106494986
+Michiorri Lara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span
+-
+0.106494986
+Lori Barbara (Poggio Mirteto)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.08633524
+Commercialisti a Ponticelli
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.08633524
+Commercialisti a Fiacchini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.08633524
+Commercialisti a Scandriglia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.08633524
+Commercialisti a Posticciola
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.08633524
+Commercialisti a Cerdomare
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.07220965
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.07220965
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.06796036
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.06380274
+Commercialisti a Osteria nuova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.06380274
+Commercialisti a Colle di Tora
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.06380274
+Commercialisti a Villetta Sant'Antonio
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.058610518
+L'indirizzo dello studio commercialista di Amici Mauro è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+__________________
+Via XXI Aprile, 54
+---
+-
+0.1975738
+via Enrico Mattei 12
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[1]
+__________________
+ Professionisti - studi e servizi ed associazioni di interesse... 
+---
+-
+0.1469773
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+Elaborazione dati - servizio conto terzi
+---
+-
+0.1469773
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+Dottori commercialisti - studi
+---
+-
+0.12486447
+Commercialisti a Ponticelli
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.12486447
+Commercialisti a Fiacchini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.12486447
+Commercialisti a Scandriglia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.12486447
+Commercialisti a Posticciola
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.12486447
+Commercialisti a Cerdomare
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.11638476
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.10443498
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.10443498
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.09858756
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.09828934
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.09227629
+Commercialisti a Osteria nuova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.09227629
+Commercialisti a Colle di Tora
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.09227629
+Commercialisti a Villetta Sant'Antonio
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.0847669
+L'indirizzo dello studio commercialista di Amici Mauro è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+__________________
+DOTTORI COMMERCIALISTI - STUDI
+---
+-
+0.12486447
+Commercialisti a Ponticelli
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.12486447
+Commercialisti a Fiacchini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.12486447
+Commercialisti a Scandriglia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.12486447
+Commercialisti a Posticciola
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.12486447
+Commercialisti a Cerdomare
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.11638476
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.10443498
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.10443498
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.09858756
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.09828934
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.09227629
+Commercialisti a Osteria nuova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.09227629
+Commercialisti a Colle di Tora
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.09227629
+Commercialisti a Villetta Sant'Antonio
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.0847669
+L'indirizzo dello studio commercialista di Amici Mauro è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+__________________
+DOTTORI COMMERCIALISTI - STUDI
+---
+-
+0.12486447
+Commercialisti a Ponticelli
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.12486447
+Commercialisti a Fiacchini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.12486447
+Commercialisti a Scandriglia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.12486447
+Commercialisti a Posticciola
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.12486447
+Commercialisti a Cerdomare
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.11638476
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.10443498
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.10443498
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.09858756
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.09828934
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.09227629
+Commercialisti a Osteria nuova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.09227629
+Commercialisti a Colle di Tora
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.09227629
+Commercialisti a Villetta Sant'Antonio
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.0847669
+L'indirizzo dello studio commercialista di Amici Mauro è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+__________________
+ Dottori commercialisti - studi 
+---
+-
+0.12486447
+Commercialisti a Ponticelli
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.12486447
+Commercialisti a Fiacchini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.12486447
+Commercialisti a Scandriglia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.12486447
+Commercialisti a Posticciola
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.12486447
+Commercialisti a Cerdomare
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.11638476
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.10443498
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.10443498
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.09858756
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.09828934
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.09227629
+Commercialisti a Osteria nuova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.09227629
+Commercialisti a Colle di Tora
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.09227629
+Commercialisti a Villetta Sant'Antonio
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.0847669
+L'indirizzo dello studio commercialista di Amici Mauro è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+__________________
+Dottori Commercialisti - Studi
+---
+-
+0.12486447
+Commercialisti a Ponticelli
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.12486447
+Commercialisti a Fiacchini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.12486447
+Commercialisti a Scandriglia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.12486447
+Commercialisti a Posticciola
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.12486447
+Commercialisti a Cerdomare
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.11638476
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.10443498
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.10443498
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.09858756
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.09828934
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.09227629
+Commercialisti a Osteria nuova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.09227629
+Commercialisti a Colle di Tora
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.09227629
+Commercialisti a Villetta Sant'Antonio
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.0847669
+L'indirizzo dello studio commercialista di Amici Mauro è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+__________________
+Dottori commercialisti - studi
+---
+-
+0.12486447
+Commercialisti a Ponticelli
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.12486447
+Commercialisti a Fiacchini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.12486447
+Commercialisti a Scandriglia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.12486447
+Commercialisti a Posticciola
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.12486447
+Commercialisti a Cerdomare
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.11638476
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.10443498
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.10443498
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.09858756
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.09828934
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.09227629
+Commercialisti a Osteria nuova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.09227629
+Commercialisti a Colle di Tora
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.09227629
+Commercialisti a Villetta Sant'Antonio
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.0847669
+L'indirizzo dello studio commercialista di Amici Mauro è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+__________________
+Dottori commercialisti - studi a Casaprota
+---
+-
+0.103556484
+Commercialisti a Ponticelli
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.103556484
+Commercialisti a Fiacchini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.103556484
+Commercialisti a Scandriglia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.103556484
+Commercialisti a Posticciola
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.103556484
+Commercialisti a Cerdomare
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.09652383
+Il commercialista Amici Mauro ti propone i suoi servizi di ragioniere commercialista a Poggio Moiano.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.08661327
+Commercialisti a Ginestra Sabina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.08661327
+Commercialisti a Monteleone Sabino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.0817637
+Amici Mauro, commercialista a Poggio Moiano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.08151637
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.076529436
+Commercialisti a Osteria nuova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.076529436
+Commercialisti a Colle di Tora
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.076529436
+Commercialisti a Villetta Sant'Antonio
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.070301525
+L'indirizzo dello studio commercialista di Amici Mauro è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+__________________

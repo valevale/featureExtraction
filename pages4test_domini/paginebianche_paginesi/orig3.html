@@ -1,0 +1,676 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://opengraphprotocol.org/schema/" xmlns="http://www.w3.org/1999/xhtml" lang="it">
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="X-UA-Compatible" content="IE=10"/><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwQDUlZUGwcGU1NQAgQ="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(14)(a),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=s(n,"nr@wrapped",function(){return c(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&c.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(14)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(14)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(w=-w,x.data=w)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(14)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,g),g.prototype=p.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var w=1,x=document.createTextNode(w);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],c])}f(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],c),l}finally{f(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<n.length;s++)c=n[s],a=t[c],r(a)||(t[c]=e(a,f?c+o:o,i,c))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",c=t("gos"),s=t(12),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!w++){var t=g.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(v,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;g.proto=n?"https://":"http://",c("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=g.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(12),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var m=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-974.min.js"},y=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:m,features:{},xhrWrappable:y};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),c("mark",["firstbyte",a()],null,"api");var w=0},{}]},{},["loader",2,7]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <meta name="robots" content="NOODP"/>
+    <title>RINALDI DR. ADRIANO  - Via XIV Luglio 33 - 52025 Levane (AR)43.4965511.62035 | PagineBianche</title>
+    <!-- IGNORE PARSING START -->
+    <script type="text/javascript" src="http://static.pbol.it/scripts/mdetect.min.js"> </script>
+    <script type="text/javascript">
+			window.getCookieV = function(name) {
+			  match = document.cookie.match(new RegExp(name + '=([^;]+)'));
+			  if (match) return match[1];
+			}
+			var isCpAcc=window.getCookieV('cp_acc');
+			var googletag = googletag || {};
+			googletag.cmd = googletag.cmd || [];
+			
+			(function() {
+				var gads = document.createElement('script');
+				gads.async = true;
+				gads.type = 'text/javascript';
+				var useSSL = 'https:' == document.location.protocol;
+				gads.src = (useSSL ? 'https:' : 'http:') +
+					'//www.googletagservices.com/tag/js/gpt.js';
+				var node = document.getElementsByTagName('script')[0];
+				node.parentNode.insertBefore(gads, node);
+			})();
+		</script>
+    <script type="text/javascript">
+			var adv_slots = {};
+			
+			googletag.cmd.push(function() {
+				adv_slots['adtop'] = googletag.defineSlot('/5180/seat/pagine_bianche/scheda', [[970, 90],[728, 90]], 'adtop').addService(googletag.pubads()).setCollapseEmptyDiv(true, true);
+				adv_slots['admpu'] = googletag.defineSlot('/5180/seat/pagine_bianche/scheda', [[300, 250],[300, 600]], 'admpu').addService(googletag.pubads());
+				adv_slots['adbanner'] = googletag.defineSlot('/5180/seat/pagine_bianche/scheda', [[468, 60]], 'adbanner').addService(googletag.pubads());
+				
+				googletag.pubads().enableSingleRequest();
+				
+				googletag.pubads().setTargeting("seat_commercetype", "");
+				googletag.pubads().setTargeting("seat_settore", "");
+				googletag.pubads().setTargeting("seat_categoria", "");
+	
+				
+			googletag.pubads().setTargeting("seat_geo2", "ar");	
+		
+			googletag.pubads().setTargeting("seat_geo3", "55210");	
+			
+				
+				googletag.enableServices();
+			});
+		</script>
+    <script type="text/javascript">
+			var c,pc="0";
+			if(document && typeof(document.cookie) === 'string' ){
+				var a=document.cookie.split(";");
+				for(var i=0;i < a.length;i++) {
+					c=a[i];while (c.charAt(0)===' '){c=c.substring(1,c.length);}
+					if (c.indexOf('pc=')===0 && c.indexOf('&gt;')===-1 && c.indexOf('script')===-1){
+						pc = c.substring(3,c.length);break;
+					}
+				}
+			}
+			if(pc === '0'){
+				if(MobileEsp.DetectMobileLong()){
+					
+					//location.href = 'http://m.paginebianche.it' + window.location.pathname + window.location.search;
+					 	
+					location.href =  new String('https://m.paginebianche.it/info/rinaldidradriano-montevarchi');
+				}else{
+					var expire = new Date();
+					var now = new Date();
+					expire.setTime(now.getTime() + 40000000000);
+					document.cookie = 'pc=1;expires='+expire.toGMTString()+';path=/';
+					
+				}
+			}
+		</script>
+    <!-- IGNORE PARSING END -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <meta name="apple-mobile-web-app-title" content="PagineBianche"/>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <meta name="description" content="A Levane di Montevarchi, esercita Rinaldi dr. Adriano, dentista odontoiatra di grande esperienza e di provata professionalità."/>
+    <meta name="keywords" content="RINALDI DR. ADRIANO - Levane"/>
+    
+    <meta property="og:title" content="RINALDI DR. ADRIANO  - Via XIV Luglio 33 - 52025 Levane (AR)43.4965511.62035 | PagineBianche"/>
+    <meta property="og:type" content="company"/>
+    <meta property="og:url" content="http://www.paginebianche.it/rinaldidradriano-montevarchi"/>
+    <meta property="og:image" content="http://img.pbol.it/pbit/img/PB_thumb_fb_reb2016.png"/>
+    <meta property="og:site_name" content="PagineBianche"/>
+    <meta property="fb:admins" content="100001399512551"/>
+    <meta property="og:description" content="Rinaldi dr. Adriano ha il suo ambulatorio dentistico a Levane, frazione di Montevarchi in provincia di Arezzo. Il dottor Rinaldi Adriano mette a disposizione della sua clientela una vasta gamma di servizi per la cura ed il benessere della bocca e dei denti; grazie al costante aggiornamento tecnico ed odontoiatrico di tutto il suo staff sanitario, assicura ottime cure dentali, risolutive di ogni problema, in poche e ravvicinate sedute. Il dottor Rinaldi dispone di un ambulatorio attrezzato con le migliori apparecchiature tecnologiche disponibili e dei materiali più affidabili per la cura e l'igiene di ogni elemento dentale; è specializzato in tutte le pratiche dentistiche, implantologiche, ortodontiche, gnatologiche e di igiene orale e riceve in studio ogni giorno feriale su appuntamento."/>
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    <!-- CSS_PLACEHOLDER --><link rel="stylesheet" type="text/css" href="http://static.pbol.it/repos_css/1099616487422_2016110301.css"/> 
+<link rel="stylesheet" type="text/css" media="only screen and (max-device-width: 1024px)" href="http://static.pbol.it/repos_css/8589934592_2016110301.css"/> 
+<link rel="stylesheet" type="text/css" media="print" href="http://static.pbol.it/repos_css/2048_2016110301.css"/> 
+<link rel="icon" href="http://img.pbol.it/pbit/img/favicon.ico" type="image/x-icon"/>
+<link rel="shortcut icon" href="http://img.pbol.it/pbit/img/favicon.ico" type="image/x-icon"/>
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="http://img.pbol.it/pbit/img/pb_mobile_144x144.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="http://img.pbol.it/pbit/img/pb_mobile_114x114.png"/>
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="http://img.pbol.it/pbit/img/pb_mobile_72x72.png"/>
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://m.paginebianche.it/info/rinaldidradriano-montevarchi"/>
+<link rel="alternate" href="android-app://it.seatpg.paginebianche/paginebianche/info/rinaldidradriano-montevarchi?FONTE=IDX"/>
+<link rel="canonical" href="http://www.paginebianche.it/rinaldidradriano-montevarchi"/>
+
+    
+    <!-- IGNORE PARSING START -->
+    <script type="text/javascript">
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+					(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+				ga('create', 'UA-28882305-1', 'auto');
+				ga('require', 'displayfeatures');
+				ga('send', 'pageview');
+				ga('set', 'anonymizeIp', true);
+			</script>
+    <!-- IGNORE PARSING END -->
+  </head>
+  <body class="scheda dialog_mypb">
+    <div class="container-out">
+      <div class="container-skin" style="">
+        <div id="container" class="container">
+          <div class="toolbar-cont">
+            <div class="toolbar">
+              <div class="tool-in"><div class="btn-tool change-lingua no-freccina"><div class="inner-change-lingua"><a id="open-lang" href="javascript:void(0)" class="language-toolbar"><span class="label-tool">ITA</span></a></div></div><div id="mybar" style="float: right;">&nbsp;</div> </div>
+            </div>
+          </div>
+          <div class="header">
+            <div class="header-deco01">
+              <img class="logo-for-print" width="143" height="54" src="http://img.pbol.it/pbit/img/pbit_logo_print_reb2016.png"/>
+              <div class="search-cont">
+                <div class="search-cont-deco1">
+                  <a class="logo" href="http://www.paginebianche.it/" title="">
+                    <span>Paginebianche</span>
+                  </a>
+                  <ul class="tab-search">
+                    <li class="current">
+                      <a href="http://www.paginebianche.it/" title="Cerca per nome, azienda, istituzione">
+                        <span>cerca per nome</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="http://www.paginebianche.it/cerca-da-numero" title="Cerca per numero">
+                        <span>cerca per numero</span>
+                      </a>
+                    </li>
+                    <li>
+                      <a href="http://www.paginebianche.it/cerca-da-indirizzo" title="Cerca per indirizzo">
+                        <span>cerca per indirizzo</span>
+                      </a>
+                    </li>
+                  </ul>
+                  <div class="form-box">
+                    <div class="searches sname">
+                      <form id="frmName" action="http://www.paginebianche.it/ricerca" method="GET" name="" onSubmit="return clearExample('frmName',['input_cosa'],true);">
+                        <div class="what">
+                          <div id="div_input_cosa" class="bord"><input type="text" name="qs" value="Nome, Cognome o Ragione sociale" id="input_cosa" title="es. Colombo, Mario Rossi, Italiaonline, ..." example="Nome, Cognome o Ragione sociale" class="c-what"></><!-- IGNORE PARSING START --><script type="text/javascript">
+						var textField = document.getElementById('input_cosa');
+						textField.disabled = 'disabled';
+					</script><!-- IGNORE PARSING END --></div>
+                          <div id="input_cosa_error" style="display:none" class="serror-box">
+                            <div class="serror-box-inner">
+                              <div class="serror-box-top">
+                                <span class="serror-triangle"> </span>
+                              </div>
+                              <div class="serror-box-txt">
+                                <a id="input_cosa_error_close" href="javascript:void(0)" title="chiudi" class="serror-close">chiudi</a>
+                                <div class="serror-field clearfix">
+                                  <span class="serror-sost-img"> </span>
+                                  <p>È necessario compilare il campo con <b>nome, cognome</b> o <b>ragione sociale</b> per poter effettuare la ricerca.</p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="where">
+                          <div id="div_input_dove" class="bord"><input type="text" name="dv" value="Località, indirizzo" id="input_dove" title="es. Milano, piazza Duomo 2, RM, Lazio, ..." example="Località, indirizzo" class="c-where"></><!-- IGNORE PARSING START --><script type="text/javascript">
+						var textField = document.getElementById('input_dove');
+						textField.disabled = 'disabled';
+					</script><!-- IGNORE PARSING END --></div>
+                        </div>
+                        <div class="submit-cont">
+                          <input id="btn_f1" type="submit" value="trova" class="c-submit header-form-btn"/>
+                          <!-- IGNORE PARSING START -->
+                          <script type="text/javascript">
+				var buttonField = document.getElementById('btn_f1');
+				buttonField.disabled = 'disabled';
+			</script>
+                          <!-- IGNORE PARSING END -->
+                        </div>
+                      </form>
+                    </div>
+                    <div class="searches snum" style="display:none">
+                      <form id="frmNum" action="http://www.paginebianche.it/ricerca-da-numero" method="GET" name="" onSubmit="return clearExample('frmNum',['input_num'],true);">
+                        <div class="searches-legend">
+                          <span>cerca chi ti ha chiamato</span>
+                        </div>
+                        <div class="what what-long">
+                          <div id="div_input_num" class="bord"><input type="text" name="qs" value="numero di telefono" id="input_num" title="es. 027654321" example="numero di telefono" class="c-what"></><!-- IGNORE PARSING START --><script type="text/javascript">
+						var textField = document.getElementById('input_num');
+						textField.disabled = 'disabled';
+					</script><!-- IGNORE PARSING END --></div>
+                          <div id="input_num_error" style="display:none" class="serror-box">
+                            <div class="serror-box-inner">
+                              <div class="serror-box-top">
+                                <span class="serror-triangle"> </span>
+                              </div>
+                              <div class="serror-box-txt">
+                                <a id="input_num_error_close" href="javascript:void(0)" title="chiudi" class="serror-close">chiudi</a>
+                                <div class="serror-field clearfix">
+                                  <span class="serror-sost-img"> </span>
+                                  <p>È necessario compilare il campo con il <b>numero</b> per poter effettuare la ricerca.</p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="submit-cont">
+                          <input id="btn_f2" type="submit" value="trova" class="c-submit header-form-btn"/>
+                          <!-- IGNORE PARSING START -->
+                          <script type="text/javascript">
+				var buttonField = document.getElementById('btn_f2');
+				buttonField.disabled = 'disabled';
+			</script>
+                          <!-- IGNORE PARSING END -->
+                        </div>
+                      </form>
+                    </div>
+                    <div class="searches sadd" style="display:none">
+                      <form id="frmAdd" action="http://www.paginebianche.it/ricerca-da-indirizzo" method="GET" name="" onSubmit="return clearExample('frmAdd',['input_ind'],true);">
+                        <div class="searches-legend">
+                          <span>cerca per indirizzo</span>
+                        </div>
+                        <div class="where where-long">
+                          <div id="div_input_ind" class="bord"><input type="text" name="dv" value="località, indirizzo, numero civico" id="input_ind" title="es. Torino, corso Vittorio Emanuele 14" example="località, indirizzo, numero civico" class="c-where"></><!-- IGNORE PARSING START --><script type="text/javascript">
+						var textField = document.getElementById('input_ind');
+						textField.disabled = 'disabled';
+					</script><!-- IGNORE PARSING END --></div>
+                          <div id="input_ind_error" style="display:none" class="serror-box">
+                            <div class="serror-box-inner">
+                              <div class="serror-box-top">
+                                <span class="serror-triangle"> </span>
+                              </div>
+                              <div class="serror-box-txt">
+                                <a id="input_ind_error_close" href="javascript:void(0)" title="chiudi" class="serror-close">chiudi</a>
+                                <div class="serror-field clearfix">
+                                  <span class="serror-sost-img"> </span>
+                                  <p>È necessario compilare il campo con <b>località</b> e <b>indirizzo</b> per poter effettuare la ricerca.</p>
+                                </div>
+                              </div>
+                            </div>
+                          </div>
+                        </div>
+                        <div class="submit-cont">
+                          <input id="btn_f3" type="submit" value="trova" class="c-submit header-form-btn"/>
+                          <!-- IGNORE PARSING START -->
+                          <script type="text/javascript">
+				var buttonField = document.getElementById('btn_f3');
+				buttonField.disabled = 'disabled';
+			</script>
+                          <!-- IGNORE PARSING END -->
+                        </div>
+                      </form>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div id="mypg_overlay" class="popup-dialog" style="display: none;">
+                <div class="inner-box"> </div>
+                <a class="close">x</a>
+                <span class="ombra-dialog ombra1">&nbsp;</span>
+                <span class="ombra-dialog ombra2">&nbsp;</span>
+              </div>
+            </div>
+          </div>
+          <div class="breadcrumb-cont">
+            <div class="breadcrumb-inner">
+              <ul class="breadcrumb-list">
+                <li class="bread-list-li">
+                  <a href="http://www.paginebianche.it/cap" class="bread-list bread-list1" alt="CAP" title="CAP"><span class="cap-bread">CAP</span>CAP</a>
+                </li>
+                <li class="bread-list-li bread-list-li-ar breadaemon">
+                  <a href="javascript:void(0)" class="bread-list" alt="" title="Prefisso"><span class="pref-bread">Prefisso</span>Prefisso<span class="bread-list-arrow">Prefisso</span></a>
+                  <ul class="bread-dropmenu">
+                    <li>
+                      <a href="http://www.paginebianche.it/prefissi-telefonici" title="Prefisso nazionale" class="bread-a-item">Prefisso nazionale</a>
+                    </li>
+                    <li>
+                      <a href="http://www.paginebianche.it/prefissi-internazionali" title="Prefisso internazionale" class="bread-a-item">Prefisso internazionale</a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="bread-list-li bread-list-li-ar breadaemon">
+                  <a href="javascript:void(0)" class="bread-list" alt="" title="Strumenti"><span class="strum-bread">Strumenti</span>Strumenti<span class="bread-list-arrow">Strumenti</span></a>
+                  <ul class="bread-dropmenu">
+                    <li>
+                      <a href="http://www.paginebianche.it/codice-fiscale" title="Codice Fiscale" class="bread-a-item">Codice Fiscale</a>
+                    </li>
+                    <li>
+                      <a href="http://www.paginebianche.it/codice-istat" title="Codice ISTAT" class="bread-a-item">Codice ISTAT</a>
+                    </li>
+                    <li>
+                      <a href="http://www.paginebianche.it/codice-catastale" title="Codice Catastale" class="bread-a-item">Codice Catastale</a>
+                    </li>
+                  </ul>
+                </li>
+                <li class="bread-list-li">
+                  <a href="http://www.paginebianche.it/documenti-procedure" class="bread-list bread-list4" alt="Documenti e procedure" title="Documenti e procedure"><span class="docprod-bread">Documenti e procedure</span>Documenti e procedure</a>
+                </li>
+                <li class="bread-list-li">
+                  <a href="http://www.paginebianche.it/numeri-utili" class="bread-list bread-list5" alt="Numeri utili" title="Numeri utili"><span class="nutili-bread">Numeri utili</span>Numeri utili</a>
+                </li>
+                <li class="bread-list-li">
+                  <a href="http://www.paginebianche.it/curiosita" class="bread-list bread-list6" alt="Curiosità" title="Curiosità"><span class="crazy-bread">Curiosità</span>Curiosità</a>
+                </li>
+                <li class="bread-list-li link-pg">
+                  <a href="http://www.paginegialle.it/" target="_blank" title="PagineGialle">
+                    <img src="http://img.pbol.it/pbit/img/logo-PG_reb2016.png"/>
+                  </a>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <img src="http://geoip.paginebianche.it/ip?dv=" width="1" height="1" style="display:none" alt=""/>
+          <div class="content">
+            <div class="content-deco01">
+              <div class="content-deco02"><div xmlns:g="http://base.google.com/ns/1.0" class="toolmenu"><a class="torna" rel="nofollow" href="http://www.paginebianche.it/ricerca?qs=adriano+rinadli&amp;dv=">Torna ai risultati</a><div class="lang-box"><div class="print-box"><a href="JavaScript:window.print();" title="Vedi l'anteprima e stampa" class="print-linked" onclick="globalStatistics('','0', 'PB2-STA-BIG', 'stampa', '');">
+					stampa<img src="http://img.pbol.it/pbit/img/invisible.png" title="stampa"/></a></div></div><div class="clear"> </div></div><div xmlns:g="http://base.google.com/ns/1.0" class="col-right"><div class="scheda-box"><div class="scheda-sx"><div class="out-info"><div class="info-nologo"><p>Rinaldi dr. Adriano ha il suo ambulatorio dentistico a Levane, frazione di Montevarchi in provincia di Arezzo. Il dottor Rinaldi Adriano mette a disposizione della sua clientela una vasta gamma di servizi per la cura ed il benessere della bocca e dei denti; grazie al costante aggiornamento tecnico ed odontoiatrico di tutto il suo staff sanitario, assicura ottime cure dentali, risolutive di ogni problema, in poche e ravvicinate sedute. Il dottor Rinaldi dispone di un ambulatorio attrezzato con le<span class="cutted-txt" id="cutted-txt"> migliori apparecchiature tecnologiche disponibili e dei materiali più affidabili per la cura e l'igiene di ogni elemento dentale; è specializzato in tutte le pratiche dentistiche, implantologiche, ortodontiche, gnatologiche e di igiene orale e riceve in studio ogni giorno feriale su appuntamento.</span></p><a id="cut-text" title="" href="javascript:void(0);" onclick="$('#cutted-txt').toggle();$(this).toggle();">leggi tutto</a></div> </div><a name="mappa"/><div class="map"><div class="map-title-box"><h3><a href="#" id="map-show">mappa</a></h3><a title="" href="javascript:void(0)" class="citta-link" onClick="globalStatistics('','0', 'percorso', 'calcola il percorso', '5');openRouteUrl();">Crea percorso su tuttocitta</a></div><div id="map-box"><div id="map_placeholder"><div id="loadingPercorso"><img src="http://img.pbol.it/pbit/img/loading.gif"/> Loading...
+		</div><div id="wPgScaleContainer"> </div><div class="divZoom" id="divZoom" style="display:none"><div class="divZoomBody livelli13 clearfix"><div id="widgetContainer"> </div></div></div></div></div></div><div class="details"><h3>Dettagli</h3><div class="info-prod"><div class="info-prod-row"><h3 class="info-prod-h3">Attività</h3><p class="info-prod-txt">Dentisti medici chirurghi ed odontoiatri</p></div><div class="info-prod-row"><h3 class="info-prod-h3">Altre insegne</h3><p class="info-prod-txt">Rinaldi Dr. Adriano Studio Odontoiatrico</p></div> </div></div><div class="insertion-box clearfix"><div id="hidden-pdf" style="display:none;"><div dim="58">Z34/07/14/00/001/Z34071400001</div></div><h3>Inserzione</h3><div class="insertion-bottom clearfix"><div class="pdf-button"><a href="http://img.pbol.it/img/Z34/07/14/00/001/Z34071400001.pdf" target="_blank" class="download-pdf" onClick="statSiteCatalyst(SEAT.tipoUtente,'Pdf');globalStatistics('','0', 'pdf', 'inserzione elenco', '')">Scarica il PDF<span id="numkb-id"> </span></a></div></div></div><div id="pdfImg"> </div></div><div class="scheda-dx"><h4 class="appro-dx-h4">Immagini</h4><div class="cont_img-dx"><div class="img-dx"><img src="http://img.pbol.it/imgn/Z34/07/14/00/002/10535353.jpg" class="img-overlay" alt="img-dx" rel="#img-dialog" width="120"/></div></div> </div><div id="cod-cont">AZ34071400002</div></div></div><div xmlns:g="http://base.google.com/ns/1.0" class="col-left"><div class="indirizzo" itemscope="itemscope" itemtype="http://schema.org/Organization"><h1 itemprop="name">RINALDI DR. ADRIANO</h1><h2 class="insegna"> </h2><div class="scheda-address"><div class="address"><div style="display: inline;" itemprop="location" itemscope="itemscope" itemtype="http://schema.org/Place"><span itemprop="address" itemscope="itemscope" itemtype="http://schema.org/PostalAddress"><span class="street-address" itemprop="streetAddress">Via XIV Luglio 33</span> - <span itemprop="postalCode">52025</span> <span class="locality" itemprop="addressLocality">Levane (AR)</span></span><div style="display: none;" itemtype="http://schema.org/GeoCoordinates" itemscope="itemscope" itemprop="geo"><span itemprop="latitude">43.49655</span><span itemprop="longitude">11.62035</span></div></div> </div><div class="address"><span class="tel" itemprop="telephone">tel: 055 9788222</span><a class="call-tooltip">&nbsp;</a><div class="toolbox"><div class="toolbox-deco01"><div class="toolbox-deco02"><div class="toolbox-row"><label>tel:</label><div class="toolbox-r"><p class="toolbox-info" itemprop="telephone">055 9788222</p></div><div class="clear"> </div></div><div class="toolbox-row"><label>cellulare:</label><div class="toolbox-r"><p class="toolbox-info" itemprop="telephone">335 8448593</p></div><div class="clear"> </div></div><p class="freecall-list"/><a class="close-tooltip">&nbsp;</a></div></div></div></div><div class="address"><span class="p-iva">partita iva: 00351980511</span></div></div><div class="web-contatti"><a href="/page?ts=3&amp;ent=cod&amp;env=AZ34071400002&amp;l=it" class="amail" id="amail" rel="nofollow">contatta</a> </div></div><div class="cont-like"><div class="cont-like-inner"><div class="share"><div class="share-in"><a title="Condividi su Facebook" class="fb-sh" href="javascript:void(0)" onclick="return share_click('fb','http://www.paginebianche.it/rinaldidradriano-montevarchi','','',true)" target="_blank">Condividi su Facebook</a><a title="Condividi su Twitter" href="javascript:void(0)" onclick="return share_click('tw','http://www.paginebianche.it/rinaldidradriano-montevarchi','','',true)" target="_blank" class="tw-sh">Condividi su Twitter</a><a href="/page?ts=10&amp;ent=cod&amp;env=AZ34071400002&amp;l=it" title="invia via mail" rel="nofollow" class="mail-sh" id="friend-dialog">invia via mail</a></div></div><div class="clear"> </div></div></div><div class="social-like"><div class="social-like-inner"><div class="social-share"><div class="social-share-in"><div class="social-share-fb"><div id="fb-root"> </div></div><div class="social-share-g"><g:plusone size="standard" count="true" href="http://www.paginebianche.it/rinaldidradriano-montevarchi"> </g:plusone></div></div></div><div class="clear"> </div></div></div></div><div xmlns:g="http://base.google.com/ns/1.0" id="overlay-div" style="width: 1007px; height: 1684px; position: absolute; top: 0px; left: 0px; opacity: 0.6; display: none;">&nbsp;</div> </div>
+            </div>
+          </div>
+          <div xmlns:g="http://base.google.com/ns/1.0" class="footer">
+            <div id="footer-corporate">
+              <span class="logo">
+                <a href="http://www.italiaonline.it/" target="_blank">
+                  <svg xmlns="http://www.w3.org/2000/svg" width="130" height="24" viewBox="0 0 130 24">
+                    <polygon points="32.9 8.8 30.9 8.8 30.9 19.8 33.1 19.8 33.1 8.8 " class="svg-a"/>
+                    <polygon points="38.5 8.8 38.5 4.6 35.8 4.6 35.8 8.8 34 8.8 34 11.3 35.8 11.3 35.8 19.8 36.3 19.8 38.5 19.8 38.5 11.3 40.5 11.3 40.5 8.8 " class="svg-a"/>
+                    <path d="M51.9 19.7H50.3V17.8c-0.8 1.4-2.6 2.1-4.2 2.1 -3.2 0-5.7-2.2-5.7-5.6s2.5-5.6 5.7-5.6c1.6 0 3.4 0.6 4.2 2V8.9h1.6V19.7zM46.1 18.4c2.3 0 4.2-1.5 4.2-4.1s-2.2-4-4.2-4c-2.3 0-4.1 1.6-4.1 4C42.1 16.6 43.8 18.4 46.1 18.4" class="svg-a"/>
+                    <rect x="54.1" y="4.2" width="1.6" height="15.5" class="svg-a"/>
+                    <rect x="58.2" y="8.6" width="1.6" height="11" class="svg-a"/>
+                    <path d="M73.1 19.7h-1.6V17.8c-0.8 1.4-2.6 2.1-4.2 2.1 -3.2 0-5.7-2.2-5.7-5.6s2.5-5.6 5.7-5.6c1.6 0 3.4 0.6 4.2 2V8.9h1.6V19.7zM67.3 18.4c2.3 0 4.2-1.5 4.2-4.1s-2.2-4-4.2-4c-2.3 0-4.1 1.6-4.1 4C63.2 16.6 65 18.4 67.3 18.4" class="svg-a"/>
+                    <path d="M58.9 2.4c-1.2 0-2.1 0.9-2.1 2.1 0 1.2 0.9 2.1 2.1 2.1 1.2 0 2.1-1 2.1-2.1h0C61.1 3.4 60.1 2.4 58.9 2.4" class="svg-a"/>
+                    <path d="M86.8 11.6c-0.5-1.1-1.3-1.9-2.2-2.5 -1-0.6-2.1-0.9-3.3-0.9 -1.6 0-3.1 0.6-4.2 1.6 -0.6 0.5-1 1.1-1.3 1.9 -0.3 0.7-0.5 1.5-0.5 2.4 0 1.8 0.7 3.3 1.8 4.3 1.1 1 2.6 1.6 4.2 1.6 1.6 0 3.1-0.6 4.2-1.6 1.1-1 1.8-2.5 1.8-4.3C87.3 13.2 87.1 12.4 86.8 11.6M81.2 17.4c-1 0-1.8-0.3-2.4-0.9 -0.6-0.6-1-1.4-1-2.4 0-0.5 0.1-1 0.3-1.4 0.3-0.6 0.7-1.1 1.2-1.4 0.5-0.3 1.2-0.5 1.9-0.5 1 0 1.8 0.3 2.5 0.9 0.3 0.3 0.6 0.6 0.7 1 0.2 0.4 0.3 0.9 0.3 1.4 0 1-0.4 1.9-1 2.4C83 17.1 82.2 17.4 81.2 17.4" class="svg-a"/>
+                    <path d="M98 11.2c-0.3-0.9-0.8-1.7-1.6-2.2 -0.7-0.5-1.7-0.8-2.7-0.8C93 8.2 92.3 8.4 91.6 8.7c-0.3 0.1-0.5 0.3-0.7 0.5V8.4h-2.5v11.4h2.5v-0.6V13.6c0-0.6 0.1-1 0.2-1.4 0.2-0.5 0.6-0.9 1.1-1.1 0.5-0.2 1-0.4 1.6-0.4 0.3 0 0.6 0.1 0.9 0.2 0.4 0.2 0.7 0.4 0.9 0.8 0.2 0.4 0.4 0.9 0.4 1.5v6.6h2.5v-6.6 -0.1C98.3 12.4 98.2 11.8 98 11.2" class="svg-a"/>
+                    <polygon points="99.8 4.6 99.8 19.8 102.3 19.8 102.3 19.2 102.3 4.6 " class="svg-a"/>
+                    <polygon points="105.7 8.8 103.9 8.8 103.9 19.8 106.3 19.8 106.3 8.8 " class="svg-a"/>
+                    <path d="M128.4 9.8c-1-1-2.5-1.6-4.1-1.6 -1.6 0-3.1 0.6-4.2 1.6 -1.1 1-1.7 2.5-1.7 4.3 0 1.7 0.6 3.2 1.7 4.3 1.1 1 2.5 1.6 4.2 1.6 1.1 0 2.2-0.3 3.2-0.8 0.9-0.5 1.7-1.4 2.1-2.4l0.3-0.6 -0.7-0.2c-0.5-0.1-1.1-0.2-1.5-0.3l-0.4-0.1 -0.2 0.4c-0.3 0.5-0.7 0.8-1.1 1.1 -0.5 0.3-1 0.4-1.7 0.4 -0.9 0-1.6-0.2-2.2-0.7 -0.4-0.4-0.7-0.9-0.9-1.4h8.7l0.1-0.5c0-0.2 0-0.5 0-0.8C130 12.3 129.4 10.8 128.4 9.8M122.1 11.5c0.6-0.5 1.3-0.7 2.2-0.7 0.9 0 1.5 0.3 2.1 0.7 0.4 0.3 0.7 0.7 0.9 1.4h-6C121.4 12.2 121.7 11.8 122.1 11.5" class="svg-a"/>
+                    <path d="M105.1 2.4c-1.2 0-2.1 0.9-2.1 2.1 0 1.2 0.9 2.1 2.1 2.1 1.2 0 2.1-0.9 2.1-2.1C107.2 3.4 106.3 2.4 105.1 2.4" class="svg-a"/>
+                    <path d="M117.5 11.2c-0.3-0.9-0.8-1.7-1.6-2.2 -0.7-0.5-1.7-0.8-2.7-0.8 -0.7 0-1.4 0.2-2.1 0.5 -0.3 0.1-0.5 0.3-0.7 0.5V8.4h-2.5v11.4h2.5v-0.6V13.6c0-0.6 0.1-1 0.2-1.4 0.2-0.5 0.6-0.9 1.1-1.1 0.5-0.2 1-0.4 1.6-0.4 0.3 0 0.6 0.1 0.9 0.2 0.4 0.2 0.7 0.4 0.9 0.8 0.2 0.4 0.4 0.9 0.4 1.5v6.6h2.5v-6.6 -0.1C117.8 12.4 117.7 11.8 117.5 11.2" class="svg-a"/>
+                    <path d="M19.7 12h0C19.7 12.7 19.7 12 19.7 12" class="svg-b"/>
+                    <path d="M0 12c0 6.6 5.3 11.9 11.9 11.9 6.6 0 11.9-5.3 11.9-11.9H0z" class="svg-c"/>
+                    <path d="M11.9 0.1C5.3 0.1 0 5.6 0 12h4.1 0c0-4.3 3.5-7.8 7.8-7.8 4.3 0 7.8 3.5 7.8 7.8h0 4.1C23.8 5.6 18.5 0.1 11.9 0.1" class="svg-d"/>
+                    <path d="M16.7 12c0-2.7-2.2-4.8-4.8-4.8 -2.7 0-4.8 2.2-4.8 4.8H16.7z" class="svg-e"/>
+                    <path d="M7.1 12c0 2.7 2.2 4.8 4.8 4.8 2.7 0 4.8-2.2 4.8-4.8L7.1 12z" class="svg-f"/>
+                    <path d="M11.9 4.2c-4.3 0-7.8 3.5-7.8 7.8h1.8 12.1 1.8C19.7 7.7 16.2 4.2 11.9 4.2M7.1 12c0-2.7 2.2-4.8 4.8-4.8 2.7 0 4.8 2.1 4.8 4.8H7.1z" class="svg-g"/>
+                    <path d="M11.9 7.2c-2.7 0-4.8 2.1-4.8 4.8h9.6C16.7 9.3 14.5 7.2 11.9 7.2" class="svg-b"/>
+                    <path d="M11.9 7.2c-2.7 0-4.8 2.1-4.8 4.8h9.6C16.7 9.3 14.5 7.2 11.9 7.2" class="svg-h"/>
+                    <path d="M4.1 12H4.1C4.1 12 4.1 12.7 4.1 12" class="svg-b"/>
+                    <path d="M32 2.4c-1.2 0-2.1 0.9-2.1 2.1 0 1.2 0.9 2.1 2.1 2.1 1.2 0 2.1-1 2.1-2.1h0C34.1 3.4 33.2 2.4 32 2.4" class="svg-a"/>
+                  </svg>
+                </a>
+              </span>
+              <h6>
+				il nostro network
+			</h6>
+              <ul>
+                <li>
+                  <a href="http://www.libero.it" target="_blank">LIBERO</a>
+                </li>
+                <li>
+                  <a href="http://www.paginebianche.it" target="_blank">PAGINE BIANCHE</a>
+                </li>
+                <li>
+                  <a href="http://www.paginegialle.it" target="_blank">PAGINE GIALLE</a>
+                </li>
+                <li>
+                  <a href="http://www.supereva.it" target="_blank">SUPEREVA</a>
+                </li>
+                <li>
+                  <a href="http://www.tuttocitta.it" target="_blank">TUTTOCITT&Agrave;</a>
+                </li>
+                <li>
+                  <a href="http://www.virgilio.it" target="_blank">VIRGILIO</a>
+                </li>
+              </ul>
+              <div> </div>
+              <ul>
+                <li>
+                  <a href="http://www.italiaonline.it" title="Italiaonline" target="_blank">Italiaonline.it</a>
+                </li>
+                <li>
+                  <a href="http://fusione.italiaonline.it/" title="Fusione per incorporazione Italiaonline - SeatPG" target="_blank">Fusione</a>
+                </li>
+                <li>
+                  <a title="Note Legali" class="wOver" rel="nofollow" href="http://www.paginebianche.it/page?ts=113">Note Legali</a>
+                </li>
+                <li>
+                  <a id="privacy" title="Informativa sulla Privacy" rel="nofollow" href="http://www.paginebianche.it/page?ts=112">Privacy</a>
+                </li>
+                <li>
+                  <a title="Cookie policy" rel="nofollow" style="white-space:nowrap;" href="http://www.paginebianche.it/cookie-policy">Cookie policy</a>
+                </li>
+              </ul>
+              <p>&copy; ITALIAONLINE 2016 - P. IVA 03970540963</p>
+            </div>
+          </div>
+          <div id="langbox" class="langbox">
+            <div class="langbox-deco01">
+              <div class="langbox-deco02">
+                <a href="/deu/rinaldidradriano-montevarchi" class="langlink" rel="nofollow">DEU</a>
+                <a href="/fra/rinaldidradriano-montevarchi" class="langlink" rel="nofollow">FRA</a>
+                <a href="/eng/rinaldidradriano-montevarchi" class="langlink" rel="nofollow">ENG</a>
+                <a href="/esp/rinaldidradriano-montevarchi" class="langlink" rel="nofollow">ESP</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <iframe id="idDc" width="0" height="0" frameborder="0"> </iframe>
+    <div id="dialog-msg" class="popup-dialog" style="display: none;">
+      <div class="inner-box">&nbsp;</div>
+      <a class="close">x</a>
+      <span class="ombra-dialog ombra1">&nbsp;</span>
+      <span class="ombra-dialog ombra2">&nbsp;</span>
+    </div>
+    <div xmlns:g="http://base.google.com/ns/1.0" class="main-dialog overlay" id="note-dialog">
+      <div class="main-dialog-deco01">
+        <div class="main-dialog-deco02">
+          <div class="contentWrap"> </div>
+        </div>
+      </div>
+    </div>
+    <div xmlns:g="http://base.google.com/ns/1.0" class="main-dialog overlay" id="privacy-dialog">
+      <div class="main-dialog-deco01">
+        <div class="main-dialog-deco02">
+          <div class="contentWrap"> </div>
+        </div>
+      </div>
+    </div>
+    <div xmlns:g="http://base.google.com/ns/1.0" class="main-dialog overlay marchi-dialog" id="marchi-dialog">
+      <div class="main-dialog-deco01">
+        <div class="main-dialog-deco02">
+          <div class="contentWrap">
+            <div class="clear"> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="main-dialog overlay" id="dilatua-dialog">
+      <div class="main-dialog-deco01">
+        <div class="main-dialog-deco02">
+          <div class="contentWrap" id="dilatua-wrap"> </div>
+        </div>
+      </div>
+    </div>
+    <div xmlns:g="http://base.google.com/ns/1.0" class="main-dialog overlay padding-dialog" id="tofriend-dialog">
+      <div class="main-dialog-deco01">
+        <div class="main-dialog-deco02">
+          <div class="contentWrap">
+            <div class="clear"> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="main-dialog overlay sitofono-dialog" id="call-dialog">
+      <div class="main-dialog-deco01">
+        <div class="main-dialog-deco02">
+          <div class="contentWrap">
+            <div class="clear"> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="main-dialog overlay padding-dialog" id="contact-dialog">
+      <div class="main-dialog-deco01">
+        <div class="main-dialog-deco02">
+          <div class="contentWrap">
+            <div class="clear"> </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="mainimg-dialog overlay" id="img-dialog">
+      <div class="dialog-scrollable">
+        <div class="items">
+          <div class="items-cont">
+            <img src="http://img.pbol.it/imgn/Z34/07/14/00/002/10535351.jpg" class="dinamic-img" alt="img-dx"/>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div xmlns:g="http://base.google.com/ns/1.0" class="main-dialog cog-dialog overlay" id="suggercog-dialog">
+      <div class="main-dialog-deco01 clearfix">
+        <div class="main-dialog-deco02">
+          <div class="contentWrap"> </div>
+        </div>
+      </div>
+    </div>
+    <!-- JS_PLACEHOLDER --><script src="http://static.pbol.it/repos_js/67625471218581439_2016110301.js" type="text/javascript"></script> 
+<script type="text/javascript" src="http://static.pbol.it/scripts/autocompleter.js"> </script>
+<script type="text/javascript">SEAT.catalystEnable='1';SEAT.tabsInitialIndex=0;SEAT.imagePath='http://img.pbol.it/newpbol/img/';SEAT.serverGeo='geo.paginegialle.it';SEAT.pathStatic='http://static.pbol.it';SEAT.isDR=0;SEAT.langPg=1;SEAT.langLbs=SEAT.geo.LNG_ITALIAN;var client;$(function(){var opts={extRemapServer:'http://'+window.location.host+'/social',fromMyPg:false,pb_host:'www.paginebianche.it',lang:'it'};client=new bar(opts)});statDoubleClick();</script>
+<script type="text/javascript">$(function(){SEAT.tipoUtente='4';SEAT.lang='it'});</script>
+<script type="text/javascript">function initCurrentAccordion(id){var paneNum=$("#accord-visible-"+id+" div.accord div.pane").size();if((id!='sedi')||(paneNum!=1)){$("#accord-visible-"+id+" div.accord div.pane").hide()}$("#accord-visible-"+id+" div.accord div.accordion-parent").bind('click',function(){var isSelected=false;if($(this).hasClass("accordion-parent-sel")){isSelected=true}$("#accord-visible-"+id+" div.accord div.accordion-parent-sel").removeClass("accordion-parent-sel");if(!isSelected){$(this).addClass("accordion-parent-sel")}$(this).next('div.pane').slideToggle('fast').siblings('div.pane:visible').slideUp('fast');if(id=='indir'){if(!isSelected){var mapX=$(this).attr('x');var mapY=$(this).attr('y');var listIndex=$(this).find('strong').text();SEAT.mapAddrPos=listIndex;SEAT.mapProx.newCenter(mapX,mapY,zoom,listIndex,2,'C');var indir=$.trim($(this).next('div.pane').find('.accordion-address-addr-str').text());globalStatistics('','','','mappa/'+indir,'')}}$(".pane").promise().done(function(){if(checkIheight('.accord')){var accordW=$('.accord').width();$('.accordion-shadow').css({'width':accordW});$('.accordion-contbox').addClass('accord-scroll-indir');$('.accord-visible-indir').addClass('accord-h-indir')}else{$('.accordion-contbox').removeClass('accord-scroll-indir');$('.accord-visible-indir').removeClass('accord-h-indir')}})})}</script>
+<script type="text/javascript">function pageSelect(page_index,id){var new_content=$('#accord-hidden-'+id+' div.accord:eq('+page_index+')').clone();$('#accord-visible-'+id).empty().append(new_content);initCurrentAccordion(id);return false}function pageSelectIndir(page_index,jq){pageSelect(page_index,'indir');return false}function pageSelectSedi(page_index,jq){pageSelect(page_index,'sedi');return false}function initPagineMultiIndir(){var num_entries=$("#accord-hidden-indir div.accord").length;if(num_entries>1){$("#Pagination").pagination(num_entries,{callback:pageSelectIndir,items_per_page:1})}}function initPagineRegioniSedi(){$('.appro-cont-dx-ul a').click(function(){$(".appro-cont-dx-li-sel").removeClass("appro-cont-dx-li-sel");$(this).parent().addClass("appro-cont-dx-li-sel");var index=$(this).parent().index();pageSelectSedi(index);return false})}function updatePdfItems(pdf_index,jq){$("#inscor-id").html(pdf_index+1);var pathName=$("#hidden-pdf div").eq(pdf_index).text();var pdfUrl='http://img.pbol.it/img/'+pathName+'.pdf';var sImgPath=''+pathName+'.gif';var imgUrl='/getImg.php?'+'srv='+escape('http://img.pbol.it/img/')+'&'+'wm=457'+'&'+'ip='+escape(sImgPath);$("#pdfImg").load(imgUrl);$("a.download-pdf").attr('href',pdfUrl);var pdfDim=$("#hidden-pdf div").eq(pdf_index).attr('dim');$("span#numkb-id").html(' ('+pdfDim+' kb)');return false}function initPdfPagination(){var num_pdf=1;if(num_pdf>1){$("#pdf-pagination").pagination(num_pdf,{callback:updatePdfItems,items_per_page:1})}}</script>
+<script type="text/javascript">$(function(){initMap();initImages();mapToggle()});</script>
+<script type="text/javascript">var msgLabelMappa={'europa':'Europa','italia':'Italia','regione':'regione','provincia':'Provincia','comune':'comune','quartiere':'quartiere','via':'Via','ingrandisci':'Ingrandisci','riduci':'Riduci','zoom':'Zoom','mappa':'mappa','foto':'foto','mista':'Mista','legenda':'LEGENDA','chiudi':'chiudi','metro':'metropolitana','metro_lab':'metropolitana','passante':'passante','passante_lab':'passante ferroviario','ferrovia':'stazione','ferrovia_lab':'stazione ferroviaria','autobus':'autobus','autobus_lab':'stazione autobus','porto':'porto','porto_lab':'porto','aeroporto':'aeroporto','aeroporto_lab':'aeroporto','autostrada':'autostrada','autostrada_lab':'autostrada','altaPerc':'alta percorrenza','altaPerc_lab':'strada alta percorrenza','mediaPerc':'media percorrenza','mediaPerc_lab':'strada media percorrenza','bassaPerc':'bassa percorrenza','bassaPerc_lab':'strada bassa percorrenza','pedonale':'strada pedonale, ZTL','pedonale_lab':'strada pedonale, ZTL','confine_reg':"confine regionale",'confine_reg_lab':"confine regionale",'confine_stato':"confine di stato",'confine_stato_lab':"confine di stato",'monumenti':'monumenti','monumenti_lab':'monumenti','scuole':'scuole','scuole_lab':'edifici governativi, ospedali, universitá, scuole','fiere':'fiere','fiere_lab':'fiere, aree commerciali, centri sportivi','parchi':'parchi','parchi_lab':'parchi','industria':'zone industriali','industria_lab':'zone industriali','stazioni':'stazioni','stazioni_lab':'aeroporti, stazioni'};</script>
+<script type="text/javascript">function displayMap(){x=document.getElementById('mapDiv').style.display;if(x=='none'||x==''){document.getElementById('mapDiv').style.display='block';document.getElementById('mapBtn').className='collapse';document.getElementById('mapBtnTxt').innerHTML='Chiudi mappa'}else{document.getElementById('mapDiv').style.display='none';document.getElementById('mapBtn').className='expand';document.getElementById('mapBtnTxt').innerHTML='%LBL_OPEN_MAP%'}}var lonCentro=0.0;var latCentro=0.0;var zoom=10;var zoomDisabled=true;lonCentro=11.62035;latCentro=43.49655;zoom=1;zoomDisabled=false;var t=0;function initMap(){var tm_link=1;SEAT.mapProx=new SEAT.MappaProx('map_placeholder',lonCentro,latCentro,zoom,457,280,'it',t,tm_link);SEAT.mapProx.addNewZoomWidget('widgetContainer',zoomDisabled);SEAT.mapProx.addScaleWidget();SEAT.mapProx.addTypeWidget();SEAT.mapProx.addPoint(lonCentro,latCentro,1,'4','I')}</script>
+<script type="text/javascript">shiny_pars['user']='rinaldidradriano-montevarchi';accrue_pars['cc']='AZ34071400002';accrue_pars['ti']='4';accrue_pars['iq']='';accrue_pars['cb']='8';accrue_pars['lang']='it';call_statistics['0']=true;</script>
+<script type="text/javascript">SEAT.singleRouteUrl="http://www.tuttocitta.it/tcol/percorsi?cx=11.62035&cy=43.49655&z=1&zd=0.6&dv2=Levane (AR)&ind2=Via XIV Luglio 33";</script>
+<script xmlns:g="http://base.google.com/ns/1.0" type="text/javascript">initPagineMultiIndir();initPdfPagination();pageSelectIndir(0);initPagineRegioniSedi();updatePdfItems(0);</script>
+<script type="text/javascript"></script>
+<script type="text/javascript">var fb_lang='it_IT';var gp_lang='it';var url_share='http://www.paginebianche.it/rinaldidradriano-montevarchi';var type='sc';social_start(fb_lang,gp_lang,url_share,type);</script>
+
+    <!-- Inizio Codice Shinystat -->
+    <!-- IGNORE PARSING START -->
+    <script type="text/javascript" language="JavaScript" src="http://ssc.paginebianche.it/cgi-bin/getcod.cgi?USER=rinaldidradriano-montevarchi&amp;PAG=homepage" id="shinystat1"> </script>
+    <!-- IGNORE PARSING END -->
+    <noscript>
+      <img id="shinystat2" src="http://ssd2.paginebianche.it/cgi-bin/shinystat.cgi_pb?USER=rinaldidradriano-montevarchi&amp;PAG=homepage" border="0"/>
+    </noscript>
+    <!-- Fine Codice Shinystat -->
+    
+    
+    
+    <iframe id="redshMappaFrame" name="redshMappaFrame" width="0" height="0" frameborder="0"> </iframe>
+    <!-- IGNORE PARSING START -->
+    <!--START Nielsen//NetRatings SiteCensus V5.3 -->
+    <!-- COPYRIGHT 2008 Nielsen//NetRatings -->
+    <script type="text/javascript"> 
+		var _rsCI="paginegialle-it"; 
+		var _rsCG="PB_BVISIT"; 
+		var _rsDN="//secure-it.imrworldwide.com/"; 
+		var _rsCC=0; 
+		var _rsIP=1; 
+		var _rsPLfl=0; 
+		var _rsCL=0; 
+		var _rsCU="http://www.paginebianche.it/index.html"; 
+		</script>
+    <script type="text/javascript" src="//secure-it.imrworldwide.com/v53.js"> </script>
+    <noscript>
+      <div>
+        <img src="//secure-it.imrworldwide.com/cgi-bin/m?ci=paginegialle-it&amp;cg=PB_BVISIT" style="visibility:hidden;position:absolute;left:0px;top:0px;z-index:-1" alt=""/>
+      </div>
+    </noscript>
+    <!-- Nielsen//NetRatings SiteCensus V5.3 -->
+    <!-- IGNORE PARSING END -->
+    <!-- IGNORE PARSING START -->
+    <!-- SiteCatalyst code version: H.25.4. Copyright 1996-2013 Adobe, Inc. All Rights Reserved More info available at http://www.omniture.com -->
+    <script type="text/javascript" src="http://static.pbol.it/scripts/s_code.js"> </script>
+    <script type="text/javascript">
+				/* You may give each page an identifying name, server, and channel on the next lines. */
+				s_spg.pageName="PBIT:Scheda:Client:Home";
+				s_spg.server="";
+				s_spg.pbAccount = "seatpgpbitprod,seatpgglobalprod";
+				s_spg.pbLinkInternalFilters = "javascript:,paginebianche.it,pgol.com,pgol.net";
+				s_spg.channel="PBIT";
+				s_spg.pageType="";
+				s_spg.prop1="Scheda azienda";
+				s_spg.prop2="Cliente";
+				s_spg.prop3="Home";
+				s_spg.prop4="";
+				s_spg.prop8="PBIT";
+				
+						s_spg.prop9="Web";
+					s_spg.prop10="Schede Aziende";
+				//s_spg.eVar18=SEAT.PG.uidSSO();
+				s_spg.eVar18=SEAT.cookie.getCookie('mypguname');
+				/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+				s_spg.t();</script>
+    <!-- End SiteCatalyst code version: H.25.4. -->
+    <!-- IGNORE PARSING END -->
+    <!-- IGNORE PARSING START -->
+    <!-- COMSCORE START -->
+    <script type="text/javascript">
+				document.write(unescape("%3Cscript src='" + (document.location.protocol == "https:" ? "https://ssl-i" : "http://i") + ".plug.it/iplug/js/lib/iol/tr/comscore/beacon.js'%3E%3C/script%3E"));
+			</script>
+    <script type="text/javascript">
+				document.write(unescape("%3Cscript id='libero_tracking_js_site' src='" + (document.location.protocol == 'https:' ? 'https://ssl-i.plug.it/iplug/js/lib/iol/tr' : 'http://i.plug.it/iplug/js/lib/iol/tr') + "/data/www.paginebianche.it/comscore_www.paginebianche.it.min.js'%3E%3C/script%3E"));
+				document.write(unescape("%3Cscript id='libero_tracking_js_engine' src='" + (document.location.protocol == 'https:' ? 'https://ssl-i.plug.it/iplug/js/lib/iol/tr' : 'http://i.plug.it/iplug/js/lib/iol/tr') + "/engine/comscore_engine.min.js'%3E%3C/script%3E"));
+			</script>
+    <noscript>
+      <img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=13259779&amp;cj=1&amp;name=seat.paginebianche.others&amp;ns_site=seat" alt=""/>
+    </noscript>
+    <!-- COMSCORE STOP -->
+    <!-- IGNORE PARSING END -->
+    <!-- IGNORE PARSING START -->
+    <script type="text/javascript">/* <![CDATA[ */
+		var google_conversion_id = 963738130;
+		var google_custom_params = window.google_tag_params;
+		var google_remarketing_only = true;
+		/* ]]>*/</script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"> </script>
+    <noscript>
+      <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/963738130/?value=0&amp;guid=ON&amp;script=0"/>
+      </div>
+    </noscript>
+    <script type="text/javascript">/* <![CDATA[ */
+			var google_conversion_id = 963738130;
+			var google_conversion_language = "en";
+			var google_conversion_format = "3";
+			var google_conversion_color = "ffffff";
+			var google_conversion_label = "AqlGCOfYvloQkvTFywM";
+			var google_remarketing_only = false;
+			/*]]> */</script>
+    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"> </script>
+    <noscript>
+      <div style="display:inline;">
+        <img height="1" width="1" style="border-style:none;" alt="" src="//www.googleadservices.com/pagead/conversion/963738130/?label=AqlGCOfYvloQkvTFywM&amp;guid=ON&amp;script=0"/>
+      </div>
+    </noscript>
+    <!-- IGNORE PARSING END -->
+  <script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"c450c4ad9c","applicationID":"4672255","transactionName":"ZwQGZkEHXUVZU0BRCV5OMUBaSUFTW0VGVEhTBg0=","queueTime":0,"applicationTime":163,"atts":"S0MFEAkdTks=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+</html>

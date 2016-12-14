@@ -1,0 +1,2030 @@
+33170
+---
+-
+1.0
+33170
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[2]
+__________________
+Pordenone
+---
+-
+1.0
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[3]
+-
+1.0
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+1.0
+ > Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.44170278
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.30760977
+Marson Luigino (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.30760977
+Manfrin Gianfranco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.30760977
+Mascherin Manuela (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.30760977
+Marcandella Lucio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.30760977
+Mariutti Franco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.30760977
+Gallovich Ippolito (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.30760977
+Modolo Ilario (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.30760977
+Grizzo Daniele (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.30760977
+Pacella Emilio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.30760977
+Measso Lara (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+33170
+---
+-
+1.0
+33170
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[2]
+__________________
+33170
+---
+-
+1.0
+33170
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[2]
+__________________
+Pordenone
+---
+-
+1.0
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[3]
+-
+1.0
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+1.0
+ > Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.44170278
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.30760977
+Marson Luigino (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.30760977
+Manfrin Gianfranco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.30760977
+Mascherin Manuela (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.30760977
+Marcandella Lucio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.30760977
+Mariutti Franco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.30760977
+Gallovich Ippolito (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.30760977
+Modolo Ilario (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.30760977
+Grizzo Daniele (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.30760977
+Pacella Emilio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.30760977
+Measso Lara (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+Pordenone
+---
+-
+1.0
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[3]
+-
+1.0
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+1.0
+ > Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.44170278
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.30760977
+Marson Luigino (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.30760977
+Manfrin Gianfranco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.30760977
+Mascherin Manuela (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.30760977
+Marcandella Lucio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.30760977
+Mariutti Franco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.30760977
+Gallovich Ippolito (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.30760977
+Modolo Ilario (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.30760977
+Grizzo Daniele (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.30760977
+Pacella Emilio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.30760977
+Measso Lara (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+33170
+---
+-
+1.0
+33170
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[2]
+__________________
+PORDENONE
+---
+-
+1.0
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[3]
+-
+1.0
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+1.0
+ > Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.44170278
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.30760977
+Marson Luigino (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.30760977
+Manfrin Gianfranco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.30760977
+Mascherin Manuela (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.30760977
+Marcandella Lucio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.30760977
+Mariutti Franco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.30760977
+Gallovich Ippolito (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.30760977
+Modolo Ilario (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.30760977
+Grizzo Daniele (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.30760977
+Pacella Emilio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.30760977
+Measso Lara (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+33170
+---
+-
+1.0
+33170
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[2]
+__________________
+Pordenone
+---
+-
+1.0
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[3]
+-
+1.0
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+1.0
+ > Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.44170278
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.30760977
+Marson Luigino (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.30760977
+Manfrin Gianfranco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.30760977
+Mascherin Manuela (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.30760977
+Marcandella Lucio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.30760977
+Mariutti Franco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.30760977
+Gallovich Ippolito (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.30760977
+Modolo Ilario (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.30760977
+Grizzo Daniele (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.30760977
+Pacella Emilio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.30760977
+Measso Lara (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+Vicolo Del Lavatoio , 23/4
+---
+-
+0.997225
+Vicolo del Lavatoio 23/4
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[1]
+__________________
+Porcia
+---
+-
+0.87091404
+Commercialisti a Porcia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+__________________
+Porcia
+---
+-
+0.87091404
+Commercialisti a Porcia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+__________________
+Cordenons
+---
+-
+0.87091404
+Commercialisti a Cordenons
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+__________________
+Cordenons
+---
+-
+0.87091404
+Commercialisti a Cordenons
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+__________________
+ Vicolo Del Lavatoio , 23/4 33170 PORDENONE (PN)  
+---
+-
+0.77454144
+Vicolo del Lavatoio 23/4
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[1]
+-
+0.38834837
+33170
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[2]
+-
+0.20619892
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[3]
+-
+0.20619892
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+0.20619892
+ > Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.09327643
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.06515834
+Marson Luigino (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.06515834
+Manfrin Gianfranco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.06515834
+Mascherin Manuela (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.06515834
+Marcandella Lucio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.06515834
+Mariutti Franco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.06515834
+Gallovich Ippolito (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.06515834
+Modolo Ilario (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.06515834
+Grizzo Daniele (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.06515834
+Pacella Emilio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.06515834
+Measso Lara (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+ PRATESI ALESSANDRO 
+---
+-
+0.74749804
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.60584253
+Alessandro Pratesi su Internet
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[4]
+-
+0.56821793
+Indirizzo de Alessandro Pratesi
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[1]
+-
+0.5482294
+Telefono de Alessandro Pratesi :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[2]
+-
+0.52880776
+L'indirizzo email de Alessandro Pratesi è prates@tin.it.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[8]
+-
+0.5174837
+L'indirizzo dello studio commercialista di Alessandro Pratesi è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.41784748
+Gli orari di apertura di Alessandro Pratesi sono i seguenti :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[3]
+-
+0.36632368
+Raggione sociale: Studio dr. Alessandro Pratesi
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[10]
+-
+0.33843863
+Il numero di telefono di Alessandro Pratesi è 0434523026. Il suo fax è 0434243026.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]
+__________________
+PRATESI ALESSANDRO
+---
+-
+0.74749804
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.60584253
+Alessandro Pratesi su Internet
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[4]
+-
+0.56821793
+Indirizzo de Alessandro Pratesi
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[1]
+-
+0.5482294
+Telefono de Alessandro Pratesi :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[2]
+-
+0.52880776
+L'indirizzo email de Alessandro Pratesi è prates@tin.it.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[8]
+-
+0.5174837
+L'indirizzo dello studio commercialista di Alessandro Pratesi è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.41784748
+Gli orari di apertura di Alessandro Pratesi sono i seguenti :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[3]
+-
+0.36632368
+Raggione sociale: Studio dr. Alessandro Pratesi
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[10]
+-
+0.33843863
+Il numero di telefono di Alessandro Pratesi è 0434523026. Il suo fax è 0434243026.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]
+__________________
+Tutti i comuni di Pordenone
+---
+-
+0.62453115
+Comuni vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[3]
+-
+0.46895805
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[3]
+-
+0.46895805
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+0.46895805
+ > Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.20714007
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.14425609
+Marson Luigino (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.14425609
+Manfrin Gianfranco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.14425609
+Mascherin Manuela (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.14425609
+Marcandella Lucio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.14425609
+Mariutti Franco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.14425609
+Gallovich Ippolito (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.14425609
+Modolo Ilario (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.14425609
+Grizzo Daniele (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.14425609
+Pacella Emilio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.14425609
+Measso Lara (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+Dottori commercialisti - studi a Porcia
+---
+-
+0.57015395
+Commercialisti a Porcia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.12459653
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.116596565
+Commercialisti a Roraipiccolo
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.116596565
+Commercialisti a La comina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.116596565
+Commercialisti a Musil
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.116596565
+Commercialisti a Castello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.116596565
+Commercialisti a Cordenons
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.116596565
+Commercialisti a Palse
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.116596565
+Commercialisti a Villanova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.116596565
+Commercialisti a Vallenoncello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.09198229
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.0869398
+L'indirizzo dello studio commercialista di Alessandro Pratesi è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.086464606
+Commercialisti a Villa d'Arco
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+__________________
+Dottori commercialisti - studi a Cordenons
+---
+-
+0.57015395
+Commercialisti a Cordenons
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.12459653
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.116596565
+Commercialisti a Roraipiccolo
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.116596565
+Commercialisti a La comina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.116596565
+Commercialisti a Musil
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.116596565
+Commercialisti a Castello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.116596565
+Commercialisti a Palse
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.116596565
+Commercialisti a Porcia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.116596565
+Commercialisti a Villanova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.116596565
+Commercialisti a Vallenoncello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.09198229
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.0869398
+L'indirizzo dello studio commercialista di Alessandro Pratesi è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.086464606
+Commercialisti a Villa d'Arco
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+__________________
+PORDENONE (PN)
+---
+-
+0.41579828
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[3]
+-
+0.41579828
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+0.41579828
+ > Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.18365926
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.12790361
+Marson Luigino (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.12790361
+Manfrin Gianfranco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.12790361
+Mascherin Manuela (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.12790361
+Marcandella Lucio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.12790361
+Mariutti Franco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.12790361
+Gallovich Ippolito (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.12790361
+Modolo Ilario (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.12790361
+Grizzo Daniele (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.12790361
+Pacella Emilio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.12790361
+Measso Lara (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+PORDENONE (PN)
+---
+-
+0.41579828
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[3]
+-
+0.41579828
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+0.41579828
+ > Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.18365926
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.12790361
+Marson Luigino (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.12790361
+Manfrin Gianfranco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.12790361
+Mascherin Manuela (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.12790361
+Marcandella Lucio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.12790361
+Mariutti Franco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.12790361
+Gallovich Ippolito (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.12790361
+Modolo Ilario (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.12790361
+Grizzo Daniele (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.12790361
+Pacella Emilio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.12790361
+Measso Lara (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+PORDENONE (PN)
+---
+-
+0.41579828
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[3]
+-
+0.41579828
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+0.41579828
+ > Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.18365926
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.12790361
+Marson Luigino (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.12790361
+Manfrin Gianfranco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.12790361
+Mascherin Manuela (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.12790361
+Marcandella Lucio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.12790361
+Mariutti Franco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.12790361
+Gallovich Ippolito (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.12790361
+Modolo Ilario (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.12790361
+Grizzo Daniele (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.12790361
+Pacella Emilio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.12790361
+Measso Lara (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+Prata Di Pordenone
+---
+-
+0.41579828
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[3]
+-
+0.41579828
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+0.41579828
+ > Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.18365926
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.12790361
+Marson Luigino (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.12790361
+Manfrin Gianfranco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.12790361
+Mascherin Manuela (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.12790361
+Marcandella Lucio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.12790361
+Mariutti Franco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.12790361
+Gallovich Ippolito (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.12790361
+Modolo Ilario (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.12790361
+Grizzo Daniele (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.12790361
+Pacella Emilio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.12790361
+Measso Lara (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+PORDENONE (PN)
+---
+-
+0.41579828
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[3]
+-
+0.41579828
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+0.41579828
+ > Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.18365926
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.12790361
+Marson Luigino (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.12790361
+Manfrin Gianfranco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.12790361
+Mascherin Manuela (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.12790361
+Marcandella Lucio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.12790361
+Mariutti Franco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.12790361
+Gallovich Ippolito (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.12790361
+Modolo Ilario (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.12790361
+Grizzo Daniele (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.12790361
+Pacella Emilio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.12790361
+Measso Lara (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+Prata di Pordenone
+---
+-
+0.41579828
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[3]
+-
+0.41579828
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+0.41579828
+ > Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.18365926
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.12790361
+Marson Luigino (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.12790361
+Manfrin Gianfranco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.12790361
+Mascherin Manuela (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.12790361
+Marcandella Lucio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.12790361
+Mariutti Franco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.12790361
+Gallovich Ippolito (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.12790361
+Modolo Ilario (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.12790361
+Grizzo Daniele (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.12790361
+Pacella Emilio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.12790361
+Measso Lara (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+Trova DOTTORI COMMERCIALISTI - STUDI vicino a Vicolo Del Lavatoio, PORDENONE
+---
+-
+0.33813614
+Vicolo del Lavatoio 23/4
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[1]
+-
+0.26108766
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.20406249
+Comuni vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[3]
+-
+0.19456248
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[3]
+-
+0.19456248
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+0.19456248
+ > Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.17834209
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.08541452
+Commercialisti a Roraipiccolo
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.08541452
+Commercialisti a La comina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.08541452
+Commercialisti a Musil
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.08541452
+Commercialisti a Castello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.08541452
+Commercialisti a Cordenons
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.08541452
+Commercialisti a Palse
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.08541452
+Commercialisti a Porcia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.08541452
+Commercialisti a Villanova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.08541452
+Commercialisti a Vallenoncello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.063689016
+L'indirizzo dello studio commercialista di Alessandro Pratesi è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.06334091
+Commercialisti a Villa d'Arco
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.059849318
+Marson Luigino (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.059849318
+Manfrin Gianfranco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.059849318
+Mascherin Manuela (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.059849318
+Marcandella Lucio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.059849318
+Mariutti Franco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.059849318
+Gallovich Ippolito (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.059849318
+Modolo Ilario (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.059849318
+Grizzo Daniele (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.059849318
+Pacella Emilio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.059849318
+Measso Lara (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+Dottori commercialisti - studi a Pordenone
+---
+-
+0.29323646
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[3]
+-
+0.29323646
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+0.29323646
+ > Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.26878977
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.12873322
+Commercialisti a Roraipiccolo
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.12873322
+Commercialisti a La comina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.12873322
+Commercialisti a Musil
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.12873322
+Commercialisti a Castello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.12873322
+Commercialisti a Cordenons
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.12873322
+Commercialisti a Palse
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.12873322
+Commercialisti a Porcia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.12873322
+Commercialisti a Villanova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.12873322
+Commercialisti a Vallenoncello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.101556815
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.095989436
+L'indirizzo dello studio commercialista di Alessandro Pratesi è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.09546479
+Commercialisti a Villa d'Arco
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.0902024
+Marson Luigino (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.0902024
+Manfrin Gianfranco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.0902024
+Mascherin Manuela (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.0902024
+Marcandella Lucio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.0902024
+Mariutti Franco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.0902024
+Gallovich Ippolito (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.0902024
+Modolo Ilario (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.0902024
+Grizzo Daniele (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.0902024
+Pacella Emilio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.0902024
+Measso Lara (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+Studio Urbanetto - Modolo - De Cesco
+---
+-
+0.26894793
+Modolo Ilario (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.21437426
+L'indirizzo dello studio commercialista di Alessandro Pratesi è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.2000228
+Indirizzo de Alessandro Pratesi
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[1]
+-
+0.19283386
+Telefono de Alessandro Pratesi :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[2]
+-
+0.15019463
+Raggione sociale: Studio dr. Alessandro Pratesi
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[10]
+-
+0.122318186
+L'indirizzo email de Alessandro Pratesi è prates@tin.it.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[8]
+__________________
+Attività simili a PORDENONE e nei dintorni
+---
+-
+0.25521955
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[3]
+-
+0.25521955
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+0.25521955
+ > Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.11273117
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.07850802
+Marson Luigino (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.07850802
+Manfrin Gianfranco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.07850802
+Mascherin Manuela (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.07850802
+Marcandella Lucio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.07850802
+Mariutti Franco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.07850802
+Gallovich Ippolito (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.07850802
+Modolo Ilario (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.07850802
+Grizzo Daniele (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.07850802
+Pacella Emilio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.07850802
+Measso Lara (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+Dottori commercialisti - studi a Prata di Pordenone
+---
+-
+0.24682958
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[3]
+-
+0.24682958
+Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+0.24682958
+ > Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.22625175
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.10836021
+Commercialisti a Roraipiccolo
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.10836021
+Commercialisti a La comina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.10836021
+Commercialisti a Musil
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.10836021
+Commercialisti a Castello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.10836021
+Commercialisti a Cordenons
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.10836021
+Commercialisti a Palse
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.10836021
+Commercialisti a Porcia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.10836021
+Commercialisti a Villanova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.10836021
+Commercialisti a Vallenoncello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.08548468
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.08079838
+L'indirizzo dello studio commercialista di Alessandro Pratesi è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.08035677
+Commercialisti a Villa d'Arco
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.0759272
+Marson Luigino (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.0759272
+Manfrin Gianfranco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.0759272
+Mascherin Manuela (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.0759272
+Marcandella Lucio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.0759272
+Mariutti Franco (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.0759272
+Gallovich Ippolito (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.0759272
+Modolo Ilario (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.0759272
+Grizzo Daniele (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.0759272
+Pacella Emilio (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.0759272
+Measso Lara (Pordenone)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+__________________
+Piazzetta Pescheria, 4
+---
+-
+0.23150674
+Vicolo del Lavatoio 23/4
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[1]
+__________________
+Consulenza amministrativa, fiscale e tributaria
+---
+-
+0.23150674
+Codice fiscale : 01503330936
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[9]
+__________________
+Stellin Dr. Roberto
+---
+-
+0.22090596
+Raggione sociale: Studio dr. Alessandro Pratesi
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[10]
+__________________
+13/Int3, Vc. Lavatoio
+---
+-
+0.19816798
+Vicolo del Lavatoio 23/4
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]/span[1]
+__________________
+Dottori commercialisti - studi
+---
+-
+0.14389138
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.13465255
+Commercialisti a Roraipiccolo
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.13465255
+Commercialisti a La comina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.13465255
+Commercialisti a Musil
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.13465255
+Commercialisti a Castello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.13465255
+Commercialisti a Cordenons
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.13465255
+Commercialisti a Palse
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.13465255
+Commercialisti a Porcia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.13465255
+Commercialisti a Villanova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.13465255
+Commercialisti a Vallenoncello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.10622654
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.10040317
+L'indirizzo dello studio commercialista di Alessandro Pratesi è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.099854395
+Commercialisti a Villa d'Arco
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+__________________
+DOTTORI COMMERCIALISTI - STUDI
+---
+-
+0.14389138
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.13465255
+Commercialisti a Roraipiccolo
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.13465255
+Commercialisti a La comina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.13465255
+Commercialisti a Musil
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.13465255
+Commercialisti a Castello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.13465255
+Commercialisti a Cordenons
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.13465255
+Commercialisti a Palse
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.13465255
+Commercialisti a Porcia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.13465255
+Commercialisti a Villanova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.13465255
+Commercialisti a Vallenoncello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.10622654
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.10040317
+L'indirizzo dello studio commercialista di Alessandro Pratesi è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.099854395
+Commercialisti a Villa d'Arco
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+__________________
+Dottori commercialisti - studi
+---
+-
+0.14389138
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.13465255
+Commercialisti a Roraipiccolo
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.13465255
+Commercialisti a La comina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.13465255
+Commercialisti a Musil
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.13465255
+Commercialisti a Castello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.13465255
+Commercialisti a Cordenons
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.13465255
+Commercialisti a Palse
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.13465255
+Commercialisti a Porcia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.13465255
+Commercialisti a Villanova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.13465255
+Commercialisti a Vallenoncello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.10622654
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.10040317
+L'indirizzo dello studio commercialista di Alessandro Pratesi è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.099854395
+Commercialisti a Villa d'Arco
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+__________________
+ Dottori commercialisti - studi 
+---
+-
+0.14389138
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.13465255
+Commercialisti a Roraipiccolo
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.13465255
+Commercialisti a La comina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.13465255
+Commercialisti a Musil
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.13465255
+Commercialisti a Castello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.13465255
+Commercialisti a Cordenons
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.13465255
+Commercialisti a Palse
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.13465255
+Commercialisti a Porcia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.13465255
+Commercialisti a Villanova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.13465255
+Commercialisti a Vallenoncello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.10622654
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.10040317
+L'indirizzo dello studio commercialista di Alessandro Pratesi è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.099854395
+Commercialisti a Villa d'Arco
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+__________________
+Dottori commercialisti - studi a Fontanafredda
+---
+-
+0.11949229
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.11182005
+Commercialisti a Roraipiccolo
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.11182005
+Commercialisti a La comina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.11182005
+Commercialisti a Musil
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.11182005
+Commercialisti a Castello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.11182005
+Commercialisti a Cordenons
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.11182005
+Commercialisti a Palse
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.11182005
+Commercialisti a Porcia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.11182005
+Commercialisti a Villanova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.11182005
+Commercialisti a Vallenoncello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.08821413
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.0833782
+L'indirizzo dello studio commercialista di Alessandro Pratesi è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.08292248
+Commercialisti a Villa d'Arco
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+__________________
+Dottori commercialisti - studi a Sacile
+---
+-
+0.11949229
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.11182005
+Commercialisti a Roraipiccolo
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.11182005
+Commercialisti a La comina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.11182005
+Commercialisti a Musil
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.11182005
+Commercialisti a Castello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.11182005
+Commercialisti a Cordenons
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.11182005
+Commercialisti a Palse
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.11182005
+Commercialisti a Porcia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.11182005
+Commercialisti a Villanova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.11182005
+Commercialisti a Vallenoncello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.08821413
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.0833782
+L'indirizzo dello studio commercialista di Alessandro Pratesi è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.08292248
+Commercialisti a Villa d'Arco
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+__________________
+Dottori commercialisti - studi a Zoppola
+---
+-
+0.11949229
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.11182005
+Commercialisti a Roraipiccolo
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.11182005
+Commercialisti a La comina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.11182005
+Commercialisti a Musil
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.11182005
+Commercialisti a Castello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.11182005
+Commercialisti a Cordenons
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.11182005
+Commercialisti a Palse
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.11182005
+Commercialisti a Porcia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.11182005
+Commercialisti a Villanova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.11182005
+Commercialisti a Vallenoncello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.08821413
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.0833782
+L'indirizzo dello studio commercialista di Alessandro Pratesi è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.08292248
+Commercialisti a Villa d'Arco
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+__________________
+Dottori commercialisti - studi a Roveredo in Piano
+---
+-
+0.104385786
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.09768349
+Commercialisti a Roraipiccolo
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.09768349
+Commercialisti a La comina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.09768349
+Commercialisti a Musil
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.09768349
+Commercialisti a Castello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.09768349
+Commercialisti a Cordenons
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.09768349
+Commercialisti a Palse
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.09768349
+Commercialisti a Porcia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.09768349
+Commercialisti a Villanova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.09768349
+Commercialisti a Vallenoncello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.07706188
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.07283732
+L'indirizzo dello studio commercialista di Alessandro Pratesi è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.072439216
+Commercialisti a Villa d'Arco
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+__________________
+Dottori commercialisti - studi a San Quirino
+---
+-
+0.104385786
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.09768349
+Commercialisti a Roraipiccolo
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.09768349
+Commercialisti a La comina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.09768349
+Commercialisti a Musil
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.09768349
+Commercialisti a Castello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.09768349
+Commercialisti a Cordenons
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.09768349
+Commercialisti a Palse
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.09768349
+Commercialisti a Porcia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.09768349
+Commercialisti a Villanova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.09768349
+Commercialisti a Vallenoncello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.07706188
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.07283732
+L'indirizzo dello studio commercialista di Alessandro Pratesi è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.072439216
+Commercialisti a Villa d'Arco
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+__________________
+Dottori commercialisti - studi a Fiume Veneto
+---
+-
+0.104385786
+Alessandro Pratesi, commercialista a Pordenone
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.09768349
+Commercialisti a Roraipiccolo
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.09768349
+Commercialisti a La comina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.09768349
+Commercialisti a Musil
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.09768349
+Commercialisti a Castello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.09768349
+Commercialisti a Cordenons
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.09768349
+Commercialisti a Palse
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.09768349
+Commercialisti a Porcia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.09768349
+Commercialisti a Villanova
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.09768349
+Commercialisti a Vallenoncello
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.07706188
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.07283732
+L'indirizzo dello studio commercialista di Alessandro Pratesi è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.072439216
+Commercialisti a Villa d'Arco
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+__________________

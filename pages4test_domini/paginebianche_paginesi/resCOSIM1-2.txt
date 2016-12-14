@@ -1,0 +1,102 @@
+19021
+---
+-
+1.0
+19021
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[2]
+-
+0.30975175
+V. Provinciale, 144/146 - Romito Magra - 19021 Arcola (La Spezia)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]
+__________________
+VETERINARIO ANGELELLI DOTT.SSA LOREDANA
+---
+-
+0.8482044
+DOTT.SSA LOREDANA ANGELELLI 
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[2]
+-
+0.8482044
+ DOTT.SSA LOREDANA ANGELELLI
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]
+-
+0.52966905
+VETERINARI 
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]
+-
+0.52966905
+VETERINARI
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[4]/span[1]/a[1]
+-
+0.21284467
+DIR. SANITARIA DOTT.SSA LOREDANA ANGELELLI da lunedi' a sabato 9:30-12:00 / 15:30-19:00 CHIUSO GIOVEDI' MATTINA E SABATO POMERIGGIO
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[3]
+__________________
+Via Provinciale 144/146 - 19021 Arcola (SP)
+---
+-
+0.57225835
+V. Provinciale, 144/146 - Romito Magra - 19021 Arcola (La Spezia)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]
+-
+0.4174566
+V. Provinciale, 144/146 - Romito Magra
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[1]
+-
+0.34672177
+19021
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[2]
+-
+0.25458404
+Arcola (La Spezia)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[3]/strong
+__________________
+Via Provinciale 144/146
+---
+-
+0.55779606
+V. Provinciale, 144/146 - Romito Magra
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[1]
+-
+0.46102312
+V. Provinciale, 144/146 - Romito Magra - 19021 Arcola (La Spezia)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]
+__________________
+Arcola (SP)
+---
+-
+0.45027328
+Arcola (La Spezia)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[3]/strong
+-
+0.18995024
+V. Provinciale, 144/146 - Romito Magra - 19021 Arcola (La Spezia)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]
+__________________
+0187 988805
+---
+-
+0.4245227
+0187 98.88.05
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[2]/span[1]/a
+__________________
+
+              tel:
+              
+               0187 988805
+              
+              
+             
+---
+-
+0.33821654
+0187 98.88.05
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[2]/span[1]/a
+__________________
+tel: 0187 988805
+---
+-
+0.33821654
+0187 98.88.05
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[2]/span[1]/a
+__________________

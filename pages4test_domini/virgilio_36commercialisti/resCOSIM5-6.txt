@@ -1,0 +1,1282 @@
+Rieti
+---
+-
+1.0
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+1.0
+ > Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+1.0
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.423116
+Cavalli Fabio, commercialista a Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.35598204
+Giovannelli Giovanni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.32936227
+Giovannelli Fabrizio (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.32936227
+Giovannelli Marco (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.29841396
+Giorgetti Giada (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.29841396
+Macilenti Massimo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.29841396
+Grasso Gianluca (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.29841396
+Alessia Cipolloni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.29841396
+Angeletti Tiziana (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+-
+0.29841396
+Martellucci Nazzareno (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.24735281
+Manelfi Gian Paolo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.20283651
+Il commercialista Cavalli Fabio ti propone i suoi servizi di ragioniere commercialista a Rieti.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+RIETI
+---
+-
+1.0
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+1.0
+ > Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+1.0
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.423116
+Cavalli Fabio, commercialista a Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.35598204
+Giovannelli Giovanni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.32936227
+Giovannelli Fabrizio (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.32936227
+Giovannelli Marco (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.29841396
+Giorgetti Giada (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.29841396
+Macilenti Massimo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.29841396
+Grasso Gianluca (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.29841396
+Alessia Cipolloni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.29841396
+Angeletti Tiziana (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+-
+0.29841396
+Martellucci Nazzareno (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.24735281
+Manelfi Gian Paolo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.20283651
+Il commercialista Cavalli Fabio ti propone i suoi servizi di ragioniere commercialista a Rieti.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+Via Delle Orchidee , 9
+---
+-
+1.0
+via delle Orchidee 9
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[1]
+__________________
+Rieti
+---
+-
+1.0
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+1.0
+ > Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+1.0
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.423116
+Cavalli Fabio, commercialista a Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.35598204
+Giovannelli Giovanni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.32936227
+Giovannelli Fabrizio (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.32936227
+Giovannelli Marco (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.29841396
+Giorgetti Giada (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.29841396
+Macilenti Massimo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.29841396
+Grasso Gianluca (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.29841396
+Alessia Cipolloni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.29841396
+Angeletti Tiziana (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+-
+0.29841396
+Martellucci Nazzareno (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.24735281
+Manelfi Gian Paolo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.20283651
+Il commercialista Cavalli Fabio ti propone i suoi servizi di ragioniere commercialista a Rieti.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+Rieti
+---
+-
+1.0
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+1.0
+ > Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+1.0
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.423116
+Cavalli Fabio, commercialista a Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.35598204
+Giovannelli Giovanni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.32936227
+Giovannelli Fabrizio (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.32936227
+Giovannelli Marco (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.29841396
+Giorgetti Giada (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.29841396
+Macilenti Massimo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.29841396
+Grasso Gianluca (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.29841396
+Alessia Cipolloni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.29841396
+Angeletti Tiziana (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+-
+0.29841396
+Martellucci Nazzareno (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.24735281
+Manelfi Gian Paolo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.20283651
+Il commercialista Cavalli Fabio ti propone i suoi servizi di ragioniere commercialista a Rieti.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+Rieti
+---
+-
+1.0
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+1.0
+ > Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+1.0
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.423116
+Cavalli Fabio, commercialista a Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.35598204
+Giovannelli Giovanni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.32936227
+Giovannelli Fabrizio (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.32936227
+Giovannelli Marco (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.29841396
+Giorgetti Giada (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.29841396
+Macilenti Massimo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.29841396
+Grasso Gianluca (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.29841396
+Alessia Cipolloni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.29841396
+Angeletti Tiziana (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+-
+0.29841396
+Martellucci Nazzareno (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.24735281
+Manelfi Gian Paolo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.20283651
+Il commercialista Cavalli Fabio ti propone i suoi servizi di ragioniere commercialista a Rieti.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+Contigliano
+---
+-
+0.8780469
+Commercialisti a Contigliano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+__________________
+Cantalice
+---
+-
+0.8780469
+Commercialisti a Cantalice
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+__________________
+Contigliano
+---
+-
+0.8780469
+Commercialisti a Contigliano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+__________________
+Cittaducale
+---
+-
+0.8780469
+Commercialisti a Cittaducale
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+__________________
+Cantalice
+---
+-
+0.8780469
+Commercialisti a Cantalice
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+__________________
+Cittaducale
+---
+-
+0.8780469
+Commercialisti a Cittaducale
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+__________________
+ Via Delle Orchidee , 9 02100 RIETI (RI)  
+---
+-
+0.70919156
+via delle Orchidee 9
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[1]
+-
+0.21038657
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+0.21038657
+ > Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.21038657
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.09114711
+Cavalli Fabio, commercialista a Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.07680373
+Giovannelli Giovanni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.07109884
+Giovannelli Fabrizio (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.07109884
+Giovannelli Marco (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.064455174
+Giorgetti Giada (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.064455174
+Macilenti Massimo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.064455174
+Grasso Gianluca (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.064455174
+Alessia Cipolloni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.064455174
+Angeletti Tiziana (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+-
+0.064455174
+Martellucci Nazzareno (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.05347053
+Manelfi Gian Paolo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.043873508
+Il commercialista Cavalli Fabio ti propone i suoi servizi di ragioniere commercialista a Rieti.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+Tutti i comuni di Rieti
+---
+-
+0.62893933
+Comuni vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[3]
+-
+0.45702374
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+0.45702374
+ > Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.45702374
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.19337405
+Cavalli Fabio, commercialista a Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.16269223
+Giovannelli Giovanni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.15052637
+Giovannelli Fabrizio (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.15052637
+Giovannelli Marco (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.13638228
+Giorgetti Giada (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.13638228
+Macilenti Massimo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.13638228
+Grasso Gianluca (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.13638228
+Alessia Cipolloni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.13638228
+Angeletti Tiziana (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+-
+0.13638228
+Martellucci Nazzareno (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.11304611
+Manelfi Gian Paolo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.09270111
+Il commercialista Cavalli Fabio ti propone i suoi servizi di ragioniere commercialista a Rieti.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+ CAVALLI FABIO RAG. 
+---
+-
+0.61942965
+Cavalli Fabio
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]/span[1]
+-
+0.4770322
+Cavalli Fabio, commercialista a Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.33697718
+Indirizzo de Cavalli Fabio
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[1]
+-
+0.33697718
+Telefono de Cavalli Fabio :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[2]
+-
+0.3040993
+L'indirizzo dello studio commercialista di Cavalli Fabio è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+-
+0.277428
+Il numero di telefono di Cavalli Fabio è 746497720.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[6]
+-
+0.26651126
+Gli orari di apertura di Cavalli Fabio sono i seguenti :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[3]
+-
+0.22521055
+Il commercialista Cavalli Fabio ti propone i suoi servizi di ragioniere commercialista a Rieti.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+CAVALLI FABIO RAG.
+---
+-
+0.61942965
+Cavalli Fabio
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]/span[1]
+-
+0.4770322
+Cavalli Fabio, commercialista a Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.33697718
+Indirizzo de Cavalli Fabio
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[1]
+-
+0.33697718
+Telefono de Cavalli Fabio :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[2]
+-
+0.3040993
+L'indirizzo dello studio commercialista di Cavalli Fabio è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+-
+0.277428
+Il numero di telefono di Cavalli Fabio è 746497720.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[6]
+-
+0.26651126
+Gli orari di apertura di Cavalli Fabio sono i seguenti :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[3]
+-
+0.22521055
+Il commercialista Cavalli Fabio ti propone i suoi servizi di ragioniere commercialista a Rieti.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+Monte San Giovanni In Sabina
+---
+-
+0.45960248
+Commercialisti a San Giovanni Reatino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.27824673
+Giovannelli Giovanni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+__________________
+Monte San Giovanni in Sabina
+---
+-
+0.45960248
+Commercialisti a San Giovanni Reatino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.27824673
+Giovannelli Giovanni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+__________________
+ 0746 497720 
+---
+-
+0.42546317
+0746/270802
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[2]
+__________________
+RIETI (RI)
+---
+-
+0.404399
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+0.404399
+ > Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.404399
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.17110768
+Cavalli Fabio, commercialista a Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.14395876
+Giovannelli Giovanni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.13319378
+Giovannelli Fabrizio (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.13319378
+Giovannelli Marco (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.12067831
+Giorgetti Giada (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.12067831
+Macilenti Massimo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.12067831
+Grasso Gianluca (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.12067831
+Alessia Cipolloni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.12067831
+Angeletti Tiziana (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+-
+0.12067831
+Martellucci Nazzareno (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.10002923
+Manelfi Gian Paolo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.082026884
+Il commercialista Cavalli Fabio ti propone i suoi servizi di ragioniere commercialista a Rieti.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+RIETI (RI)
+---
+-
+0.404399
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+0.404399
+ > Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.404399
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.17110768
+Cavalli Fabio, commercialista a Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.14395876
+Giovannelli Giovanni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.13319378
+Giovannelli Fabrizio (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.13319378
+Giovannelli Marco (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.12067831
+Giorgetti Giada (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.12067831
+Macilenti Massimo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.12067831
+Grasso Gianluca (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.12067831
+Alessia Cipolloni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.12067831
+Angeletti Tiziana (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+-
+0.12067831
+Martellucci Nazzareno (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.10002923
+Manelfi Gian Paolo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.082026884
+Il commercialista Cavalli Fabio ti propone i suoi servizi di ragioniere commercialista a Rieti.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+RIETI (RI)
+---
+-
+0.404399
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+0.404399
+ > Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.404399
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.17110768
+Cavalli Fabio, commercialista a Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.14395876
+Giovannelli Giovanni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.13319378
+Giovannelli Fabrizio (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.13319378
+Giovannelli Marco (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.12067831
+Giorgetti Giada (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.12067831
+Macilenti Massimo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.12067831
+Grasso Gianluca (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.12067831
+Alessia Cipolloni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.12067831
+Angeletti Tiziana (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+-
+0.12067831
+Martellucci Nazzareno (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.10002923
+Manelfi Gian Paolo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.082026884
+Il commercialista Cavalli Fabio ti propone i suoi servizi di ragioniere commercialista a Rieti.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+Poggio Bustone
+---
+-
+0.40088224
+Commercialisti a Poggio Fidoni
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+__________________
+Poggio Bustone
+---
+-
+0.40088224
+Commercialisti a Poggio Fidoni
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+__________________
+Consulenza commerciale e finanziaria a Cantalice
+---
+-
+0.39068165
+Commercialisti a Cantalice
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+__________________
+Consulenza commerciale e finanziaria a Cittaducale
+---
+-
+0.39068165
+Commercialisti a Cittaducale
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+__________________
+Consulenza commerciale e finanziaria a Contigliano
+---
+-
+0.39068165
+Commercialisti a Contigliano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+__________________
+Trova CONSULENZA COMMERCIALE E FINANZIARIA vicino a Via Delle Orchidee, RIETI
+---
+-
+0.37511027
+via delle Orchidee 9
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[1]
+-
+0.19096774
+Comuni vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[3]
+-
+0.17910019
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.17639694
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+0.17639694
+ > Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.17639694
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.07463636
+Cavalli Fabio, commercialista a Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.06279414
+Giovannelli Giovanni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.0580985
+Giovannelli Fabrizio (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.0580985
+Giovannelli Marco (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.052639313
+Giorgetti Giada (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.052639313
+Macilenti Massimo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.052639313
+Grasso Gianluca (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.052639313
+Alessia Cipolloni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.052639313
+Angeletti Tiziana (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+-
+0.052639313
+Martellucci Nazzareno (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.04363228
+Manelfi Gian Paolo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.03577974
+Il commercialista Cavalli Fabio ti propone i suoi servizi di ragioniere commercialista a Rieti.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+Studio Legale Giacobbi
+---
+-
+0.3563559
+Informazioni legali
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h2[4]
+-
+0.3048965
+L'indirizzo dello studio commercialista di Cavalli Fabio è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+__________________
+Morro Reatino
+---
+-
+0.3415357
+Commercialisti a San Giovanni Reatino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+__________________
+Consulenza commerciale e finanziaria a Monte San Giovanni in Sabina
+---
+-
+0.3337611
+Commercialisti a San Giovanni Reatino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+-
+0.20206143
+Giovannelli Giovanni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+__________________
+Ragionieri - studi
+---
+-
+0.26447955
+Il commercialista Cavalli Fabio ti propone i suoi servizi di ragioniere commercialista a Rieti.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+Attività simili a RIETI e nei dintorni
+---
+-
+0.24735281
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+0.24735281
+ > Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.24735281
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.10465893
+Cavalli Fabio, commercialista a Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.08805315
+Giovannelli Giovanni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.08146869
+Giovannelli Fabrizio (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.08146869
+Giovannelli Marco (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.073813535
+Giorgetti Giada (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.073813535
+Macilenti Massimo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.073813535
+Grasso Gianluca (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.073813535
+Alessia Cipolloni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.073813535
+Angeletti Tiziana (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+-
+0.073813535
+Martellucci Nazzareno (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.061183415
+Manelfi Gian Paolo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.05017218
+Il commercialista Cavalli Fabio ti propone i suoi servizi di ragioniere commercialista a Rieti.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+Consulenza commerciale e finanziaria a Rieti
+---
+-
+0.24735281
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]/a[2]/span
+-
+0.24735281
+ > Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[1]
+-
+0.24735281
+Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[3]
+-
+0.10465893
+Cavalli Fabio, commercialista a Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.08805315
+Giovannelli Giovanni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[1]/a[1]/span[1]
+-
+0.08146869
+Giovannelli Fabrizio (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[10]/a[1]/span[1]
+-
+0.08146869
+Giovannelli Marco (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[7]/a[1]/span[1]
+-
+0.073813535
+Giorgetti Giada (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.073813535
+Macilenti Massimo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[6]/a[1]/span[1]
+-
+0.073813535
+Grasso Gianluca (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[9]/a[1]/span[1]
+-
+0.073813535
+Alessia Cipolloni (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[2]/a[1]/span[1]
+-
+0.073813535
+Angeletti Tiziana (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[4]/a[1]/span[1]
+-
+0.073813535
+Martellucci Nazzareno (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[8]/a[1]/span[1]
+-
+0.061183415
+Manelfi Gian Paolo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+-
+0.05017218
+Il commercialista Cavalli Fabio ti propone i suoi servizi di ragioniere commercialista a Rieti.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+ Pubblicita' e servizi per le aziende 
+---
+-
+0.24308509
+Data di creazione dell'azienda: 1994
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[9]
+-
+0.22152057
+Il commercialista Cavalli Fabio ti propone i suoi servizi di ragioniere commercialista a Rieti.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+Consulenza commerciale e finanziaria a Poggio Bustone
+---
+-
+0.2429094
+Commercialisti a Poggio Fidoni
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+__________________
+Studio Notarile Gianfelice Avv. Paolo
+---
+-
+0.226872
+L'indirizzo dello studio commercialista di Cavalli Fabio è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+-
+0.2037568
+Manelfi Gian Paolo (Rieti)
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[1]/li[5]/a[1]/span[1]
+__________________
+Via Enrico Mattei 1, 02037 POGGIO MOIANO (RI)
+---
+-
+0.19336425
+Commercialisti a Poggio Fidoni
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.16354787
+via delle Orchidee 9
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[5]/span[1]
+__________________
+Elaborazione dati - servizio conto terzi
+---
+-
+0.16025795
+Il commercialista Cavalli Fabio ti propone i suoi servizi di ragioniere commercialista a Rieti.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+__________________
+Dottori Commercialisti - Studi
+---
+-
+0.1335068
+Cavalli Fabio, commercialista a Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.12847124
+Il commercialista Cavalli Fabio ti propone i suoi servizi di ragioniere commercialista a Rieti.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.12691523
+Commercialisti a Vazia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.12691523
+Commercialisti a Cittaducale
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.12691523
+Commercialisti a Cantalice
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.12691523
+Commercialisti a Casette
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.12691523
+Commercialisti a Contigliano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.12691523
+Commercialisti a Fantauzzi
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.09991627
+Commercialisti a Santa Rufina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.09991627
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.09991627
+Commercialisti a Santa Croce
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.093859784
+Commercialisti a Poggio Fidoni
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.08607803
+L'indirizzo dello studio commercialista di Cavalli Fabio è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+-
+0.0812186
+Commercialisti a San Giovanni Reatino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+__________________
+Dottori Commercialisti - Studi
+---
+-
+0.1335068
+Cavalli Fabio, commercialista a Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.12847124
+Il commercialista Cavalli Fabio ti propone i suoi servizi di ragioniere commercialista a Rieti.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.12691523
+Commercialisti a Vazia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.12691523
+Commercialisti a Cittaducale
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.12691523
+Commercialisti a Cantalice
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.12691523
+Commercialisti a Casette
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.12691523
+Commercialisti a Contigliano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.12691523
+Commercialisti a Fantauzzi
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.09991627
+Commercialisti a Santa Rufina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.09991627
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.09991627
+Commercialisti a Santa Croce
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.093859784
+Commercialisti a Poggio Fidoni
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.08607803
+L'indirizzo dello studio commercialista di Cavalli Fabio è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+-
+0.0812186
+Commercialisti a San Giovanni Reatino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+__________________
+Dottori commercialisti - studi
+---
+-
+0.1335068
+Cavalli Fabio, commercialista a Rieti
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[1]
+-
+0.12847124
+Il commercialista Cavalli Fabio ti propone i suoi servizi di ragioniere commercialista a Rieti.
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[3]
+-
+0.12691523
+Commercialisti a Vazia
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[2]/a[1]
+-
+0.12691523
+Commercialisti a Cittaducale
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[6]/a[1]
+-
+0.12691523
+Commercialisti a Cantalice
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[9]/a[1]
+-
+0.12691523
+Commercialisti a Casette
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[1]/a[1]
+-
+0.12691523
+Commercialisti a Contigliano
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[7]/a[1]
+-
+0.12691523
+Commercialisti a Fantauzzi
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[8]/a[1]
+-
+0.09991627
+Commercialisti a Santa Rufina
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[3]/a[1]
+-
+0.09991627
+Altri commercialisti vicini
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/h1[2]
+-
+0.09991627
+Commercialisti a Santa Croce
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[10]/a[1]
+-
+0.093859784
+Commercialisti a Poggio Fidoni
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[5]/a[1]
+-
+0.08607803
+L'indirizzo dello studio commercialista di Cavalli Fabio è :
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/p[4]
+-
+0.0812186
+Commercialisti a San Giovanni Reatino
+/html/body[1]/div[2]/div[1]/div[2]/div[1]/div[1]/ul[2]/li[4]/a[1]
+__________________

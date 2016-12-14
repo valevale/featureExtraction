@@ -1,0 +1,362 @@
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[1]/a[1]
+Dati
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[8]/a
+Proprietà industriale
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+Studio Legale Corini
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
+00136
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[1]
+Viale TITO LIVIO. 100
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[1]/a[1]
+Dati
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[2]/div[2]/div[1]
+
+               0635401167
+              
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[9]/a[1]
+ Più informazioni su Studio Legale Corini
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+Studio Legale Corini
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+Studio Legale Corini, Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[1]/strong[1]/a/span
+Lipari Nicolo' (Avv.)
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+E-mail a Studio Legale Corini
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[1]/a[1]
+Dati
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[1]
+Viale MEDAGLIE D'ORO. 187
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+Viale TITO LIVIO. 10000136  Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+Studio Legale Corini, Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[1]
+
+        Iacovoni Claudio Cesare (Avv.)
+        
+         140 m
+        
+        Dati
+       
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+Viale TITO LIVIO. 5900136  Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+V. CLIVO DI CINNA. 19600136  Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+00136
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+Roma 
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+Descrizione Studio Legale Corini, Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+Contrattualistica, Privacy, Ict, Diritto D'autore, Copyright, Proprietà Intellettuale, Asa, Registrazione Marchi, Ricerca E Sviluppo, Pareri Legali, Proprietà industriale, Diritto Dello Spettacolo, Contratto Discografico, Contratto Management, Consulenza Legale Musica, Diritto Nuove Tecnologie, Contratti Editoriali, Diritto della Musica, Licenza Software, Contratti di Edizione, Tutela Software, Contratti D'impresa, Settimo Programma Quadro, Accordo di Riservatezza, Licenza Marchio, Contratto Artistico, Studio Legale Lombardi, Consortium Agreement, Contratti consulenza, Avvocato Musica, Non Disclosure Agreement, Deposito Software, Associazione Temporanea Imprese, Contratto Artista, Studio Legale Diritto D'autore, Studio Legale Musica, Avvocato Diritto D'autore, Simone Corini, Memorandum Of Understanding, Diritti di Copyright, Contratto Prestazione Artistica, Siae Diritti, 7Fp, Diritti Connessi
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[7]/a
+Pareri Legali
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[1]/ul[1]/li[3]/a
+Descrizione
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a
+Contrattualistica in Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/i[1]
+Studio Legale Corini
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[1]
+Viale TITO LIVIO. 100
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+Consulenza aziendale Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[1]
+
+        Sebastiani Umberto (Avv.)
+        
+         20 m
+        
+        Dati
+       
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+Ict
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+Studio Legale Corini, Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+Studio Legale Corini, Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[1]
+
+        Cale' Lucio (Avv.)
+        
+         110 m
+        
+        Dati
+       
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+V. CLIVO DI CINNA. 196
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+00136
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[9]/a
+Diritto Dello Spettacolo
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[1]
+
+        Cale Lucio
+        
+         110 m
+        
+        Dati
+       
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[2]
+
+     
+      Valutazione
+      
+      
+     
+     
+      Invia recensione
+     
+    
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[1]/strong[1]/a/span
+Cale Lucio
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+00136
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a/span
+Consulenza aziendale
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+Aziende simili nelle vicinanze Studio Legale Corini, Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]
+Viale TITO LIVIO. 10000136  Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+Ricerche simili Studio Legale Corini, Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]
+
+       Condividi 
+       
+       
+      
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]/span[1]
+Lo Studio Legale Corini offre assistenza e consulenza legale specialistica in materia di diritto della musica e contratti discografici, nei diversi ambiti della tutela del diritto d'autore e dei diritti connessi, della proprietà intellettuale e del diritto dello spettacolo, in tema di privacy, di proprietà industriale e di contratti d'impresa, nonché nel settore dell'ICT e dei progetti di ricerca e sviluppo nazionali ed europei, attraverso la formulazione di pareri legali, l'analisi e l'elaborazione di contratti, la redazione di atti giudiziali e di atti stragiudiziali, l'assistenza nelle negoziazioni con i terzi, la partecipazione a progetti di ricerca e sviluppo (R&D), la gestione dei rapporti con i vari enti ausiliari per la protezione delle opere dell'ingegno. 
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
+Viale MEDAGLIE D'ORO. 18700136  Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[1]/a[1]
+Dati
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[3]/div[2]/span[1]/a
+www.studiolegalecorini.it
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a
+Diritto D'autore
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[1]/a[1]
+Dati
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[1]
+V. CADLOLO ALBERTO. 118
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a/span
+Servizi professionali Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a/span
+Sebastiani Umberto (Avv.)
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+Viale TITO LIVIO. 59
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[6]/a
+Registrazione Marchi
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
+00136
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+Studio Legale Corini, Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+Galleria Studio Legale Corini, Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[2]
+00136
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[1]
+
+        Lipari Nicolo' (Avv.)
+        
+         130 m
+        
+        Dati
+       
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+
+          E-mail a Studio Legale Corini✕
+         
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+Studio Legale Corini, Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+Mattei Gentili Giancarlo (Avv.)
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[3]/div[1]/div[1]/a[4]
+Modifica la tua pagina
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[2]/div[1]
+
+      Valutazione
+      
+      
+     
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[7]/a
+ Visualizza la mappa con le aziende simili nei dintorni
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[5]/a
+Proprietà Intellettuale
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+00136
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]/strong[1]
+Breve descrizione
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[1]/a/span
+Servizi professionali
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[3]/ol[1]/li[1]/a
+ Mobili
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[1]/strong[1]/a/span
+Iacovoni Claudio Cesare (Avv.)
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[1]/a[1]
+Dati
+________________________________________________________________________
+/html/body[1]/div[2]/div[5]
+
+  Cerca
+ 
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/p[1]
+Consulenza ed assistenza legale in diritto della musica, diritto d'autore, diritto dello spettacolo, privacy, contrattualistica, diritto dell'ICT, progetti R&D. 
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[1]/strong[1]/a/span
+Cale' Lucio (Avv.)
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+
+     Scrivi tu la prima recensione per Studio Legale Corini!
+    
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+Recensioni Studio Legale Corini, Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]
+ 
+     Studio Legale Corini è iscritta nelle categorie:
+    
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a
+Copyright
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/div[1]/p[1]/small
+Trascina e rilascia le immagini che vuoi caricare.
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/div[1]/a[2]
+Visita il sito web
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]
+
+               0635401156
+              
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+VIALE TITO LIVIO, 67
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+V. CADLOLO ALBERTO. 11800136  Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[3]/div[1]/div[1]/a[2]
+Invia messaggio
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+Studio Legale Corini
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[1]
+
+        Mattei Gentili Giancarlo (Avv.)
+        
+         100 m
+        
+        Dati
+       
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[3]/div[1]/div[2]/span[1]
+ultimo aggiornamento più di 6 mesi fa 
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[4]/div[2]/a[1]
+Invia messaggio
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+Roma
+________________________________________________________________________
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/p[1]
+Condividi la tua esperienza!
+________________________________________________________________________

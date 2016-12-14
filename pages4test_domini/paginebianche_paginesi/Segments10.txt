@@ -1,0 +1,225 @@
+/html/body[1]/div[3]/div[2]/ul[1]/li[16]/a
+Elettrodomestici
+________________________________________________________________________
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[2]
+09033
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[28]/a
+Ristoranti
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[23]/a
+Imprese edili
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[31]/a
+Traslochi
+________________________________________________________________________
+/html/body[1]/div[3]/div[3]/a[1]/h1[1]
+Cagliari
+________________________________________________________________________
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[3]
+ stime partrimoniali
+________________________________________________________________________
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[6]
+ consulenza societaria
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[15]/a
+Dentisti
+________________________________________________________________________
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[3]/strong
+Decimomannu (Cagliari)
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[20]/a
+Impianti di condizionamento
+________________________________________________________________________
+/html/body[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]
+
+       Cagliari 
+     
+________________________________________________________________________
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[5]/span[1]/a[1]
+COMMERCIALISTI
+________________________________________________________________________
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[11]
+ stima partrimoniale
+________________________________________________________________________
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[12]
+ villani ragioniere commercialista
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[4]/a
+Agenzie funebri
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[11]/a
+Automobili
+________________________________________________________________________
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[7]
+ consulenza contrattuale
+________________________________________________________________________
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]
+V. Vico I Parrocchia, 22 - 09033 Decimomannu (Cagliari)
+________________________________________________________________________
+/html/body[1]/div[3]/div[4]/div[1]/div[3]/div[1]/div[1]
+ 
+      Scrivi a Villani Daniela    
+       
+       
+       
+       Invia richiesta  
+     
+________________________________________________________________________
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[9]
+ consulenza contabile
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[24]/a
+Ottica ed occhiali
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[30]/a
+Serramenti
+________________________________________________________________________
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[1]
+V. Vico I Parrocchia, 22
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[14]/a
+Costruzioni meccaniche
+________________________________________________________________________
+/html/body[1]/div[1]
+
+ Please click 
+  if you are not redirected within a few seconds.
+
+________________________________________________________________________
+/html/body[1]/div[3]/div[3]/a[2]
+ Categorie   
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[13]/a
+Ceramiche
+________________________________________________________________________
+/html/body[1]/div[3]/div[3]/a[1]/span[1]
+Cambia Provincia
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[2]/a
+Abbigliamento
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[22]/a
+Impianti elettrici
+________________________________________________________________________
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[5]
+ consulenza fiscale
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[26]/a
+Piscine
+________________________________________________________________________
+/html/body[1]/div[3]/div[4]/div[1]/div[3]/div[1]/div[1]/h3[1]
+Scrivi a Villani Daniela
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[6]/a
+Alberghi
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[18]/a
+Giardinaggio
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[8]/a
+Arredamenti
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[27]/a
+Ricevimenti
+________________________________________________________________________
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[4]
+ consulenza amministrativa
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[25]/a
+Palestre
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[12]/a
+Avvocati
+________________________________________________________________________
+/html/body[1]/div[3]/div[3]/a[1]
+   CagliariCambia Provincia 
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[17]/a
+Estetiste
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[5]/a
+Agenzie immobiliari
+________________________________________________________________________
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]
+ragioniere commercialista
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[29]/a
+Scuole di lingua
+________________________________________________________________________
+/html/body[1]/div[3]/div[3]/a[2]/span[1]
+Categorie
+________________________________________________________________________
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[2]/span[1]/a
+070 96.18.14
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[3]/a
+Agenzia viaggi
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[7]/a
+Antincendio
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[21]/a
+Impianti di riscaldamento
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[19]/a
+Gru
+________________________________________________________________________
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[2]
+ consulenze contabili
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]
+  
+  
+   Scegli una categoria
+   Abbigliamento
+   Agenzia viaggi
+   Agenzie funebri
+   Agenzie immobiliari
+   Alberghi
+   Antincendio
+   Arredamenti
+   Arredamento per negozi
+   Arredamento ufficio
+   Automobili
+   Avvocati
+   Ceramiche
+   Costruzioni meccaniche
+   Dentisti
+   Elettrodomestici
+   Estetiste
+   Giardinaggio
+   Gru
+   Impianti di condizionamento
+   Impianti di riscaldamento
+   Impianti elettrici
+   Imprese edili
+   Ottica ed occhiali
+   Palestre
+   Piscine
+   Ricevimenti
+   Ristoranti
+   Scuole di lingua
+   Serramenti
+   Traslochi
+    Close Menu 
+ 
+________________________________________________________________________
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[8]
+ consulenza contabille
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[10]/a
+Arredamento ufficio
+________________________________________________________________________
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]
+ VILLANI DANIELA
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[9]/a
+Arredamento per negozi
+________________________________________________________________________
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[10]
+ consulenze contrattuali
+________________________________________________________________________
+/html/body[1]/div[3]/div[2]/ul[1]/li[1]
+Scegli una categoria
+________________________________________________________________________

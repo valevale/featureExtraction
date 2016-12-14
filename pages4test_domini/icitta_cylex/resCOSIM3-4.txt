@@ -1,0 +1,2175 @@
+Roma
+---
+-
+1.0
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+1.0
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.33186835
+
+             00162 
+             Roma  - Nomentano
+            
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.32458463
+Diritto del Lavoro in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a
+-
+0.32458463
+Diritto Civile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a
+-
+0.31915724
+Recensioni Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.31534106
+Servizi professionali Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a/span
+-
+0.31534106
+Infortunistica Stradale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a
+-
+0.30604002
+Descrizione Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.30267045
+Studio Legale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.29141387
+Consulenza aziendale Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.2849101
+Galleria Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.25552297
+V. NOMENTANA. 35500162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]
+-
+0.2436315
+Ricerche simili Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.2422353
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.2422353
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.24076605
+V. S. COSTANZA. 700198  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.24076605
+V. S. COSTANZA. 2700198  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.24076605
+V. S. COSTANZA. 3500198  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+__________________
+Roma
+---
+-
+1.0
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+1.0
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.33186835
+
+             00162 
+             Roma  - Nomentano
+            
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.32458463
+Diritto del Lavoro in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a
+-
+0.32458463
+Diritto Civile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a
+-
+0.31915724
+Recensioni Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.31534106
+Servizi professionali Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a/span
+-
+0.31534106
+Infortunistica Stradale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a
+-
+0.30604002
+Descrizione Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.30267045
+Studio Legale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.29141387
+Consulenza aziendale Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.2849101
+Galleria Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.25552297
+V. NOMENTANA. 35500162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]
+-
+0.2436315
+Ricerche simili Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.2422353
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.2422353
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.24076605
+V. S. COSTANZA. 700198  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.24076605
+V. S. COSTANZA. 2700198  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.24076605
+V. S. COSTANZA. 3500198  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+__________________
+00162
+---
+-
+1.0
+00162
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+00162
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+00162
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+00162
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+-
+0.6063276
+
+             00162 
+             Roma  - Nomentano
+            
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+__________________
+Avv. Luca Ruberto
+---
+-
+1.0
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+1.0
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/i[1]
+-
+1.0
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+1.0
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.89465594
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.89465594
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.89465594
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.89465594
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.89465594
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.89465594
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.65884376
+E-mail a Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.65884376
+
+          E-mail a Avv. Luca Ruberto✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.65300894
+Recensioni Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.6258428
+Descrizione Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.6084476
+ Più informazioni su Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[9]/a[1]
+-
+0.58216906
+Galleria Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.49713218
+Ricerche simili Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.4766034
+ 
+     Avv. Luca Ruberto è iscritta nelle categorie:
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]
+-
+0.44697246
+Aziende simili nelle vicinanze Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.426475
+
+     Scrivi tu la prima recensione per Avv. Luca Ruberto!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.17719601
+Vittucci Antonio (Avv.)
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[1]/strong[1]/a/span
+-
+0.14725178
+Valenzi Avv. Ti Luigi e Isabella
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+-
+0.13118845
+
+        Vittucci Antonio (Avv.)
+        
+         110 m
+        
+        Dati
+       
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[1]
+-
+0.11250782
+
+        Valenzi Avv. Ti Luigi e Isabella
+        
+         30 m
+        
+        Dati
+       
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[1]
+__________________
+Avv. Luca Ruberto - Roma 
+---
+-
+1.0
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+1.0
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+1.0
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+1.0
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+1.0
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+1.0
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.89730895
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.89730895
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/i[1]
+-
+0.89730895
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.89730895
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.7288888
+Recensioni Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.69847614
+Descrizione Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.649607
+Galleria Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.5911864
+E-mail a Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.5911864
+
+          E-mail a Avv. Luca Ruberto✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.5545314
+Ricerche simili Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.54596555
+ Più informazioni su Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[9]/a[1]
+-
+0.498493
+Aziende simili nelle vicinanze Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.4414029
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.4414029
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.4414029
+Roma 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.4414029
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.4414029
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.4414029
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.4414029
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.42766052
+ 
+     Avv. Luca Ruberto è iscritta nelle categorie:
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]
+-
+0.38267988
+
+     Scrivi tu la prima recensione per Avv. Luca Ruberto!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.15899958
+Vittucci Antonio (Avv.)
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[1]/strong[1]/a/span
+-
+0.14648765
+
+             00162 
+             Roma  - Nomentano
+            
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.14327261
+Diritto del Lavoro in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a
+__________________
+Roma
+---
+-
+1.0
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+1.0
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.33186835
+
+             00162 
+             Roma  - Nomentano
+            
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.32458463
+Diritto del Lavoro in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a
+-
+0.32458463
+Diritto Civile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a
+-
+0.31915724
+Recensioni Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.31534106
+Servizi professionali Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a/span
+-
+0.31534106
+Infortunistica Stradale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a
+-
+0.30604002
+Descrizione Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.30267045
+Studio Legale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.29141387
+Consulenza aziendale Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.2849101
+Galleria Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.25552297
+V. NOMENTANA. 35500162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]
+-
+0.2436315
+Ricerche simili Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.2422353
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.2422353
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.24076605
+V. S. COSTANZA. 700198  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.24076605
+V. S. COSTANZA. 2700198  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.24076605
+V. S. COSTANZA. 3500198  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+__________________
+
+     Scrivi la tua recensione per Avv. Luca Ruberto - Roma:
+      
+      
+    
+---
+-
+0.7924742
+Recensioni Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.78225166
+
+     Scrivi tu la prima recensione per Avv. Luca Ruberto!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.59528303
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.59528303
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.59528303
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.59528303
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.59528303
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.59528303
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.5341528
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.5341528
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/i[1]
+-
+0.5341528
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.5341528
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.415791
+Descrizione Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.38670003
+Galleria Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.35192323
+E-mail a Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.35192323
+
+          E-mail a Avv. Luca Ruberto✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.33010313
+Ricerche simili Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.32500398
+ Più informazioni su Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[9]/a[1]
+-
+0.2967444
+Aziende simili nelle vicinanze Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.27954784
+
+     
+      Valutazione
+      
+      
+     
+     
+      Invia recensione
+     
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[2]
+-
+0.26275966
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.26275966
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.26275966
+Roma 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.26275966
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.26275966
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.26275966
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.26275966
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.25457904
+ 
+     Avv. Luca Ruberto è iscritta nelle categorie:
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]
+-
+0.094649754
+Vittucci Antonio (Avv.)
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[1]/strong[1]/a/span
+-
+0.08720162
+
+             00162 
+             Roma  - Nomentano
+            
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+__________________
+ Via Pompeo Ugonio N. 3   00162 Roma  (RM) 
+---
+-
+0.7894931
+Via Pompeo Ugonio N. 3
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.6656433
+VIA UGONIO POMPEO, 3
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+-
+0.6656433
+VIA UGONIO POMPEO, 3
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.48774078
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.48774078
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.3287782
+00162
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+0.3287782
+00162
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+0.3287782
+00162
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+-
+0.3287782
+00162
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+-
+0.26148847
+
+             00162 
+             Roma  - Nomentano
+            
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.18289246
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.18289246
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.18289246
+Roma 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.18289246
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.18289246
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.18289246
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.18289246
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.09782162
+Pagina verificata, ultimo aggiornamento 3 mesi fa 
+/html/body[1]/div[5]/div[2]/div[1]/div[3]/div[1]/div[2]/span[1]
+-
+0.079525165
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.079525165
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.079525165
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.079525165
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.079525165
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.079525165
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.05936408
+Diritto del Lavoro in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a
+-
+0.05936408
+Diritto Civile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a
+-
+0.058371454
+Recensioni Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.057673503
+Servizi professionali Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a/span
+-
+0.057673503
+Infortunistica Stradale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a
+-
+0.055972412
+Descrizione Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+__________________
+Studio Legale Sgalippa
+---
+-
+0.69848114
+Studio Legale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.25164655
+Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.11049769
+Lo Studio Si Occupa di Diritto Civile, Recupero Crediti per Le Aziende, Locazioni, Infortunistica Stradale E Ricostruzioni Sinistri, Diritto del Lavoro E Previdenza. 
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/p[1]
+__________________
+Aziende Simili:
+---
+-
+0.61506844
+Aziende simili nelle vicinanze Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.51255524
+ Visualizza la mappa con le aziende simili nei dintorni
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[7]/a
+-
+0.35797107
+Ricerche simili Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.15022294
+Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.14216273
+Lo Studio Si Occupa di Diritto Civile, Recupero Crediti per Le Aziende, Locazioni, Infortunistica Stradale E Ricostruzioni Sinistri, Diritto del Lavoro E Previdenza. 
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/p[1]
+__________________
+
+    > 
+   Lazio > 
+   Roma > 
+   Roma 
+  
+---
+-
+0.6021982
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.6021982
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.6021982
+Roma 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.6021982
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.6021982
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.6021982
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.6021982
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.26184738
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.26184738
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.26184738
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.26184738
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.26184738
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.26184738
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.19985051
+
+             00162 
+             Roma  - Nomentano
+            
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.19546428
+Diritto del Lavoro in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a
+-
+0.19546428
+Diritto Civile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a
+-
+0.1921959
+Recensioni Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.1898978
+Servizi professionali Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a/span
+-
+0.1898978
+Infortunistica Stradale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a
+-
+0.18429674
+Descrizione Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.18226759
+Studio Legale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.1754889
+Consulenza aziendale Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.17157234
+Galleria Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.15387546
+V. NOMENTANA. 35500162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]
+-
+0.14671445
+Ricerche simili Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.14587365
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.14587365
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.14498886
+V. S. COSTANZA. 700198  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.14498886
+V. S. COSTANZA. 2700198  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.14498886
+V. S. COSTANZA. 3500198  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+__________________
+Studio Legale Tributario Immobiliare
+---
+-
+0.579474
+Studio Legale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.20877104
+Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.091671094
+Lo Studio Si Occupa di Diritto Civile, Recupero Crediti per Le Aziende, Locazioni, Infortunistica Stradale E Ricostruzioni Sinistri, Diritto del Lavoro E Previdenza. 
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/p[1]
+__________________
+ 
+        
+        Via Pompeo Ugonio N. 3   00162 Roma  (RM) 
+         
+        
+         - 3283554559 
+         
+       Email
+        
+       Avvocati - Studi a Roma
+        
+      
+---
+-
+0.5526241
+Via Pompeo Ugonio N. 3
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.4659325
+VIA UGONIO POMPEO, 3
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+-
+0.4659325
+VIA UGONIO POMPEO, 3
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.37332827
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.37332827
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.25603965
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.25603965
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.25603965
+Roma 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.25603965
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.25603965
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.25603965
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.25603965
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.23013596
+00162
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+0.23013596
+00162
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+0.23013596
+00162
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+-
+0.23013596
+00162
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+-
+0.22628947
+
+             00162 
+             Roma  - Nomentano
+            
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.11133098
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.11133098
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.11133098
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.11133098
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.11133098
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.11133098
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.08310654
+Diritto del Lavoro in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a
+-
+0.08310654
+Diritto Civile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a
+-
+0.08171691
+Recensioni Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.08073982
+Servizi professionali Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a/span
+-
+0.08073982
+Infortunistica Stradale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a
+-
+0.07835838
+Descrizione Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.077495635
+Studio Legale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+__________________
+LO STUDIO LEGALE AVV. LUCA RUBERTO OPERA NEL SETTORE DEL DIRITTO CIVILE, CON PARTICOLARE RIFERIMENTO ALLE SEGUENTI MATERIE: RECUPERO CREDITI PER LE AZIENDE, LOCAZIONI, INFORTUNISTICA STRADALE E RICOSTRUZIONE SINISTRI, DIRITTO DEL LAVORO E PREVIDENZA, SEPARAZIONE E DIVORZI. PRESTA ATTIVITA' DI ASSISTENZA E CONSULENZA LEGALE. PRESTA DOMICILIAZIONE PER I COLLEGHI. LO STUDIO E' SITUATO A ROMA IN VIA POMPEO UGONI N. 3 A POCHI PASSI DALLA CHIESA DI S. AGNESE.
+---
+-
+0.5455844
+Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.48929843
+Lo Studio Si Occupa di Diritto Civile, Recupero Crediti per Le Aziende, Locazioni, Infortunistica Stradale E Ricostruzioni Sinistri, Diritto del Lavoro E Previdenza. 
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/p[1]
+-
+0.3498957
+Studio Legale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.24787174
+Diritto del Lavoro in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a
+-
+0.24787174
+Diritto Civile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a
+-
+0.21206929
+Via Pompeo Ugonio N. 3
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.17909919
+Infortunistica Stradale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a
+-
+0.16298439
+VIA UGONIO POMPEO, 3
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+-
+0.16298439
+VIA UGONIO POMPEO, 3
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.1358012
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.1358012
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.1358012
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.1358012
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.1358012
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.1358012
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.121855624
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.121855624
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/i[1]
+-
+0.121855624
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.121855624
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.11569857
+Aziende simili nelle vicinanze Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.11046067
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.11046067
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.100297295
+Consulenza aziendale Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.09898396
+Recensioni Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.094853885
+Descrizione Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.08821741
+Galleria Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.086197376
+Consulenza aziendale
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a/span
+-
+0.08028381
+E-mail a Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.08028381
+
+          E-mail a Avv. Luca Ruberto✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.07530601
+Ricerche simili Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+__________________
+Studio Legale E Tributario Avvocato Baio
+---
+-
+0.5059547
+Studio Legale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.18228374
+Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.08004056
+Lo Studio Si Occupa di Diritto Civile, Recupero Crediti per Le Aziende, Locazioni, Infortunistica Stradale E Ricostruzioni Sinistri, Diritto del Lavoro E Previdenza. 
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/p[1]
+__________________
+ 
+     
+  
+  
+  
+    > 
+   Lazio > 
+   Roma > 
+   Roma 
+   
+   
+    
+    Avv. Luca Ruberto - Roma  
+    
+    
+     
+     
+      
+       Avv. Luca Ruberto  AVVOCATI STUDI   
+       
+        
+        Via Pompeo Ugonio N. 3   00162 Roma  (RM) 
+         
+        
+         - 3283554559 
+         
+       Email
+        
+       Avvocati - Studi a Roma
+        
+       
+      
+     
+    
+     
+     LO STUDIO LEGALE AVV. LUCA RUBERTO OPERA NEL SETTORE DEL DIRITTO CIVILE, CON PARTICOLARE RIFERIMENTO ALLE SEGUENTI MATERIE: RECUPERO CREDITI PER LE AZIENDE, LOCAZIONI, INFORTUNISTICA STRADALE E RICOSTRUZIONE SINISTRI, DIRITTO DEL LAVORO E PREVIDENZA, SEPARAZIONE E DIVORZI. PRESTA ATTIVITA' DI ASSISTENZA E CONSULENZA LEGALE. PRESTA DOMICILIAZIONE PER I COLLEGHI. LO STUDIO E' SITUATO A ROMA IN VIA POMPEO UGONI N. 3 A POCHI PASSI DALLA CHIESA DI S. AGNESE.
+    
+     
+     
+     
+      Aziende Simili: 
+       
+      
+      Avv. Dario Candeloro
+       Via Conte Rosso, 5
+       00185 - Roma 
+      
+      
+      Studio Legale Sgalippa
+       Via Palombarese, 479
+       00013 - Fonte Nuova 
+      
+      
+      Avvocato Viviana Formichella
+       Lungomare Delle Meduse, 127
+       00040 - Pomezia 
+      
+      
+      Studio Legale Tributario Immobiliare
+       Via Roma 90
+       00040 - Pomezia-roma -ciampino- Albano 
+      
+      
+      Studio Legale E Tributario Avvocato Baio
+       Via Della Tecnica, 58
+       00040 - Pomezia 
+      
+     
+     
+     
+     
+    
+     Scrivi la tua recensione per Avv. Luca Ruberto - Roma:
+      
+      
+     
+     
+      
+       
+    
+   
+   
+   
+            
+          
+       
+  >   
+
+---
+-
+0.4720649
+Studio Legale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.35234943
+Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.3399473
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.3399473
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.3399473
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.3399473
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.3399473
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.3399473
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.30161837
+Via Pompeo Ugonio N. 3
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.291793
+Recensioni Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.27724123
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.27724123
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.27724123
+Roma 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.27724123
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.27724123
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.27724123
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.27724123
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.276538
+Lo Studio Si Occupa di Diritto Civile, Recupero Crediti per Le Aziende, Locazioni, Infortunistica Stradale E Ricostruzioni Sinistri, Diritto del Lavoro E Previdenza. 
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/p[1]
+-
+0.2756553
+VIA UGONIO POMPEO, 3
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+-
+0.2756553
+VIA UGONIO POMPEO, 3
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.27019817
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.27019817
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.2427801
+Aziende simili nelle vicinanze Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.2424719
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.2424719
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/i[1]
+-
+0.2424719
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.2424719
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.23744509
+Descrizione Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.22083215
+Galleria Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.2191469
+Ricerche simili Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+__________________
+ 
+      Studio Legale Tributario Immobiliare
+       Via Roma 90
+       00040 - Pomezia-roma -ciampino- Albano 
+     
+---
+-
+0.42260718
+Studio Legale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.24819499
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.24819499
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.24819499
+Roma 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.24819499
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.24819499
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.24819499
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.24819499
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.15876247
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.15876247
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.123034135
+Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.10791996
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.10791996
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.10791996
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.10791996
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.10791996
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.10791996
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.10605685
+VIA UGONIO POMPEO, 3
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+-
+0.10605685
+VIA UGONIO POMPEO, 3
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.086836085
+Via Pompeo Ugonio N. 3
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.08236805
+
+             00162 
+             Roma  - Nomentano
+            
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.080560274
+Diritto del Lavoro in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a
+-
+0.080560274
+Diritto Civile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a
+-
+0.079213224
+Recensioni Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.07826607
+Servizi professionali Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a/span
+-
+0.07826607
+Infortunistica Stradale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a
+-
+0.0759576
+Descrizione Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.072327465
+Consulenza aziendale Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.07071326
+Galleria Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.06341951
+V. NOMENTANA. 35500162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]
+__________________
+ 
+      Studio Legale Sgalippa
+       Via Palombarese, 479
+       00013 - Fonte Nuova 
+     
+---
+-
+0.3748136
+Studio Legale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.13503663
+Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.11640315
+VIA UGONIO POMPEO, 3
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+-
+0.11640315
+VIA UGONIO POMPEO, 3
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.10753756
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.10753756
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.095307305
+Via Pompeo Ugonio N. 3
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.059294418
+Lo Studio Si Occupa di Diritto Civile, Recupero Crediti per Le Aziende, Locazioni, Infortunistica Stradale E Ricostruzioni Sinistri, Diritto del Lavoro E Previdenza. 
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/p[1]
+__________________
+ 
+      Studio Legale E Tributario Avvocato Baio
+       Via Della Tecnica, 58
+       00040 - Pomezia 
+     
+---
+-
+0.35252953
+Studio Legale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.12700821
+Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.10948255
+VIA UGONIO POMPEO, 3
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+-
+0.10948255
+VIA UGONIO POMPEO, 3
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.10114406
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.10114406
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.08964094
+Via Pompeo Ugonio N. 3
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.05576915
+Lo Studio Si Occupa di Diritto Civile, Recupero Crediti per Le Aziende, Locazioni, Infortunistica Stradale E Ricostruzioni Sinistri, Diritto del Lavoro E Previdenza. 
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/p[1]
+__________________
+Avvocati - Studi a Roma
+---
+-
+0.2576816
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.2576816
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.2576816
+Roma 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.2576816
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.2576816
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.2576816
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.2576816
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.11204493
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.11204493
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.11204493
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.11204493
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.11204493
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.11204493
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.08551636
+
+             00162 
+             Roma  - Nomentano
+            
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.08363949
+Diritto del Lavoro in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a
+-
+0.08363949
+Diritto Civile in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a
+-
+0.082240954
+Recensioni Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.08125758
+Servizi professionali Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a/span
+-
+0.08125758
+Infortunistica Stradale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a
+-
+0.07886088
+Descrizione Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.0779926
+Studio Legale in Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a
+-
+0.075091995
+Consulenza aziendale Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a/span
+-
+0.07341609
+Galleria Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.06584356
+V. NOMENTANA. 35500162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]
+-
+0.06277935
+Ricerche simili Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.06241958
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.06241958
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.062040977
+V. S. COSTANZA. 700198  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.062040977
+V. S. COSTANZA. 2700198  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.062040977
+V. S. COSTANZA. 3500198  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+__________________
+Avv. Dario Candeloro
+---
+-
+0.15494077
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.15494077
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/i[1]
+-
+0.15494077
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.15494077
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.13898753
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.13898753
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.13898753
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.13898753
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.13898753
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.13898753
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.10285763
+E-mail a Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.10285763
+
+          E-mail a Avv. Luca Ruberto✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.10195723
+Recensioni Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.09776146
+Descrizione Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.09507175
+ Più informazioni su Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[9]/a[1]
+-
+0.092062324
+Vittucci Antonio (Avv.)
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[1]/strong[1]/a/span
+-
+0.09100411
+Galleria Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.07780781
+Ricerche simili Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.07650478
+Valenzi Avv. Ti Luigi e Isabella
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a/span
+-
+0.074614994
+ 
+     Avv. Luca Ruberto è iscritta nelle categorie:
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]
+-
+0.07000208
+Aziende simili nelle vicinanze Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.068159066
+
+        Vittucci Antonio (Avv.)
+        
+         110 m
+        
+        Dati
+       
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[1]
+-
+0.06680812
+
+     Scrivi tu la prima recensione per Avv. Luca Ruberto!
+    
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.058453526
+
+        Valenzi Avv. Ti Luigi e Isabella
+        
+         30 m
+        
+        Dati
+       
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[1]
+__________________
+ 
+      Avv. Dario Candeloro
+       Via Conte Rosso, 5
+       00185 - Roma 
+     
+---
+-
+0.14988925
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.14988925
+VIA UGONIO POMPEO, 300162  Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.14484918
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.14484918
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.14484918
+Roma 
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.14484918
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.14484918
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.14484918
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.14484918
+Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.14224635
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.14224635
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.14224635
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.14224635
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.14224635
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.14224635
+Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.12379177
+VIA UGONIO POMPEO, 3
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+-
+0.12379177
+VIA UGONIO POMPEO, 3
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.10420802
+Recensioni Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.10135688
+Via Pompeo Ugonio N. 3
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.09990707
+Descrizione Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.092983626
+Galleria Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.087813355
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.087813355
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/i[1]
+-
+0.087813355
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.087813355
+Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.079473734
+Ricerche simili Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.07148852
+Aziende simili nelle vicinanze Avv. Luca Ruberto, Roma
+/html/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.058295004
+E-mail a Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.058295004
+
+          E-mail a Avv. Luca Ruberto✕
+         
+/html/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.053882327
+ Più informazioni su Avv. Luca Ruberto
+/html/body[1]/div[5]/div[2]/div[1]/div[5]/div[9]/a[1]
+__________________

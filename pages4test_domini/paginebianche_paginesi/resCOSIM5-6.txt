@@ -1,0 +1,384 @@
+65019
+---
+-
+1.0
+65019
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]/span[2]
+-
+0.39104998
+Ctr. Astignano, 115 - 65019 Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]
+__________________
+65019
+---
+-
+1.0
+65019
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]/span[2]
+-
+0.39104998
+Ctr. Astignano, 115 - 65019 Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]
+__________________
+65019
+---
+-
+1.0
+65019
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]/span[2]
+-
+0.39104998
+Ctr. Astignano, 115 - 65019 Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]
+__________________
+65019
+---
+-
+1.0
+65019
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]/span[2]
+-
+0.39104998
+Ctr. Astignano, 115 - 65019 Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]
+__________________
+Pianella
+---
+-
+0.7071068
+Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]/span[3]/strong
+-
+0.38061485
+ ORO DI PIANELLA DI MICHELE ANTONUCCI
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]
+-
+0.35867757
+Ctr. Astignano, 115 - 65019 Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]
+__________________
+Pianella
+---
+-
+0.7071068
+Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]/span[3]/strong
+-
+0.38061485
+ ORO DI PIANELLA DI MICHELE ANTONUCCI
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]
+-
+0.35867757
+Ctr. Astignano, 115 - 65019 Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]
+__________________
+ANTONUCCI MICHELE
+---
+-
+0.6919766
+ ORO DI PIANELLA DI MICHELE ANTONUCCI
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]
+__________________
+085
+---
+-
+0.6504884
+085 97.72.763
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[2]/span[1]/a
+__________________
+Contrada Astignano 115 - 65019 Pianella (PE)
+---
+-
+0.5891997
+Ctr. Astignano, 115 - 65019 Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]
+-
+0.4146815
+Ctr. Astignano, 115
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]/span[1]
+-
+0.37259206
+65019
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]/span[2]
+-
+0.24314259
+Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]/span[3]/strong
+-
+0.13087653
+ ORO DI PIANELLA DI MICHELE ANTONUCCI
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]
+__________________
+AGENZIA FUNEBRE MATTEO AIELLI
+---
+-
+0.5851195
+Agenzie funebri
+/html/body[1]/div[3]/div[2]/ul[1]/li[4]/a
+-
+0.23483077
+Agenzia viaggi
+/html/body[1]/div[3]/div[2]/ul[1]/li[3]/a
+-
+0.23483077
+Agenzie immobiliari
+/html/body[1]/div[3]/div[2]/ul[1]/li[5]/a
+-
+0.17400438
+  
+  
+   Scegli una categoria
+   Abbigliamento
+   Agenzia viaggi
+   Agenzie funebri
+   Agenzie immobiliari
+   Alberghi
+   Antincendio
+   Arredamenti
+   Arredamento per negozi
+   Arredamento ufficio
+   Automobili
+   Avvocati
+   Ceramiche
+   Costruzioni meccaniche
+   Dentisti
+   Elettrodomestici
+   Estetiste
+   Giardinaggio
+   Gru
+   Impianti di condizionamento
+   Impianti di riscaldamento
+   Impianti elettrici
+   Imprese edili
+   Ottica ed occhiali
+   Palestre
+   Piscine
+   Ricevimenti
+   Ristoranti
+   Scuole di lingua
+   Serramenti
+   Traslochi
+    Close Menu 
+ 
+/html/body[1]/div[3]/div[2]
+__________________
+Contrada Astignano 115
+---
+-
+0.58050287
+Ctr. Astignano, 115
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]/span[1]
+-
+0.4152731
+Ctr. Astignano, 115 - 65019 Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]
+__________________
+Pianella (PE)
+---
+-
+0.41046968
+Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]/span[3]/strong
+-
+0.2209438
+ ORO DI PIANELLA DI MICHELE ANTONUCCI
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]
+-
+0.20820937
+Ctr. Astignano, 115 - 65019 Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]
+__________________
+Pianella (PE)
+---
+-
+0.41046968
+Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]/span[3]/strong
+-
+0.2209438
+ ORO DI PIANELLA DI MICHELE ANTONUCCI
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]
+-
+0.20820937
+Ctr. Astignano, 115 - 65019 Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]
+__________________
+
+           Comune di 
+           Pianella
+          
+---
+-
+0.41046968
+Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]/span[3]/strong
+-
+0.2209438
+ ORO DI PIANELLA DI MICHELE ANTONUCCI
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]
+-
+0.20820937
+Ctr. Astignano, 115 - 65019 Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]
+__________________
+Pianella (PE)
+---
+-
+0.41046968
+Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]/span[3]/strong
+-
+0.2209438
+ ORO DI PIANELLA DI MICHELE ANTONUCCI
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]
+-
+0.20820937
+Ctr. Astignano, 115 - 65019 Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]
+__________________
+D'AMICO MARIO CARROZZERIE AUTOMOBILI
+---
+-
+0.40731806
+Automobili
+/html/body[1]/div[3]/div[2]/ul[1]/li[11]/a
+-
+0.049119595
+  
+  
+   Scegli una categoria
+   Abbigliamento
+   Agenzia viaggi
+   Agenzie funebri
+   Agenzie immobiliari
+   Alberghi
+   Antincendio
+   Arredamenti
+   Arredamento per negozi
+   Arredamento ufficio
+   Automobili
+   Avvocati
+   Ceramiche
+   Costruzioni meccaniche
+   Dentisti
+   Elettrodomestici
+   Estetiste
+   Giardinaggio
+   Gru
+   Impianti di condizionamento
+   Impianti di riscaldamento
+   Impianti elettrici
+   Imprese edili
+   Ottica ed occhiali
+   Palestre
+   Piscine
+   Ricevimenti
+   Ristoranti
+   Scuole di lingua
+   Serramenti
+   Traslochi
+    Close Menu 
+ 
+/html/body[1]/div[3]/div[2]
+__________________
+AETERNA ONORANZE FUNEBRI
+---
+-
+0.3522811
+Agenzie funebri
+/html/body[1]/div[3]/div[2]/ul[1]/li[4]/a
+-
+0.05780899
+  
+  
+   Scegli una categoria
+   Abbigliamento
+   Agenzia viaggi
+   Agenzie funebri
+   Agenzie immobiliari
+   Alberghi
+   Antincendio
+   Arredamenti
+   Arredamento per negozi
+   Arredamento ufficio
+   Automobili
+   Avvocati
+   Ceramiche
+   Costruzioni meccaniche
+   Dentisti
+   Elettrodomestici
+   Estetiste
+   Giardinaggio
+   Gru
+   Impianti di condizionamento
+   Impianti di riscaldamento
+   Impianti elettrici
+   Imprese edili
+   Ottica ed occhiali
+   Palestre
+   Piscine
+   Ricevimenti
+   Ristoranti
+   Scuole di lingua
+   Serramenti
+   Traslochi
+    Close Menu 
+ 
+/html/body[1]/div[3]/div[2]
+__________________
+Via Salomone 94 - 65019 Pianella (PE)
+---
+-
+0.34189388
+65019
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]/span[2]
+-
+0.25042328
+Ctr. Astignano, 115 - 65019 Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]
+-
+0.22310987
+Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]/span[3]/strong
+-
+0.120093495
+ ORO DI PIANELLA DI MICHELE ANTONUCCI
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]
+__________________
+
+           Altre aziende a 
+           Pianella
+          
+---
+-
+0.31829593
+Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]/span[3]/strong
+-
+0.17132938
+ ORO DI PIANELLA DI MICHELE ANTONUCCI
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]
+-
+0.16145456
+Ctr. Astignano, 115 - 65019 Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]
+__________________
+Sp 408 - Km 14,7 - 65019 Pianella (PE)
+---
+-
+0.31264108
+65019
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]/span[2]
+-
+0.2289968
+Ctr. Astignano, 115 - 65019 Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]
+-
+0.20402035
+Pianella (Pescara)
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/ul[1]/li[1]/span[1]/span[3]/strong
+-
+0.109818175
+ ORO DI PIANELLA DI MICHELE ANTONUCCI
+/html/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/h1[1]
+__________________

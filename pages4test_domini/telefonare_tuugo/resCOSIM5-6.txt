@@ -1,0 +1,2822 @@
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[5]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[3]
+-
+0.79280126
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.685188
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.6599936
+Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[20]
+-
+0.6045367
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.55248487
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.5452189
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5452189
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5293167
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.44773152
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[17]
+-
+0.37730005
+Legno & Carta Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.362119
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.35943225
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.35943225
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.33592826
+Forniture Industriali & Servizi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[5]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[3]
+-
+0.79280126
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.685188
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.6599936
+Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[20]
+-
+0.6045367
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.55248487
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.5452189
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5452189
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5293167
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.44773152
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[17]
+-
+0.37730005
+Legno & Carta Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.362119
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.35943225
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.35943225
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.33592826
+Forniture Industriali & Servizi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+__________________
+ Corso Lodi, 83
+---
+-
+1.0
+
+           corso Lodi 83
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+1.0
+corso Lodi 83
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+1.0
+corso Lodi 83
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.72168726
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[5]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[3]
+-
+0.79280126
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.685188
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.6599936
+Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[20]
+-
+0.6045367
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.55248487
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.5452189
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5452189
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5293167
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.44773152
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[17]
+-
+0.37730005
+Legno & Carta Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.362119
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.35943225
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.35943225
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.33592826
+Forniture Industriali & Servizi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[5]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[3]
+-
+0.79280126
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.685188
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.6599936
+Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[20]
+-
+0.6045367
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.55248487
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.5452189
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5452189
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5293167
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.44773152
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[17]
+-
+0.37730005
+Legno & Carta Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.362119
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.35943225
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.35943225
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.33592826
+Forniture Industriali & Servizi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[5]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[3]
+-
+0.79280126
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.685188
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.6599936
+Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[20]
+-
+0.6045367
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.55248487
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.5452189
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5452189
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5293167
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.44773152
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[17]
+-
+0.37730005
+Legno & Carta Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.362119
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.35943225
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.35943225
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.33592826
+Forniture Industriali & Servizi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[5]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[3]
+-
+0.79280126
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.685188
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.6599936
+Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[20]
+-
+0.6045367
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.55248487
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.5452189
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5452189
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5293167
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.44773152
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[17]
+-
+0.37730005
+Legno & Carta Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.362119
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.35943225
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.35943225
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.33592826
+Forniture Industriali & Servizi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[5]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[3]
+-
+0.79280126
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.685188
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.6599936
+Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[20]
+-
+0.6045367
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.55248487
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.5452189
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5452189
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5293167
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.44773152
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[17]
+-
+0.37730005
+Legno & Carta Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.362119
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.35943225
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.35943225
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.33592826
+Forniture Industriali & Servizi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[5]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[3]
+-
+0.79280126
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.685188
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.6599936
+Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[20]
+-
+0.6045367
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.55248487
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.5452189
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5452189
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5293167
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.44773152
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[17]
+-
+0.37730005
+Legno & Carta Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.362119
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.35943225
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.35943225
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.33592826
+Forniture Industriali & Servizi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+__________________
+Milano
+---
+-
+1.0
+Milano Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[5]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[3]
+-
+0.79280126
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.685188
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.6599936
+Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[20]
+-
+0.6045367
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.55248487
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.5452189
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5452189
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5293167
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.44773152
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[17]
+-
+0.37730005
+Legno & Carta Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.362119
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.35943225
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.35943225
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.33592826
+Forniture Industriali & Servizi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+__________________
+ Milano
+---
+-
+1.0
+Milano Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[5]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[3]
+-
+0.79280126
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.685188
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.6599936
+Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[20]
+-
+0.6045367
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.55248487
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.5452189
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5452189
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5293167
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.44773152
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[17]
+-
+0.37730005
+Legno & Carta Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.362119
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.35943225
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.35943225
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.33592826
+Forniture Industriali & Servizi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+__________________
+ Milano
+---
+-
+1.0
+Milano Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[5]
+-
+1.0
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[3]
+-
+0.79280126
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.685188
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.6599936
+Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[20]
+-
+0.6045367
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.55248487
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.5452189
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5452189
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.5293167
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.44773152
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[17]
+-
+0.37730005
+Legno & Carta Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.362119
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.35943225
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.35943225
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.33592826
+Forniture Industriali & Servizi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+__________________
+ Lombardia
+---
+-
+0.8210421
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.8210421
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.583833
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.4060054
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.38891655
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+__________________
+
+        
+         c. Lodi, 83
+       
+---
+-
+0.8011911
+
+           corso Lodi 83
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.8011911
+corso Lodi 83
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.8011911
+corso Lodi 83
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.583424
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+__________________
+cartone massimo a Milano
+---
+-
+0.7694658
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.67990744
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.67990744
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.66873854
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.57541436
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.55487496
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[3]
+-
+0.55487496
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.55487496
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.55487496
+Cartone
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.53309613
+Milano Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+0.53309613
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+0.53309613
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+0.53309613
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[5]
+-
+0.53309613
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[3]
+-
+0.5221922
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+0.5221922
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[4]
+-
+0.5221922
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.5221922
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.5221922
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.42263925
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.39971775
+Valutazioni di Studio Tecnico Geometra Massimo Cartone:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.35184002
+Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[20]
+-
+0.33613834
+Contenuti correlati per: Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.29065406
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.29065406
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.2821767
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.23868392
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[17]
+-
+0.20113719
+Legno & Carta Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.19304423
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.17908205
+Forniture Industriali & Servizi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+__________________
+ 025395366
+---
+-
+0.6758339
+39 025395366
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/ul[1]/li[2]/a/strong[1]
+-
+0.6758339
+39 025395366
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[4]
+__________________
+cartone massimo
+---
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[3]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[4]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.5737269
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.5737269
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.47244906
+Valutazioni di Studio Tecnico Geometra Massimo Cartone:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.46844128
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.43787718
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.39730096
+Contenuti correlati per: Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.29604834
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.13806501
+Doremifa-sol: I CARTONI ANIMATI DELLA NOSTRA INFANZIA E DANNI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+cartone massimo
+---
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[3]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[4]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.5737269
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.5737269
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.47244906
+Valutazioni di Studio Tecnico Geometra Massimo Cartone:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.46844128
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.43787718
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.39730096
+Contenuti correlati per: Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.29604834
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.13806501
+Doremifa-sol: I CARTONI ANIMATI DELLA NOSTRA INFANZIA E DANNI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+cartone massimo
+---
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[3]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[4]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.5737269
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.5737269
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.47244906
+Valutazioni di Studio Tecnico Geometra Massimo Cartone:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.46844128
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.43787718
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.39730096
+Contenuti correlati per: Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.29604834
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.13806501
+Doremifa-sol: I CARTONI ANIMATI DELLA NOSTRA INFANZIA E DANNI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+cartone massimo
+---
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[3]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[4]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.5737269
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.5737269
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.47244906
+Valutazioni di Studio Tecnico Geometra Massimo Cartone:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.46844128
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.43787718
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.39730096
+Contenuti correlati per: Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.29604834
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.13806501
+Doremifa-sol: I CARTONI ANIMATI DELLA NOSTRA INFANZIA E DANNI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+cartone massimo
+---
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[3]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[4]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.5737269
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.5737269
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.47244906
+Valutazioni di Studio Tecnico Geometra Massimo Cartone:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.46844128
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.43787718
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.39730096
+Contenuti correlati per: Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.29604834
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.13806501
+Doremifa-sol: I CARTONI ANIMATI DELLA NOSTRA INFANZIA E DANNI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+cartone massimo
+---
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[3]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[4]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.5737269
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.5737269
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.47244906
+Valutazioni di Studio Tecnico Geometra Massimo Cartone:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.46844128
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.43787718
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.39730096
+Contenuti correlati per: Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.29604834
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.13806501
+Doremifa-sol: I CARTONI ANIMATI DELLA NOSTRA INFANZIA E DANNI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+cartone massimo
+---
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[3]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[4]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.5737269
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.5737269
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.47244906
+Valutazioni di Studio Tecnico Geometra Massimo Cartone:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.46844128
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.43787718
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.39730096
+Contenuti correlati per: Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.29604834
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.13806501
+Doremifa-sol: I CARTONI ANIMATI DELLA NOSTRA INFANZIA E DANNI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+cartone massimo
+---
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[3]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.6558382
+Cartone
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[4]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.61720854
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.5737269
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.5737269
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.47244906
+Valutazioni di Studio Tecnico Geometra Massimo Cartone:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.46844128
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.43787718
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.39730096
+Contenuti correlati per: Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.29604834
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.13806501
+Doremifa-sol: I CARTONI ANIMATI DELLA NOSTRA INFANZIA E DANNI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+Trova cartone massimo sulla mappa, in Corso Lodi, 83 a Milano:
+---
+-
+0.62260437
+
+           corso Lodi 83
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.62260437
+corso Lodi 83
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.62260437
+corso Lodi 83
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.57946736
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.33745044
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.29817447
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.29817447
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.29327628
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.25234884
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.24334128
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[3]
+-
+0.24334128
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.24334128
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.24334128
+Cartone
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.23379013
+Milano Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+0.23379013
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+0.23379013
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+0.23379013
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[5]
+-
+0.23379013
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[3]
+-
+0.22900818
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+0.22900818
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[4]
+-
+0.22900818
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.22900818
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.22900818
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.18534909
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.17529684
+Valutazioni di Studio Tecnico Geometra Massimo Cartone:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.15429997
+Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[20]
+-
+0.15136607
+ Trova il tuo lavoro tra le migliaia di offerte proposte da Adecco.it!  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[17]/td[2]/p[1]
+-
+0.147414
+Contenuti correlati per: Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.1274668
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.1274668
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+__________________
+
+        
+         Corso Lodi, 78
+       
+---
+-
+0.5681986
+
+           corso Lodi 83
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.5681986
+corso Lodi 83
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.5681986
+corso Lodi 83
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.4137599
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+__________________
+
+        
+         Corso Lodi, 74
+       
+---
+-
+0.5681986
+
+           corso Lodi 83
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.5681986
+corso Lodi 83
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.5681986
+corso Lodi 83
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.4137599
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+__________________
+
+        
+         Corso Lodi, 84
+       
+---
+-
+0.5681986
+
+           corso Lodi 83
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.5681986
+corso Lodi 83
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.5681986
+corso Lodi 83
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.4137599
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+__________________
+Aziende Lombardia > 
+---
+-
+0.5667465
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5667465
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.42413846
+Elenco Aziende Italiane
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.42228884
+Aziende, Imprese, Aziende online, Negozi, Ditte, Elenco ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/span[1]
+-
+0.40300646
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.36014405
+ Impresa Veloce - Elenco aziende italiane online: tutte le aziende disponibili con un click.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+-
+0.28025618
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.26846012
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.12192359
+ Architetti e Ingegneri, consulenze e perizie in Abruzzo: Elenco Aziende Italiane ha trovato 1879 risultati per la categoria Architetti e Ingegneri, consulenze e ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+__________________
+Aziende Lombardia
+---
+-
+0.5667465
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.5667465
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.42413846
+Elenco Aziende Italiane
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.42228884
+Aziende, Imprese, Aziende online, Negozi, Ditte, Elenco ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/span[1]
+-
+0.40300646
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.36014405
+ Impresa Veloce - Elenco aziende italiane online: tutte le aziende disponibili con un click.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+-
+0.28025618
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.26846012
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.12192359
+ Architetti e Ingegneri, consulenze e perizie in Abruzzo: Elenco Aziende Italiane ha trovato 1879 risultati per la categoria Architetti e Ingegneri, consulenze e ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+__________________
+Lodi
+---
+-
+0.55629164
+
+           corso Lodi 83
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.55629164
+corso Lodi 83
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.55629164
+corso Lodi 83
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.4085398
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+__________________
+Aziende Milano > 
+---
+-
+0.5452189
+Milano Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+0.5452189
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+0.5452189
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+0.5452189
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[5]
+-
+0.5452189
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[3]
+-
+0.4914034
+Elenco Aziende Italiane
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.48926044
+Aziende, Imprese, Aziende online, Negozi, Ditte, Elenco ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/span[1]
+-
+0.4322502
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.41726
+ Impresa Veloce - Elenco aziende italiane online: tutte le aziende disponibili con un click.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+-
+0.37357745
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.35984096
+Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[20]
+-
+0.3296048
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.3012252
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.29726362
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.29726362
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.28859347
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.24411169
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[17]
+-
+0.20571111
+Legno & Carta Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.19743411
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.19596924
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.19596924
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.18315443
+Forniture Industriali & Servizi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+-
+0.1412597
+ Architetti e Ingegneri, consulenze e perizie in Abruzzo: Elenco Aziende Italiane ha trovato 1879 risultati per la categoria Architetti e Ingegneri, consulenze e ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+__________________
+Aziende Milano
+---
+-
+0.5452189
+Milano Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[15]
+-
+0.5452189
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+0.5452189
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[3]
+-
+0.5452189
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[5]
+-
+0.5452189
+Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[3]
+-
+0.4914034
+Elenco Aziende Italiane
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.48926044
+Aziende, Imprese, Aziende online, Negozi, Ditte, Elenco ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/span[1]
+-
+0.4322502
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.41726
+ Impresa Veloce - Elenco aziende italiane online: tutte le aziende disponibili con un click.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+-
+0.37357745
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.35984096
+Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[20]
+-
+0.3296048
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.3012252
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.29726362
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.29726362
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.28859347
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+-
+0.24411169
+servizi ingegneristici Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[17]
+-
+0.20571111
+Legno & Carta Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.19743411
+Servizi Ingegneristici E Gestionali Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[16]
+-
+0.19596924
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.19596924
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.18315443
+Forniture Industriali & Servizi Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+-
+0.1412597
+ Architetti e Ingegneri, consulenze e perizie in Abruzzo: Elenco Aziende Italiane ha trovato 1879 risultati per la categoria Architetti e Ingegneri, consulenze e ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+__________________
+Mappa cartone massimo
+---
+-
+0.38813907
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[3]
+-
+0.38813907
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.38813907
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.38813907
+Cartone
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.3652772
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+0.3652772
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[4]
+-
+0.3652772
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.3652772
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.3652772
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.33954385
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.33954385
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.27960545
+Valutazioni di Studio Tecnico Geometra Massimo Cartone:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.27723354
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.2591451
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.2351312
+Contenuti correlati per: Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.17520773
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.08170982
+Doremifa-sol: I CARTONI ANIMATI DELLA NOSTRA INFANZIA E DANNI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+
+        
+         c. Lodi, 90
+       
+---
+-
+0.3224401
+
+           corso Lodi 83
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.3224401
+corso Lodi 83
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.3224401
+corso Lodi 83
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.23679955
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+__________________
+
+        
+         C. Lodi, 72
+       
+---
+-
+0.3224401
+
+           corso Lodi 83
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.3224401
+corso Lodi 83
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.3224401
+corso Lodi 83
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.23679955
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+__________________
+
+        
+         c. Lodi, 74
+       
+---
+-
+0.3224401
+
+           corso Lodi 83
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.3224401
+corso Lodi 83
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.3224401
+corso Lodi 83
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.23679955
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+__________________
+
+        
+         c. Lodi, 76
+       
+---
+-
+0.3224401
+
+           corso Lodi 83
+          
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.3224401
+corso Lodi 83
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.3224401
+corso Lodi 83
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.23679955
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+__________________
+Scrivi la tua recensione su cartone massimo:
+---
+-
+0.30218896
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[3]
+-
+0.30218896
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.30218896
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.30218896
+Cartone
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.2843897
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+0.2843897
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[4]
+-
+0.2843897
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.2843897
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.2843897
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.26435477
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.26435477
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.21768922
+Valutazioni di Studio Tecnico Geometra Massimo Cartone:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.21584255
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.20175962
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.1830634
+Contenuti correlati per: Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.13640948
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.06361588
+Doremifa-sol: I CARTONI ANIMATI DELLA NOSTRA INFANZIA E DANNI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+Vuoi telefonare a cartone massimo?
+---
+-
+0.30218896
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[3]
+-
+0.30218896
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.30218896
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.30218896
+Cartone
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.2843897
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+0.2843897
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[4]
+-
+0.2843897
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.2843897
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.2843897
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.26435477
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.26435477
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.21768922
+Valutazioni di Studio Tecnico Geometra Massimo Cartone:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.21584255
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.20175962
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.1830634
+Contenuti correlati per: Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.13640948
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.06361588
+Doremifa-sol: I CARTONI ANIMATI DELLA NOSTRA INFANZIA E DANNI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+Capoluoghi di provincia della regione Lombardia
+---
+-
+0.29950586
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[4]
+-
+0.29950586
+Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.21297494
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.14810567
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.14187187
+corso Lodi 83, Milano, Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[4]/span[1]
+__________________
+
+   Comune
+  
+---
+-
+0.25161844
+ Etruriain.tv la web TV del comprensorio ... Comune di Cerveteri ha indetto un bando pubblico per l’assunzione di un Geometra rientrante nelle Categorie Protette  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+__________________
+cartone massimo non risponde se chiami il numero di telefono 025395366?
+---
+-
+0.23833896
+39 025395366
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/ul[1]/li[2]/a/strong[1]
+-
+0.23833896
+39 025395366
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[4]
+-
+0.21149145
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[3]
+-
+0.21149145
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.21149145
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.21149145
+Cartone
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.19903435
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+0.19903435
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[4]
+-
+0.19903435
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.19903435
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.19903435
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.18501261
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.18501261
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.15235303
+Valutazioni di Studio Tecnico Geometra Massimo Cartone:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.15106063
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.14120448
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.12811965
+Contenuti correlati per: Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.0954682
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.04452252
+Doremifa-sol: I CARTONI ANIMATI DELLA NOSTRA INFANZIA E DANNI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+Telefonare.it mette a tua disposizione i contatti di cartone massimo
+---
+-
+0.22601232
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[3]
+-
+0.22601232
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.22601232
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.22601232
+Cartone
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.21269992
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+0.21269992
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[4]
+-
+0.21269992
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.21269992
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.21269992
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.19771546
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.19771546
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.1628135
+Valutazioni di Studio Tecnico Geometra Massimo Cartone:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.16143236
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.15089948
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.13691626
+Contenuti correlati per: Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.10202299
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.047579408
+Doremifa-sol: I CARTONI ANIMATI DELLA NOSTRA INFANZIA E DANNI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+Puoi provare a contattare le aziende più vicine a cartone massimo per verificare il numero di telefono e gli orari di apertura al pubblico:
+---
+-
+0.1497071
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[3]
+-
+0.1497071
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.1497071
+Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[9]
+-
+0.1497071
+Cartone
+/html/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a/span
+-
+0.14088915
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+0.14088915
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[4]
+-
+0.14088915
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.14088915
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.14088915
+Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[1]/div[2]/div[3]/h3[1]/a
+-
+0.13096368
+ STUDIO TECNICO GEOMETRA MASSIMO CARTONE | Milano 
+/html/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.13096368
+Studio Tecnico Geometra Massimo Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.12963432
+Elenco Aziende Italiane
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.129069
+Aziende, Imprese, Aziende online, Negozi, Ditte, Elenco ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/span[1]
+-
+0.110074975
+ Impresa Veloce - Elenco aziende italiane online: tutte le aziende disponibili con un click.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
+-
+0.10784516
+Valutazioni di Studio Tecnico Geometra Massimo Cartone:
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong
+-
+0.10693031
+Cartone Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.099953495
+Studio Tecnico Geometra Massimo Cartone - Milano - Milano, Lombardia
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.090691224
+Contenuti correlati per: Studio Tecnico Geometra Massimo Cartone
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.06850249
+ Etruriain.tv la web TV del comprensorio ... Comune di Cerveteri ha indetto un bando pubblico per l’assunzione di un Geometra rientrante nelle Categorie Protette  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[23]/td[2]/p[1]
+-
+0.06757846
+ Forniture Industriali & Servizi, Legno & Carta, Cartone, Studio Tecnico Geometra Massimo Cartone, Milano, Servizi Ingegneristici E Gestionali, servizi ingegneristici, Ingegneria, Cartone, Geometra, Forniture Industriali & Servizi Milano, Legno & Carta Milano, Cartone Milano, Studio Tecnico Geometra Massimo Cartone Milano, Milano Milano, Servizi Ingegneristici E Gestionali Milano, servizi ingegneristici Milano, Ingegneria Milano, Cartone Milano, Geometra Milano
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.063575454
+ Gloo è il portale italiano dove puoi trovare siti sugli argomenti che ti interessano e controllare la tua posta elettronica. Gloo è il delfino giallo e come tutti i ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/p[1]
+-
+0.056824483
+ (fire safety exits) Per uscita (di sicurezza) il decreto 30/11/1983 intende: Apertura atta a consentire il deflusso di persone verso un luogo sicuro avent...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/p[1]
+-
+0.037264913
+ Architetti e Ingegneri, consulenze e perizie in Abruzzo: Elenco Aziende Italiane ha trovato 1879 risultati per la categoria Architetti e Ingegneri, consulenze e ...  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+-
+0.031515867
+Doremifa-sol: I CARTONI ANIMATI DELLA NOSTRA INFANZIA E DANNI ...
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[35]/td[2]/span[1]
+__________________
+ital srl
+---
+-
+0.1394923
+ Virgilio Notizie: ultime notizie, foto, audio e video dall'Italia e dal mondo. Le notizie delle migliori agenzie giornalistiche in tempo reale.  
+/html/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[29]/td[2]/p[1]
+__________________

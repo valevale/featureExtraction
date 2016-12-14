@@ -1,0 +1,72 @@
+Valutiamo l'entry: /html/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/h1[1]
+GT: [/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/h1[1]/span[1], /html/body[1]/div[3]/div[1]/div[1]/h4[1]/strong[1], /html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/span[6]]
+ size: 3
+R: [/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/h1[1]/span[1], /html/body[1]/div[5]/div[1]/h3[1], /html/body[1]/div[3]/div[1]/div[1]/h4[1]/strong[1], /html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/span[6], /html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[4]/div[1]/div[1]/div[1]/p[1]]
+ size: 5
+True positives: [/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/h1[1]/span[1], /html/body[1]/div[3]/div[1]/div[1]/h4[1]/strong[1], /html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/span[6]]
+ size: 3
+Precision: tp (3) / R (5) = 0.6
+Recall: tp (3) / GT (3) = 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[3]/div[1]/div[2]/p[1]/span[1]
+GT: [/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[2]/div[1]/p[2]/span[1], /html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[2]/div[1]/p[2]]
+ size: 2
+R: [/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[2]/div[1]/p[2]/span[1], /html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[2]/div[1]/p[2]]
+ size: 2
+True positives: [/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[2]/div[1]/p[2]/span[1], /html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[2]/div[1]/p[2]]
+ size: 2
+Precision: tp (2) / R (2) = 1.0
+Recall: tp (2) / GT (2) = 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[2]/div[1]/div[1]/div[2]/ul[1]/li[4]/span
+GT: [/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[6]/div[1]/div[4]/div[1]/div[1]/h2[1]/a]
+ size: 1
+R: [/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[6]/div[1]/div[4]/div[1]/div[1]/h2[1]/a]
+ size: 1
+True positives: [/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[6]/div[1]/div[4]/div[1]/div[1]/h2[1]/a]
+ size: 1
+Precision: tp (1) / R (1) = 1.0
+Recall: tp (1) / GT (1) = 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[3]/div[1]/div[1]/p[1]/span[3]
+GT: [/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1], /html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[1]]
+ size: 2
+R: [/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1], /html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[1]]
+ size: 2
+True positives: [/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1], /html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[2]/div[1]/a[1]]
+ size: 2
+Precision: tp (2) / R (2) = 1.0
+Recall: tp (2) / GT (2) = 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[3]/div[1]/div[2]/p[1]
+GT: [/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[2]/div[1]/p[2]/span[1], /html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[2]/div[1]/p[2]]
+ size: 2
+R: [/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[2]/div[1]/p[2]/span[1], /html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[2]/div[1]/p[2]]
+ size: 2
+True positives: [/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[2]/div[1]/p[2]/span[1], /html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[2]/div[1]/p[2]]
+ size: 2
+Precision: tp (2) / R (2) = 1.0
+Recall: tp (2) / GT (2) = 1.0
+_______________
+Valutiamo l'entry: /html/body[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[3]/div[3]/div[1]/div[1]/p[1]/span[1]
+GT: [/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[2]/div[1]/p[1]/span[1], /html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[2]/div[1]/p[1]]
+ size: 2
+R: [/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[2]/div[1]/p[1]/span[1], /html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[2]/div[1]/p[1]]
+ size: 2
+True positives: [/html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[2]/div[1]/p[1]/span[1], /html/body[1]/div[1]/div[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[2]/div[1]/p[1]]
+ size: 2
+Precision: tp (2) / R (2) = 1.0
+Recall: tp (2) / GT (2) = 1.0
+_______________
+_______________
+_______________
+_______________
+_______________
+_______________
+_______________
+Calculation of averages
+avg precision: 0.93333334
+avg recall: 1.0
+Calculation of Precision and Recall based on matching
+Matchings precision: tp (12) / R (14) = 0.85714287
+Matching recall: tp (12) / GT (12) = 1.0
