@@ -1,0 +1,1012 @@
+Mini Market Di Giuliana Antonio
+---
+-
+1.0
+MINI MARKET DI GIULIANA ANTONIO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+__________________
+Sicilia
+---
+-
+1.0
+Sicilia
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[1]/span[2]
+__________________
+Via Giacomo Matteotti, 80
+---
+-
+1.0
+Via Giacomo Matteotti 80
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.84475183
+Via Giacomo Matteotti 80 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+__________________
+
+        Butera
+       
+---
+-
+1.0
+Butera
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+1.0
+Butera
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.6294675
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.6294675
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.6294675
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.43317077
+
+           Comune di 
+           Butera
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.34309328
+
+           Altre aziende a 
+           Butera
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.28213164
+Piazza Dante 27 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.26737276
+BUTERA - POSTE ITALIANE S.P.A.
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]
+-
+0.24462552
+Via Giacomo Matteotti 80 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.21290827
+Ctr. Judeca Sp 27 Mazzarino Riesi - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+__________________
+Butera
+---
+-
+1.0
+Butera
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+1.0
+Butera
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.6294675
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.6294675
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.6294675
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.43317077
+
+           Comune di 
+           Butera
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.34309328
+
+           Altre aziende a 
+           Butera
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.28213164
+Piazza Dante 27 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.26737276
+BUTERA - POSTE ITALIANE S.P.A.
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]
+-
+0.24462552
+Via Giacomo Matteotti 80 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.21290827
+Ctr. Judeca Sp 27 Mazzarino Riesi - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+__________________
+Butera
+---
+-
+1.0
+Butera
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+1.0
+Butera
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.6294675
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.6294675
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.6294675
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.43317077
+
+           Comune di 
+           Butera
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.34309328
+
+           Altre aziende a 
+           Butera
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.28213164
+Piazza Dante 27 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.26737276
+BUTERA - POSTE ITALIANE S.P.A.
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]
+-
+0.24462552
+Via Giacomo Matteotti 80 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.21290827
+Ctr. Judeca Sp 27 Mazzarino Riesi - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+__________________
+93011
+---
+-
+1.0
+93011
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/span[2]
+-
+1.0
+93011
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[2]
+-
+1.0
+93011
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+-
+1.0
+93011
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[2]
+-
+0.3327177
+Piazza Dante 27 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.28830677
+Via Giacomo Matteotti 80 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.25081113
+Ctr. Judeca Sp 27 Mazzarino Riesi - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+__________________
+Butera
+---
+-
+1.0
+Butera
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+1.0
+Butera
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.6294675
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.6294675
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.6294675
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.43317077
+
+           Comune di 
+           Butera
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.34309328
+
+           Altre aziende a 
+           Butera
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.28213164
+Piazza Dante 27 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.26737276
+BUTERA - POSTE ITALIANE S.P.A.
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]
+-
+0.24462552
+Via Giacomo Matteotti 80 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.21290827
+Ctr. Judeca Sp 27 Mazzarino Riesi - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+__________________
+
+          Butera (CL)
+         
+---
+-
+1.0
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+1.0
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+1.0
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.76190495
+CL
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/span[2]
+-
+0.64768887
+Butera
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.64768887
+Butera
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.43804514
+Piazza Dante 27 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.37928206
+Via Giacomo Matteotti 80 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.32976806
+Ctr. Judeca Sp 27 Mazzarino Riesi - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.28055987
+
+           Comune di 
+           Butera
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.22221768
+
+           Altre aziende a 
+           Butera
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.17317434
+BUTERA - POSTE ITALIANE S.P.A.
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]
+__________________
+93011
+---
+-
+1.0
+93011
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/span[2]
+-
+1.0
+93011
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[2]
+-
+1.0
+93011
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+-
+1.0
+93011
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[2]
+-
+0.3327177
+Piazza Dante 27 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.28830677
+Via Giacomo Matteotti 80 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.25081113
+Ctr. Judeca Sp 27 Mazzarino Riesi - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+__________________
+Mini Market Di Giuliana Antonio
+---
+-
+1.0
+MINI MARKET DI GIULIANA ANTONIO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+__________________
+Mini Market Di Giuliana Antonio - Butera
+---
+-
+0.96271014
+MINI MARKET DI GIULIANA ANTONIO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+-
+0.27053532
+Butera
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.27053532
+Butera
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.17029318
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.17029318
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.17029318
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.11718799
+
+           Comune di 
+           Butera
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.09281885
+
+           Altre aziende a 
+           Butera
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.07632657
+Piazza Dante 27 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.07233377
+BUTERA - POSTE ITALIANE S.P.A.
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]
+-
+0.06617984
+Via Giacomo Matteotti 80 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.0575992
+Ctr. Judeca Sp 27 Mazzarino Riesi - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+__________________
+Scrivi la tua recensione di Mini Market Di Giuliana Antonio
+---
+-
+0.77064943
+MINI MARKET DI GIULIANA ANTONIO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+__________________
+Risultati di ricerca per Mini Market Di Giuliana Antonio
+---
+-
+0.77064943
+MINI MARKET DI GIULIANA ANTONIO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+__________________
+0934 347885
+---
+-
+0.7548741
+tel: 0934 347885
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[2]/span[1]
+-
+0.66932976
+0934
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[4]/span[2]
+__________________
+
+       Mini Market Di Giuliana Antonio
+       
+        
+         
+          
+         
+         
+          Via Giacomo Matteotti, 80
+         
+         
+          
+         
+         
+          93011
+         
+         
+          
+         
+         
+          Butera (CL)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0934 347885
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Alimentari negozi a Butera
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+---
+-
+0.55268115
+Via Giacomo Matteotti 80 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.48990786
+MINI MARKET DI GIULIANA ANTONIO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+-
+0.4413528
+Via Giacomo Matteotti 80
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.3017255
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.3017255
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.3017255
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.27534226
+Butera
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.27534226
+Butera
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.24888018
+tel: 0934 347885
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[2]/span[1]
+-
+0.2206764
+0934
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[4]/span[2]
+-
+0.18727784
+Piazza Dante 27 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.1619486
+CL
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/span[2]
+-
+0.1619486
+93011
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/span[2]
+-
+0.1619486
+93011
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.1619486
+93011
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.1619486
+93011
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[2]
+-
+0.14063919
+Ctr. Judeca Sp 27 Mazzarino Riesi - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.11927021
+
+           Comune di 
+           Butera
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.094468065
+
+           Altre aziende a 
+           Butera
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.07361901
+BUTERA - POSTE ITALIANE S.P.A.
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]
+__________________
+Panetteria Butera
+---
+-
+0.43317077
+Butera
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.43317077
+Butera
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.2726669
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.2726669
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.2726669
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.18763693
+
+           Comune di 
+           Butera
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.14861798
+
+           Altre aziende a 
+           Butera
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.12221118
+Piazza Dante 27 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.11581806
+BUTERA - POSTE ITALIANE S.P.A.
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]
+-
+0.10596462
+Via Giacomo Matteotti 80 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.09222563
+Ctr. Judeca Sp 27 Mazzarino Riesi - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+__________________
+Riesi
+---
+-
+0.38409004
+Ctr. Judeca Sp 27 Mazzarino Riesi
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[1]
+-
+0.3453651
+Ctr. Judeca Sp 27 Mazzarino Riesi - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+__________________
+Riesi
+---
+-
+0.38409004
+Ctr. Judeca Sp 27 Mazzarino Riesi
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[1]
+-
+0.3453651
+Ctr. Judeca Sp 27 Mazzarino Riesi - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+__________________
+Riesi
+---
+-
+0.38409004
+Ctr. Judeca Sp 27 Mazzarino Riesi
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[1]
+-
+0.3453651
+Ctr. Judeca Sp 27 Mazzarino Riesi - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+__________________
+Riesi
+---
+-
+0.38409004
+Ctr. Judeca Sp 27 Mazzarino Riesi
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[1]
+-
+0.3453651
+Ctr. Judeca Sp 27 Mazzarino Riesi - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+__________________
+Riesi
+---
+-
+0.38409004
+Ctr. Judeca Sp 27 Mazzarino Riesi
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[1]
+-
+0.3453651
+Ctr. Judeca Sp 27 Mazzarino Riesi - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+__________________
+
+            Via S.rocco, 5 - 
+            93011 
+            Butera
+           
+---
+-
+0.33589906
+Via Giacomo Matteotti 80 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.31884003
+93011
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/span[2]
+-
+0.31884003
+93011
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.31884003
+93011
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.31884003
+93011
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[2]
+-
+0.27104318
+Butera
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.27104318
+Butera
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.2004792
+Via Giacomo Matteotti 80
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.183312
+Piazza Dante 27 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.17061286
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.17061286
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.17061286
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.13800049
+Ctr. Judeca Sp 27 Mazzarino Riesi - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.11740797
+
+           Comune di 
+           Butera
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.09299308
+
+           Altre aziende a 
+           Butera
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.072469555
+BUTERA - POSTE ITALIANE S.P.A.
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]
+__________________
+Alimentari negozi a Butera
+---
+-
+0.3217633
+Butera
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.3217633
+Butera
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.20253955
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.20253955
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.20253955
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.13937846
+
+           Comune di 
+           Butera
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.11039483
+
+           Altre aziende a 
+           Butera
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.09077962
+Piazza Dante 27 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.086030744
+BUTERA - POSTE ITALIANE S.P.A.
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]
+-
+0.078711525
+Via Giacomo Matteotti 80 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.06850607
+Ctr. Judeca Sp 27 Mazzarino Riesi - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+__________________
+Categorie correlate a Butera
+---
+-
+0.3217633
+Butera
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.3217633
+Butera
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.20253955
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.20253955
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.20253955
+Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.13937846
+
+           Comune di 
+           Butera
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.11039483
+
+           Altre aziende a 
+           Butera
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.09077962
+Piazza Dante 27 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.086030744
+BUTERA - POSTE ITALIANE S.P.A.
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]
+-
+0.078711525
+Via Giacomo Matteotti 80 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.06850607
+Ctr. Judeca Sp 27 Mazzarino Riesi - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+__________________
+Via Marconi, 61
+---
+-
+0.22073683
+Via Giacomo Matteotti 80
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.19055799
+Via Giacomo Matteotti 80 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+__________________
+Via Infantone, 38
+---
+-
+0.22073683
+Via Giacomo Matteotti 80
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.19055799
+Via Giacomo Matteotti 80 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+__________________
+Via S.rocco, 5
+---
+-
+0.22073683
+Via Giacomo Matteotti 80
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.19055799
+Via Giacomo Matteotti 80 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+__________________
+Via Vespri, 47
+---
+-
+0.22073683
+Via Giacomo Matteotti 80
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.19055799
+Via Giacomo Matteotti 80 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+__________________
+Studio di architettura Antonio Sabatino
+---
+-
+0.19597459
+MINI MARKET DI GIULIANA ANTONIO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+__________________
+
+            Via Marconi, 61 - 
+            93016 
+            Riesi
+           
+---
+-
+0.17372695
+Via Giacomo Matteotti 80
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.14997521
+Via Giacomo Matteotti 80 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.14460471
+Ctr. Judeca Sp 27 Mazzarino Riesi
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[1]
+-
+0.1300253
+Ctr. Judeca Sp 27 Mazzarino Riesi - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+__________________
+
+            Via Infantone, 38 - 
+            93016 
+            Riesi
+           
+---
+-
+0.17372695
+Via Giacomo Matteotti 80
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.14997521
+Via Giacomo Matteotti 80 - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.14460471
+Ctr. Judeca Sp 27 Mazzarino Riesi
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[1]
+-
+0.1300253
+Ctr. Judeca Sp 27 Mazzarino Riesi - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+__________________
+
+            Corso Vittorio Emanuele, 26 - 
+            93016 
+            Riesi
+           
+---
+-
+0.12510934
+Ctr. Judeca Sp 27 Mazzarino Riesi
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[1]
+-
+0.11249551
+Ctr. Judeca Sp 27 Mazzarino Riesi - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+__________________
+
+            Viale Bosco Don, 220 - 
+            93016 
+            Riesi
+           
+---
+-
+0.12510934
+Ctr. Judeca Sp 27 Mazzarino Riesi
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[1]
+-
+0.11249551
+Ctr. Judeca Sp 27 Mazzarino Riesi - 93011 Butera (CL)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+__________________

@@ -1,0 +1,369 @@
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+Gioielli Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[3]/div[1]/div[1]/a[3]
+Questa è la mia azienda
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
+Gioielli in Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[1]/ul[1]/li[3]/a[1]
+Descrizione
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+Lupo Italo, Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+V. MILANO. 77
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[1]/a[1]
+Dati
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[3]/ol[1]/li[1]/a[1]
+ Chi siamo
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+Lupo Italo, Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
+65122
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[1]
+
+        Michini Anna
+        
+         80 m
+        
+        Dati
+       
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[13]/a[1]
+Argento
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+V. MILANO. 7765122  Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+Descrizione Lupo Italo, Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[1]
+
+        Vanni Gioielli S.n.c. Di Romano G. e Vanni Nicola
+        
+         100 m
+        
+        Dati
+       
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+65122
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[1]
+
+        Orologeria Lo Feudo Francesco
+        
+         80 m
+        
+        Dati
+       
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[15]/a[1]
+Oreficeria in Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]
+PIAZZA DEL SACRO CUORE 3665122  Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]
+
+               085 27666
+              
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[1]/strong[1]/a[1]/span[1]
+Gioielleria Landolfi E Ainis Snc
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[14]/a[1]
+Gold
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[6]
+ 
+     Lupo Italo è iscritta nelle categorie:
+    
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[1]/strong[1]/a[1]/span[1]
+Fondente
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[6]/a[1]
+Bracciali
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/div[1]/p[1]/small[1]
+Trascina e rilascia le immagini che vuoi caricare.
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+Gioielli, Gioielli articoli da Regalo, Anelli, Pietre Dure Semipreziose, Orecchini, Bracciali, Collana, Braccialetti, Gioielleria, Orologi, Argenteria, Pietre Preziose, Argento, Gold, Oreficeria, Bomboniere, Oro, Ingrosso, Forniture per uffici ed Aziende, Sport E Tempo Libero, Forniture, Tempo Libero, Articoli da Regalo, Orafo, Lavorazioni, Regalistica Aziendale, Artigianato, Medaglie, Gadget, Minerali, Distintivi, Pescara, Jewelry, Croci, Silver, Pendenti, Handmade, Bracelets, Necklaces, Earrings, Pin, Trofeo, Silverware, Pendants, Crosses, Precious Stones, Jewelery, O-Ring, Coppe Trofei, Cufflink, Tie Pins, Pe 53, In Pescara, Conchiglie E Fo, Italo Lupo, Fermacravatta
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+V. FIRENZE. 23165122  Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[1]/a[1]/span[1]
+Shopping e acquisti
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[10]/a[1]
+Orologi in Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a[1]/span[1]
+Gioielli
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]
+
+       Condividi 
+       
+       
+      
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+E-mail a Lupo Italo
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+65122
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+V. FIRENZE. 12865122  Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
+Gioielli articoli da Regalo in Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[1]/a[1]
+Dati
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+Recensioni Lupo Italo, Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+V. FIRENZE. 25565122  Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+Lupo Italo
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[12]/a[1]
+Pietre Preziose in Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[2]
+65122
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+Galleria Lupo Italo, Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[1]
+PIAZZA DEL SACRO CUORE 36
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[1]/strong[1]/a[1]/span[1]
+Orafo Perletta Zeno
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[9]/a[1]
+Gioielleria in Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[5]
+
+  Cerca
+ 
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[5]/a[1]
+Orecchini in Teramo
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
+65122
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/div[2]
+
+     
+      Valutazione
+      
+      
+     
+     
+      Invia recensione
+     
+    
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[11]/a[1]
+Argenteria in Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[3]/ol[1]/li[3]/a[1]
+ Versione italiana
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+Pescara 
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+Lupo Italo, Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+Lupo Italo, Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+Lupo Italo
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[7]/a[1]
+ Visualizza la mappa con le aziende simili nei dintorni
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[1]
+
+        Fondente
+        
+         50 m
+        
+        Dati
+       
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/p[1]
+Condividi la tua esperienza!
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[1]
+
+        Orafo Perletta Zeno
+        
+         90 m
+        
+        Dati
+       
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a[1]
+Anelli
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[1]/a[1]
+Dati
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/div[1]/a[2]
+Visita il sito web
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[7]/a[1]
+Collana
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+65122
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[1]/strong[1]/a[1]/span[1]
+Orologeria Lo Feudo Francesco
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
+VIA FIRENZE 20765122  Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+65122
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+
+     Scrivi tu la prima recensione per Lupo Italo!
+    
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+Lupo Italo, Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[1]/a[1]
+Dati
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[1]/a[1]
+Dati
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a[1]
+Pietre Dure Semipreziose
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+Lupo Italo, Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+Ricerche simili Lupo Italo, Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[1]
+
+        Gioielleria Landolfi E Ainis Snc
+        
+         70 m
+        
+        Dati
+       
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+31/35, V. ROMA
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[8]/a[1]
+ Più informazioni su Lupo Italo
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/p[1]
+oro, artigianato, gioielli, Jewelry, gadgets, pins, 
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+Aziende simili nelle vicinanze Lupo Italo, Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+
+          E-mail a Lupo Italo✕
+         
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[1]/strong[1]/a[1]/span[1]
+Vanni Gioielli S.n.c. Di Romano G. e Vanni Nicola
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[1]/a[1]
+Dati
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+Lupo Italo
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+V. FIRENZE. 255
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[6]/i[1]
+Lupo Italo
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[3]/ol[1]/li[2]/a[1]
+ English version
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/div[2]/div[1]
+
+      Valutazione
+      
+      
+     
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[1]
+V. FIRENZE. 231
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[1]/strong[1]/a[1]/span[1]
+Michini Anna
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[1]
+V. FIRENZE. 128
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[3]/div[1]/div[2]/span[1]
+ultimo aggiornamento più di 6 mesi fa 
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[8]/a[1]
+Braccialetti
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[2]/div[2]/div[2]/span[1]/a[1]
+www.italolupo.it
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[1]
+VIA FIRENZE 207
+________________________________________________________________________
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+Shopping e acquisti Pescara
+________________________________________________________________________

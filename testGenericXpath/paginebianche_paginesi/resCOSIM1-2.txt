@@ -21,12 +21,12 @@ DOTT.SSA LOREDANA ANGELELLI
 //html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[2]
 -
 0.5295085
-VETERINARI 
-//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]
--
-0.5295085
 VETERINARI
 //html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[4]/span[1]/a[1]
+-
+0.5295085
+VETERINARI 
+//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]
 -
 0.21318468
 DIR. SANITARIA DOTT.SSA LOREDANA ANGELELLI da lunedi' a sabato 9:30-12:00 / 15:30-19:00 CHIUSO GIOVEDI' MATTINA E SABATO POMERIGGIO

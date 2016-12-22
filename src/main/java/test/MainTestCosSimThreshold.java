@@ -14,7 +14,7 @@ import org.apache.lucene.search.TopDocs;
 
 import model.Segment;
 import scala.Tuple2;
-import segmentation.RelevantSegmentsFinder;
+import segmentation.TopSegmentsFinder;
 
 public class MainTestCosSimThreshold {
 
@@ -43,7 +43,7 @@ public class MainTestCosSimThreshold {
 					if (new File(folder+"matching"+j+k+".txt").exists()) {
 						System.out.println("---Evaluating: "+j+ " & "+k);
 						List<Tuple2<Segment, TopDocs>> segment2hits = 
-								RelevantSegmentsFinder.findRelevantSegments_old(folder, j, k, j, k, ConfigurationTestCosSimThreshold.getSegmentationGrainParameter());
+								TopSegmentsFinder.findRelevantSegments_old(folder, j, k, j, k, ConfigurationTestCosSimThreshold.getSegmentationGrainParameter());
 						MatchingTester.testCosineSimilarityThreshold(segment2hits, folder, j, k,
 								ConfigurationTestCosSimThreshold.getRange(), 
 								ConfigurationTestCosSimThreshold.getResultFileName());

@@ -2,14 +2,8 @@ package xpath.utils;
 
 import java.io.FileNotFoundException;
 import java.io.IOException;
-import java.util.ArrayList;
-import java.util.List;
 import java.util.Set;
 
-import org.htmlcleaner.CleanerProperties;
-import org.htmlcleaner.DomSerializer;
-import org.htmlcleaner.HtmlCleaner;
-import org.htmlcleaner.TagNode;
 //import org.jdom2.input.DOMBuilder;
 import org.jsoup.helper.W3CDom;
 import org.jsoup.nodes.Document;
@@ -18,6 +12,7 @@ import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
 import model.Segment;
+import model.Xpath;
 
 //import javax.xml.parsers.DocumentBuilder;
 //import javax.xml.parsers.DocumentBuilderFactory;
@@ -153,7 +148,6 @@ public class XpathApplier {
 //				nl = (NodeList) xpathObj.evaluate(path, 
 //						doc, XPathConstants.NODESET);
 //			} catch (Exception e) {
-//				// TODO Auto-generated catch block
 //				e.printStackTrace();
 //			}
 //			colorNodeList(nl, doc, path);
@@ -162,12 +156,12 @@ public class XpathApplier {
 //		return doc;
 //	}
 
-	public org.w3c.dom.Document color(Set<String> paths, Document document) throws XPathExpressionException {
+	public org.w3c.dom.Document color(Set<Xpath> paths, Document document) throws XPathExpressionException {
 
 		org.w3c.dom.Document domDocument = prepareDoc(document);
 		if (domDocument == null) {return null;}
 		paths.forEach(path -> {
-
+			String xpath = path.getXpath();
 			//			NodeList nl = null;
 			//			try {
 			//				nl = getNodes(path, document);
@@ -178,7 +172,7 @@ public class XpathApplier {
 			XPath xpathObj = xPathfactory.newXPath();
 			XPathExpression expr = null;
 			try {
-				expr = xpathObj.compile(path);
+				expr = xpathObj.compile(xpath);
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
@@ -189,7 +183,7 @@ public class XpathApplier {
 				e.printStackTrace();
 			}
 
-			colorNodeList(nl, domDocument, path);
+			colorNodeList(nl, domDocument, xpath);
 		});
 
 		return domDocument;

@@ -1,34 +1,27 @@
 package main;
 
 import java.io.File;
-import java.io.FileReader;
-import java.io.IOException;
 import java.io.PrintWriter;
-import java.util.ArrayList;
 import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
+import java.util.Map;
+import java.util.Set;
 
-import javax.xml.parsers.ParserConfigurationException;
-import javax.xml.xpath.XPathExpressionException;
-
-import org.apache.commons.io.IOUtils;
-import org.apache.lucene.search.TopDocs;
-import org.jsoup.nodes.Document;
-import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
 import lib.utils.DocumentUtils;
-import model.Segment;
+import model.DomainSource;
+import model.DomainsRepository;
+import model.Matching;
+import model.MatchingRepository;
 import model.WebPageDocument;
-import scala.Tuple2;
-import segmentation.RelevantSegmentsFinder;
-import test.ConfigurationTestCosSimThreshold;
+import model.Xpath;
 import xpath.utils.XpathApplier;
 
-public class Main {
 
-	static String path = "/home/valentina/workspace_nuovo/FeatureExtractor/testGenericXpath/";
+public class Main {
+	static String path = "/home/valentina/workspace_nuovo/FeatureExtractor/testGenericXpath/persone/";
 	static int n1 = 1;
 	static int n2 = 2;
 	static int n3 = 3;
@@ -39,189 +32,179 @@ public class Main {
 
 	public static void main(String[] args) throws Exception {
 
-		String file = IOUtils.toString(new FileReader(new File(path + "webpages.txt")));
+		//		String file = IOUtils.toString(new FileReader(new File(path + "webpages.txt")));
+		//
+		//		String[] folders = file.split("\n");
 
-		String[] folders = file.split("\n");
+		//		for (int k=1; k<=2;k++) {
+		//			String cartellaDominio1 = folders[k];
+		//			for (int j=1; j<folders.length; j++) {
+		for(int k=1;k<=4;k++) {
+			int domain1 = k;
+			int domain2 = k+1;
 
-		for (int k=0; k<folders.length;k++) {
-			String cartella = folders[k];
-			
-			System.out.println("CARTELLA CORRENTE: "+cartella);
-
-			String d1Path = cartella+"orig"+n1+".html";
-			String d2Path = cartella+"orig"+n2+".html";
-
-			String d3Path = cartella+"orig"+n3+".html";
-			String d4Path = cartella+"orig"+n4+".html";
-
-
-			File d1 = new File(d1Path);
-			File d2 = new File(d2Path);
-
-			File d3 = new File(d3Path);
-			File d4 = new File(d4Path);
-
-			if (d1.exists() && d2.exists() && d3.exists() && d4.exists())
-				System.out.println("Trovati documenti");
-
-			String indexPath = cartella+"segmentIndex";
-
-			File indexFolder = new File(indexPath);
-			String[]entries = indexFolder.list();
-
-			//eliminazione dell'indice
-			if (entries != null) {
-				System.out.println("deleting previous index");
-				for(String s: entries){
-					File currentFile = new File(indexFolder.getPath(),s);
-					currentFile.delete();
-				}
-			}
-
-			//passo 1: prendere la pagina da segmentare
-
-			//TODO costrutto al momento necessario, col db sarà diverso
-			WebPageDocument firstDocument = new WebPageDocument(d1, parN1, cartella, parameterTextFusion);
-
-			//TODO costrutto al momento necessario, col db sarà diverso
-			WebPageDocument secondDocument = new WebPageDocument(d2, parN2, cartella, parameterTextFusion);
-
-			List<Tuple2<Segment, TopDocs>> segment2hits =
-					RelevantSegmentsFinder.findRelevantSegments(cartella, firstDocument, secondDocument,
-							n1, n2);
-
-			//TODO vedi se puoi fare meglio l'architettura
-			RelevantSegmentsFinder.setRelevances(segment2hits);
-
-			//stesso procedimento, con un'altra coppia di pagine degli stessi domini
-			//eliminazione dell'indice
-//			if (entries != null) {
-//				System.out.println("deleting previous index");
-//				for(String s: entries){
-//					File currentFile = new File(indexFolder.getPath(),s);
-//					currentFile.delete();
-//				}
-//			}
-
-			WebPageDocument thirdDocument = new WebPageDocument(d3, parN1, cartella, parameterTextFusion);
-
-			WebPageDocument fourthDocument = new WebPageDocument(d4, parN2, cartella, parameterTextFusion);
-
-			List<Tuple2<Segment, TopDocs>> segment2hits_secondCouple =
-					RelevantSegmentsFinder.findRelevantSegments(cartella, thirdDocument, fourthDocument,
-							n3, n4);
-
-			//TODO vedi se puoi fare meglio l'architettura
-			RelevantSegmentsFinder.setRelevances(segment2hits_secondCouple);
+			for (int i=1;i<=7;i++) {
+				for (int j=(i+1);j<=7;j++) {
 
 
-			//creo, per efficienza, una lista di soli segmenti rilevanti, per il primo documento della prima
-			//coppia e della seconda coppia
-			List<Segment> relevantSegments_firstDocument = new ArrayList<>();
+					System.out.println("***"+i+" "+j);
 
-			for (int i=0; i<segment2hits.size(); i++) {
-				Segment currentSegment = segment2hits.get(i)._1();
-				if (currentSegment.getRelevance() > 0) {
-					relevantSegments_firstDocument.add(currentSegment);
-				}
-			}
+					String d1Folder = path+"p"+i+"/";
+					String d2Folder = path+"p"+i+"/";
+					String d3Folder = path+"p"+j+"/";
+					String d4Folder = path+"p"+j+"/";
 
-			List<Segment> relevantSegments_thirdDocument = new ArrayList<>();
+					String d1Path = d1Folder+"orig"+domain1+".html";
+					String d2Path = d2Folder+"orig"+domain2+".html";
 
-			for (int i=0; i<segment2hits_secondCouple.size(); i++) {
-				Segment currentSegment = segment2hits_secondCouple.get(i)._1();
-				if (currentSegment.getRelevance() > 0) {
-					relevantSegments_thirdDocument.add(currentSegment);
-				}
-			}
+					String d3Path = d3Folder+"orig"+domain1+".html";
+					String d4Path = d4Folder+"orig"+domain2+".html";
 
-			//applico una versione per una alla pagina 3 (dalla più specifica)
-			//quando una versione restituisce 1 e 1 solo segmento rilevante, mi fermo e accetto
-			//quell'xpath per quel segmento
-			Document doc3 = thirdDocument.getDocument();
 
-			List<String> genericXpaths = new ArrayList<>();
+					System.out.println("d1: "+d1Path);
+					System.out.println("d2: "+d2Path);
+					System.out.println("d3: "+d3Path);
+					System.out.println("d4: "+d4Path);
 
-			for (int i=0; i<relevantSegments_firstDocument.size(); i++) {
-				Segment currentRelevantSegment = relevantSegments_firstDocument.get(i);
-				//ogni segmento rilevante ha diritto all'oggetto Xpath associato
-//				System.out.println("Creating xpath versions for segment "+(i+1)+" of "+relevantSegments_firstDocument.size());
-				currentRelevantSegment.makeXpathVersions();
-				int specificityParameter = 0;
-				boolean onlyOneSegmentFound = false;
-				while(specificityParameter <= 5 && !onlyOneSegmentFound) {
-//					System.out.println("Parametro specificità "+specificityParameter);
-					String currentXpath = currentRelevantSegment
-							.getXpathVersions().getPathBySpecificity(specificityParameter);
-					//se corrisponde a 1 unico segmento RILEVANTE
-					if (isARelevantSegment(currentXpath, doc3, relevantSegments_thirdDocument)) {
-						onlyOneSegmentFound = true;
-						//sovrascrivo l'xpath assoluto
-						currentRelevantSegment.setXPath(currentXpath, specificityParameter);
-						System.out.println("YEEE aggiungo");
-						if (specificityParameter > 0) System.out.println("SUPER SUPER!! " + specificityParameter);
-						genericXpaths.add(currentXpath);
+
+					File d1 = new File(d1Path);
+					File d2 = new File(d2Path);
+
+					File d3 = new File(d3Path);
+					File d4 = new File(d4Path);
+
+					if (d1.exists() && d2.exists() && d3.exists() && d4.exists()) {
+						System.out.println("Trovati documenti");
+
+						WebPageDocument firstDocument = new WebPageDocument(d1, domain1, d1Folder, 
+								parameterTextFusion, domain1);
+						WebPageDocument secondDocument = new WebPageDocument(d2, domain2, d2Folder, 
+								parameterTextFusion, domain2);
+						WebPageDocument thirdDocument = new WebPageDocument(d3, domain1, d3Folder, 
+								parameterTextFusion, domain1);
+						WebPageDocument fourthDocument = new WebPageDocument(d4, domain2, d4Folder, 
+								parameterTextFusion, domain2);
+
+						DomainsWrapper_new.getSegmentsFrom(firstDocument, secondDocument, 
+								thirdDocument, fourthDocument, d1Folder, d3Folder, domain1, domain2, domain1, domain2);
 					}
-					else
-						specificityParameter++;
 				}
-				
-				if (genericXpaths.size()==0) System.out.println("Non ho aggiunto nulla :(");
-
-				//metto gli xpath nella pagina
-				firstDocument.setGenericXPaths(genericXpaths);
-
-				//TODO metto tutti i segmenti nel dominio!!!
-
-				//poi coloriamo la prima pagina con i matching rilevanti
-				//memorizziamo anche il tipo di specificità? perché no
-
-				XpathApplier xapplier = XpathApplier.getInstance();
-				org.w3c.dom.Document w3cFirstDocument = xapplier
-						.color(new HashSet<>(genericXpaths), firstDocument.getDocument());
-				if (w3cFirstDocument != null) {
-					PrintWriter testPrinter = new PrintWriter(cartella+"GenericSegments.html", "UTF-8");
-					testPrinter.println(DocumentUtils.getStringFromDocument(w3cFirstDocument));
-					testPrinter.close();
-				}
-				
-				org.w3c.dom.Document firstDocumentWithRelevance = xapplier
-						.colorRelevance(firstDocument.getSegments(), firstDocument.getDocument());
-				if (firstDocumentWithRelevance != null) {
-					PrintWriter testPrinter = new PrintWriter(cartella+"Relevance1.html", "UTF-8");
-					testPrinter.println(DocumentUtils.getStringFromDocument(firstDocumentWithRelevance));
-					testPrinter.close();
-				}
-				
-				org.w3c.dom.Document thirdDocumentWithRelevance = xapplier
-						.colorRelevance(thirdDocument.getSegments(), thirdDocument.getDocument());
-				if (thirdDocumentWithRelevance != null) {
-					PrintWriter testPrinter = new PrintWriter(cartella+"Relevance3.html", "UTF-8");
-					testPrinter.println(DocumentUtils.getStringFromDocument(thirdDocumentWithRelevance));
-					testPrinter.close();
-				}
-			}//fine if d1 & d2 exists
-		} //fine folder
-	} //fine main
-
-	private static boolean isARelevantSegment(String xpath, Document document, List<Segment> relevantSegments) throws XPathExpressionException, IOException, ParserConfigurationException {
-//		System.out.println(xpath);
-		if (xpath.equals("")) 
-			return false;
-		XpathApplier xapplier = XpathApplier.getInstance();
-		NodeList xpathNodes = xapplier.getNodes(xpath, document);
-//		System.out.println("nodi matchati "+ xpathNodes.getLength());
-		if (xpathNodes.getLength()!=1)
-			return false;
-		Node xpathNode = xpathNodes.item(0);
-		//controlliamo che il nodo restituito corrisponda a un segmento rilevante del documento 3
-		for (int i=0;i<relevantSegments.size();i++) {
-			Segment relevantSegment = relevantSegments.get(i);
-			if (xpathNode.isEqualNode(relevantSegment.getW3cNodes().item(0)))
-				return true;
+			}
 		}
-		//nessun matching
-		return false;
+		//ora vediamo i risultati
+		//		DomainsRepository dmrp = DomainsRepository.getInstance();
+		//		DomainSource d1 = dmrp.getDomain(domain1);
+		//		//		DomainSource d2 = dmrp.getDomain(domain2);
+		//		Set<Xpath> xpaths1 = d1.getGenericXpaths();
+		//		Iterator<Xpath> xpaths1It = xpaths1.iterator();
+		//		WebPageDocument w1 = new WebPageDocument(new File(path+"p"+1+"/"+"orig"+domain1+".html"), domain1, path+"p"+1+"/", 
+		//				parameterTextFusion, domain1);
+		//		while (xpaths1It.hasNext()) {
+		//			Xpath currentXpath = xpaths1It.next();
+		//			String path = currentXpath.getXpath();
+		//			XpathApplier xapplier = XpathApplier.getInstance();
+		//			NodeList nl = xapplier.getNodes(path, w1.getDocument());
+		//			//può succedere che alcune xpath diano 0 perché quel segmento può essere assente nella pagina
+		//			System.out.println(path);
+		//			System.out.println(nl.getLength());
+		//			if (nl.getLength()!=0) {
+		//				System.out.println(nl.item(0).getTextContent());
+		//			}
+		//		}
+
+
+		//aaaaa da qui
+		//scorro tutte le persone e prendo il dominio x
+		//dominio 1
+		int domain = 1;
+		XpathApplier xapplier = XpathApplier.getInstance();
+		DomainsRepository dmrp = DomainsRepository.getInstance();
+		DomainSource dom1 = dmrp.getDomain(domain);
+		Set<Xpath> xpaths1 = dom1.getGenericXpaths();
+		for (int i=1;i<=7;i++) {
+			String currentFolder = path+"p"+i+"/";
+			String d1Path = currentFolder+"orig"+domain+".html";
+			File d1 = new File(d1Path);
+			if (d1.exists()) {
+				WebPageDocument w = new WebPageDocument(new File(path+"p"+i+"/"+"orig"+domain+".html"), domain, path+"p"+1+"/", 
+						parameterTextFusion, domain);
+				org.w3c.dom.Document w3cDocument = xapplier
+						.color(new HashSet<>(xpaths1), w.getDocument());
+				if (w3cDocument != null) {
+					PrintWriter testPrinter = new PrintWriter(currentFolder+"GenericSegments.html", "UTF-8");
+					testPrinter.println(DocumentUtils.getStringFromDocument(w3cDocument));
+					testPrinter.close();
+				}
+
+
+				//				Xpath currentXpath = xpaths1It.next();
+				//				String path = currentXpath.getXpath();
+				//				XpathApplier xapplier = XpathApplier.getInstance();
+				//				NodeList nl = xapplier.getNodes(path, w.getDocument());
+				//				//può succedere che alcune xpath diano 0 perché quel segmento può essere assente nella pagina
+				//				System.out.println(path);
+				//				System.out.println(nl.getLength());
+				//				if (nl.getLength()!=0) {
+				//					System.out.println(nl.item(0).getTextContent());
+				//				}
+			}
+		} //fine for per le stampe
+
+		//stampiamo i collegamenti... T^T
+		MatchingRepository mr = MatchingRepository.getInstance();
+		List<Matching> matchings = mr.getMatchings();
+		PrintWriter testPrinter = new PrintWriter("AAAfinalMatchingsXpaths.csv", "UTF-8");
+		System.out.println(matchings.size());
+		DomainsRepository dr = DomainsRepository.getInstance();
+		for (int p=1;p<=7;p++) {
+			for (int i=0; i<matchings.size(); i++) {
+				Matching currentMatching = matchings.get(i);
+				Map<DomainSource,Xpath> mapMatchings = currentMatching.getMatching();
+				for(int j=1;j<=5;j++) {
+					//			Iterator<DomainSource> matchingsIt = mapMatchings.keySet().iterator();
+					//			while (matchingsIt.hasNext()) {
+					//faccio scorrere i domini
+					//				DomainSource currentDomain = matchingsIt.next();
+					DomainSource currentDomain = dr.getDomain(j);
+					Xpath currentXpath = mapMatchings.get(currentDomain);
+					if (currentXpath != null) {
+						//				System.out.println("Dominio "+currentDomain.getParameter());
+						//				System.out.println(currentXpath.getXpath());
+						String currentFolder = path+"p"+p+"/";
+						String d1Path = currentFolder+"orig"+currentDomain.getParameter()+".html";
+						File d1 = new File(d1Path);
+						if (d1.exists()) {
+							WebPageDocument w = new WebPageDocument(new File(path+"p"+p+"/"+"orig"+currentDomain.getParameter()+".html"), 
+									currentDomain.getParameter(), path+"p"+p+"/", 
+									parameterTextFusion, currentDomain.getParameter());
+							NodeList nl = xapplier.getNodes(currentXpath.getXpath(), w.getDocument());
+							if (nl.getLength() != 0) {
+								//						System.out.println(nl.item(0).getTextContent().replaceAll(",", "")+",");
+								testPrinter.print(nl.item(0).getTextContent().replaceAll(",", "")
+										.replaceAll("\n", "")+",");
+							}
+							else	{ //nessun matching, lascio spazio vuoto 
+								//						System.out.println(" ,");
+								testPrinter.print("--,");
+							}
+						}
+						else  { //nessun documento, quindi per quella persona lasciamo uno spazio vuoto
+							//					System.out.println("Dominio "+currentDomain.getParameter());
+							//					System.out.println(" ,");
+							testPrinter.print("--,");
+						}
+					}
+					else {//non c'è nel matching corrente il dominio corrente
+						testPrinter.print("--,");
+					}
+
+				}
+				testPrinter.println();
+				//			System.out.println("______________________________");
+			}
+			testPrinter.println();
+		}
+		testPrinter.close();
 	}
 }
 

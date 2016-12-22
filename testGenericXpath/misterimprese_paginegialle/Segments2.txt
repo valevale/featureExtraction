@@ -1,60 +1,75 @@
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[2]
-gioielli
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+
+            Voto: 
+            4.5 su 
+            [ 6 recensioni ]
+           
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[1]/div[2]/div[2]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[2]
+ Categoria: Gioielleria e oreficeria - lavorazione e ingrosso 
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+ Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[7]
+orologi - produzione e commercio
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[1]
+gioiellerie
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[2]/span[1]
+42.46994
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[3]
+ Distanza: 0.13 km 
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[4]/div[2]
  
-    Pagine Bianche PagineBianche ti fa trovare i numeri di telefono e gli indirizzi di tutte le persone, le aziende, le istituzioni in Italia. 
+     
+      Registrati con facebook 
+     oppure
+     
+    REGISTRATI CON L'EMAIL 
    
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+65122
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
+
+             Marinelli&Co., Marinelli Sas di D'Anzico P. e C.
+            
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[6]
+oreficerie
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+ Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/a[2]
+fbtqxzvqeuwxxwaavby
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+
+             1, V. Liguria
+             65122 - Pescara (PE)
+            
 ________________________________________________________________________
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[4]/div[3]
 
      Registra la tua Attività per gestire, aggiornare e arricchire le informazioni, i contatti o le fotografie.
     
 ________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
 
-             54, V. Umbria
-             65122 - Pescara (PE)
+             Cronotime
             
 ________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]
 Scrivi una recensione
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[2]/span[1]
-42.46994
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
-Gioiellerie e oreficerie - vendita al dettaglio
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[3]
-orologerie
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[2]
- Categoria: Gioielleria e oreficeria - lavorazione e ingrosso 
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[6]
-oreficerie
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[2]/span[1]/span[1]
-085 27666
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[1]/div[2]/div[3]
- Condividi su Facebook Condividi su Twitter Condividi su Google Plus 
-   
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
-
-             Gioielleria Giovanni Cipollone Sas
-            
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/span[1]
-Categoria: 
 ________________________________________________________________________
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 
@@ -62,31 +77,213 @@ ________________________________________________________________________
              65122 - Pescara (PE)
             
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[1]/div[2]/div[1]/a[1]
-Tutto Città
+//html[1]/body[1]/div[3]/div[1]/div[2]/div[2]
+ 
+    Pagine Bianche PagineBianche ti fa trovare i numeri di telefono e gli indirizzi di tutte le persone, le aziende, le istituzioni in Italia. 
+   
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
+articoli regalo - vendita al dettaglio
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
+35, Via Roma
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/div[2]
+
+       altri utenti hanno cercato anche 
+     
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/span[1]
+Categoria: 
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+ 
+          35, Via Roma - 
+          65122 
+          Pescara 
+          (PE) 
+         
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[2]
+gioielli
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[3]
+orologerie
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[2]/span[1]/span[1]
+085 27666
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]
+Scrivi una recensione
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+
+             Gioielleria Giovanni Cipollone Sas
+            
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[1]
+
+        Attività simili nei dintorni
+       
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[1]
+gioiellerie
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[5]
+gioielleria e oreficeria - lavorazione e ingrosso
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]
+ Scrivi per primo una recensione 
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[1]/div[2]/div[2]/a[1]
+Pagine Bianche
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/a[1]/span[1]
+Calcola il percorso su TUTTOCITTÀ
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+Gioiellerie e oreficerie - vendita al dettaglio
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[5]
+gioielleria e oreficeria - lavorazione e ingrosso
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+
+            Voto: 
+            4.5 su 
+            [ 6 recensioni ]
+           
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[3]
+ Distanza: 0.21 km 
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[2]
+gioielli
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
+
+             Gold And Cash - Compro Oro
+            
 ________________________________________________________________________
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[2]/span[1]
 tel. 085 27666 
 ________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]
+Scrivi una recensione
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[1]
+categoria
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+ La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[1]/div[2]/div[3]
+ Condividi su Facebook Condividi su Twitter Condividi su Google Plus 
+   
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+ Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[4]/div[1]
+
+     Sei il proprietario di questa attività?
+    
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[1]/div[2]/div[1]/a[1]
+Tutto Città
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]
+Gioiellerie e oreficerie - vendita al dettaglio
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]
+
+         Conosci questa attività?   
+         Scrivi per primo una recensione  
+       
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[4]
+(PE)
+________________________________________________________________________
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[7]
 orologi - produzione e commercio
 ________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]
- Scrivi per primo una recensione 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/span[2]/a[1]
+[ 6 recensioni ]
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[3]
+orologerie
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[4]
+argenterie - vendita al dettaglio
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+ Lupo Italo 
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[2]/span[2]
+14.20811
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+
+      Lupo Italo
+     
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]
+
+          Sei il proprietario di quest'attività? 
+         RICHIEDILA 
+        
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[4]/div[2]/a[1]
+Richiedila subito
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
+articoli regalo - vendita al dettaglio
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[2]
+ Distanza: 0.18 km 
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/span[1]
+4.5
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+ Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
+________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[2]
+ Categoria: Orologerie 
 ________________________________________________________________________
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/div[2]
 
        altri utenti hanno cercato anche 
      
 ________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[4]
-argenterie - vendita al dettaglio
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
-35, Via Roma
+//html[1]/body[1]/div[2]/div[1]/div[4]/div[1]
+
+     Scopri quali amici stanno già usando PagineGialle 
+   
 ________________________________________________________________________
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[1]
 
@@ -98,224 +295,27 @@ ________________________________________________________________________
     Tutto Città Visualizza mappe e cartine geografiche, calcola itinerari stradali, percorsi e distanze chilometriche con Tuttocitta. 
    
 ________________________________________________________________________
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]
+RICHIEDILA
+________________________________________________________________________
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
 
              1, V. Liguria
              65122 - Pescara (PE)
             
 ________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[4]/div[2]
- 
-     
-      Registrati con facebook 
-     oppure
-     
-    REGISTRATI CON L'EMAIL 
-   
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]
-RICHIEDILA
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[1]/div[2]/div[2]/a[1]
-Pagine Bianche
-________________________________________________________________________
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[3]
  Distanza: 0.18 km 
 ________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[7]
-orologi - produzione e commercio
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[6]
+oreficerie
 ________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[4]
-(PE)
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/span[2]/a[1]
-[ 6 recensioni ]
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[3]
- Distanza: 0.13 km 
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[1]
-gioiellerie
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]
-
-         Conosci questa attività?   
-         Scrivi per primo una recensione  
-       
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]
-Scrivi una recensione
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
- Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[1]
-gioiellerie
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[2]
- Categoria: Orologerie 
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[3]
-orologerie
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[2]
- Distanza: 0.18 km 
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[4]/div[1]
-
-     Scopri quali amici stanno già usando PagineGialle 
-   
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/span[1]
-4.5
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
-
-            Voto: 
-            4.5 su 
-            [ 6 recensioni ]
-           
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[4]
+argenterie - vendita al dettaglio
 ________________________________________________________________________
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 
              32, C. Umberto I
              65122 - Pescara (PE)
             
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
-
-             Cronotime
-            
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/a[2]
-fbtqxzvqeuwxxwaavby
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]
-Gioiellerie e oreficerie - vendita al dettaglio
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]
-Scrivi una recensione
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
-
-             Gold And Cash - Compro Oro
-            
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
-65122
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[5]
-gioielleria e oreficeria - lavorazione e ingrosso
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[3]
- Distanza: 0.21 km 
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
-
-      Lupo Italo
-     
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[4]/div[1]
-
-     Sei il proprietario di questa attività?
-    
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[2]
-gioielli
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
- Lupo Italo 
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[4]/div[2]/a[1]
-Richiedila subito
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
-
-            Voto: 
-            4.5 su 
-            [ 6 recensioni ]
-           
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
-Pescara
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
-articoli regalo - vendita al dettaglio
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[2]/span[2]
-14.20811
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[6]
-oreficerie
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[1]
-categoria
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/div[2]
-
-       altri utenti hanno cercato anche 
-     
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
-
-             Marinelli&Co., Marinelli Sas di D'Anzico P. e C.
-            
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[1]
-
-        Attività simili nei dintorni
-       
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
-articoli regalo - vendita al dettaglio
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[5]
-gioielleria e oreficeria - lavorazione e ingrosso
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/a[1]/span[1]
-Calcola il percorso su TUTTOCITTÀ
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[4]
-argenterie - vendita al dettaglio
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
- Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-________________________________________________________________________
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]
-
-          Sei il proprietario di quest'attività? 
-         RICHIEDILA 
-        
 ________________________________________________________________________

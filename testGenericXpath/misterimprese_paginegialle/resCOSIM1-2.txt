@@ -1,15 +1,53 @@
-Lupo Italo
+
+            Gioielleria
+           
 ---
 -
 1.0
-
-      Lupo Italo
-     
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+gioiellerie
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[1]
 -
 1.0
- Lupo Italo 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+gioiellerie
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[1]
+-
+0.45642513
+Gioiellerie e oreficerie - vendita al dettaglio
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.45642513
+Gioiellerie e oreficerie - vendita al dettaglio
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]
+-
+0.39743418
+ Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.39743418
+ Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+-
+0.39059216
+gioielleria e oreficeria - lavorazione e ingrosso
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[5]
+-
+0.39059216
+gioielleria e oreficeria - lavorazione e ingrosso
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[5]
+-
+0.3516803
+ Categoria: Gioielleria e oreficeria - lavorazione e ingrosso 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[2]
+-
+0.30932945
+
+             Gioielleria Giovanni Cipollone Sas
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
+-
+0.1872577
+ Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
 __________________
 Pescara
 ---
@@ -34,20 +72,6 @@ Pescara
 -
 0.31987485
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -59,6 +83,20 @@ Pescara
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.31987485
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.31987485
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.3053046
 
@@ -95,121 +133,81 @@ Pescara
  La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
 __________________
-
-            Gioielleria
-           
+085 27666
 ---
 -
 1.0
-gioiellerie
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[1]
+085 27666
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[2]/span[1]/span[1]
 -
-1.0
-gioiellerie
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[1]
--
-0.45642513
-Gioiellerie e oreficerie - vendita al dettaglio
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.45642513
-Gioiellerie e oreficerie - vendita al dettaglio
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/a[1]
--
-0.39743418
- Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
--
-0.39743418
- Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
--
-0.39059216
-gioielleria e oreficeria - lavorazione e ingrosso
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[5]
--
-0.39059216
-gioielleria e oreficeria - lavorazione e ingrosso
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[5]
--
-0.3516803
- Categoria: Gioielleria e oreficeria - lavorazione e ingrosso 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[2]
--
-0.30932945
-
-             Gioielleria Giovanni Cipollone Sas
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[1]
--
-0.1872577
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+0.7479523
+tel. 085 27666 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[2]/span[1]
 __________________
-65122
+Pescara
 ---
 -
 1.0
-65122
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+Pescara
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
 -
-0.34897125
+0.33032373
 
              32, C. Umberto I
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
-0.34897125
+0.33032373
 
              32, C. Umberto I
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
-0.33791745
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.33791745
+0.31987485
 
              73, V. Trieste
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
-0.33791745
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33791745
+0.31987485
 
              54, V. Umbria
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
 -
-0.3225061
+0.31987485
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.31987485
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.3053046
 
              1, V. Liguria
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
 -
-0.3225061
+0.3053046
 
              1, V. Liguria
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
 -
-0.3103031
+0.29376578
  
           35, Via Roma - 
           65122 
@@ -218,7 +216,15 @@ __________________
          
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
 -
-0.15763459
+0.17734171
+ Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.15354376
+ Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.14929621
  La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
 __________________
@@ -245,20 +251,6 @@ __________________
 -
 0.33791745
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.33791745
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33791745
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -270,6 +262,20 @@ __________________
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.33791745
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.33791745
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.3225061
 
@@ -303,11 +309,11 @@ Gioiellerie
 -
 1.0
 gioiellerie
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[1]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[1]
 -
 1.0
 gioiellerie
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[1]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[1]
 -
 0.45642513
 Gioiellerie e oreficerie - vendita al dettaglio
@@ -319,11 +325,11 @@ Gioiellerie e oreficerie - vendita al dettaglio
 -
 0.39743418
  Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
 -
 0.39743418
  Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
 -
 0.39059216
 gioielleria e oreficeria - lavorazione e ingrosso
@@ -347,17 +353,6 @@ gioielleria e oreficeria - lavorazione e ingrosso
  Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
 __________________
-085 27666
----
--
-1.0
-085 27666
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[2]/span[1]/span[1]
--
-0.7479523
-tel. 085 27666 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[2]/span[1]
-__________________
 Pescara
 ---
 -
@@ -381,20 +376,6 @@ Pescara
 -
 0.31987485
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -406,75 +387,6 @@ Pescara
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.29376578
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.17734171
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.15354376
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.14929621
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
-__________________
-Lupo Italo
----
--
-1.0
-
-      Lupo Italo
-     
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
--
-1.0
- Lupo Italo 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
-__________________
-Pescara
----
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.31987485
 
@@ -489,20 +401,6 @@ Pescara
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
 -
 0.3053046
 
@@ -562,20 +460,6 @@ Pescara
 -
 0.31987485
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -587,6 +471,20 @@ Pescara
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.31987485
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.31987485
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.3053046
 
@@ -646,20 +544,6 @@ __________________
 -
 0.33791745
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.33791745
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33791745
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -671,149 +555,6 @@ __________________
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3225061
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3225061
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3103031
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.15763459
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
-__________________
-085 27666
----
--
-1.0
-085 27666
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[2]/span[1]/span[1]
--
-0.7479523
-tel. 085 27666 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[2]/span[1]
-__________________
-Pescara
----
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.29376578
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.17734171
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.15354376
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.14929621
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
-__________________
-65122
----
--
-1.0
-65122
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
--
-0.34897125
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.34897125
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.33791745
 
@@ -828,20 +569,6 @@ __________________
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33791745
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33791745
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
 -
 0.3225061
 
@@ -893,20 +620,6 @@ Pescara
 -
 0.31987485
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -918,62 +631,6 @@ Pescara
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.29376578
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.17734171
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.15354376
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.14929621
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
-__________________
-Pescara
----
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.31987485
 
@@ -988,256 +645,6 @@ Pescara
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.29376578
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.17734171
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.15354376
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.14929621
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
-__________________
-65122
----
--
-1.0
-65122
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
--
-0.34897125
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.34897125
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33791745
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.33791745
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33791745
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33791745
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3225061
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3225061
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3103031
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.15763459
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
-__________________
-65122
----
--
-1.0
-65122
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
--
-0.34897125
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.34897125
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33791745
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.33791745
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33791745
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33791745
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3225061
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3225061
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3103031
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.15763459
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
-__________________
-Pescara
----
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
 -
 0.3053046
 
@@ -1299,20 +706,6 @@ Pescara
 -
 0.31987485
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -1324,6 +717,20 @@ Pescara
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.31987485
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.31987485
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.3053046
 
@@ -1360,6 +767,106 @@ Pescara
  La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
 __________________
+Lupo Italo
+---
+-
+1.0
+ Lupo Italo 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+1.0
+
+      Lupo Italo
+     
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+__________________
+65122
+---
+-
+1.0
+65122
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.34897125
+
+             32, C. Umberto I
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.34897125
+
+             32, C. Umberto I
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.33791745
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.33791745
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.33791745
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.33791745
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.3225061
+
+             1, V. Liguria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.3225061
+
+             1, V. Liguria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.3103031
+ 
+          35, Via Roma - 
+          65122 
+          Pescara 
+          (PE) 
+         
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.15763459
+ La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+085 27666
+---
+-
+1.0
+085 27666
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[2]/span[1]/span[1]
+-
+0.7479523
+tel. 085 27666 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[2]/span[1]
+__________________
 Pescara
 ---
 -
@@ -1383,6 +890,20 @@ Pescara
 -
 0.31987485
 
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.31987485
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.31987485
+
              54, V. Umbria
              65122 - Pescara (PE)
             
@@ -1395,6 +916,214 @@ Pescara
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
+0.3053046
+
+             1, V. Liguria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.3053046
+
+             1, V. Liguria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.29376578
+ 
+          35, Via Roma - 
+          65122 
+          Pescara 
+          (PE) 
+         
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.17734171
+ Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.15354376
+ Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.14929621
+ La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+65122
+---
+-
+1.0
+65122
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.34897125
+
+             32, C. Umberto I
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.34897125
+
+             32, C. Umberto I
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.33791745
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.33791745
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.33791745
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.33791745
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.3225061
+
+             1, V. Liguria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.3225061
+
+             1, V. Liguria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.3103031
+ 
+          35, Via Roma - 
+          65122 
+          Pescara 
+          (PE) 
+         
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.15763459
+ La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+65122
+---
+-
+1.0
+65122
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.34897125
+
+             32, C. Umberto I
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.34897125
+
+             32, C. Umberto I
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.33791745
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.33791745
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.33791745
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.33791745
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.3225061
+
+             1, V. Liguria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.3225061
+
+             1, V. Liguria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.3103031
+ 
+          35, Via Roma - 
+          65122 
+          Pescara 
+          (PE) 
+         
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.15763459
+ La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.33032373
+
+             32, C. Umberto I
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.33032373
+
+             32, C. Umberto I
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
 0.31987485
 
              73, V. Trieste
@@ -1408,6 +1137,277 @@ Pescara
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.31987485
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.31987485
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.3053046
+
+             1, V. Liguria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.3053046
+
+             1, V. Liguria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.29376578
+ 
+          35, Via Roma - 
+          65122 
+          Pescara 
+          (PE) 
+         
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.17734171
+ Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.15354376
+ Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.14929621
+ La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+Lupo Italo
+---
+-
+1.0
+ Lupo Italo 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+1.0
+
+      Lupo Italo
+     
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.33032373
+
+             32, C. Umberto I
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.33032373
+
+             32, C. Umberto I
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.31987485
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.31987485
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.31987485
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.31987485
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.3053046
+
+             1, V. Liguria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.3053046
+
+             1, V. Liguria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.29376578
+ 
+          35, Via Roma - 
+          65122 
+          Pescara 
+          (PE) 
+         
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.17734171
+ Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.15354376
+ Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.14929621
+ La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+65122
+---
+-
+1.0
+65122
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.34897125
+
+             32, C. Umberto I
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.34897125
+
+             32, C. Umberto I
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.33791745
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.33791745
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.33791745
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.33791745
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.3225061
+
+             1, V. Liguria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.3225061
+
+             1, V. Liguria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.3103031
+ 
+          35, Via Roma - 
+          65122 
+          Pescara 
+          (PE) 
+         
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.15763459
+ La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.33032373
+
+             32, C. Umberto I
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.33032373
+
+             32, C. Umberto I
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.31987485
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.31987485
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.31987485
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.31987485
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.3053046
 
@@ -1448,14 +1448,14 @@ Lupo Italo - Pescara
 ---
 -
 0.91046184
+ Lupo Italo 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.91046184
 
       Lupo Italo
      
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
--
-0.91046184
- Lupo Italo 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
 -
 0.41359308
 Pescara
@@ -1477,20 +1477,6 @@ Pescara
 -
 0.13229804
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.13229804
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.13229804
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -1502,6 +1488,20 @@ Pescara
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.13229804
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.13229804
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.12627187
 
@@ -1542,14 +1542,18 @@ Scrivi la tua recensione di Lupo Italo
 ---
 -
 0.7833676
+ Lupo Italo 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.7833676
 
       Lupo Italo
      
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
 -
-0.7833676
- Lupo Italo 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+0.62155885
+Scrivi una recensione
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]
 -
 0.62155885
 Scrivi una recensione
@@ -1558,10 +1562,6 @@ Scrivi una recensione
 0.62155885
 Scrivi una recensione
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]
--
-0.62155885
-Scrivi una recensione
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]
 -
 0.44502246
  Scrivi per primo una recensione 
@@ -1599,11 +1599,11 @@ Gioiellerie a Pescara
 -
 0.7259987
 gioiellerie
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[1]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[1]
 -
 0.7259987
 gioiellerie
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[1]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[1]
 -
 0.68769604
 Pescara
@@ -1619,11 +1619,11 @@ Gioiellerie e oreficerie - vendita al dettaglio
 -
 0.2885367
  Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
 -
 0.2885367
  Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
 -
 0.2835694
 gioielleria e oreficeria - lavorazione e ingrosso
@@ -1663,20 +1663,6 @@ gioielleria e oreficeria - lavorazione e ingrosso
 -
 0.21997666
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.21997666
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.21997666
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -1688,6 +1674,20 @@ gioielleria e oreficeria - lavorazione e ingrosso
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.21997666
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.21997666
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.20995677
 
@@ -1749,20 +1749,6 @@ Pescara
 -
 0.46675128
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.46675128
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.46675128
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -1774,6 +1760,20 @@ Pescara
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.46675128
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.46675128
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.44535327
 
@@ -1817,32 +1817,32 @@ __________________
 -
 0.7071068
 gioielli
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[2]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[2]
 -
 0.7071068
 gioielli
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[2]
--
-0.39546448
-orologi - produzione e commercio
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[7]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[2]
 -
 0.39546448
 orologi - produzione e commercio
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[7]
+-
+0.39546448
+orologi - produzione e commercio
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[7]
 __________________
 Risultati di ricerca per Lupo Italo
 ---
+-
+0.6231708
+ Lupo Italo 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
 -
 0.6231708
 
       Lupo Italo
      
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
--
-0.6231708
- Lupo Italo 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
 __________________
 Gioielleria, oreficeria - lavorazione e commercio a Pescara
 ---
@@ -1861,19 +1861,19 @@ gioielleria e oreficeria - lavorazione e ingrosso
 -
 0.3988974
 oreficerie
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[6]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[6]
 -
 0.3988974
 oreficerie
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[6]
--
-0.3754681
-gioiellerie
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[1]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[6]
 -
 0.3754681
 gioiellerie
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[1]
+-
+0.3754681
+gioiellerie
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[1]
 -
 0.36779827
 Gioiellerie e oreficerie - vendita al dettaglio
@@ -1889,19 +1889,19 @@ Pescara
 -
 0.319625
  Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
 -
 0.319625
  Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
--
-0.30962047
-orologi - produzione e commercio
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[7]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
 -
 0.30962047
 orologi - produzione e commercio
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[7]
+-
+0.30962047
+orologi - produzione e commercio
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[7]
 -
 0.13350949
  Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
@@ -1929,20 +1929,6 @@ orologi - produzione e commercio
 -
 0.11376635
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.11376635
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.11376635
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -1954,6 +1940,20 @@ orologi - produzione e commercio
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.11376635
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.11376635
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.108584315
 
@@ -2004,20 +2004,6 @@ V. Roma, 31/35
 -
 0.1458943
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.1458943
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.1458943
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -2029,6 +2015,20 @@ V. Roma, 31/35
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.1458943
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.1458943
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.13920796
 
@@ -2142,20 +2142,6 @@ tel. 085 27666
 -
 0.27576005
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.27576005
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.27576005
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -2167,6 +2153,20 @@ tel. 085 27666
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.27576005
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.27576005
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.26399907
 gioielleria e oreficeria - lavorazione e ingrosso
@@ -2209,14 +2209,14 @@ gioielleria e oreficeria - lavorazione e ingrosso
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[2]
 -
 0.19360854
+ Lupo Italo 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.19360854
 
       Lupo Italo
      
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
--
-0.19360854
- Lupo Italo 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
 -
 0.18702774
 Gioiellerie e oreficerie - vendita al dettaglio
@@ -2228,11 +2228,11 @@ Gioiellerie e oreficerie - vendita al dettaglio
 -
 0.18569721
 gioiellerie
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[1]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[1]
 -
 0.18569721
 gioiellerie
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[1]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[1]
 -
 0.167583
  Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
@@ -2240,11 +2240,11 @@ gioiellerie
 -
 0.16214536
  Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
 -
 0.16214536
  Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
 -
 0.16033667
 35, Via Roma
@@ -2256,19 +2256,19 @@ gioiellerie
 -
 0.15808071
 orologi - produzione e commercio
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[7]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[7]
 -
 0.15808071
 orologi - produzione e commercio
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[7]
--
-0.09864238
-oreficerie
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[6]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[7]
 -
 0.09864238
 oreficerie
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[6]
+-
+0.09864238
+oreficerie
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[6]
 __________________
 Categorie correlate a Pescara
 ---
@@ -2291,11 +2291,11 @@ Pescara
 -
 0.23429842
  Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
 -
 0.23429842
  Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
 -
 0.20708391
  Categoria: Gioielleria e oreficeria - lavorazione e ingrosso 
@@ -2317,20 +2317,6 @@ Pescara
 -
 0.1266406
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.1266406
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.1266406
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -2342,6 +2328,20 @@ Pescara
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.1266406
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.1266406
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.12087215
 
@@ -2385,11 +2385,11 @@ __________________
 -
 0.49087465
 gioielli
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[2]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[2]
 -
 0.49087465
 gioielli
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[2]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[2]
 __________________
 Pelletteria - vendita al dettaglio Pescara
 ---
@@ -2412,11 +2412,11 @@ Gioiellerie e oreficerie - vendita al dettaglio
 -
 0.37312704
  Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
 -
 0.37312704
  Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
 -
 0.3650066
 Pescara
@@ -2424,11 +2424,11 @@ Pescara
 -
 0.33690694
 articoli regalo - vendita al dettaglio
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
 -
 0.33690694
 articoli regalo - vendita al dettaglio
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
 -
 0.12057034
 
@@ -2446,20 +2446,6 @@ articoli regalo - vendita al dettaglio
 -
 0.116756424
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.116756424
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.116756424
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -2471,6 +2457,20 @@ articoli regalo - vendita al dettaglio
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.116756424
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.116756424
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.11143819
 
@@ -2512,11 +2512,11 @@ Gioielleria Ainis Gioielleria Landolfi e Ainis Snc
 -
 0.4036873
 gioiellerie
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[1]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[1]
 -
 0.4036873
 gioiellerie
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[1]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[1]
 -
 0.18425304
 Gioiellerie e oreficerie - vendita al dettaglio
@@ -2528,11 +2528,11 @@ Gioiellerie e oreficerie - vendita al dettaglio
 -
 0.16043913
  Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
 -
 0.16043913
  Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
 -
 0.1576771
 gioielleria e oreficeria - lavorazione e ingrosso
@@ -2587,20 +2587,6 @@ Pescara
 -
 0.11888666
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.11888666
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.11888666
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -2612,6 +2598,20 @@ Pescara
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.11888666
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.11888666
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.11347139
 
@@ -2684,20 +2684,6 @@ Pescara
 -
 0.1971047
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.1971047
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.1971047
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -2709,6 +2695,20 @@ Pescara
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.1971047
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.1971047
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.18806851
 
@@ -2780,20 +2780,6 @@ Pescara
 -
 0.1971047
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.1971047
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.1971047
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -2805,6 +2791,20 @@ Pescara
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.1971047
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.1971047
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.18806851
 
@@ -2837,11 +2837,11 @@ Gioielleria Iulianella N.
 -
 0.3569503
 gioiellerie
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[1]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[1]
 -
 0.3569503
 gioiellerie
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[1]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[1]
 -
 0.1629211
 Gioiellerie e oreficerie - vendita al dettaglio
@@ -2853,11 +2853,11 @@ Gioiellerie e oreficerie - vendita al dettaglio
 -
 0.14186426
  Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
 -
 0.14186426
  Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
 -
 0.13942198
 gioielleria e oreficeria - lavorazione e ingrosso
@@ -2904,20 +2904,6 @@ Pescara
 -
 0.10887036
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.10887036
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.10887036
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -2929,6 +2915,20 @@ Pescara
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.10887036
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.10887036
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.10391134
 
@@ -2988,20 +2988,6 @@ Pescara
 -
 0.10887036
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.10887036
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.10887036
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -3013,6 +2999,20 @@ Pescara
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.10887036
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.10887036
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.10391134
 
@@ -3049,7 +3049,7 @@ Pescara
  La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
 __________________
-Pietre dure semipreziose a Pescara
+Abbigliamento donna - negozi Pescara
 ---
 -
 0.2834229
@@ -3072,20 +3072,6 @@ Pescara
 -
 0.09065985
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.09065985
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.09065985
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -3097,6 +3083,20 @@ Pescara
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.09065985
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.09065985
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.08653031
 
@@ -3133,7 +3133,7 @@ Pescara
  La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
 __________________
-Abbigliamento donna - negozi Pescara
+Pietre dure semipreziose a Pescara
 ---
 -
 0.2834229
@@ -3156,20 +3156,6 @@ Pescara
 -
 0.09065985
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.09065985
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.09065985
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -3181,6 +3167,20 @@ Pescara
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.09065985
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.09065985
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.08653031
 
@@ -3242,26 +3242,19 @@ Gioiellerie e oreficerie - vendita al dettaglio
 -
 0.13663317
  Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
 -
 0.13663317
  Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
--
-0.12353336
-articoli regalo - vendita al dettaglio
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
 -
 0.12353336
 articoli regalo - vendita al dettaglio
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
 -
-0.08894064
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+0.12353336
+articoli regalo - vendita al dettaglio
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
 -
 0.08894064
 
@@ -3270,19 +3263,12 @@ articoli regalo - vendita al dettaglio
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
-0.08612725
+0.08894064
 
-             54, V. Umbria
+             32, C. Umberto I
              65122 - Pescara (PE)
             
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.08612725
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.08612725
 
@@ -3297,6 +3283,20 @@ articoli regalo - vendita al dettaglio
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.08612725
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.08612725
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.08220416
 
@@ -3342,11 +3342,11 @@ Pescara
 -
 0.22853616
 orologi - produzione e commercio
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[7]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[7]
 -
 0.22853616
 orologi - produzione e commercio
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[7]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[7]
 -
 0.2084883
 gioielleria e oreficeria - lavorazione e ingrosso
@@ -3378,26 +3378,19 @@ Gioiellerie e oreficerie - vendita al dettaglio
 -
 0.13321546
  Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
 -
 0.13321546
  Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
--
-0.12044332
-articoli regalo - vendita al dettaglio
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
 -
 0.12044332
 articoli regalo - vendita al dettaglio
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
 -
-0.08671591
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+0.12044332
+articoli regalo - vendita al dettaglio
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
 -
 0.08671591
 
@@ -3406,19 +3399,12 @@ articoli regalo - vendita al dettaglio
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
-0.083972886
+0.08671591
 
-             54, V. Umbria
+             32, C. Umberto I
              65122 - Pescara (PE)
             
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.083972886
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.083972886
 
@@ -3433,6 +3419,20 @@ articoli regalo - vendita al dettaglio
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.083972886
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.083972886
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.08014794
 
@@ -3469,7 +3469,7 @@ articoli regalo - vendita al dettaglio
  La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
 __________________
-Via Firenze, 202
+Via Milano, 77
 ---
 -
 0.24035661
@@ -3489,7 +3489,7 @@ Via Firenze, 202
  Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
 __________________
-Via Milano, 77
+Via Firenze, 202
 ---
 -
 0.24035661
@@ -3593,20 +3593,6 @@ Pescara
 -
 0.07462123
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.07462123
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.07462123
-
              73, V. Trieste
              65122 - Pescara (PE)
             
@@ -3618,6 +3604,20 @@ Pescara
              65122 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.07462123
+
+             54, V. Umbria
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.07462123
+
+             73, V. Trieste
+             65122 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.07122224
 

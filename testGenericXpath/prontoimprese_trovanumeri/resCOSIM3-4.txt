@@ -2,12 +2,6 @@ Ambrosone Luigi
 ---
 -
 1.0
-
-             Ambrosone Luigi 
-            
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[3]/td[1]/div[1]
--
-1.0
 Ambrosone Luigi 
 //html[1]/body[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]/b[1]
 -
@@ -16,30 +10,14 @@ Ambrosone Luigi
              Ambrosone Luigi 
             
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[3]/td[1]/div[1]
--
-1.0
-Ambrosone Luigi 
-//html[1]/body[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]/b[1]
--
-0.79337835
- Ambrosone Luigi - Napoli 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.79337835
- Ambrosone Luigi - Napoli 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/a[1]
--
-0.6544853
- Ambrosone Luigi - Piazzetta Ascensione, 14 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.6431051
- Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.6431051
  Ambrosone Luigi - Castel Volturno 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.6431051
+ Ambrosone Luigi - Castel Volturno 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.5698435
  Ambrosone Luigi - Via Lenin, 56 
@@ -61,76 +39,32 @@ Ambrosone Luigi
 Altri Ambrosone Luigi 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/p[1]
 -
-0.5503604
- Ambrosone Luigi - Avellino 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/a[1]
--
-0.5503604
-Altri Ambrosone Luigi 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/p[1]
--
-0.5503604
- Ambrosone Luigi - Benevento 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.50701046
-Immagini Ambrosone Luigi Napoli
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[3]/tbody[1]/tr[1]/td[1]/p[1]
--
 0.46681842
 Immagini Ambrosone Luigi Castel Volturno
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[3]/tbody[1]/tr[1]/td[1]/p[1]
 -
 0.4326642
-Risultati ricerca Ambrosone Luigi 
-//html[1]/body[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
+ Ambrosone Luigi - Cascine Vica 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/a[1]
 -
 0.4326642
- Ambrosone Luigi - Cascine Vica 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/a[1]
--
-0.4224672
- Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.4224672
 Risultati ricerca Ambrosone Luigi 
 //html[1]/body[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
--
-0.4224672
- Ambrosone Luigi - Cascine Vica 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/a[1]
--
-0.41130933
-Tutti Ambrosone di Napoli
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
 -
 0.33429676
 Tutti Ambrosone di Castel Volturno
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
 -
 0.24474955
- Ambrosone Giuseppina - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
--
-0.24474955
  Ambrosone Angelina - Castel Volturno 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
 -
-0.22636835
- Ambrosone Giuseppina - Napoli 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.22636835
- Ambrosone Giuliano - Napoli 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+0.24474955
+ Ambrosone Giuseppina - Castel Volturno 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
 __________________
 Castel Volturno
 ---
--
-0.87518287
- Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.85537195
 Tutti Ambrosone di Castel Volturno
@@ -138,19 +72,19 @@ Tutti Ambrosone di Castel Volturno
 -
 0.74446994
  Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.74446994
  Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
--
-0.6203056
- Ambrosone Giuseppina - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.6203056
  Ambrosone Angelina - Castel Volturno 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
+-
+0.6203056
+ Ambrosone Giuseppina - Castel Volturno 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
 -
 0.5779804
 Abitano in Via Lenin Castel Volturno
@@ -183,29 +117,25 @@ __________________
 81030
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[2]/b[1]
 -
-0.6780425
- Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
 0.624339
 Tutti Ambrosone di Castel Volturno
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
 -
 0.54339117
  Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.54339117
  Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
--
-0.4527632
- Ambrosone Giuseppina - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.4527632
  Ambrosone Angelina - Castel Volturno 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
+-
+0.4527632
+ Ambrosone Giuseppina - Castel Volturno 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
 -
 0.42186993
 Abitano in Via Lenin Castel Volturno
@@ -236,29 +166,25 @@ __________________
 81030
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[2]/b[1]
 -
-0.6780425
- Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
 0.624339
 Tutti Ambrosone di Castel Volturno
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
 -
 0.54339117
  Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.54339117
  Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
--
-0.4527632
- Ambrosone Giuseppina - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.4527632
  Ambrosone Angelina - Castel Volturno 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
+-
+0.4527632
+ Ambrosone Giuseppina - Castel Volturno 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
 -
 0.42186993
 Abitano in Via Lenin Castel Volturno
@@ -289,29 +215,25 @@ __________________
 81030
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[2]/b[1]
 -
-0.6780425
- Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
 0.624339
 Tutti Ambrosone di Castel Volturno
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
 -
 0.54339117
  Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.54339117
  Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
--
-0.4527632
- Ambrosone Giuseppina - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.4527632
  Ambrosone Angelina - Castel Volturno 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
+-
+0.4527632
+ Ambrosone Giuseppina - Castel Volturno 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
 -
 0.42186993
 Abitano in Via Lenin Castel Volturno
@@ -342,29 +264,25 @@ __________________
 81030
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[2]/b[1]
 -
-0.6780425
- Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
 0.624339
 Tutti Ambrosone di Castel Volturno
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
 -
 0.54339117
  Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.54339117
  Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
--
-0.4527632
- Ambrosone Giuseppina - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.4527632
  Ambrosone Angelina - Castel Volturno 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
+-
+0.4527632
+ Ambrosone Giuseppina - Castel Volturno 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
 -
 0.42186993
 Abitano in Via Lenin Castel Volturno
@@ -381,13 +299,16 @@ Immagini Ambrosone Luigi Castel Volturno
 0.3521969
 Dati del Comune Castel Volturno
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[1]/td[1]/p[1]
+__________________
+Napoli
+---
+-
+0.7778497
+ Ambrosone Luigi - Napoli 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/a[1]
 __________________
 Avellino
 ---
--
-0.7878282
- Ambrosone Luigi - Avellino 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.7778497
  Ambrosone Luigi - Avellino 
@@ -396,81 +317,21 @@ __________________
 Benevento
 ---
 -
-0.7878282
- Ambrosone Luigi - Benevento 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
 0.7778497
  Ambrosone Luigi - Benevento 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 __________________
-Napoli
+ 0823764812
 ---
 -
-0.7778497
- Ambrosone Luigi - Napoli 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/a[1]
--
-0.75061274
-Tutti Ambrosone di Napoli
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
--
-0.5872807
- Ambrosone Luigi - Napoli 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.5872807
- Ambrosone Luigi - Napoli 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/a[1]
--
-0.4111778
- Ambrosone Giuseppina - Napoli 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.4111778
- Ambrosone Giuliano - Napoli 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.40643752
-Abitano in Piazzetta Ascensione Napoli
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[4]/td[1]/p[1]
--
-0.3922279
- Ambrosone Avv. Costantino - Napoli 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
--
-0.376907
-Immagini Ambrosone Luigi Napoli
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[3]/tbody[1]/tr[1]/td[1]/p[1]
--
-0.36436757
- Ambrosone Avv. Nicola - Napoli 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.36436757
- Ambrosone Avv. Achille - Napoli 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
--
-0.36008045
+0.65412736
 
-             80121 Napoli (NA)
+             Tel:0823764812
             
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[4]/td[1]/div[1]
--
-0.3282685
-Dati del Comune Napoli
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[1]/td[1]/p[1]
--
-0.26011336
- Ambrosone Avv. Costantino Studio Legale - Napoli 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[5]/td[1]/div[1]
 __________________
 Bar a Castel Volturno
 ---
--
-0.6780425
- Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.52570045
 Tutti Ambrosone di Castel Volturno
@@ -478,19 +339,19 @@ Tutti Ambrosone di Castel Volturno
 -
 0.45754153
  Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.45754153
  Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
--
-0.38123176
- Ambrosone Giuseppina - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.38123176
  Ambrosone Angelina - Castel Volturno 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
+-
+0.38123176
+ Ambrosone Giuseppina - Castel Volturno 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
 -
 0.35521922
 Abitano in Via Lenin Castel Volturno
@@ -510,15 +371,6 @@ Immagini Ambrosone Luigi Castel Volturno
 Dati del Comune Castel Volturno
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[1]/td[1]/p[1]
 __________________
- 0823764812
----
--
-0.65412736
-
-             Tel:0823764812
-            
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[5]/td[1]/div[1]
-__________________
  Vl. Lenin, 56 - 81030 Castel Volturno
 ---
 -
@@ -534,10 +386,6 @@ __________________
             
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[7]/td[1]/div[1]
 -
-0.45720717
- Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
 0.43159407
 81030
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[2]/b[1]
@@ -552,23 +400,23 @@ Tutti Ambrosone di Castel Volturno
 -
 0.3430976
  Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.3430976
  Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.31108692
 Abitano in Via Lenin Castel Volturno
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[4]/td[1]/p[1]
 -
 0.28587502
- Ambrosone Giuseppina - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
--
-0.28587502
  Ambrosone Angelina - Castel Volturno 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
+-
+0.28587502
+ Ambrosone Giuseppina - Castel Volturno 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
 -
 0.25438553
 Cap 81030 
@@ -615,16 +463,16 @@ Dati del Comune Castel Volturno
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.03481227
- Crispino Angelina - Via Lenin, 155 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Mormile Silvana - Via Lenin, 198 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.03481227
  Vargas Giuseppina - Via Lenin, 274 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.03481227
- Mormile Silvana - Via Lenin, 198 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Crispino Angelina - Via Lenin, 155 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.034647718
  Marino Anna Tabacchi - Via Lenin, 23 
@@ -635,99 +483,34 @@ Dati del Comune Castel Volturno
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.033415567
+ Sollazzi Giuseppe - Via Lenin, 34 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.033415567
+ Pezone Domenico - Via Lenin, 93 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.033415567
  Santoro Daniela - Via Lenin, 26 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.033415567
  Ciardiello Silvestro - Via Lenin, 65 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.033415567
- Nava Giacomo - Via Lenin, 42 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 __________________
 Altri risultati nei dintorni:
 ---
--
-0.43159324
-Altri Ambrosone Luigi 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/p[1]
 -
 0.42580596
 Altri Ambrosone Luigi 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/p[1]
 -
-0.31932405
-Risultati ricerca Ambrosone Luigi 
-//html[1]/body[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
--
 0.316586
 Risultati ricerca Ambrosone Luigi 
 //html[1]/body[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
 __________________
- V. S. Rocco, 68 - 81030 Castel Volturno | dist. 2.958 m 
----
--
-0.35255718
- Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.30130482
-
-             81030 Castel Volturno (CE)
-            
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[4]/td[1]/div[1]
--
-0.2557409
-81030
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[2]/b[1]
--
-0.23358785
-Tutti Ambrosone di Castel Volturno
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
--
-0.20330234
- Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.20330234
- Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
--
-0.16939512
- Ambrosone Giuseppina - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
--
-0.16939512
- Ambrosone Angelina - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
--
-0.15783682
-Abitano in Via Lenin Castel Volturno
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[4]/td[1]/p[1]
--
-0.15073605
-Cap 81030 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[2]
--
-0.14698541
-Immagini Ambrosone Luigi Castel Volturno
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[3]/tbody[1]/tr[1]/td[1]/p[1]
--
-0.13176963
-Dati del Comune Castel Volturno
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[1]/td[1]/p[1]
--
-0.1238456
- Lubrano Rocco Parrucchieri - Piazzetta Ascensione, 26 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
-__________________
  V. Domitiana, KM.34 - 81030 Castel Volturno | dist. 3.140 m 
 ---
--
-0.34790146
- Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.3060824
 
@@ -745,19 +528,19 @@ Tutti Ambrosone di Castel Volturno
 -
 0.20652597
  Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.20652597
  Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
--
-0.1720811
- Ambrosone Giuseppina - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.1720811
  Ambrosone Angelina - Castel Volturno 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
+-
+0.1720811
+ Ambrosone Giuseppina - Castel Volturno 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
 -
 0.17187193
  Sollazzi Giuseppe - Via Lenin, 34 
@@ -779,12 +562,57 @@ Immagini Ambrosone Luigi Castel Volturno
 Dati del Comune Castel Volturno
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[1]/td[1]/p[1]
 __________________
- V. Domiziana Km. 27, 29 - 81030 Castel Volturno | dist. 3.494 m 
+ V. S. Rocco, 68 - 81030 Castel Volturno | dist. 2.958 m 
 ---
 -
-0.3349218
+0.30130482
+
+             81030 Castel Volturno (CE)
+            
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[4]/td[1]/div[1]
+-
+0.2557409
+81030
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[2]/b[1]
+-
+0.23358785
+Tutti Ambrosone di Castel Volturno
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
+-
+0.20330234
+ Ambrosone Luigi - Castel Volturno 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.20330234
  Ambrosone Luigi - Castel Volturno 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
+0.16939512
+ Ambrosone Angelina - Castel Volturno 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
+-
+0.16939512
+ Ambrosone Giuseppina - Castel Volturno 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
+-
+0.15783682
+Abitano in Via Lenin Castel Volturno
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[4]/td[1]/p[1]
+-
+0.15073605
+Cap 81030 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[2]/td[1]/div[1]/li[2]
+-
+0.14698541
+Immagini Ambrosone Luigi Castel Volturno
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[3]/tbody[1]/tr[1]/td[1]/p[1]
+-
+0.13176963
+Dati del Comune Castel Volturno
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[4]/tbody[1]/tr[1]/td[1]/p[1]
+__________________
+ V. Domiziana Km. 27, 29 - 81030 Castel Volturno | dist. 3.494 m 
+---
 -
 0.28434345
 
@@ -802,27 +630,23 @@ Tutti Ambrosone di Castel Volturno
 -
 0.19185783
  Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.19185783
  Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
--
-0.15985936
- Ambrosone Giuseppina - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.15985936
  Ambrosone Angelina - Castel Volturno 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
 -
+0.15985936
+ Ambrosone Giuseppina - Castel Volturno 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
+-
 0.14895171
 Abitano in Via Lenin Castel Volturno
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[4]/td[1]/p[1]
--
-0.14803307
- Iannuzzi Maria - Piazzetta Ascensione, 29 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.14225064
 Cap 81030 
@@ -839,10 +663,6 @@ __________________
  V. Domiziana Km. 33,100, MC - 81030 Castel Volturno | dist. 3.494 m 
 ---
 -
-0.33092266
- Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
 0.28434345
 
              81030 Castel Volturno (CE)
@@ -859,19 +679,19 @@ Tutti Ambrosone di Castel Volturno
 -
 0.19185783
  Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.19185783
  Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
--
-0.15985936
- Ambrosone Giuseppina - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.15985936
  Ambrosone Angelina - Castel Volturno 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
+-
+0.15985936
+ Ambrosone Giuseppina - Castel Volturno 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
 -
 0.14895171
 Abitano in Via Lenin Castel Volturno
@@ -896,23 +716,10 @@ V. Domitiana, KM.34
  Sollazzi Giuseppe - Via Lenin, 34 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 __________________
-V. Domiziana Km. 27, 29
----
--
-0.2174636
- Iannuzzi Maria - Piazzetta Ascensione, 29 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
-__________________
 Bar Le Chardonnay Di Magliulo Luigi
 ---
 -
-0.2129967
-
-             Ambrosone Luigi 
-            
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[3]/td[1]/div[1]
--
-0.2129967
+0.20156656
 Ambrosone Luigi 
 //html[1]/body[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]/b[1]
 -
@@ -921,42 +728,14 @@ Ambrosone Luigi
              Ambrosone Luigi 
             
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[3]/td[1]/div[1]
--
-0.20156656
-Ambrosone Luigi 
-//html[1]/body[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]/b[1]
--
-0.16958772
- Ambrosone Luigi - Napoli 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.16958772
- Ambrosone Luigi - Napoli 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/a[1]
--
-0.14016996
- Ambrosone Luigi - Piazzetta Ascensione, 14 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.13058195
- Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.13058195
  Ambrosone Luigi - Castel Volturno 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
 -
-0.11801265
- Ambrosone Luigi - Avellino 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/a[1]
--
-0.11801265
-Altri Ambrosone Luigi 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/p[1]
--
-0.11801265
- Ambrosone Luigi - Benevento 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+0.13058195
+ Ambrosone Luigi - Castel Volturno 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.1158359
  Ambrosone Luigi - Via Lenin, 56 
@@ -978,38 +757,15 @@ Altri Ambrosone Luigi
 Altri Ambrosone Luigi 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/p[1]
 -
-0.108765446
-Immagini Ambrosone Luigi Napoli
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[3]/tbody[1]/tr[1]/td[1]/p[1]
--
 0.095021434
 Immagini Ambrosone Luigi Castel Volturno
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[3]/tbody[1]/tr[1]/td[1]/p[1]
 -
-0.09069798
- Ambrosone Luigi - Castel Volturno 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.09069798
-Risultati ricerca Ambrosone Luigi 
-//html[1]/body[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
--
-0.09069798
+0.088103555
  Ambrosone Luigi - Cascine Vica 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/a[1]
 -
 0.088103555
 Risultati ricerca Ambrosone Luigi 
 //html[1]/body[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
--
-0.088103555
- Ambrosone Luigi - Cascine Vica 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/a[1]
-__________________
-V. S. Rocco, 68
----
--
-0.19451126
- Lubrano Rocco Parrucchieri - Piazzetta Ascensione, 26 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 __________________

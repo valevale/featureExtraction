@@ -1,0 +1,1527 @@
+Caltanissetta
+---
+-
+1.0
+Caltanissetta
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/span[1]
+__________________
+Butera
+---
+-
+1.0
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Butera 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+1.0
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.472272
+Supermercati Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.42225954
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.42225954
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.42225954
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.42225954
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.42225954
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.42225954
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.42225954
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.33378753
+Shopping e acquisti Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.32281268
+Recensioni Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.29067454
+Descrizione Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.29067454
+Galleria Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.2761539
+V. MILANO. 393011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]
+-
+0.25716248
+Siti sociali Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.25139242
+Ricerche simili Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.24401736
+V. LUIGI STURZO. 6193011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.23784252
+Via Luigi Sturzo, 8093011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.23656315
+V. Monte Grappa, 393011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.22467083
+Aziende simili nelle vicinanze Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.22236907
+VIA SAN ROCCO, 593011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]
+__________________
+93011
+---
+-
+1.0
+93011
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+-
+1.0
+93011
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+93011
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+93011
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+93011
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+93011
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+__________________
+Butera
+---
+-
+1.0
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Butera 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+1.0
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.472272
+Supermercati Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.42225954
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.42225954
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.42225954
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.42225954
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.42225954
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.42225954
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.42225954
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.33378753
+Shopping e acquisti Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.32281268
+Recensioni Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.29067454
+Descrizione Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.29067454
+Galleria Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.2761539
+V. MILANO. 393011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]
+-
+0.25716248
+Siti sociali Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.25139242
+Ricerche simili Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.24401736
+V. LUIGI STURZO. 6193011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.23784252
+Via Luigi Sturzo, 8093011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.23656315
+V. Monte Grappa, 393011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.22467083
+Aziende simili nelle vicinanze Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.22236907
+VIA SAN ROCCO, 593011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]
+__________________
+Giuliana Antonio - Butera 
+---
+-
+0.7635629
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.7635629
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.7635629
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.7635629
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.7635629
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.7635629
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.7635629
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.581936
+Recensioni Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.581838
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.581838
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.581838
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.581838
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]/i[1]
+-
+0.5571179
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.5571179
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.5571179
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.5571179
+Butera 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.5571179
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.5571179
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.52357185
+Descrizione Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.52357185
+Galleria Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.46285662
+Siti sociali Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.45241636
+Ricerche simili Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.40628594
+E-mail a Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.40628594
+
+          E-mail a Mini Market Di Giuliana Antonio✕
+         
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.40411434
+Aziende simili nelle vicinanze Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.37748113
+ Più informazioni su Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.30039412
+ 
+     Mini Market Di Giuliana Antonio è iscritta nelle categorie:
+    
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]
+-
+0.27032402
+
+     Scrivi tu la prima recensione per Mini Market Di Giuliana Antonio!
+    
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.26311117
+Supermercati Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.185959
+Shopping e acquisti Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+__________________
+ ALIMENTARI VENDITA DETTAGLIO 
+---
+-
+0.73852146
+Vendita Alimentari
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[2]/a[1]
+-
+0.57728314
+Alimenti, Vendita Alimentari
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.302036
+Prodotti alimentari
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/ol[2]/li[2]/a[1]/span[1]
+__________________
+Alimentari - Vendita Al Dettaglio a Butera
+---
+-
+0.7129563
+Vendita Alimentari
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[2]/a[1]
+-
+0.5572995
+Alimenti, Vendita Alimentari
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.2915805
+Prodotti alimentari
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/ol[2]/li[2]/a[1]/span[1]
+-
+0.26083532
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.26083532
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.26083532
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.26083532
+Butera 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.26083532
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.26083532
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.12318522
+Supermercati Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.1101402
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.1101402
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.1101402
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.1101402
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.1101402
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.1101402
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.1101402
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.08706358
+Shopping e acquisti Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.08420095
+Recensioni Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.07581818
+Descrizione Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.07581818
+Galleria Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.072030686
+V. MILANO. 393011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]
+-
+0.067077056
+Siti sociali Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.06557202
+Ricerche simili Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.06364835
+V. LUIGI STURZO. 6193011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.06203773
+Via Luigi Sturzo, 8093011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.061704025
+V. Monte Grappa, 393011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.058602087
+Aziende simili nelle vicinanze Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.05800171
+VIA SAN ROCCO, 593011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]
+__________________
+
+     Scrivi la tua recensione per Giuliana Antonio - Butera:
+      
+      
+    
+---
+-
+0.70905715
+
+     Scrivi tu la prima recensione per Mini Market Di Giuliana Antonio!
+    
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.659849
+Recensioni Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.40483055
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.40483055
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.40483055
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.40483055
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.40483055
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.40483055
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.40483055
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.3084825
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.3084825
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.3084825
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.3084825
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]/i[1]
+-
+0.2953762
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.2953762
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.2953762
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.2953762
+Butera 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.2953762
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.2953762
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.27759054
+Descrizione Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.27759054
+Galleria Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.27052134
+
+     
+      Valutazione
+      
+      
+     
+     
+      Invia recensione
+     
+    
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/div[2]
+-
+0.2454002
+Siti sociali Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.23986493
+Ricerche simili Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.21540721
+E-mail a Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.21540721
+
+          E-mail a Mini Market Di Giuliana Antonio✕
+         
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.21425585
+Aziende simili nelle vicinanze Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.20013529
+ Più informazioni su Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.15926482
+ 
+     Mini Market Di Giuliana Antonio è iscritta nelle categorie:
+    
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]
+-
+0.13949792
+Supermercati Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+__________________
+Aziende Simili:
+---
+-
+0.70710677
+Questa è la mia azienda
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[3]/div[1]/div[1]/a[3]
+-
+0.6081576
+Aziende simili nelle vicinanze Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.5211875
+ Visualizza la mappa con le aziende simili nei dintorni
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[7]/a[1]
+-
+0.33681238
+Ricerche simili Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+__________________
+Giuliana Antonio
+---
+-
+0.7006437
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.7006437
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.7006437
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.7006437
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]/i[1]
+-
+0.6321157
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.6321157
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.6321157
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.6321157
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.6321157
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.6321157
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.6321157
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.48924562
+E-mail a Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.48924562
+
+          E-mail a Mini Market Di Giuliana Antonio✕
+         
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.48238423
+Recensioni Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.45455915
+ Più informazioni su Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.43415403
+Descrizione Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.43415403
+Galleria Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.38393098
+Siti sociali Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.37529016
+Ricerche simili Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.3617317
+ 
+     Mini Market Di Giuliana Antonio è iscritta nelle categorie:
+    
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]
+-
+0.3352967
+Aziende simili nelle vicinanze Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.32552162
+
+     Scrivi tu la prima recensione per Mini Market Di Giuliana Antonio!
+    
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.19158007
+Supermercato 3g Di Giuliana Grazia
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[1]/strong[1]/a[1]/span[1]
+-
+0.14613077
+
+        Supermercato 3g Di Giuliana Grazia
+        
+         0.76 km
+        
+        Dati
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[1]
+__________________
+ Via Giacomo Matteotti 80   93011 Butera  (CL) 
+---
+-
+0.6542874
+V. GIACOMO MATTEOTTI. 80
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.368266
+Via Luigi Sturzo, 80
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[1]
+-
+0.31357363
+93011
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+-
+0.31357363
+93011
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
+-
+0.31357363
+93011
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+-
+0.31357363
+93011
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+0.31357363
+93011
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
+-
+0.31357363
+93011
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+0.19446464
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.19446464
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.19446464
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.19446464
+Butera 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.19446464
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.19446464
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.19237502
+Via Luigi Sturzo, 8093011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.17961961
+VIA SAN ROCCO, 593011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.13953733
+VIA SAN ROCCO, 5
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+-
+0.0918402
+Supermercati Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.08211454
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.08211454
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.08211454
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.08211454
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.08211454
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.08211454
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.08211454
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.06490987
+Shopping e acquisti Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.06277565
+Recensioni Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.056525916
+Descrizione Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.056525916
+Galleria Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.053702164
+V. MILANO. 393011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]
+__________________
+
+    > 
+   Sicilia > 
+   Caltanissetta > 
+   Butera 
+  
+---
+-
+0.6300095
+Caltanissetta
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/span[1]
+-
+0.28887478
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.28887478
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.28887478
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.28887478
+Butera 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.28887478
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.28887478
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.13642748
+Supermercati Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.12198013
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.12198013
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.12198013
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.12198013
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.12198013
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.12198013
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.12198013
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.09642281
+Shopping e acquisti Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.09325245
+Recensioni Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.08396854
+Descrizione Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.08396854
+Galleria Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.079773895
+V. MILANO. 393011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]
+-
+0.07428776
+Siti sociali Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.072620936
+Ricerche simili Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.07049046
+V. LUIGI STURZO. 6193011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.068706706
+Via Luigi Sturzo, 8093011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.068337135
+V. Monte Grappa, 393011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.06490174
+Aziende simili nelle vicinanze Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.06423682
+VIA SAN ROCCO, 593011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]
+__________________
+Elimina Azienda
+---
+-
+0.5989426
+Questa è la mia azienda
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[3]/div[1]/div[1]/a[3]
+-
+0.25418478
+Aziende simili nelle vicinanze Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.21859294
+ Visualizza la mappa con le aziende simili nei dintorni
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[7]/a[1]
+__________________
+Giorgio Supermercato
+---
+-
+0.5774907
+Supermercati
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a[1]/span[1]
+-
+0.50036615
+Supermercati Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.2750198
+Supermercato 3g Di Giuliana Grazia
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[1]/strong[1]/a[1]/span[1]
+-
+0.20873314
+
+        Supermercato 3g Di Giuliana Grazia
+        
+         0.76 km
+        
+        Dati
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[1]
+__________________
+Modifica Dati
+---
+-
+0.47079158
+Dati
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/a[1]
+-
+0.47079158
+Dati
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/a[1]
+-
+0.47079158
+Dati
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[1]/a[1]
+-
+0.47079158
+Dati
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[1]/a[1]
+-
+0.47079158
+Dati
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[1]/a[1]
+-
+0.47079158
+Dati
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[1]/a[1]
+-
+0.13681592
+
+        Scichilone Emanuele
+        
+         0.61 km
+        
+        Dati
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[1]
+-
+0.13284831
+
+        Fiore Tania
+        
+         360 m
+        
+        Dati
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]
+-
+0.13284831
+
+        Trainito Vincenzo
+        
+         100 m
+        
+        Dati
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]
+-
+0.12765273
+
+        Supermercato 3g Di Giuliana Grazia
+        
+         0.76 km
+        
+        Dati
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[1]
+-
+0.11897511
+
+        La Rinascita S.a.s. Di Provinzano Ignazio & C.
+        
+         0.76 km
+        
+        Dati
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[1]
+-
+0.105813555
+
+        Mediterraneo Market S.a.s. Di Cavallo Francesco Giuseppe & C.
+        
+         12.37 km
+        
+        Dati
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[1]
+__________________
+ 
+     
+  
+  
+  
+    > 
+   Sicilia > 
+   Caltanissetta > 
+   Butera 
+   
+   
+    
+    Giuliana Antonio - Butera  
+    
+    
+     
+     
+      
+       Giuliana Antonio  ALIMENTARI VENDITA DETTAGLIO   
+       
+        
+        Via Giacomo Matteotti 80   93011 Butera  (CL) 
+         
+        
+        0934347885  
+         
+       Alimentari - Vendita Al Dettaglio a Butera
+        
+        
+         
+         Modifica Dati 
+          
+         Elimina Azienda 
+         
+        
+        
+       
+      
+     
+     
+     
+     
+      Aziende Simili: 
+       
+      
+      Soc.coop.di Prod.e Lavoro Europa 92 A.r.l.
+       Contrada Calderaro
+       93100 - Caltanissetta 
+      
+      
+      Societa' Coop. Prod. E Lav. Europa 92 Rl Ingrosso Formaggi-salumi
+       Contrada Calderaro
+       93100 - Caltanissetta 
+      
+      
+      Prolat Sicilia Spa
+       Zona Industriale
+       93100 - Caltanissetta 
+      
+      
+      Cicardo Giuseppe Generi Alimentari
+       Via Re D' Italia 148
+       93100 - Caltanissetta 
+      
+      
+      Giorgio Supermercato
+       Via Tumminelli Mauro Presidente 20
+       93100 - Caltanissetta 
+      
+     
+     
+     
+     
+    
+     Scrivi la tua recensione per Giuliana Antonio - Butera:
+      
+      
+     
+     
+      
+       
+    
+   
+   
+   
+            
+          
+       
+  >   
+
+---
+-
+0.45139164
+Caltanissetta
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/span[1]
+-
+0.23254061
+Vendita Alimentari
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[2]/a[1]
+-
+0.181771
+Alimenti, Vendita Alimentari
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.17632653
+Aziende simili nelle vicinanze Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.1740999
+Recensioni Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.17247844
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.17247844
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.17247844
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.17247844
+Butera 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.17247844
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.17247844
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.17118369
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.17118369
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.17118369
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.17118369
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.17118369
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.17118369
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.17118369
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.13799681
+Supermercati Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.133877
+Ricerche simili Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.12876616
+Questa è la mia azienda
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[3]/div[1]/div[1]/a[3]
+-
+0.12263319
+Via Luigi Sturzo, 80
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[1]
+-
+0.1189575
+Via Luigi Sturzo, 8093011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.11798105
+
+     Scrivi tu la prima recensione per Mini Market Di Giuliana Antonio!
+    
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.11737992
+Descrizione Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.11737992
+Galleria Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.11606272
+V. GIACOMO MATTEOTTI. 80
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.11568531
+Prodotti alimentari
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/ol[2]/li[2]/a[1]/span[1]
+-
+0.11107002
+VIA SAN ROCCO, 593011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.10807895
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+__________________
+ 
+      Prolat Sicilia Spa
+       Zona Industriale
+       93100 - Caltanissetta 
+     
+---
+-
+0.33604693
+Caltanissetta
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/span[1]
+__________________
+ 
+      Giorgio Supermercato
+       Via Tumminelli Mauro Presidente 20
+       93100 - Caltanissetta 
+     
+---
+-
+0.3136446
+Caltanissetta
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/span[1]
+-
+0.25385472
+Supermercati
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a[1]/span[1]
+-
+0.21995212
+Supermercati Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.12089386
+Supermercato 3g Di Giuliana Grazia
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[1]/strong[1]/a[1]/span[1]
+-
+0.11632309
+Via Luigi Sturzo, 80
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[1]
+-
+0.107594706
+Via Luigi Sturzo, 8093011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.103192985
+VIA SAN ROCCO, 5
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+-
+0.10047347
+VIA SAN ROCCO, 593011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.09175541
+
+        Supermercato 3g Di Giuliana Grazia
+        
+         0.76 km
+        
+        Dati
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[1]
+__________________
+ 
+      Cicardo Giuseppe Generi Alimentari
+       Via Re D' Italia 148
+       93100 - Caltanissetta 
+     
+---
+-
+0.2840919
+Caltanissetta
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/span[1]
+-
+0.15807955
+Vendita Alimentari
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[2]/a[1]
+-
+0.14561747
+Prodotti alimentari
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/ol[2]/li[2]/a[1]/span[1]
+-
+0.12587136
+Alimenti, Vendita Alimentari
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.10866931
+Mediterraneo Market S.a.s. Di Cavallo Francesco Giuseppe & C.
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[1]/strong[1]/a[1]/span[1]
+-
+0.10536272
+Via Luigi Sturzo, 80
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[1]
+-
+0.09745675
+Via Luigi Sturzo, 8093011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.093469776
+VIA SAN ROCCO, 5
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+-
+0.09100651
+VIA SAN ROCCO, 593011  Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.0885259
+
+        Mediterraneo Market S.a.s. Di Cavallo Francesco Giuseppe & C.
+        
+         12.37 km
+        
+        Dati
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[1]
+__________________
+ 
+      Soc.coop.di Prod.e Lavoro Europa 92 A.r.l.
+       Contrada Calderaro
+       93100 - Caltanissetta 
+     
+---
+-
+0.27969587
+Caltanissetta
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/span[1]
+__________________
+Cicardo Giuseppe Generi Alimentari
+---
+-
+0.27186367
+Vendita Alimentari
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[2]/a[1]
+-
+0.2504315
+Prodotti alimentari
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/ol[2]/li[2]/a[1]/span[1]
+-
+0.21647236
+Alimenti, Vendita Alimentari
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.18688843
+Mediterraneo Market S.a.s. Di Cavallo Francesco Giuseppe & C.
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[1]/strong[1]/a[1]/span[1]
+-
+0.15224598
+
+        Mediterraneo Market S.a.s. Di Cavallo Francesco Giuseppe & C.
+        
+         12.37 km
+        
+        Dati
+       
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[1]
+__________________
+ 
+      Societa' Coop. Prod. E Lav. Europa 92 Rl Ingrosso Formaggi-salumi
+       Contrada Calderaro
+       93100 - Caltanissetta 
+     
+---
+-
+0.23557353
+Caltanissetta
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/span[1]
+__________________

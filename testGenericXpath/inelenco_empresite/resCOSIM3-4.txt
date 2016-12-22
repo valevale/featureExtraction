@@ -8,12 +8,12 @@ GIULIANA ANTONIO
 //html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[2]/span[1]
 -
 1.0
-GIULIANA ANTONIO
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/h1[1]
--
-1.0
 : GIULIANA ANTONIO
 //html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[1]/span[1]
+-
+1.0
+GIULIANA ANTONIO
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/h1[1]
 -
 0.8242075
 GIULIANA ANTONIO, Caltanissetta
@@ -98,12 +98,12 @@ GIULIANA ANTONIO
 //html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[2]/span[1]
 -
 0.696523
-GIULIANA ANTONIO
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/h1[1]
--
-0.696523
 : GIULIANA ANTONIO
 //html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[1]/span[1]
+-
+0.696523
+GIULIANA ANTONIO
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/h1[1]
 -
 0.5768341
 GIULIANA ANTONIO, Caltanissetta
@@ -186,12 +186,12 @@ GIULIANA ANTONIO
 //html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[2]/span[1]
 -
 0.696523
-GIULIANA ANTONIO
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/h1[1]
--
-0.696523
 : GIULIANA ANTONIO
 //html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[1]/span[1]
+-
+0.696523
+GIULIANA ANTONIO
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/h1[1]
 -
 0.5768341
 GIULIANA ANTONIO, Caltanissetta
@@ -325,62 +325,6 @@ L'impresa si trova in provincia di Caltanissetta, nel Comune di BUTERA, in VIA G
           Visualizza altre informazioni
          
 //html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]
--
-0.16053389
-
-              VIA GIUSEPPE GIUSTI, 26, 50013
-             
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[2]/span[1]/div[2]
--
-0.13159353
-: 
-             
-             
-              VIA GIUSEPPE GIUSTI, 26, 50013
-             
-             
-             
-              CAMPI BISENZIO
-             
-             
-             
-              Firenze
-             
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[2]
--
-0.0843238
-L'impresa si trova in provincia di Firenze, nel Comune di CAMPI BISENZIO, in VIA GIUSEPPE GIUSTI, 26, 50013.
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[3]/ul[1]/li[1]
--
-0.060759388
-
-   Scopri tutte le informazioni di OSVALDO GIUSTI S.R.L. in Firenze (CAMPI BISENZIO). Codice Fiscale 05302..., VIA GIUSEPPE GIUSTI, 26, 50013. Prodotti, servizi e molto altro ancora.
-  
-//html[1]/body[1]/div[1]/div[1]/div[2]
--
-0.059607048
-
-          
-           : OSVALDO GIUSTI S.R.L.
-           : 
-             
-             
-              VIA GIUSEPPE GIUSTI, 26, 50013
-             
-             
-             
-              CAMPI BISENZIO
-             
-             
-             
-              Firenze
-             
-           : SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
-           Attività: Compravendita di beni immobili effettuata su beni propri
-           : 5302...Vedi Codice Fiscale
-          Visualizza altre informazioni
-         
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]
 __________________
 Via Giacomo Matteotti Butera
 ---
@@ -454,65 +398,9 @@ L'impresa si trova in provincia di Caltanissetta, nel Comune di BUTERA, in VIA G
          
 //html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]
 -
-0.16053389
-
-              VIA GIUSEPPE GIUSTI, 26, 50013
-             
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[2]/span[1]/div[2]
--
-0.13159353
-: 
-             
-             
-              VIA GIUSEPPE GIUSTI, 26, 50013
-             
-             
-             
-              CAMPI BISENZIO
-             
-             
-             
-              Firenze
-             
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[2]
--
 0.13133694
 Minimercati ed altri esercizi non specializzati di alimentari vari, BUTERA
 //html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/p[1]
--
-0.0843238
-L'impresa si trova in provincia di Firenze, nel Comune di CAMPI BISENZIO, in VIA GIUSEPPE GIUSTI, 26, 50013.
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[3]/ul[1]/li[1]
--
-0.060759388
-
-   Scopri tutte le informazioni di OSVALDO GIUSTI S.R.L. in Firenze (CAMPI BISENZIO). Codice Fiscale 05302..., VIA GIUSEPPE GIUSTI, 26, 50013. Prodotti, servizi e molto altro ancora.
-  
-//html[1]/body[1]/div[1]/div[1]/div[2]
--
-0.059607048
-
-          
-           : OSVALDO GIUSTI S.R.L.
-           : 
-             
-             
-              VIA GIUSEPPE GIUSTI, 26, 50013
-             
-             
-             
-              CAMPI BISENZIO
-             
-             
-             
-              Firenze
-             
-           : SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
-           Attività: Compravendita di beni immobili effettuata su beni propri
-           : 5302...Vedi Codice Fiscale
-          Visualizza altre informazioni
-         
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]
 __________________
 
               Informazioni aggiuntive su Giuliana Antonio  
@@ -528,12 +416,12 @@ GIULIANA ANTONIO
 //html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[2]/span[1]
 -
 0.44750065
-GIULIANA ANTONIO
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/h1[1]
--
-0.44750065
 : GIULIANA ANTONIO
 //html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[1]/span[1]
+-
+0.44750065
+GIULIANA ANTONIO
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/h1[1]
 -
 0.3688334
 GIULIANA ANTONIO, Caltanissetta
@@ -554,14 +442,6 @@ Geolocalizzazione di GIULIANA ANTONIO
    Scopri tutte le informazioni di GIULIANA ANTONIO in Caltanissetta (BUTERA). Contatto telefonico 09343..., Codice Fiscale GLNNT..., VIA G. MATTEOTTI, 80, 93011. Prodotti, servizi e molto altro ancora.
   
 //html[1]/body[1]/div[1]/div[1]/div[2]
--
-0.15959232
-Informazioni commerciali di OSVALDO GIUSTI S.R.L. 
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[4]/h2[1]
--
-0.15959232
-Informazioni generali di OSVALDO GIUSTI S.R.L. 
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[3]/h2[1]
 -
 0.14994323
 Vuoi sapere come arrivare a GIULIANA ANTONIO?
@@ -592,10 +472,6 @@ Vuoi sapere come arrivare a GIULIANA ANTONIO?
          
 //html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]
 -
-0.12911582
- Per maggiori informazioni su OSVALDO GIUSTI S.R.L. o sul suo settore, 
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[4]/ul[1]/li[4]
--
 0.12910466
 L'attività svolta da GIULIANA ANTONIO è "Minimercati ed altri esercizi non specializzati di alimentari vari".
 //html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[3]/ul[1]/li[3]
@@ -615,36 +491,6 @@ La ditta GIULIANA ANTONIO è registrata come IMPRESA INDIVIDUALE - Individuali o
 0.086660124
 Compila il form e accedi gratuitamente alla Scheda azienda di GIULIANA ANTONIO e altre aziende
 //html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[3]/h2[1]
--
-0.060759388
-
-   Scopri tutte le informazioni di OSVALDO GIUSTI S.R.L. in Firenze (CAMPI BISENZIO). Codice Fiscale 05302..., VIA GIUSEPPE GIUSTI, 26, 50013. Prodotti, servizi e molto altro ancora.
-  
-//html[1]/body[1]/div[1]/div[1]/div[2]
--
-0.059607048
-
-          
-           : OSVALDO GIUSTI S.R.L.
-           : 
-             
-             
-              VIA GIUSEPPE GIUSTI, 26, 50013
-             
-             
-             
-              CAMPI BISENZIO
-             
-             
-             
-              Firenze
-             
-           : SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
-           Attività: Compravendita di beni immobili effettuata su beni propri
-           : 5302...Vedi Codice Fiscale
-          Visualizza altre informazioni
-         
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]
 __________________
  93011 Butera (CL)
 ---

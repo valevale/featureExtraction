@@ -1,0 +1,197 @@
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]
+ 
+        
+        Via Roma 31/35   65122 Pescara  (PE) 
+         
+        
+        08527666  
+        
+       Fax: 08527666  
+       Pietre Preziose a Pescara
+        
+        
+         
+         Modifica Dati 
+          
+         Elimina Azienda 
+         
+        
+        
+      
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[2]
+Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[1]
+
+    > 
+   Abruzzo > 
+   Pescara > 
+   Pescara 
+  
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/strong[3]
+Fax:
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[3]
+PE
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[1]/span[1]/strong[1]
+Aziende Simili:
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/span[1]/h5[1]
+ PIETRE PREZIOSE 
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]
+Modifica Dati
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/a[2]
+Elimina Azienda
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[2]
+ 
+      Compro Oro Gold 2000 Di Sepiaci Sergio
+       Via Clemente De Cesaris 24/1
+       65122 - Pescara 
+     
+________________________________________________________________________
+//html[1]/body[1]/div[1]
+ 
+     
+  
+  
+  
+    > 
+   Abruzzo > 
+   Pescara > 
+   Pescara 
+   
+   
+    
+    Lupo Italo - Pescara  
+    
+    
+     
+     
+      
+       Lupo Italo  PIETRE PREZIOSE   
+       
+        
+        Via Roma 31/35   65122 Pescara  (PE) 
+         
+        
+        08527666  
+        
+       Fax: 08527666  
+       Pietre Preziose a Pescara
+        
+        
+         
+         Modifica Dati 
+          
+         Elimina Azienda 
+         
+        
+        
+       
+      
+     
+     
+     
+     
+      Aziende Simili: 
+       
+      
+      Compro Oro Gold 2000 Di Sepiaci Sergio
+       Via Clemente De Cesaris 24/1
+       65122 - Pescara 
+      
+      
+      Cde Gems
+       Via Giuseppe Mazzini 106
+       65122 - Pescara 
+      
+      
+      Maggi Gmd
+       Via Alcide De Gasperi 8
+       65121 - Pescara 
+      
+     
+     
+     
+     
+    
+     Scrivi la tua recensione per Lupo Italo - Pescara:
+      
+      
+     
+     
+      
+       
+    
+   
+   
+   
+            
+          
+       
+  >   
+
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[4]/a[1]
+Maggi Gmd
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[4]
+ 
+      Maggi Gmd
+       Via Alcide De Gasperi 8
+       65121 - Pescara 
+     
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[8]
+
+     Scrivi la tua recensione per Lupo Italo - Pescara:
+      
+      
+    
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[3]
+ 
+      Cde Gems
+       Via Giuseppe Mazzini 106
+       65122 - Pescara 
+     
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[1]/a[4]
+Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]
+ Via Roma 31/35   65122 Pescara  (PE) 
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[2]/a[1]
+Compro Oro Gold 2000 Di Sepiaci Sergio
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[3]/a[1]
+Cde Gems
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[1]/a[3]
+Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/h1[1]
+Lupo Italo - Pescara 
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/strong[4]/a[1]
+Pietre Preziose a Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[1]/a[2]
+Abruzzo
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[1]
+65122
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/span[1]/strong[1]/h2[1]
+Lupo Italo
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[2]
+ 08527666 
+________________________________________________________________________

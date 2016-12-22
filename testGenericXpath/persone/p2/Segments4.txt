@@ -1,0 +1,420 @@
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+
+        Pescara
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[4]/div[2]/a[1]
+Architetti, studi architettura Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[5]/div[1]
+
+        679
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[3]/div[2]/a[1]
+Dentista Dott. Guiducci Giuseppe
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]
+
+           347 3210163
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[7]
+ 
+           Consulenze
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[3]/div[1]
+
+        1301
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]
+
+        Descrizione attività: 
+        
+        Avvocato Fabio Sarra offre consulenze telefoniche e on-line. Esperienza ventennale in diritto civile e penale. Offre ai Colleghi Avvocati un servizio di domiciliazione davanti Corte dei Conti, Corte di Cassazione Civile, Penale e del Lavoro.
+        
+        
+        Prodotti e servizi:
+        
+        
+          
+           Diritto civile
+         
+          
+           Diritto penale
+         
+          
+           Corte dei Conti
+         
+          
+           Patrocinio
+         
+          
+           Corte di Cassazione
+         
+          
+           Consiglio di Stato
+         
+          
+           Consulenze
+         
+        
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+Avvocato Fabio Sarra
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[5]/div[1]
+
+        Pescara
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/span[1]/a[1]
+ Impresa Verificata   |   
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]
+ 
+           Diritto civile
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/b[1]
+Descrizione attività
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[11]/div[1]/a[1]
+Risultati di ricerca per Avvocato Fabio Sarra
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]
+
+           442 mt
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]
+
+           804 mt
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]
+Bartoli Avv. Pier Luigi
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+00153
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]
+
+           232 mt
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[1]/a[1]
+Tricanico Avv. Francesco
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[3]/div[2]/a[1]
+Commercialisti - studio commercialista Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+
+          Roma (RM)
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/a[1]
+Bernetti Avv. Maria
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[5]/div[2]/a[1]
+Ingegneri Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[1]
+
+           551 mt
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+Avvocato Fabio Sarra - Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/b[2]
+Prodotti e servizi
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+Avvocato Fabio Sarra
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[6]/div[1]/span[1]/h4[1]
+Scrivi la tua recensione di Avvocato Fabio Sarra
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[1]/div[2]/a[1]
+Notai Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+Via Di Pietra Papa, 4
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[1]
+
+        1483
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[1]/a[1]
+Studio Legale Petrilli
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+00153
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+Via Panfilo Castaldi 8
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+00146
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+00153
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
+Avvocati
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+
+       Avvocato Fabio Sarra
+       Patrocinante in Cassazione
+       
+        
+         
+          
+         
+         
+          Via Panfilo Castaldi 8
+         
+         
+          
+         
+         
+          00153
+         
+         
+          
+         
+         
+          Roma (RM)
+         
+        
+        
+        
+         
+         
+         
+         
+           347 3210163
+         
+         
+           
+          mostra email  
+         
+         
+           
+          www.avvocatofabiosarra.it
+         
+        
+        
+        
+         
+          
+         
+         
+          Avvocati a Roma
+          
+         
+        
+         
+        
+       
+         
+          Impresa Verificata   |    
+        
+        
+        Opzioni 
+       
+      
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[6]
+ 
+           Consiglio di Stato
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]
+
+           427 mt
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[1]/div[1]
+
+        1800
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/a[1]
+Antetomaso Avv. Erasmo Studio Legale
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]
+
+            Studio Legale Tributario
+           
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[5]/div[2]/a[1]
+Ing. Perfetti Pierluigi
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+Piazza Della Radio, 14
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+Via Nievo Ippolito, 61
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[4]/div[1]
+
+        Pescara
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[2]
+
+           
+          mostra email  
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[6]/div[2]/a[1]
+Lupo Italo
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[3]/a[1]
+www.avvocatofabiosarra.it
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
+Categorie correlate a Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+Via Oderisi Da Gubbio, 62
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]
+
+           529 mt
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[4]/div[1]
+
+        1131
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/span[1]/a[1]
+Lazio
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+00146
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]
+
+          
+           Diritto civile
+         
+          
+           Diritto penale
+         
+          
+           Corte dei Conti
+         
+          
+           Patrocinio
+         
+          
+           Corte di Cassazione
+         
+          
+           Consiglio di Stato
+         
+          
+           Consulenze
+         
+        
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
+
+        Roma
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+00153
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]
+ 
+           Diritto penale
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+Avvocato Fabio Sarra offre consulenze telefoniche e on-line. Esperienza ventennale in diritto civile e penale. Offre ai Colleghi Avvocati un servizio di domiciliazione davanti Corte dei Conti, Corte di Cassazione Civile, Penale e del Lavoro.
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+Patrocinante in Cassazione
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+00146
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+Via Nievo Ippolito, 61
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[3]/div[1]
+
+        Pescara
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[6]/div[1]
+
+        Pescara
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+Viale Di Trastevere, 259
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
+Associazioni sindacali Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]/div[2]/a[1]
+Avvocati a Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]
+
+            Via Di Pietra Papa, 4 - 
+            00146 
+            Roma
+           
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[4]/div[2]/a[1]
+Sargiacomo Ing. Silvio
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[1]/a[1]
+A.t.i.c. - Assistenza Tutela Interessi Collettivi
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[2]/a[1]
+mostra email
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[2]/a[1]
+Studio di architettura Antonio Sabatino
+________________________________________________________________________

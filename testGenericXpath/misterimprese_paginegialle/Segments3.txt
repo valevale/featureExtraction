@@ -1,131 +1,31 @@
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]
-
-           397 mt
-         
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[5]/span[1]
+Gio
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
-Via Tommaso Da Celano, 10
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
-65127
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]
-
-         Chiuso in questo momento
-       
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]
-Società Di Ingegneria Regionale S.p.a.
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
-Pescara
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[1]
-
-        351
-       
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[4]/a[1]
-www.dfpconsulting.it
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[7]/span[1]
-Sab
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/span[1]
-Ven
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
-Via Tommaso Da Celano, 10
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
-Periti, danni, infortunistica stradale a Pescara
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/b[1]
-Descrizione attività
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/b[2]
-Prodotti e servizi
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
-Categorie correlate a Pescara
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[3]
-Studi tecnici a Pescara
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[7]/div[4]/span[1]
-2004
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/span[2]
-08562118
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/span[1]/a[2]
-Aggiornata 2 mesi fa  |   
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[1]/a[1]
-Michelini Gianfranco
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/span[2]
-Chiuso
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[5]/span[2]
-09:00 - 19:00
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]
-
-           397 mt
-         
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[11]/div[1]/a[1]
-Risultati di ricerca per Ing. Perfetti Pierluigi
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
-Viale Marconi Guglielmo, 316
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
-Pescara
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]
-
-           495 mt
-         
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/span[1]
-Dom
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[3]/a[1]
-mostra email
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
-Lo studio offre competenze per la Ricostruzione Cinematica di Incidenti o Sinistri Stradali, Lettura Scatola Nera, Comparativa dei Danni, Simulazione tramite software specifici.
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
-Ingegneri
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/a[1]
-Marzocchi Ing. Sergio
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/span[1]/a[1]
-Abruzzo
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[1]
-
-        112
-       
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[2]/a[1]
-Architetti, studi architettura Pescara
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
-Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[1]/a[1]
+Studio Tecnico Associato Studio Ass.michelini Bruni
 ________________________________________________________________________
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 65126
 ________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[7]/div[1]/b[1]
+N. Partita IVA:
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]
+ 
+           Progettazione Termoacustica
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+Via Tommaso Da Celano, 10
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+Pescara
+________________________________________________________________________
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[1]/a[1]
 Marzocchi Sergio
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[6]/div[1]/span[1]/h4[1]
-Scrivi la tua recensione di Ing. Perfetti Pierluigi
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+65127
 ________________________________________________________________________
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
 
@@ -134,45 +34,136 @@ ________________________________________________________________________
             Pescara
            
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]/a[1]
- Chiama
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[1]/span[1]/h4[1]
+Orari di apertura
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]
-
-           509 mt
-         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[7]/div[3]/b[1]
+Anno di Costituzione:
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/p[1]
-Orari di apertura Ing. Perfetti Pierluigi
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
-Ing. Perfetti Pierluigi
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
-Viale D'annunzio Gabriele, 267
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+Pescara
 ________________________________________________________________________
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[7]/div[8]/span[1]
 Pierluigi Perfetti
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[3]/span[2]
-09:00 - 19:00
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+Ricostruzione Incidenti Stradali
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]
+
+        Descrizione attività: 
+        
+        Lo studio offre competenze per la Ricostruzione Cinematica di Incidenti o Sinistri Stradali, Lettura Scatola Nera, Comparativa dei Danni, Simulazione tramite software specifici.
+        
+        
+        Prodotti e servizi:
+        
+        
+          
+           Progettazione Termoacustica
+         
+          
+           Analisi Rumore
+         
+          
+           Analisi Energetica negli Edifici
+         
+        
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+65127
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+
+          Pescara (PE)
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[3]
+Studi tecnici a Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+Pescara
 ________________________________________________________________________
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 Pescara
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]
+Società Di Ingegneria Regionale S.p.a.
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[1]
 
-           509 mt
+        520
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/span[2]
+08562118
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[7]/span[2]
+09:00 - 12:00
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]
+
+        Descrizione attività: 
+        
+        Lo studio offre competenze per la Ricostruzione Cinematica di Incidenti o Sinistri Stradali, Lettura Scatola Nera, Comparativa dei Danni, Simulazione tramite software specifici.
+        
+        
+        Prodotti e servizi:
+        
+        
+          
+           Progettazione Termoacustica
          
+          
+           Analisi Rumore
+         
+          
+           Analisi Energetica negli Edifici
+         
+        
+       
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/span[1]
-Lun
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+Ing. Perfetti Pierluigi
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[2]
-Ingegneri a Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/a[1]
+Mazzetta Geom. Giancarlo
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/span[2]
+09:00 - 19:00
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/p[1]
+Orari di apertura Ing. Perfetti Pierluigi
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+65127
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+Viale Gabriele d'Annunzio, 265
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[3]/span[1]
+Mar
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
+Associazioni sindacali Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+Ing. Perfetti Pierluigi - Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/span[1]
+Ven
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+
+            Studio di Ingegneria
+           
 ________________________________________________________________________
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 
@@ -275,183 +266,201 @@ ________________________________________________________________________
        
       
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[3]
-
-           
-          mostra email  
-         
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/span[1]
+Lun
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[1]/span[1]/h4[1]
-Orari di apertura
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
-Pescara
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[2]/a[1]
-Lupo Italo
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
-Commercialisti - studio commercialista Pescara
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[1]
-
-        240
-       
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[7]/div[2]/span[1]
-02335400699
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/span[2]
-09:00 - 19:00
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[1]
-
-            Studio Infortunistica Stradale
-           
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
-65127
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
-Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[7]/span[1]
+Sab
 ________________________________________________________________________
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
 
         Pescara
        
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[2]/span[2]
-09:00 - 19:00
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[2]/a[1]
+Architetti, studi architettura Pescara
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
-Viale Gabriele d'Annunzio, 265
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]
- 
-           Analisi Energetica negli Edifici
-         
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[1]
 
-          Pescara (PE)
+           509 mt
          
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
-65127
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[2]/a[1]
+Agenzie immobiliari Pescara
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
-65127
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/a[1]
-Mazzetta Geom. Giancarlo
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 Pescara
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[3]/span[1]
-Mar
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]
+
+           495 mt
+         
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/span[1]/a[1]
- Impresa Verificata   |   
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[1]/a[1]
+Michelini Gianfranco
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[4]/a[1]
+www.dfpconsulting.it
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+Viale Marconi Guglielmo, 316
 ________________________________________________________________________
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[2]
  
            Analisi Rumore
          
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
-65127
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/div[1]/div[3]
  
-           Progettazione Termoacustica
-         
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
-Pescara
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]
-
-        Descrizione attività: 
-        
-        Lo studio offre competenze per la Ricostruzione Cinematica di Incidenti o Sinistri Stradali, Lettura Scatola Nera, Comparativa dei Danni, Simulazione tramite software specifici.
-        
-        
-        Prodotti e servizi:
-        
-        
-          
-           Progettazione Termoacustica
-         
-          
-           Analisi Rumore
-         
-          
            Analisi Energetica negli Edifici
          
-        
-       
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[7]/div[5]/b[1]
-Numero di Dipendenti:
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/span[2]
+Chiuso
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
-Avvocati Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[7]/div[7]/b[1]
+Responsabile:
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[2]
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[5]/span[2]
+09:00 - 19:00
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]
 
-           393 0316464
+           509 mt
          
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[7]/span[2]
-09:00 - 12:00
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
-Ing. Perfetti Pierluigi - Pescara
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
-Associazioni sindacali Pescara
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/span[1]
-Mer
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[1]/a[1]
-Studio Tecnico Associato Studio Ass.michelini Bruni
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[2]/a[1]
-Agenzie immobiliari Pescara
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
-65127
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
-
-            Studio di Ingegneria
-           
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[7]/div[3]/b[1]
-Anno di Costituzione:
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[1]
-
-        122
-       
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
-Viale Marconi Guglielmo, 316
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+Categorie correlate a Pescara
 ________________________________________________________________________
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
 
         Pescara
        
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[2]
+
+           393 0316464
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[11]/div[1]/a[1]
+Risultati di ricerca per Ing. Perfetti Pierluigi
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
+Ingegneri
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/a[1]
+Marzocchi Ing. Sergio
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]
+
+           397 mt
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/span[1]/a[2]
+Aggiornata 2 mesi fa  |   
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]
+
+         Chiuso in questo momento
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/span[1]/a[1]
+ Impresa Verificata   |   
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+Ing. Perfetti Pierluigi
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[1]
+
+        112
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[8]/span[1]
+Dom
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]/a[1]
+ Chiama
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+Viale D'annunzio Gabriele, 267
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[1]
+
+        240
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[3]/span[2]
 09:00 - 19:00
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[7]/div[4]/span[1]
+2004
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]
 
-        520
-       
+           25 mt
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+Viale Marconi Guglielmo, 316
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+65127
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+Lo studio offre competenze per la Ricostruzione Cinematica di Incidenti o Sinistri Stradali, Lettura Scatola Nera, Comparativa dei Danni, Simulazione tramite software specifici.
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+65127
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+65127
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/b[1]
+Descrizione attività
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+Via Croce Benedetto, 206
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[2]
+Ingegneri a Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[7]/div[2]/span[1]
+02335400699
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[7]/div[5]/b[1]
+Numero di Dipendenti:
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[6]/span[2]
+09:00 - 19:00
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/span[1]
+Mer
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[3]
+
+           
+          mostra email  
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]
+
+           397 mt
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/span[1]/a[1]
+Abruzzo
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[3]/a[1]
+mostra email
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[4]/span[2]
+09:00 - 19:00
 ________________________________________________________________________
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]
 
@@ -460,48 +469,39 @@ ________________________________________________________________________
             Pescara
            
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
-Ing. Perfetti Pierluigi
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[6]/div[1]/span[1]/h4[1]
+Scrivi la tua recensione di Ing. Perfetti Pierluigi
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
-Via Croce Benedetto, 206
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[1]/div[1]/div[2]/div[1]/div[5]/span[1]
-Gio
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[1]
 
-        Descrizione attività: 
-        
-        Lo studio offre competenze per la Ricostruzione Cinematica di Incidenti o Sinistri Stradali, Lettura Scatola Nera, Comparativa dei Danni, Simulazione tramite software specifici.
-        
-        
-        Prodotti e servizi:
-        
-        
-          
-           Progettazione Termoacustica
-         
-          
-           Analisi Rumore
-         
-          
-           Analisi Energetica negli Edifici
-         
-        
+        122
        
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[7]/div[7]/b[1]
-Responsabile:
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[7]/div[1]/b[1]
-N. Partita IVA:
-________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[1]
 
-           25 mt
-         
+        351
+       
 ________________________________________________________________________
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
-Ricostruzione Incidenti Stradali
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+Periti, danni, infortunistica stradale a Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+Avvocati Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+Commercialisti - studio commercialista Pescara
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[1]
+
+            Studio Infortunistica Stradale
+           
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+Via Tommaso Da Celano, 10
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[2]/a[1]
+Lupo Italo
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/b[2]
+Prodotti e servizi
 ________________________________________________________________________

@@ -1,8 +1,9 @@
-
-        
-         Milano (MI)
-       
+ Milano
 ---
+-
+1.0
+Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
 -
 1.0
 Milano
@@ -15,133 +16,6 @@ Milano
 1.0
 Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
--
-1.0
-Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
--
-0.76141953
-
-               
-              Milano, 
-              Milano, Lombardia
-             
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.67974627
-Antonio Pagani - Milano - Milano, Lombardia
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
--
-0.6089263
-Elettricista Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
--
-0.6021945
- ANTONIO PAGANI | Milano 
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
--
-0.6021945
-Antonio Pagani Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
--
-0.506408
-Milano, Lombardia
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
--
-0.48105597
-Lavori Elettrici Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
--
-0.41075474
-via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
--
-0.40519366
-Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
--
-0.36521572
-Promozione E Riscatto Punti Premi Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
--
-0.14084865
-ALFACARS S.R.L. "TAXI PRIVATO" - "N.C.C." - MILANO - BERGAMO - BRESCIA - VERONA
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/ul[1]/li[3]/a[1]/span[1]
--
-0.11067575
- Il magazine della Rete Civica di Milano! ... Una breve rassegna, da diversi fra i numerosissimi siti, di come viene interpretato la festa del "fuoco di Sant'Antonio ...  
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[41]/td[2]/p[1]
-__________________
-Milano
----
--
-1.0
-Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
--
-1.0
-Milano
-//html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a[1]/span[1]
--
-1.0
-Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
--
-1.0
-Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
 -
 0.76141953
 
@@ -255,6 +129,10 @@ __________________
 -
 1.0
 Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
 -
 1.0
@@ -264,10 +142,6 @@ Milano
 1.0
 Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
--
-1.0
-Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
 -
 0.76141953
 
@@ -381,6 +255,10 @@ __________________
 -
 1.0
 Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
 -
 1.0
@@ -390,10 +268,6 @@ Milano
 1.0
 Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
--
-1.0
-Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
 -
 0.76141953
 
@@ -507,6 +381,10 @@ __________________
 -
 1.0
 Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
 -
 1.0
@@ -517,9 +395,257 @@ Milano
 Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
 -
+0.76141953
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.67974627
+Antonio Pagani - Milano - Milano, Lombardia
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.6089263
+Elettricista Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.6021945
+ ANTONIO PAGANI | Milano 
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.6021945
+Antonio Pagani Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.506408
+Milano, Lombardia
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.48105597
+Lavori Elettrici Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.41075474
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.40519366
+Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.36521572
+Promozione E Riscatto Punti Premi Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+-
+0.14084865
+ALFACARS S.R.L. "TAXI PRIVATO" - "N.C.C." - MILANO - BERGAMO - BRESCIA - VERONA
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.11067575
+ Il magazine della Rete Civica di Milano! ... Una breve rassegna, da diversi fra i numerosissimi siti, di come viene interpretato la festa del "fuoco di Sant'Antonio ...  
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[41]/td[2]/p[1]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
 1.0
 Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+1.0
+Milano
+//html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a[1]/span[1]
+-
+1.0
+Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
+-
+0.76141953
+
+               
+              Milano, 
+              Milano, Lombardia
+             
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.708765
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.67974627
+Antonio Pagani - Milano - Milano, Lombardia
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.6089263
+Elettricista Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
+-
+0.6021945
+ ANTONIO PAGANI | Milano 
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.6021945
+Antonio Pagani Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.506408
+Milano, Lombardia
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
+-
+0.48105597
+Lavori Elettrici Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
+-
+0.41075474
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.40519366
+Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
+-
+0.36521572
+Promozione E Riscatto Punti Premi Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
+-
+0.14084865
+ALFACARS S.R.L. "TAXI PRIVATO" - "N.C.C." - MILANO - BERGAMO - BRESCIA - VERONA
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/ul[1]/li[3]/a[1]/span[1]
+-
+0.11067575
+ Il magazine della Rete Civica di Milano! ... Una breve rassegna, da diversi fra i numerosissimi siti, di come viene interpretato la festa del "fuoco di Sant'Antonio ...  
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[41]/td[2]/p[1]
+__________________
+
+        
+         Milano (MI)
+       
+---
+-
+1.0
+Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
+-
+1.0
+Milano
+//html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a[1]/span[1]
+-
+1.0
+Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
 -
 0.76141953
 
@@ -630,6 +756,10 @@ __________________
 -
 1.0
 Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
 -
 1.0
@@ -639,10 +769,6 @@ Milano
 1.0
 Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
--
-1.0
-Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
 -
 0.76141953
 
@@ -756,6 +882,10 @@ __________________
 -
 1.0
 Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
 -
 1.0
@@ -765,10 +895,6 @@ Milano
 1.0
 Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
--
-1.0
-Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
 -
 0.76141953
 
@@ -874,8 +1000,12 @@ ALFACARS S.R.L. "TAXI PRIVATO" - "N.C.C." - MILANO - BERGAMO - BRESCIA - VERONA
  Il magazine della Rete Civica di Milano! ... Una breve rassegna, da diversi fra i numerosissimi siti, di come viene interpretato la festa del "fuoco di Sant'Antonio ...  
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[41]/td[2]/p[1]
 __________________
- Milano
+Milano
 ---
+-
+1.0
+Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
 -
 1.0
 Milano
@@ -888,136 +1018,6 @@ Milano
 1.0
 Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
--
-1.0
-Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
--
-0.76141953
-
-               
-              Milano, 
-              Milano, Lombardia
-             
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.708765
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.67974627
-Antonio Pagani - Milano - Milano, Lombardia
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
--
-0.6089263
-Elettricista Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[12]
--
-0.6021945
- ANTONIO PAGANI | Milano 
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
--
-0.6021945
-Antonio Pagani Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
--
-0.506408
-Milano, Lombardia
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[2]
--
-0.48105597
-Lavori Elettrici Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[13]
--
-0.41075474
-via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
--
-0.40519366
-Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[14]
--
-0.36521572
-Promozione E Riscatto Punti Premi Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[11]
--
-0.14084865
-ALFACARS S.R.L. "TAXI PRIVATO" - "N.C.C." - MILANO - BERGAMO - BRESCIA - VERONA
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/ul[1]/li[3]/a[1]/span[1]
--
-0.11067575
- Il magazine della Rete Civica di Milano! ... Una breve rassegna, da diversi fra i numerosissimi siti, di come viene interpretato la festa del "fuoco di Sant'Antonio ...  
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[41]/td[2]/p[1]
-__________________
-
-        
-         Milano (MI)
-       
----
--
-1.0
-Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
--
-1.0
-Milano
-//html[1]/body[1]/div[1]/div[2]/div[1]/div[1]/div[1]/span[1]/a[1]/span[1]
--
-1.0
-Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
--
-1.0
-Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
 -
 0.76141953
 
@@ -1131,6 +1131,10 @@ __________________
 -
 1.0
 Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
 -
 1.0
@@ -1140,10 +1144,6 @@ Milano
 1.0
 Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
--
-1.0
-Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
 -
 0.76141953
 
@@ -1257,6 +1257,10 @@ __________________
 -
 1.0
 Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+1.0
+Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
 -
 1.0
@@ -1266,10 +1270,6 @@ Milano
 1.0
 Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
--
-1.0
-Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
 -
 0.76141953
 
@@ -1411,47 +1411,11 @@ __________________
 -
 0.67660886
 39 0270630363
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[4]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/ul[1]/li[2]/a[1]/strong[1]
 -
 0.67660886
 39 0270630363
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/ul[1]/li[2]/a[1]/strong[1]
-__________________
-
-        
-         Via Carpi Eugenio, 13
-       
----
--
-0.672129
-via Eugenio Carpi 14
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
--
-0.5817295
-
-           via Eugenio Carpi 14, MI 20131
-          
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
--
-0.5817295
-via Eugenio Carpi 14, MI 20131
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
--
-0.4851324
-via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
--
-0.4781594
-via Eugenio Carpi 14MI 20131MilanoMilano, Lombardia
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]
--
-0.12310311
- [Comunicato stampa del 13 luglio 2012] Quale futuro ci aspetta? Domande per alcune risposte indispensabili. Lo scorso 5 luglio la Giunta Comunale ha approvato e ...  
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
--
-0.0699546
- parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[4]
 __________________
 
         
@@ -1491,7 +1455,43 @@ via Eugenio Carpi 14MI 20131MilanoMilano, Lombardia
 __________________
 
         
-         Via Carpi Eugenio, 11
+         Via Carpi Eugenio, 13
+       
+---
+-
+0.672129
+via Eugenio Carpi 14
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]/span[1]
+-
+0.5817295
+
+           via Eugenio Carpi 14, MI 20131
+          
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
+-
+0.5817295
+via Eugenio Carpi 14, MI 20131
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[1]/span[1]
+-
+0.4851324
+via Eugenio Carpi 14, Milano, Milano, Lombardia, MI 20131
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[4]/span[1]
+-
+0.4781594
+via Eugenio Carpi 14MI 20131MilanoMilano, Lombardia
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[2]
+-
+0.12310311
+ [Comunicato stampa del 13 luglio 2012] Quale futuro ci aspetta? Domande per alcune risposte indispensabili. Lo scorso 5 luglio la Giunta Comunale ha approvato e ...  
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/p[1]
+-
+0.0699546
+ parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[45]/td[2]/p[1]
+__________________
+
+        
+         Via Carpi Eugenio, 7
        
 ---
 -
@@ -1523,7 +1523,7 @@ via Eugenio Carpi 14MI 20131MilanoMilano, Lombardia
 __________________
 
         
-         Via Carpi Eugenio, 7
+         Via Carpi Eugenio, 11
        
 ---
 -
@@ -1570,23 +1570,27 @@ Antonio Pagani
 -
 0.50403917
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
--
-0.50403917
-Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
 -
 0.50403917
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
 -
 0.50403917
 Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
 -
+0.50403917
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
 0.48735145
 Antonio Pagani - Milano - Milano, Lombardia
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.38541245
+Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
 -
 0.38541245
 Milano
@@ -1599,10 +1603,6 @@ Milano
 0.38541245
 Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
--
-0.38541245
-Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
 -
 0.37721074
  Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
@@ -1689,19 +1689,19 @@ Antonio Pagani
 -
 0.5462392
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
--
-0.5462392
-Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
 -
 0.5462392
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
 -
 0.5462392
 Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.5462392
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
 -
 0.4315535
  ANTONIO PAGANI | Milano 
@@ -1812,19 +1812,19 @@ Antonio Pagani
 -
 0.5462392
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
--
-0.5462392
-Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
 -
 0.5462392
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
 -
 0.5462392
 Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.5462392
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
 -
 0.4315535
  ANTONIO PAGANI | Milano 
@@ -1935,19 +1935,19 @@ Antonio Pagani
 -
 0.5462392
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
--
-0.5462392
-Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
 -
 0.5462392
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
 -
 0.5462392
 Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.5462392
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
 -
 0.4315535
  ANTONIO PAGANI | Milano 
@@ -2058,19 +2058,19 @@ Antonio Pagani
 -
 0.5462392
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
--
-0.5462392
-Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
 -
 0.5462392
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
 -
 0.5462392
 Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.5462392
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
 -
 0.4315535
  ANTONIO PAGANI | Milano 
@@ -2181,19 +2181,19 @@ Antonio Pagani
 -
 0.5462392
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
--
-0.5462392
-Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
 -
 0.5462392
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
 -
 0.5462392
 Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.5462392
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
 -
 0.4315535
  ANTONIO PAGANI | Milano 
@@ -2304,19 +2304,19 @@ Antonio Pagani
 -
 0.5462392
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
--
-0.5462392
-Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
 -
 0.5462392
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
 -
 0.5462392
 Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.5462392
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
 -
 0.4315535
  ANTONIO PAGANI | Milano 
@@ -2427,19 +2427,19 @@ Antonio Pagani
 -
 0.5462392
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
--
-0.5462392
-Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
 -
 0.5462392
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
 -
 0.5462392
 Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.5462392
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
 -
 0.4315535
  ANTONIO PAGANI | Milano 
@@ -2550,19 +2550,19 @@ Antonio Pagani
 -
 0.5462392
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
--
-0.5462392
-Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
 -
 0.5462392
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
 -
 0.5462392
 Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.5462392
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
 -
 0.4315535
  ANTONIO PAGANI | Milano 
@@ -2693,7 +2693,7 @@ via Eugenio Carpi 14MI 20131MilanoMilano, Lombardia
  Incarichi: Componente della Commissione speciale per l'esame di disegni di legge di conversione di Decreti-legge. Componente della commissione "V Bilancio Tesoro e ...  
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/p[1]
 __________________
-Aziende Lombardia > 
+Aziende Lombardia
 ---
 -
 0.5095471
@@ -2728,7 +2728,7 @@ via Eugenio Carpi 14MI 20131MilanoMilano, Lombardia
  Ospedale S.Antonio Gallarate ... Da giovedì 15 settembre 2011, entra a regime la circolare della regione Lombardia che prevede il riconoscimento del diritto di ...  
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[15]/td[2]/p[1]
 __________________
-Aziende Lombardia
+Aziende Lombardia > 
 ---
 -
 0.5095471
@@ -2772,6 +2772,10 @@ Azienda Ospedaliera S. Antonio Gallarate
 -
 0.41655073
 Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+0.41655073
+Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
 -
 0.41655073
@@ -2781,10 +2785,6 @@ Milano
 0.41655073
 Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
--
-0.41655073
-Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
 -
 0.31716987
 
@@ -2899,6 +2899,10 @@ Azienda Ospedaliera S. Antonio Gallarate
 -
 0.41655073
 Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
+-
+0.41655073
+Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[2]
 -
 0.41655073
@@ -2908,10 +2912,6 @@ Milano
 0.41655073
 Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
--
-0.41655073
-Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
 -
 0.31716987
 
@@ -3026,19 +3026,19 @@ Antonio Pagani
 -
 0.3789825
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
--
-0.3789825
-Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
 -
 0.3789825
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
 -
 0.3789825
 Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.3789825
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
 -
 0.2994132
  ANTONIO PAGANI | Milano 
@@ -3175,19 +3175,19 @@ Antonio Pagani
 -
 0.2449259
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
--
-0.2449259
-Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
 -
 0.2449259
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
 -
 0.2449259
 Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.2449259
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
 -
 0.23681688
 Antonio Pagani - Milano - Milano, Lombardia
@@ -3196,6 +3196,10 @@ Antonio Pagani - Milano - Milano, Lombardia
 0.21137479
  Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+-
+0.18728206
+Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
 -
 0.18728206
 Milano
@@ -3208,10 +3212,6 @@ Milano
 0.18728206
 Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
--
-0.18728206
-Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
 -
 0.18329662
  Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
@@ -3300,19 +3300,19 @@ Antonio Pagani
 -
 0.2449259
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
--
-0.2449259
-Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
 -
 0.2449259
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
 -
 0.2449259
 Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.2449259
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
 -
 0.23681688
 Antonio Pagani - Milano - Milano, Lombardia
@@ -3321,6 +3321,10 @@ Antonio Pagani - Milano - Milano, Lombardia
 0.21137479
  Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+-
+0.18728206
+Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
 -
 0.18728206
 Milano
@@ -3333,10 +3337,6 @@ Milano
 0.18728206
 Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[2]
--
-0.18728206
-Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/div[3]/a[1]
 -
 0.18329662
  Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
@@ -3439,129 +3439,6 @@ Brescia
 ALFACARS S.R.L. "TAXI PRIVATO" - "N.C.C." - MILANO - BERGAMO - BRESCIA - VERONA
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]/ul[1]/li[3]/a[1]/span[1]
 __________________
-Vuoi telefonare a antonio pagani srl?
----
--
-0.3075333
-Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/h3[1]/a[1]
--
-0.3075333
-Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
--
-0.3075333
-Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
--
-0.3075333
-Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
--
-0.3075333
-Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
--
-0.24296515
- ANTONIO PAGANI | Milano 
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
--
-0.24296515
-Antonio Pagani Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
--
-0.18583114
-Planet House srl - Agenzia Immobiliare
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
--
-0.1432173
-Valutazioni di Antonio Pagani:
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong[1]
--
-0.13612805
-Antonio Pagani - Milano - Milano, Lombardia
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
--
-0.12011043
- Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
--
-0.10725175
-Contenuti correlati per: Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
--
-0.08940169
-Antonio Pagani per Cantù — Candidato sindaco per le ...
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
--
-0.0882641
-Padre Antonio Pagani, dell'Ordine dei Francescani minori è il ...
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/span[1]
--
-0.07202973
-FAN ART - Production Designer di Antonio Calabrese - Pagani …
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/span[1]
--
-0.06365249
-Antonio Borghesi
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/span[1]
--
-0.06365249
-Sant' Antonio
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
-__________________
 Scrivi la tua recensione su antonio pagani srl:
 ---
 -
@@ -3571,126 +3448,7 @@ Antonio Pagani
 -
 0.3075333
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
--
-0.3075333
-Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
--
-0.3075333
-Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
--
-0.3075333
-Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
--
-0.24296515
- ANTONIO PAGANI | Milano 
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
--
-0.24296515
-Antonio Pagani Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
--
-0.18583114
-Planet House srl - Agenzia Immobiliare
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
--
-0.1432173
-Valutazioni di Antonio Pagani:
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong[1]
--
-0.13612805
-Antonio Pagani - Milano - Milano, Lombardia
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
--
-0.12011043
- Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
--
-0.10725175
-Contenuti correlati per: Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
--
-0.08940169
-Antonio Pagani per Cantù — Candidato sindaco per le ...
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
--
-0.0882641
-Padre Antonio Pagani, dell'Ordine dei Francescani minori è il ...
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/span[1]
--
-0.07202973
-FAN ART - Production Designer di Antonio Calabrese - Pagani …
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/span[1]
--
-0.06365249
-Antonio Borghesi
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/span[1]
--
-0.06365249
-Sant' Antonio
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
--
-0.062913224
- Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
-__________________
-Scrivi la tua recensione su antonio pagani srl:
----
--
-0.3075333
-Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/h3[1]/a[1]
 -
 0.3075333
 Antonio Pagani
@@ -3698,15 +3456,11 @@ Antonio Pagani
 -
 0.3075333
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
 -
 0.3075333
 Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
--
-0.3075333
-Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
 -
 0.24296515
  ANTONIO PAGANI | Milano 
@@ -3817,7 +3571,126 @@ Antonio Pagani
 -
 0.3075333
 Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
+-
+0.3075333
+Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.3075333
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.3075333
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.24296515
+ ANTONIO PAGANI | Milano 
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.24296515
+Antonio Pagani Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.18583114
+Planet House srl - Agenzia Immobiliare
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
+-
+0.1432173
+Valutazioni di Antonio Pagani:
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong[1]
+-
+0.13612805
+Antonio Pagani - Milano - Milano, Lombardia
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.12011043
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+-
+0.10725175
+Contenuti correlati per: Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.08940169
+Antonio Pagani per Cantù — Candidato sindaco per le ...
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.0882641
+Padre Antonio Pagani, dell'Ordine dei Francescani minori è il ...
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/span[1]
+-
+0.07202973
+FAN ART - Production Designer di Antonio Calabrese - Pagani …
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/span[1]
+-
+0.06365249
+Antonio Borghesi
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/span[1]
+-
+0.06365249
+Sant' Antonio
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+__________________
+Scrivi la tua recensione su antonio pagani srl:
+---
+-
+0.3075333
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/h3[1]/a[1]
 -
 0.3075333
 Antonio Pagani
@@ -3825,11 +3698,138 @@ Antonio Pagani
 -
 0.3075333
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
 -
 0.3075333
 Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.3075333
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+-
+0.24296515
+ ANTONIO PAGANI | Milano 
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[2]/div[1]/h1[1]
+-
+0.24296515
+Antonio Pagani Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[8]
+-
+0.18583114
+Planet House srl - Agenzia Immobiliare
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/span[1]
+-
+0.1432173
+Valutazioni di Antonio Pagani:
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[2]/div[1]/span[1]/strong[1]
+-
+0.13612805
+Antonio Pagani - Milano - Milano, Lombardia
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/h2[1]
+-
+0.12011043
+ Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
+-
+0.10725175
+Contenuti correlati per: Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/div[1]/span[1]
+-
+0.08940169
+Antonio Pagani per Cantù — Candidato sindaco per le ...
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[1]/td[2]/span[1]
+-
+0.0882641
+Padre Antonio Pagani, dell'Ordine dei Francescani minori è il ...
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[3]/td[2]/span[1]
+-
+0.07202973
+FAN ART - Production Designer di Antonio Calabrese - Pagani …
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[5]/td[2]/span[1]
+-
+0.06365249
+Antonio Borghesi
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[33]/td[2]/span[1]
+-
+0.06365249
+Sant' Antonio
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[19]/td[2]/span[1]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+-
+0.062913224
+ Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
+__________________
+Vuoi telefonare a antonio pagani srl?
+---
+-
+0.3075333
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[1]/div[1]/div[3]/h3[1]/a[1]
+-
+0.3075333
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
+-
+0.3075333
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
+-
+0.3075333
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.3075333
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
 -
 0.24296515
  ANTONIO PAGANI | Milano 
@@ -3940,19 +3940,19 @@ Antonio Pagani
 -
 0.23705344
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
--
-0.23705344
-Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
 -
 0.23705344
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
 -
 0.23705344
 Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.23705344
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
 -
 0.18728288
  ANTONIO PAGANI | Milano 
@@ -4059,11 +4059,11 @@ antonio pagani srl non risponde se chiami il numero di telefono 0270630363?
 -
 0.23115489
 39 0270630363
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[4]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/ul[1]/li[2]/a[1]/strong[1]
 -
 0.23115489
 39 0270630363
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/ul[1]/li[2]/a[1]/strong[1]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[4]
 -
 0.22279039
 Antonio Pagani
@@ -4071,19 +4071,19 @@ Antonio Pagani
 -
 0.22279039
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
--
-0.22279039
-Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
 -
 0.22279039
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
 -
 0.22279039
 Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.22279039
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
 -
 0.17601441
  ANTONIO PAGANI | Milano 
@@ -4177,7 +4177,7 @@ Sant' Antonio
  Antonio Pagani, Milano, Stoffa, Promozione E Riscatto Punti Premi, Elettricista, Lavori Elettrici, Pompe E Attrezzature Per Pompaggio, Antonio Pagani Milano, Milano Milano, Stoffa Milano, Promozione E Riscatto Punti Premi Milano, Elettricista Milano, Lavori Elettrici Milano, Pompe E Attrezzature Per Pompaggio Milano
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]
 __________________
-mitek impianti srl
+emmegi gomme srl
 ---
 -
 0.1952957
@@ -4188,7 +4188,7 @@ Planet House srl - Agenzia Immobiliare
  Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
 __________________
-emmegi gomme srl
+mitek impianti srl
 ---
 -
 0.1952957
@@ -4229,11 +4229,11 @@ via Eugenio Carpi 14MI 20131MilanoMilano, Lombardia
 -
 0.0915384
  Home; Diocesi. Anno Pastorale 2011/12. Sosta Ecclesiale. Lettera del Vescovo; Informazioni e note; Relatori; Cortili dell’Evangelizzazione; Logo Sosta Ecclesiale  
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[25]/td[2]/p[1]
 -
 0.0915384
  Home; Diocesi. Anno Pastorale 2011/12. Sosta Ecclesiale. Lettera del Vescovo; Informazioni e note; Relatori; Cortili dell’Evangelizzazione; Logo Sosta Ecclesiale  
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[25]/td[2]/p[1]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[9]/td[2]/p[1]
 -
 0.05831475
  parrocchia s. antonio di padova. poggiomarino - napoli- parrocchia di s. antonio di padova poggiomarino - na - via g. iervolino 115 ...  
@@ -4348,19 +4348,19 @@ Antonio Pagani
 -
 0.11503007
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
--
-0.11503007
-Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
 -
 0.11503007
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
 -
 0.11503007
 Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.11503007
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
 -
 0.091173045
  ANTONIO PAGANI | Milano 
@@ -4451,19 +4451,19 @@ Antonio Pagani
 -
 0.15537946
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
--
-0.15537946
-Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/ul[1]/li[4]/div[1]/p[2]/a[1]
 -
 0.15537946
 Antonio Pagani
-//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[4]/div[1]/span[1]
 -
 0.15537946
 Antonio Pagani
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/strong[1]
+-
+0.15537946
+Antonio Pagani
+//html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[1]/div[1]/div[1]/div[2]/table[1]/tbody[1]/tr[1]/td[1]/div[1]/span[2]/a[1]
 -
 0.15031624
 Azienda Ospedaliera S. Antonio Gallarate
@@ -4576,14 +4576,14 @@ Planet House srl - Agenzia Immobiliare
  Planet House srl: trova la tua casa da noi, immobili in tutto il mondo, in particolare a Nocera Inferiore e nella provincia di Salerno  
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[21]/td[2]/p[1]
 __________________
-Sesto San Giovanni
+San Donato Milanese
 ---
 -
 0.12134682
  Nato a San Floro (CZ), vive e lavora a Roma. Giornalista, scrittore, collaboratore di periodici, riviste, del sito www.paesionline.ite corrispondente de "il ...  
 //html[1]/body[1]/div[1]/div[2]/div[3]/div[3]/div[2]/table[1]/tbody[1]/tr[7]/td[2]/p[1]
 __________________
-San Donato Milanese
+Sesto San Giovanni
 ---
 -
 0.12134682

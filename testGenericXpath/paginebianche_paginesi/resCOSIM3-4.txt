@@ -21,10 +21,6 @@ odontoiatra
 //html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[1]
 -
 0.4139397
-Dentisti
-//html[1]/body[1]/div[3]/div[2]/ul[1]/li[15]/a[1]
--
-0.4139397
 DENTISTI
 //html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[5]/span[1]/a[1]
 -
@@ -32,47 +28,9 @@ DENTISTI
  dentista
 //html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[2]
 -
-0.4094084
+0.4139397
 Dentisti
 //html[1]/body[1]/div[3]/div[2]/ul[1]/li[15]/a[1]
--
-0.049424656
-  
-  
-   Scegli una categoria
-   Abbigliamento
-   Agenzia viaggi
-   Agenzie funebri
-   Agenzie immobiliari
-   Alberghi
-   Antincendio
-   Arredamenti
-   Arredamento per negozi
-   Arredamento ufficio
-   Automobili
-   Avvocati
-   Ceramiche
-   Costruzioni meccaniche
-   Dentisti
-   Elettrodomestici
-   Estetiste
-   Giardinaggio
-   Gru
-   Impianti di condizionamento
-   Impianti di riscaldamento
-   Impianti elettrici
-   Imprese edili
-   Ottica ed occhiali
-   Palestre
-   Piscine
-   Ricevimenti
-   Ristoranti
-   Scuole di lingua
-   Serramenti
-   Traslochi
-    Close Menu 
- 
-//html[1]/body[1]/div[3]/div[2]
 -
 0.043551076
   
@@ -248,14 +206,14 @@ V. 14 Luglio, 33 - Levane - 52025 Montevarchi (Arezzo)
 //html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]
 -
 0.07189472
+Arezzo
+//html[1]/body[1]/div[3]/div[3]/a[1]/h1[1]
+-
+0.07189472
 
        Arezzo 
      
 //html[1]/body[1]/div[3]/div[4]/div[1]/div[1]/div[1]/div[1]
--
-0.07189472
-Arezzo
-//html[1]/body[1]/div[3]/div[3]/a[1]/h1[1]
 -
 0.050889313
 Cambia Provincia
@@ -265,21 +223,9 @@ Cambia Provincia
    ArezzoCambia Provincia 
 //html[1]/body[1]/div[3]/div[3]/a[1]
 -
-0.048594266
-Cambia Provincia
-//html[1]/body[1]/div[3]/div[3]/a[1]/span[1]
--
-0.048594266
-   La SpeziaCambia Provincia 
-//html[1]/body[1]/div[3]/div[3]/a[1]
--
 0.034126755
 V. 14 Luglio, 33 - Levane
 //html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[1]
--
-0.015188036
-DIR. SANITARIA DOTT.SSA LOREDANA ANGELELLI da lunedi' a sabato 9:30-12:00 / 15:30-19:00 CHIUSO GIOVEDI' MATTINA E SABATO POMERIGGIO
-//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[3]
 __________________
 
             Z34/07/14/00/001/Z34071400001
@@ -289,10 +235,6 @@ __________________
 0.13600215
 V. 14 Luglio, 33 - Levane
 //html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/ul[1]/li[1]/span[1]/span[1]
--
-0.12649792
-DIR. SANITARIA DOTT.SSA LOREDANA ANGELELLI da lunedi' a sabato 9:30-12:00 / 15:30-19:00 CHIUSO GIOVEDI' MATTINA E SABATO POMERIGGIO
-//html[1]/body[1]/div[3]/div[4]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/ul[1]/li[3]
 -
 0.10885417
 V. 14 Luglio, 33 - Levane - 52025 Montevarchi (Arezzo)

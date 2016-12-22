@@ -1,23 +1,9 @@
-65127
+Pescara
 ---
 -
 1.0
-65127
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+Pescara
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
 -
 0.36159742
  
@@ -28,44 +14,6 @@
          
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
 -
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
-__________________
-Ing. Perfetti Pierluigi
----
--
-1.0
-
-      Ing. Perfetti Pierluigi
-     
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
--
-1.0
- Ing. Perfetti Pierluigi 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
-__________________
-Pescara
----
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
 0.36159742
 
              265, Vl. G. D'Annunzio
@@ -79,1327 +27,6 @@ Pescara
              65127 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
- 
-          265, Vl. G. D'Annunzio - 
-          65127 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.29376578
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.17734171
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.15354376
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.14929621
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
-__________________
-Pescara
----
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
- 
-          265, Vl. G. D'Annunzio - 
-          65127 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.29376578
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.17734171
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.15354376
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.14929621
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
-__________________
-Pescara
----
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
- 
-          265, Vl. G. D'Annunzio - 
-          65127 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.29376578
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.17734171
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.15354376
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.14929621
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
-__________________
-Pescara
----
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
- 
-          265, Vl. G. D'Annunzio - 
-          65127 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.29376578
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.17734171
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.15354376
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.14929621
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
-__________________
-Lupo Italo
----
--
-1.0
-
-      Lupo Italo
-     
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
--
-1.0
- Lupo Italo 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
-__________________
-65127
----
--
-1.0
-65127
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
- 
-          265, Vl. G. D'Annunzio - 
-          65127 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
-__________________
-Pescara
----
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
- 
-          265, Vl. G. D'Annunzio - 
-          65127 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.29376578
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.17734171
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.15354376
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.14929621
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
-__________________
-
-        Pescara
-       
----
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
- 
-          265, Vl. G. D'Annunzio - 
-          65127 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.29376578
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.17734171
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.15354376
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.14929621
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
-__________________
-65127
----
--
-1.0
-65127
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
- 
-          265, Vl. G. D'Annunzio - 
-          65127 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
-__________________
-65127
----
--
-1.0
-65127
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
- 
-          265, Vl. G. D'Annunzio - 
-          65127 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
-__________________
-Pescara
----
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
- 
-          265, Vl. G. D'Annunzio - 
-          65127 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.29376578
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.17734171
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.15354376
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.14929621
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
-__________________
-65127
----
--
-1.0
-65127
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
- 
-          265, Vl. G. D'Annunzio - 
-          65127 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
-__________________
-Pescara
----
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
- 
-          265, Vl. G. D'Annunzio - 
-          65127 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.29376578
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.17734171
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.15354376
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.14929621
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
-__________________
-Pescara
----
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
- 
-          265, Vl. G. D'Annunzio - 
-          65127 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.35001743
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.29376578
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.17734171
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.15354376
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.14929621
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
-__________________
-65127
----
--
-1.0
-65127
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
- 
-          265, Vl. G. D'Annunzio - 
-          65127 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
 -
 0.35001743
 
@@ -1424,23 +51,49 @@ __________________
 Pescara
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
 -
+0.36159742
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Pescara
+---
+-
 1.0
 Pescara
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.36159742
  
@@ -1451,6 +104,20 @@ Pescara
          
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
 -
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
 0.35001743
 
              267, Vl. G. D'Annunzio
@@ -1464,121 +131,114 @@ Pescara
              65127 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+65127
+---
 -
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+1.0
+65127
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
 -
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.29376578
+0.36159742
  
-          35, Via Roma - 
-          65122 
+          265, Vl. G. D'Annunzio - 
+          65127 
           Pescara 
           (PE) 
          
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
 -
-0.17734171
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
-0.15354376
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
-0.14929621
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.36159742
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
 __________________
 Ing. Perfetti Pierluigi
 ---
+-
+1.0
+ Ing. Perfetti Pierluigi 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
 -
 1.0
 
       Ing. Perfetti Pierluigi
      
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
--
-1.0
- Ing. Perfetti Pierluigi 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
 __________________
-Pescara
+65127
 ---
 -
 1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-1.0
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.36159742
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+65127
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
 -
 0.36159742
  
@@ -1589,6 +249,20 @@ Pescara
          
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
 -
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
 0.35001743
 
              267, Vl. G. D'Annunzio
@@ -1602,118 +276,522 @@ Pescara
              65127 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Pescara
+---
 -
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+1.0
+Pescara
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
 -
-0.33032373
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.31987485
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.3053046
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.29376578
+0.36159742
  
-          35, Via Roma - 
-          65122 
+          265, Vl. G. D'Annunzio - 
+          65127 
           Pescara 
           (PE) 
          
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
 -
-0.17734171
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
-0.15354376
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
-0.14929621
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.36159742
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+65127
+---
+-
+1.0
+65127
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.36159742
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Ing. Perfetti Pierluigi
+---
+-
+1.0
+ Ing. Perfetti Pierluigi 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+1.0
+
+      Ing. Perfetti Pierluigi
+     
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+__________________
+65127
+---
+-
+1.0
+65127
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.36159742
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+65127
+---
+-
+1.0
+65127
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.36159742
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.36159742
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+65127
+---
+-
+1.0
+65127
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+-
+0.36159742
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.36159742
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+
+        Pescara
+       
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.36159742
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.36159742
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.36159742
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.36159742
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.35001743
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
 __________________
 Ing. Perfetti Pierluigi - Pescara
 ---
 -
 0.9076387
+ Ing. Perfetti Pierluigi 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.9076387
 
       Ing. Perfetti Pierluigi
      
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
 -
-0.9076387
- Ing. Perfetti Pierluigi 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
--
 0.4197522
 Pescara
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.2834229
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.15178132
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.15178132
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.15178132
  
@@ -1724,6 +802,20 @@ Pescara
          
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
 -
+0.15178132
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.15178132
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
 0.14692059
 
              267, Vl. G. D'Annunzio
@@ -1737,83 +829,6 @@ Pescara
              65127 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.093621306
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.093621306
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.09065985
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.09065985
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.09065985
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.09065985
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.08653031
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.08653031
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.08325995
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.0502627
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.043517817
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.042313963
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
 __________________
 Periti, danni, infortunistica stradale a Pescara
 ---
@@ -1898,31 +913,13 @@ periti industriali
 periti industriali
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[6]
 -
-0.2552434
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.25326544
-polizia stradale
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
--
 0.25326544
 polizia stradale
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
 -
-0.1677454
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.1677454
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+0.25326544
+polizia stradale
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
 -
 0.1677454
  
@@ -1932,6 +929,20 @@ polizia stradale
           (PE) 
          
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.1677454
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.1677454
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.16237341
 
@@ -1951,68 +962,6 @@ polizia stradale
  La Giesse è un'attività specializzata nel risarcimento danni in Via Mantova a Montesilvano. 
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
 -
-0.11812123
- 
-    Tutto Città Visualizza mappe e cartine geografiche, calcola itinerari stradali, percorsi e distanze chilometriche con Tuttocitta. 
-   
-//html[1]/body[1]/div[3]/div[1]/div[2]/div[1]
--
-0.08431295
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.08431295
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.08164594
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.08164594
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.08164594
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.08164594
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.07792698
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.07792698
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
 0.0752471
  
     Tutto Città Visualizza mappe e cartine geografiche, calcola itinerari stradali, percorsi e distanze chilometriche con Tuttocitta. 
@@ -2023,18 +972,14 @@ Scrivi la tua recensione di Ing. Perfetti Pierluigi
 ---
 -
 0.825548
+ Ing. Perfetti Pierluigi 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.825548
 
       Ing. Perfetti Pierluigi
      
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
--
-0.825548
- Ing. Perfetti Pierluigi 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
--
-0.5643318
-Scrivi una recensione
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]
 -
 0.5643318
 Scrivi una recensione
@@ -2044,23 +989,11 @@ Scrivi una recensione
 Scrivi una recensione
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
-0.45869747
-Scrivi una recensione
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.45869747
-Scrivi una recensione
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]
--
-0.45869747
+0.5643318
 Scrivi una recensione
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]
 -
 0.4142723
- Scrivi per primo una recensione 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]
--
-0.32841733
  Scrivi per primo una recensione 
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]/a[1]
 -
@@ -2070,46 +1003,19 @@ Scrivi una recensione
          Scrivi per primo una recensione  
        
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]
--
-0.23472983
-
-         Conosci questa attività?   
-         Scrivi per primo una recensione  
-       
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]
--
-0.18194014
-[ 6 recensioni ]
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/span[2]/a[1]
--
-0.1171272
-
-            Voto: 
-            4.5 su 
-            [ 6 recensioni ]
-           
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
--
-0.1171272
-
-            Voto: 
-            4.5 su 
-            [ 6 recensioni ]
-           
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]
 __________________
 Pierluigi Perfetti
 ---
+-
+0.79062974
+ Ing. Perfetti Pierluigi 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
 -
 0.79062974
 
       Ing. Perfetti Pierluigi
      
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
--
-0.79062974
- Ing. Perfetti Pierluigi 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
 __________________
 
           Pescara (PE)
@@ -2120,31 +1026,9 @@ __________________
 Pescara
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
 -
-0.7259987
-(PE)
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[4]
--
-0.68769604
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
 0.67956287
 (PE)
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[4]
--
-0.49501005
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.49501005
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.49501005
  
@@ -2155,19 +1039,19 @@ Pescara
          
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
 -
-0.4821091
+0.49501005
 
-             32, C. Umberto I
-             65122 - Pescara (PE)
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
             
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
-0.4821091
+0.49501005
 
-             32, C. Umberto I
-             65122 - Pescara (PE)
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
             
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.47902784
 
@@ -2183,61 +1067,6 @@ Pescara
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
 -
-0.46675128
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.46675128
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.46675128
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.46675128
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.44535327
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.44535327
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.428421
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.21725938
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
--
 0.20902842
 
              1, V. Mantova
@@ -2251,14 +1080,6 @@ Pescara
              65015 - Montesilvano (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.1219572
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.10559144
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
 __________________
 Avvocati Pescara
 ---
@@ -2275,27 +1096,9 @@ avvocati - studi
 avvocati - studi
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[10]
 -
-0.45566282
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
 0.40718654
  Categoria: Avvocati - studi 
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[2]
--
-0.255688
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.255688
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.255688
  
@@ -2306,6 +1109,20 @@ Pescara
          
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
 -
+0.255688
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.255688
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
 0.24749969
 
              267, Vl. G. D'Annunzio
@@ -2319,71 +1136,6 @@ Pescara
              65127 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.15051624
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.15051624
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.14575507
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.14575507
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.14575507
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.14575507
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.13911596
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.13911596
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.13385814
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
 -
 0.122971
 
@@ -2434,44 +1186,32 @@ Pescara
       
     
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]
--
-0.08080802
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.069964185
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.06802873
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
-__________________
-Orari di apertura Ing. Perfetti Pierluigi
----
--
-0.6975713
-
-      Ing. Perfetti Pierluigi
-     
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
--
-0.6975713
- Ing. Perfetti Pierluigi 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
 __________________
 Risultati di ricerca per Ing. Perfetti Pierluigi
 ---
 -
 0.6975713
+ Ing. Perfetti Pierluigi 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.6975713
 
       Ing. Perfetti Pierluigi
      
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
+__________________
+Orari di apertura Ing. Perfetti Pierluigi
+---
 -
 0.6975713
  Ing. Perfetti Pierluigi 
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.6975713
+
+      Ing. Perfetti Pierluigi
+     
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
 __________________
 Studi tecnici a Pescara
 ---
@@ -2499,10 +1239,6 @@ avvocati - studi
 0.3576843
 avvocati - studi
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[10]
--
-0.340353
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
 -
 0.28636938
  Categoria: Avvocati - studi 
@@ -2553,20 +1289,6 @@ Pescara
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]
 -
 0.21051243
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.21051243
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.21051243
  
           265, Vl. G. D'Annunzio - 
           65127 
@@ -2575,6 +1297,20 @@ Pescara
          
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
 -
+0.21051243
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.21051243
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
 0.20377086
 
              267, Vl. G. D'Annunzio
@@ -2588,83 +1324,6 @@ Pescara
              65127 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.112426676
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.112426676
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.10887036
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.10887036
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.10887036
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.10887036
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.10391134
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.10391134
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.099984065
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.060358785
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.05225908
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.050813414
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
 __________________
 Ingegneri a Pescara
 ---
@@ -2673,24 +1332,6 @@ Ingegneri a Pescara
 Pescara
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
 -
-0.45566282
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.19421321
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.19421321
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
 0.19421321
  
           265, Vl. G. D'Annunzio - 
@@ -2699,6 +1340,20 @@ Pescara
           (PE) 
          
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.19421321
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.19421321
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.1879936
 
@@ -2713,252 +1368,6 @@ Pescara
              65127 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.15051624
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.15051624
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.14575507
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.14575507
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.14575507
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.14575507
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.13911596
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.13911596
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.13385814
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.08080802
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.069964185
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.06802873
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
-__________________
-Categorie correlate a Pescara
----
--
-0.4950596
-Categoria: 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/span[1]
--
-0.4950596
-categoria
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[1]
--
-0.47316822
-Categoria: 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/span[1]
--
-0.47316822
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.47316822
-categoria
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[1]
--
-0.39590672
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.32297227
- Categoria: Orologerie 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[2]
--
-0.27247334
- Categoria: Avvocati - studi 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[2]
--
-0.23429842
- Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
--
-0.23429842
- Categoria: Gioiellerie e oreficerie - vendita al dettaglio 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
--
-0.23282345
- Categoria: Studi tecnici ed industriali 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.21247342
- Categoria: Periti danni e infortunistica stradale 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
--
-0.21247342
- Categoria: Periti danni e infortunistica stradale 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
--
-0.20708391
- Categoria: Gioielleria e oreficeria - lavorazione e ingrosso 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[2]
--
-0.17109641
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.17109641
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.17109641
- 
-          265, Vl. G. D'Annunzio - 
-          65127 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.16561712
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.16561712
-
-             267, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.13077739
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.13077739
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.1266406
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.1266406
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.1266406
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.1266406
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.12087215
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.12087215
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.116303846
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.070210785
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.060789008
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
 __________________
 
             Studio Infortunistica Stradale
@@ -2983,11 +1392,11 @@ Periti danni e infortunistica stradale
 -
 0.2849324
 polizia stradale
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
 -
 0.2849324
 polizia stradale
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
 -
 0.2700285
  
@@ -3039,26 +1448,84 @@ polizia stradale
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
 -
-0.1425921
- 
-    Tutto Città Visualizza mappe e cartine geografiche, calcola itinerari stradali, percorsi e distanze chilometriche con Tuttocitta. 
-   
-//html[1]/body[1]/div[3]/div[1]/div[2]/div[1]
--
 0.0846556
  
     Tutto Città Visualizza mappe e cartine geografiche, calcola itinerari stradali, percorsi e distanze chilometriche con Tuttocitta. 
    
 //html[1]/body[1]/div[3]/div[1]/div[2]/div[1]
 __________________
+Categorie correlate a Pescara
+---
+-
+0.47316822
+categoria
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.47316822
+Categoria: 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/span[1]
+-
+0.47316822
+Pescara
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+-
+0.27247334
+ Categoria: Avvocati - studi 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[2]
+-
+0.23282345
+ Categoria: Studi tecnici ed industriali 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.21247342
+ Categoria: Periti danni e infortunistica stradale 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[2]
+-
+0.21247342
+ Categoria: Periti danni e infortunistica stradale 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
+-
+0.17109641
+ 
+          265, Vl. G. D'Annunzio - 
+          65127 
+          Pescara 
+          (PE) 
+         
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.17109641
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.17109641
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.16561712
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+-
+0.16561712
+
+             267, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
 Agenzie immobiliari Pescara
 ---
 -
 0.46256927
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.340353
 Pescara
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
 -
@@ -3071,20 +1538,6 @@ assicurazioni - agenzie e consulenze
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[9]
 -
 0.16726385
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.16726385
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.16726385
  
           265, Vl. G. D'Annunzio - 
           65127 
@@ -3093,6 +1546,20 @@ assicurazioni - agenzie e consulenze
          
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
 -
+0.16726385
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.16726385
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
 0.1619073
 
              267, Vl. G. D'Annunzio
@@ -3106,71 +1573,6 @@ assicurazioni - agenzie e consulenze
              65127 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.112426676
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.112426676
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.10887036
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.10887036
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.10887036
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.10887036
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.10391134
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.10391134
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.099984065
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
 -
 0.07979725
  
@@ -3215,18 +1617,6 @@ assicurazioni - agenzie e consulenze
       
     
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]
--
-0.060358785
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.05225908
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.050813414
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
 __________________
 Associazioni sindacali Pescara
 ---
@@ -3234,24 +1624,6 @@ Associazioni sindacali Pescara
 0.41054586
 Pescara
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.340353
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.14845233
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.14845233
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.14845233
  
@@ -3262,6 +1634,20 @@ Pescara
          
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
 -
+0.14845233
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.14845233
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
 0.1436982
 
              267, Vl. G. D'Annunzio
@@ -3275,83 +1661,6 @@ Pescara
              65127 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.112426676
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.112426676
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.10887036
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.10887036
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.10887036
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.10887036
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.10391134
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.10391134
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.099984065
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.060358785
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.05225908
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.050813414
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
 __________________
 Viale Gabriele d'Annunzio, 265
 ---
@@ -3361,20 +1670,6 @@ Viale Gabriele d'Annunzio, 265
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
 -
 0.30159685
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.30159685
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.30159685
  
           265, Vl. G. D'Annunzio - 
           65127 
@@ -3382,6 +1677,20 @@ Viale Gabriele d'Annunzio, 265
           (PE) 
          
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.30159685
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.30159685
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.13099016
 
@@ -3401,10 +1710,6 @@ Architetti, studi architettura Pescara
 ---
 -
 0.3837338
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.2834229
 Pescara
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
 -
@@ -3433,20 +1738,6 @@ studi tecnici ed industriali
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
 -
 0.13875715
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.13875715
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.13875715
  
           265, Vl. G. D'Annunzio - 
           65127 
@@ -3454,6 +1745,20 @@ studi tecnici ed industriali
           (PE) 
          
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.13875715
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.13875715
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.13431352
 
@@ -3512,83 +1817,6 @@ studi tecnici ed industriali
       
     
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]
--
-0.093621306
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.093621306
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.09065985
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.09065985
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.09065985
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.09065985
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.08653031
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.08653031
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.08325995
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.0502627
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.043517817
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.042313963
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
 __________________
 
        Ing. Perfetti Pierluigi
@@ -3696,28 +1924,14 @@ Pescara
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
 -
 0.33843824
+ Ing. Perfetti Pierluigi 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
+-
+0.33843824
 
       Ing. Perfetti Pierluigi
      
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
--
-0.33843824
- Ing. Perfetti Pierluigi 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
--
-0.28128874
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.28128874
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.28128874
  
@@ -3728,9 +1942,19 @@ Pescara
          
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
 -
-0.2800961
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
+0.28128874
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.28128874
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.22895892
 
@@ -3761,20 +1985,6 @@ Periti danni e infortunistica stradale
 0.1919007
  Categoria: Periti danni e infortunistica stradale 
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
--
-0.1653959
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.1653959
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
 -
 0.13970144
  
@@ -3820,48 +2030,6 @@ Periti danni e infortunistica stradale
     
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]
 -
-0.11873858
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.11873858
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.11495611
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.11495611
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.11495611
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.11495611
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
 0.10663712
 studi tecnici ed industriali
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[12]
@@ -3870,22 +2038,13 @@ studi tecnici ed industriali
 studi tecnici ed industriali
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[12]
 -
-0.10551575
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+0.10253953
+polizia stradale
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
 -
 0.10253953
 polizia stradale
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
--
-0.10253953
-polizia stradale
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
 -
 0.09889923
 265, Vl. G. D'Annunzio
@@ -3894,75 +2053,54 @@ polizia stradale
 0.09390974
 65127
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
-__________________
-Descrizione attività
----
 -
-0.3382475
+0.0910978
+ Categoria: Studi tecnici ed industriali 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
+-
+0.086990274
+(PE)
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[4]
+-
+0.08146521
+periti
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[5]
+-
+0.08146521
+periti
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[5]
+-
+0.07668462
 
-     Sei il proprietario di questa attività?
-    
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[4]/div[1]
+             1, V. Mantova
+             65015 - Montesilvano (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
-0.28847408
+0.07668462
 
-     Sei il proprietario di questa attività?
-    
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[4]/div[1]
+             1, V. Mantova
+             65015 - Montesilvano (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
-0.23756379
-
-        Altre attività in zona
-       
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[1]
+0.064455025
+ 
+    Pagine Bianche PagineBianche ti fa trovare i numeri di telefono e gli indirizzi di tutte le persone, le aziende, le istituzioni in Italia. 
+   
+//html[1]/body[1]/div[3]/div[1]/div[2]/div[2]
 -
-0.23756379
-
-        Attività simili nei dintorni
-       
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[1]
+0.05769765
+avvocati - studi
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[10]
 -
-0.22050329
-
-        Altre attività in zona
-       
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[1]
+0.05769765
+avvocati - studi
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[10]
 -
-0.22050329
-
-        Attività simili nei dintorni
-       
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[1]
--
-0.21178362
-
-         Conosci questa attività?   
-         Scrivi per primo una recensione  
-       
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]
--
-0.19293043
-
-         Conosci questa attività?   
-         Scrivi per primo una recensione  
-       
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]
--
-0.14059791
- La Giesse è un'attività specializzata nel risarcimento danni in Via Mantova a Montesilvano. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.1361785
-
-     Registra la tua Attività per gestire, aggiornare e arricchire le informazioni, i contatti o le fotografie.
-    
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[4]/div[3]
--
-0.117959104
-
-     Accedi a PG4You per aggiornare e modificare le info, i contatti o le foto relative alla tua Attività.
-    
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[4]/div[3]
+0.053382773
+periti industriali
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[6]
 __________________
 Viale D'annunzio Gabriele, 267
 ---
@@ -3986,20 +2124,6 @@ Viale D'annunzio Gabriele, 267
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
 -
 0.13211094
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.13211094
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.13211094
  
           265, Vl. G. D'Annunzio - 
           65127 
@@ -4007,6 +2131,20 @@ Viale D'annunzio Gabriele, 267
           (PE) 
          
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.13211094
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.13211094
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 __________________
 
             Via Tommaso Da Celano, 10 - 
@@ -4016,30 +2154,12 @@ __________________
 ---
 -
 0.29789045
-65127
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+Pescara
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
 -
 0.29789045
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.23328258
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.2167466
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.2167466
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+65127
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
 -
 0.2167466
  
@@ -4050,14 +2170,19 @@ Pescara
          
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
 -
-0.21607773
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+0.2167466
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.2167466
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.20972455
 
@@ -4072,82 +2197,10 @@ Pescara
              65127 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.1750166
-35, Via Roma
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
 -
 0.14837013
  La Giesse è un'attività specializzata nel risarcimento danni in Via Mantova a Montesilvano. 
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.11181656
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.07705877
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.07705877
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.07462123
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.07462123
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.07462123
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.07462123
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.07122224
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.07122224
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.04137073
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.03482821
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
 __________________
 
             Viale Marconi Guglielmo, 316 - 
@@ -4157,30 +2210,12 @@ __________________
 ---
 -
 0.29029977
-65127
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
+Pescara
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
 -
 0.29029977
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.2231528
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.21122357
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.21122357
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+65127
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[2]
 -
 0.21122357
  
@@ -4191,6 +2226,20 @@ Pescara
          
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
 -
+0.21122357
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.21122357
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
 0.20438045
 
              267, Vl. G. D'Annunzio
@@ -4204,83 +2253,44 @@ Pescara
              65127 - Pescara (PE)
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+__________________
+Descrizione attività
+---
 -
-0.07371266
+0.28847408
 
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+     Sei il proprietario di questa attività?
+    
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[4]/div[1]
 -
-0.07371266
+0.22050329
 
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+        Altre attività in zona
+       
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[1]
 -
-0.07138097
+0.22050329
 
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
+        Attività simili nei dintorni
+       
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[1]
 -
-0.07138097
+0.19293043
 
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+         Conosci questa attività?   
+         Scrivi per primo una recensione  
+       
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]
 -
-0.07138097
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.07138097
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.06812958
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.06812958
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.065554656
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.039574303
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
+0.14059791
+ La Giesse è un'attività specializzata nel risarcimento danni in Via Mantova a Montesilvano. 
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
 -
-0.034263723
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.03331587
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
+0.117959104
+
+     Accedi a PG4You per aggiornare e modificare le info, i contatti o le foto relative alla tua Attività.
+    
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[4]/div[3]
 __________________
 Commercialisti - studio commercialista Pescara
 ---
@@ -4289,24 +2299,6 @@ Commercialisti - studio commercialista Pescara
 Pescara
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
 -
-0.2231528
-Pescara
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[3]
--
-0.10132496
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.10132496
-
-             265, Vl. G. D'Annunzio
-             65127 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
 0.10132496
  
           265, Vl. G. D'Annunzio - 
@@ -4315,6 +2307,20 @@ Pescara
           (PE) 
          
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
+-
+0.10132496
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
+-
+0.10132496
+
+             265, Vl. G. D'Annunzio
+             65127 - Pescara (PE)
+            
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
 -
 0.09808006
 
@@ -4335,96 +2341,19 @@ Pescara
              Studio Legale Associato di Benedetto - Toppetti, Avvocati Renato di Benedetto e Valeria Toppetti
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
--
-0.07371266
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.07371266
-
-             32, C. Umberto I
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.07138097
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.07138097
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.07138097
-
-             73, V. Trieste
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]/div[2]/div[2]
--
-0.07138097
-
-             54, V. Umbria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.06812958
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.06812958
-
-             1, V. Liguria
-             65122 - Pescara (PE)
-            
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/a[1]/div[2]/div[2]
--
-0.065554656
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
-0.039574303
- Una prestigiosa gioielleria presente a Pescara dal 1981, per esaltare la tua bellezza con preziose e raffinate collezioni. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.034263723
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.03331587
- La Gold and Cash è il più conveniente compro oro, preziosi e argenterie, alle migliori quotazioni di mercato in 54, v. Umbria - 65122 Pescara (PE). 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/div[1]/p[1]
 __________________
 Marzocchi Ing. Sergio
 ---
+-
+0.26577085
+ Ing. Perfetti Pierluigi 
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
 -
 0.26577085
 
       Ing. Perfetti Pierluigi
      
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]
--
-0.26577085
- Ing. Perfetti Pierluigi 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h1[1]
 __________________
 Studio Tecnico Associato Studio Ass.michelini Bruni
 ---
@@ -4500,37 +2429,20 @@ Via Croce Benedetto, 206
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
 -
-0.20374283
-35, Via Roma
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
--
-0.17025657
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
 0.16913363
  La Giesse è un'attività specializzata nel risarcimento danni in Via Mantova a Montesilvano. 
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.08825981
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
 __________________
 Ricostruzione Incidenti Stradali
 ---
 -
 0.22797683
 polizia stradale
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
 -
 0.22797683
 polizia stradale
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
 -
 0.16947255
 Periti danni e infortunistica stradale
@@ -4547,12 +2459,6 @@ Periti danni e infortunistica stradale
 0.14980027
  Categoria: Periti danni e infortunistica stradale 
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
--
-0.1425921
- 
-    Tutto Città Visualizza mappe e cartine geografiche, calcola itinerari stradali, percorsi e distanze chilometriche con Tuttocitta. 
-   
-//html[1]/body[1]/div[3]/div[1]/div[2]/div[1]
 -
 0.09577813
  
@@ -4610,16 +2516,6 @@ __________________
          
 ---
 -
-0.2243604
- 
-     
-      Registrati con facebook 
-     oppure
-     
-    REGISTRATI CON L'EMAIL 
-   
-//html[1]/body[1]/div[2]/div[1]/div[4]/div[2]
--
 0.22394909
  
      
@@ -4633,16 +2529,6 @@ __________________
 mostra email
 ---
 -
-0.2243604
- 
-     
-      Registrati con facebook 
-     oppure
-     
-    REGISTRATI CON L'EMAIL 
-   
-//html[1]/body[1]/div[2]/div[1]/div[4]/div[2]
--
 0.22394909
  
      
@@ -4656,59 +2542,19 @@ __________________
 Via Tommaso Da Celano, 10
 ---
 -
-0.20374283
-35, Via Roma
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
--
-0.17025657
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
 0.16359597
  La Giesse è un'attività specializzata nel risarcimento danni in Via Mantova a Montesilvano. 
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.08825981
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
 __________________
 Via Tommaso Da Celano, 10
 ---
 -
-0.20374283
-35, Via Roma
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]/span[1]
--
-0.17025657
- 
-          35, Via Roma - 
-          65122 
-          Pescara 
-          (PE) 
-         
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]/div[2]/div[1]/h2[1]/div[1]
--
 0.16359597
  La Giesse è un'attività specializzata nel risarcimento danni in Via Mantova a Montesilvano. 
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/p[1]
--
-0.08825981
- Laboratorio di orologeria Cronotime, a Pescara in via Trieste 73, effettua restauro, ricondizionamenti e riparazioni di orologi attuali e antichi. 
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/p[1]
 __________________
 Numero di Dipendenti:
 ---
--
-0.1634825
- 
-    Pagine Bianche PagineBianche ti fa trovare i numeri di telefono e gli indirizzi di tutte le persone, le aziende, le istituzioni in Italia. 
-   
-//html[1]/body[1]/div[3]/div[1]/div[2]/div[2]
 -
 0.16317216
  
@@ -4743,17 +2589,11 @@ Periti danni e infortunistica stradale
 -
 0.088918485
 polizia stradale
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
 -
 0.088918485
 polizia stradale
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
--
-0.0578649
- 
-    Tutto Città Visualizza mappe e cartine geografiche, calcola itinerari stradali, percorsi e distanze chilometriche con Tuttocitta. 
-   
-//html[1]/body[1]/div[3]/div[1]/div[2]/div[1]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
 -
 0.05336072
 
@@ -4864,12 +2704,6 @@ Periti danni e infortunistica stradale
  Categoria: Periti danni e infortunistica stradale 
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
 -
-0.0752887
-
-     Sei il proprietario di questa attività?
-    
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[4]/div[1]
--
 0.06778153
 
              Giesse Gestione Sinistri, Di Paolone Carmelita & C.
@@ -4882,11 +2716,11 @@ Periti danni e infortunistica stradale
 -
 0.06606215
 polizia stradale
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
 -
 0.06606215
 polizia stradale
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
 -
 0.06499134
 
@@ -4894,18 +2728,6 @@ polizia stradale
     
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[4]/div[1]
 -
-0.052878052
-
-        Altre attività in zona
-       
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[1]
--
-0.052878052
-
-        Attività simili nei dintorni
-       
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[1]
--
 0.049677957
 
         Altre attività in zona
@@ -4917,19 +2739,6 @@ polizia stradale
         Attività simili nei dintorni
        
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[1]
--
-0.047139782
-
-         Conosci questa attività?   
-         Scrivi per primo una recensione  
-       
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]
--
-0.043833755
- 
-    Tutto Città Visualizza mappe e cartine geografiche, calcola itinerari stradali, percorsi e distanze chilometriche con Tuttocitta. 
-   
-//html[1]/body[1]/div[3]/div[1]/div[2]/div[1]
 -
 0.043465972
 
@@ -4943,12 +2752,6 @@ polizia stradale
              Studio Legale Associato di Benedetto - Toppetti, Avvocati Renato di Benedetto e Valeria Toppetti
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
--
-0.03031124
-
-     Registra la tua Attività per gestire, aggiornare e arricchire le informazioni, i contatti o le fotografie.
-    
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[4]/div[3]
 -
 0.02775418
  
@@ -5044,12 +2847,6 @@ Periti danni e infortunistica stradale
  Categoria: Periti danni e infortunistica stradale 
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/p[1]
 -
-0.0752887
-
-     Sei il proprietario di questa attività?
-    
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[4]/div[1]
--
 0.06778153
 
              Giesse Gestione Sinistri, Di Paolone Carmelita & C.
@@ -5062,11 +2859,11 @@ Periti danni e infortunistica stradale
 -
 0.06606215
 polizia stradale
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
 -
 0.06606215
 polizia stradale
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[1]/a[8]
+//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[3]/a[8]
 -
 0.06499134
 
@@ -5074,18 +2871,6 @@ polizia stradale
     
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[4]/div[1]
 -
-0.052878052
-
-        Altre attività in zona
-       
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[1]
--
-0.052878052
-
-        Attività simili nei dintorni
-       
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[1]
--
 0.049677957
 
         Altre attività in zona
@@ -5097,19 +2882,6 @@ polizia stradale
         Attività simili nei dintorni
        
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[1]/div[1]
--
-0.047139782
-
-         Conosci questa attività?   
-         Scrivi per primo una recensione  
-       
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[1]/div[2]/div[1]/div[1]/div[1]
--
-0.043833755
- 
-    Tutto Città Visualizza mappe e cartine geografiche, calcola itinerari stradali, percorsi e distanze chilometriche con Tuttocitta. 
-   
-//html[1]/body[1]/div[3]/div[1]/div[2]/div[1]
 -
 0.043465972
 
@@ -5123,12 +2895,6 @@ polizia stradale
              Studio Legale Associato di Benedetto - Toppetti, Avvocati Renato di Benedetto e Valeria Toppetti
             
 //html[1]/body[1]/div[2]/div[1]/div[3]/div[3]/div[2]/div[2]/div[2]/div[2]/div[1]/div[2]/a[1]/div[2]/div[1]
--
-0.03031124
-
-     Registra la tua Attività per gestire, aggiornare e arricchire le informazioni, i contatti o le fotografie.
-    
-//html[1]/body[1]/div[2]/div[1]/div[3]/div[4]/div[3]
 -
 0.02775418
  
@@ -5188,12 +2954,6 @@ polizia stradale
 __________________
 Aggiornata 2 mesi fa  |   
 ---
--
-0.11184997
- 
-    Pagine Bianche PagineBianche ti fa trovare i numeri di telefono e gli indirizzi di tutte le persone, le aziende, le istituzioni in Italia. 
-   
-//html[1]/body[1]/div[3]/div[1]/div[2]/div[2]
 -
 0.11160244
  

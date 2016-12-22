@@ -77,7 +77,6 @@ public class SegmentSearcher {
 		return topDocs;
 	}
 
-	//TODO magari potresti restituire un segmento invece che un documento di lucene?
 	/* Dato un oggetto 'risultato', rstituisce il documento di lucene corrispondente
 	 * Si utilizza per ottenere il contenuto del documento */
 	public Document getDocument(ScoreDoc scoreDoc) 

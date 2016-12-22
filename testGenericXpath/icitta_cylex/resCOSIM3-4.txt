@@ -1,9 +1,541 @@
-Avv. Luca Ruberto
+00162
 ---
 -
 1.0
+00162
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+00162
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+00162
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+-
+1.0
+00162
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+-
+0.6063276
+
+             00162 
+             Roma  - Nomentano
+            
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+__________________
+Roma
+---
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.33186835
+
+             00162 
+             Roma  - Nomentano
+            
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.32458463
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a[1]
+-
+0.32458463
+Diritto del Lavoro in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a[1]
+-
+0.31915724
+Recensioni Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.31534106
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.31534106
+Infortunistica Stradale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
+-
+0.30604002
+Descrizione Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.30267045
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
+-
+0.29141387
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.2849101
+Galleria Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.25552297
+V. NOMENTANA. 35500162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]
+-
+0.2436315
+Ricerche simili Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.2422353
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.2422353
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.24076605
+V. S. COSTANZA. 3500198  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.24076605
+V. S. COSTANZA. 700198  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.24076605
+V. S. COSTANZA. 2700198  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
+__________________
+Roma
+---
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.33186835
+
+             00162 
+             Roma  - Nomentano
+            
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.32458463
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a[1]
+-
+0.32458463
+Diritto del Lavoro in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a[1]
+-
+0.31915724
+Recensioni Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.31534106
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.31534106
+Infortunistica Stradale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
+-
+0.30604002
+Descrizione Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.30267045
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
+-
+0.29141387
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.2849101
+Galleria Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.25552297
+V. NOMENTANA. 35500162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]
+-
+0.2436315
+Ricerche simili Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.2422353
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.2422353
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.24076605
+V. S. COSTANZA. 3500198  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.24076605
+V. S. COSTANZA. 700198  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.24076605
+V. S. COSTANZA. 2700198  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
+__________________
+Avv. Luca Ruberto - Roma 
+---
+-
+1.0
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+1.0
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+1.0
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+1.0
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+1.0
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+1.0
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.89730895
+Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.89730895
+Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.89730895
 Avv. Luca Ruberto
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.89730895
+Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/i[1]
+-
+0.7288888
+Recensioni Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.69847614
+Descrizione Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.649607
+Galleria Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.5911864
+
+          E-mail a Avv. Luca Ruberto✕
+         
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.5911864
+E-mail a Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.5545314
+Ricerche simili Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.54596555
+ Più informazioni su Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[9]/a[1]
+-
+0.498493
+Aziende simili nelle vicinanze Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.4414029
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.4414029
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.4414029
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.4414029
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.4414029
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.4414029
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.4414029
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.42766052
+ 
+     Avv. Luca Ruberto è iscritta nelle categorie:
+    
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]
+-
+0.38267988
+
+     Scrivi tu la prima recensione per Avv. Luca Ruberto!
+    
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.15899958
+Vittucci Antonio (Avv.)
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[1]/strong[1]/a[1]/span[1]
+-
+0.14648765
+
+             00162 
+             Roma  - Nomentano
+            
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.14327261
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a[1]
+__________________
+Roma
+---
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.4348193
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.33186835
+
+             00162 
+             Roma  - Nomentano
+            
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.32458463
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a[1]
+-
+0.32458463
+Diritto del Lavoro in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a[1]
+-
+0.31915724
+Recensioni Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.31534106
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.31534106
+Infortunistica Stradale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
+-
+0.30604002
+Descrizione Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.30267045
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
+-
+0.29141387
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.2849101
+Galleria Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.25552297
+V. NOMENTANA. 35500162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]
+-
+0.2436315
+Ricerche simili Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.2422353
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.2422353
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.24076605
+V. S. COSTANZA. 3500198  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.24076605
+V. S. COSTANZA. 700198  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.24076605
+V. S. COSTANZA. 2700198  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
+__________________
+Avv. Luca Ruberto
+---
 -
 1.0
 Avv. Luca Ruberto
@@ -11,19 +543,15 @@ Avv. Luca Ruberto
 -
 1.0
 Avv. Luca Ruberto
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/i[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
 -
 1.0
 Avv. Luca Ruberto
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
 -
-0.89465594
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.89465594
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+1.0
+Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/i[1]
 -
 0.89465594
 Avv. Luca Ruberto, Roma
@@ -31,15 +559,23 @@ Avv. Luca Ruberto, Roma
 -
 0.89465594
 Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.89465594
-Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
 -
 0.89465594
 Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.89465594
+Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.89465594
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.89465594
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
 0.65884376
 
@@ -87,37 +623,9 @@ Aziende simili nelle vicinanze Avv. Luca Ruberto, Roma
     
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
 -
-0.22840667
-Sforza Arturo (Avv.)
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[1]/strong[1]/a[1]/span[1]
--
-0.22840667
-Simone Michele (Avv.)
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[1]/strong[1]/a[1]/span[1]
--
 0.17719601
 Vittucci Antonio (Avv.)
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[1]/strong[1]/a[1]/span[1]
--
-0.16699962
-
-        Simone Michele (Avv.)
-        
-         60 m
-        
-        Dati
-       
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[1]
--
-0.16699962
-
-        Sforza Arturo (Avv.)
-        
-         70 m
-        
-        Dati
-       
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[1]
 -
 0.14725178
 Valenzi Avv. Ti Luigi e Isabella
@@ -143,530 +651,6 @@ Valenzi Avv. Ti Luigi e Isabella
        
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[1]
 __________________
-Roma
----
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.6938155
-Avvocato in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
--
-0.4348193
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.4348193
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
--
-0.4348193
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.4348193
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.4348193
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.4348193
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
-__________________
-Avv. Luca Ruberto - Roma 
----
--
-1.0
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-1.0
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
--
-1.0
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-1.0
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-1.0
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-1.0
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.89730895
-Avv. Luca Ruberto
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
--
-0.89730895
-Avv. Luca Ruberto
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
--
-0.89730895
-Avv. Luca Ruberto
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/i[1]
--
-0.89730895
-Avv. Luca Ruberto
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
--
-0.7288888
-Recensioni Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
--
-0.69847614
-Descrizione Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
--
-0.649607
-Galleria Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
--
-0.5911864
-
-          E-mail a Avv. Luca Ruberto✕
-         
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
--
-0.5911864
-E-mail a Avv. Luca Ruberto
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
--
-0.5545314
-Ricerche simili Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
--
-0.54596555
- Più informazioni su Avv. Luca Ruberto
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[9]/a[1]
--
-0.498493
-Aziende simili nelle vicinanze Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
--
-0.4414029
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.4414029
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.4414029
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.4414029
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.4414029
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.4414029
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.4414029
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.42766052
- 
-     Avv. Luca Ruberto è iscritta nelle categorie:
-    
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]
--
-0.38267988
-
-     Scrivi tu la prima recensione per Avv. Luca Ruberto!
-    
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
--
-0.22879323
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.22879323
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.22879323
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
-__________________
-00162
----
--
-1.0
-00162
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
--
-1.0
-00162
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
--
-1.0
-00162
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
--
-1.0
-00162
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
--
-0.6063276
-
-             00162 
-             Roma  - Nomentano
-            
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
-__________________
-Roma
----
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.6938155
-Avvocato in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
--
-0.4348193
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.4348193
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
--
-0.4348193
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.4348193
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.4348193
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.4348193
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
-__________________
-Roma
----
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.6938155
-Avvocato in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.48609692
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
--
-0.4348193
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.4348193
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
--
-0.4348193
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.4348193
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.4348193
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.4348193
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
-__________________
 
      Scrivi la tua recensione per Avv. Luca Ruberto - Roma:
       
@@ -686,19 +670,7 @@ Recensioni Avv. Luca Ruberto, Roma
 -
 0.59528303
 Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.59528303
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
--
-0.59528303
-Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.59528303
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
 0.59528303
 Avv. Luca Ruberto, Roma
@@ -706,11 +678,19 @@ Avv. Luca Ruberto, Roma
 -
 0.59528303
 Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.59528303
+Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
 -
-0.5341528
-Avv. Luca Ruberto
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+0.59528303
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.59528303
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
 0.5341528
 Avv. Luca Ruberto
@@ -718,21 +698,19 @@ Avv. Luca Ruberto
 -
 0.5341528
 Avv. Luca Ruberto
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/i[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
 -
 0.5341528
 Avv. Luca Ruberto
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.5341528
+Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/i[1]
 -
 0.415791
 Descrizione Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
--
-0.40361977
-
-     Scrivi tu la prima recensione per Avvocato Fabio Sarra!
-    
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/div[1]
 -
 0.38670003
 Galleria Avv. Luca Ruberto, Roma
@@ -747,10 +725,6 @@ Galleria Avv. Luca Ruberto, Roma
 0.35192323
 E-mail a Avv. Luca Ruberto
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
--
-0.33167243
-Recensioni Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
 -
 0.33010313
 Ricerche simili Avv. Luca Ruberto, Roma
@@ -778,8 +752,12 @@ Aziende simili nelle vicinanze Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/div[2]
 -
 0.26275966
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.26275966
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.26275966
 Roma
@@ -791,25 +769,32 @@ Roma
 -
 0.26275966
 Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.26275966
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
 -
 0.26275966
 Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.26275966
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.26275966
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.25457904
  
      Avv. Luca Ruberto è iscritta nelle categorie:
     
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]
+-
+0.094649754
+Vittucci Antonio (Avv.)
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[1]/strong[1]/a[1]/span[1]
+-
+0.08720162
+
+             00162 
+             Roma  - Nomentano
+            
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
 __________________
  Via Pompeo Ugonio N. 3   00162 Roma  (RM) 
 ---
@@ -828,19 +813,15 @@ VIA UGONIO POMPEO, 3
 -
 0.48774078
 VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
 -
 0.48774078
 VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
 -
 0.3287782
 00162
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
--
-0.3287782
-00162
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
 -
 0.3287782
 00162
@@ -848,7 +829,11 @@ VIA UGONIO POMPEO, 300162  Roma
 -
 0.3287782
 00162
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+-
+0.3287782
+00162
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
 -
 0.26148847
 
@@ -858,8 +843,12 @@ VIA UGONIO POMPEO, 300162  Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
 -
 0.18289246
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.18289246
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.18289246
 Roma
@@ -871,55 +860,15 @@ Roma
 -
 0.18289246
 Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.18289246
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
 -
 0.18289246
 Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.18289246
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.18289246
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.16732137
-Via Panfilo Castaldi 8
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
--
-0.14317635
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.14317635
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.14317635
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.14317635
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.14317635
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.14317635
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.14317635
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.09933797
-Avvocato in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
 -
 0.09782162
 Pagina verificata, ultimo aggiornamento 3 mesi fa 
@@ -927,15 +876,51 @@ Pagina verificata, ultimo aggiornamento 3 mesi fa
 -
 0.079525165
 Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.079525165
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.079525165
+Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.079525165
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.079525165
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
 0.079525165
 Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
-0.079525165
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+0.05936408
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a[1]
+-
+0.05936408
+Diritto del Lavoro in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a[1]
+-
+0.058371454
+Recensioni Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.057673503
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.057673503
+Infortunistica Stradale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
+-
+0.055972412
+Descrizione Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
 __________________
  Via Pompeo Ugonio N. 3   00162 Roma  (RM) 
 ---
@@ -954,19 +939,15 @@ VIA UGONIO POMPEO, 3
 -
 0.48774078
 VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
 -
 0.48774078
 VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
 -
 0.3287782
 00162
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
--
-0.3287782
-00162
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
 -
 0.3287782
 00162
@@ -974,7 +955,11 @@ VIA UGONIO POMPEO, 300162  Roma
 -
 0.3287782
 00162
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+-
+0.3287782
+00162
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
 -
 0.26148847
 
@@ -984,8 +969,12 @@ VIA UGONIO POMPEO, 300162  Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
 -
 0.18289246
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.18289246
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.18289246
 Roma
@@ -997,55 +986,15 @@ Roma
 -
 0.18289246
 Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.18289246
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
 -
 0.18289246
 Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.18289246
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.18289246
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.16732137
-Via Panfilo Castaldi 8
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
--
-0.14317635
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.14317635
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.14317635
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.14317635
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.14317635
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.14317635
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.14317635
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.09933797
-Avvocato in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
 -
 0.09782162
 Pagina verificata, ultimo aggiornamento 3 mesi fa 
@@ -1053,15 +1002,51 @@ Pagina verificata, ultimo aggiornamento 3 mesi fa
 -
 0.079525165
 Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.079525165
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.079525165
+Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.079525165
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.079525165
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
 0.079525165
 Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
-0.079525165
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+0.05936408
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a[1]
+-
+0.05936408
+Diritto del Lavoro in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a[1]
+-
+0.058371454
+Recensioni Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.057673503
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.057673503
+Infortunistica Stradale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
+-
+0.055972412
+Descrizione Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
 __________________
  Via Pompeo Ugonio N. 3   00162 Roma  (RM) 
 ---
@@ -1080,19 +1065,15 @@ VIA UGONIO POMPEO, 3
 -
 0.48774078
 VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
 -
 0.48774078
 VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
 -
 0.3287782
 00162
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
--
-0.3287782
-00162
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
 -
 0.3287782
 00162
@@ -1100,7 +1081,11 @@ VIA UGONIO POMPEO, 300162  Roma
 -
 0.3287782
 00162
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+-
+0.3287782
+00162
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
 -
 0.26148847
 
@@ -1110,8 +1095,12 @@ VIA UGONIO POMPEO, 300162  Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
 -
 0.18289246
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.18289246
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.18289246
 Roma
@@ -1123,55 +1112,15 @@ Roma
 -
 0.18289246
 Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.18289246
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
 -
 0.18289246
 Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.18289246
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.18289246
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.16732137
-Via Panfilo Castaldi 8
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
--
-0.14317635
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.14317635
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.14317635
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.14317635
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.14317635
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.14317635
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.14317635
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.09933797
-Avvocato in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
 -
 0.09782162
 Pagina verificata, ultimo aggiornamento 3 mesi fa 
@@ -1179,15 +1128,51 @@ Pagina verificata, ultimo aggiornamento 3 mesi fa
 -
 0.079525165
 Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.079525165
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.079525165
+Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.079525165
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.079525165
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
 0.079525165
 Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
-0.079525165
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+0.05936408
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a[1]
+-
+0.05936408
+Diritto del Lavoro in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a[1]
+-
+0.058371454
+Recensioni Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.057673503
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.057673503
+Infortunistica Stradale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
+-
+0.055972412
+Descrizione Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
 __________________
 Studio Legale Sgalippa
 ---
@@ -1196,50 +1181,9 @@ Studio Legale Sgalippa
 Studio Legale in Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
 -
-0.69128346
-Studio Legale in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
--
-0.38049597
-Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/span[1]
--
 0.25164655
 Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
--
-0.20217939
-
-    Descrizione Avvocato Fabio Sarra, Roma
-    
-     
-      
-      
-      Visita il sito web
-     
-     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
-    
-    
-    
-    
-    
-    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-    
-     Zone servite
-    Roma, Via Panfilo Castaldi 8
-     
-     Avvocato Fabio Sarra è iscritta nelle categorie:
-    
-    
-     Servizi professionali
-     Consulenza aziendale
-    
-    
-    
-      Più informazioni su Avvocato Fabio Sarra
-    
-   
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
 -
 0.11049769
 Lo Studio Si Occupa di Diritto Civile, Recupero Crediti per Le Aziende, Locazioni, Infortunistica Stradale E Ricostruzioni Sinistri, Diritto del Lavoro E Previdenza. 
@@ -1248,33 +1192,13 @@ __________________
 Aziende Simili:
 ---
 -
-0.63938576
-Aziende simili nelle vicinanze Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]
--
 0.61506844
 Aziende simili nelle vicinanze Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
 -
-0.51825345
- Visualizza la mappa con le aziende simili nei dintorni
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[7]/a[1]
--
 0.51255524
  Visualizza la mappa con le aziende simili nei dintorni
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[7]/a[1]
--
-0.43682677
-Dettagli azienda
-//html[1]/body[1]/div[5]/div[1]/ul[1]/li[3]/a[1]
--
-0.3744936
-Ricerche simili Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]
--
-0.36188874
-Dettagli azienda Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
 -
 0.35797107
 Ricerche simili Avv. Luca Ruberto, Roma
@@ -1297,8 +1221,12 @@ __________________
 ---
 -
 0.6021982
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.6021982
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.6021982
 Roma
@@ -1310,111 +1238,110 @@ Roma
 -
 0.6021982
 Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.6021982
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
 -
 0.6021982
 Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
 -
-0.6021982
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.6021982
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.5982184
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.5982184
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.5982184
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.5982184
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.5982184
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.5982184
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.5982184
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.4150532
-Avvocato in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
+0.26184738
+Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
 -
-0.29079214
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
+0.26184738
+Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
 -
 0.26184738
 Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.26184738
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.26184738
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
 0.26184738
 Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
-0.26184738
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+0.19985051
+
+             00162 
+             Roma  - Nomentano
+            
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
 -
-0.26184738
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+0.19546428
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a[1]
 -
-0.26184738
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+0.19546428
+Diritto del Lavoro in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a[1]
 -
-0.26184738
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+0.1921959
+Recensioni Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.1898978
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.1898978
+Infortunistica Stradale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
+-
+0.18429674
+Descrizione Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.18226759
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
+-
+0.1754889
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.17157234
+Galleria Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.15387546
+V. NOMENTANA. 35500162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]
+-
+0.14671445
+Ricerche simili Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.14587365
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.14587365
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.14498886
+V. S. COSTANZA. 3500198  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.14498886
+V. S. COSTANZA. 700198  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.14498886
+V. S. COSTANZA. 2700198  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
 __________________
 
     > 
@@ -1425,8 +1352,12 @@ __________________
 ---
 -
 0.6021982
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.6021982
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.6021982
 Roma
@@ -1438,111 +1369,110 @@ Roma
 -
 0.6021982
 Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.6021982
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
 -
 0.6021982
 Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
 -
-0.6021982
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.6021982
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.5982184
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.5982184
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.5982184
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.5982184
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.5982184
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.5982184
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.5982184
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.4150532
-Avvocato in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
+0.26184738
+Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
 -
-0.29079214
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
+0.26184738
+Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
 -
 0.26184738
 Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.26184738
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.26184738
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
 0.26184738
 Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
-0.26184738
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+0.19985051
+
+             00162 
+             Roma  - Nomentano
+            
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
 -
-0.26184738
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+0.19546428
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a[1]
 -
-0.26184738
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+0.19546428
+Diritto del Lavoro in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a[1]
 -
-0.26184738
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+0.1921959
+Recensioni Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.1898978
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.1898978
+Infortunistica Stradale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
+-
+0.18429674
+Descrizione Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.18226759
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
+-
+0.1754889
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.17157234
+Galleria Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.15387546
+V. NOMENTANA. 35500162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]
+-
+0.14671445
+Ricerche simili Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.14587365
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.14587365
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.14498886
+V. S. COSTANZA. 3500198  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.14498886
+V. S. COSTANZA. 700198  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.14498886
+V. S. COSTANZA. 2700198  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
 __________________
 
     > 
@@ -1553,8 +1483,12 @@ __________________
 ---
 -
 0.6021982
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.6021982
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.6021982
 Roma
@@ -1566,111 +1500,110 @@ Roma
 -
 0.6021982
 Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.6021982
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
 -
 0.6021982
 Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
 -
-0.6021982
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.6021982
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.5982184
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.5982184
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.5982184
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.5982184
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.5982184
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.5982184
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.5982184
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.4150532
-Avvocato in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
+0.26184738
+Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
 -
-0.29079214
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
+0.26184738
+Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.29079214
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
 -
 0.26184738
 Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.26184738
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.26184738
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
 0.26184738
 Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
-0.26184738
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+0.19985051
+
+             00162 
+             Roma  - Nomentano
+            
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
 -
-0.26184738
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+0.19546428
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a[1]
 -
-0.26184738
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+0.19546428
+Diritto del Lavoro in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a[1]
 -
-0.26184738
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+0.1921959
+Recensioni Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.1898978
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.1898978
+Infortunistica Stradale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
+-
+0.18429674
+Descrizione Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.18226759
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
+-
+0.1754889
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.17157234
+Galleria Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.15387546
+V. NOMENTANA. 35500162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]
+-
+0.14671445
+Ricerche simili Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.14587365
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.14587365
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.14498886
+V. S. COSTANZA. 3500198  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.14498886
+V. S. COSTANZA. 700198  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.14498886
+V. S. COSTANZA. 2700198  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
 __________________
 Studio Legale Tributario Immobiliare
 ---
@@ -1679,210 +1612,13 @@ Studio Legale Tributario Immobiliare
 Studio Legale in Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
 -
-0.57147604
-Studio Legale in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
--
-0.31455162
-Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/span[1]
--
 0.20877104
 Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
 -
-0.16713935
-
-    Descrizione Avvocato Fabio Sarra, Roma
-    
-     
-      
-      
-      Visita il sito web
-     
-     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
-    
-    
-    
-    
-    
-    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-    
-     Zone servite
-    Roma, Via Panfilo Castaldi 8
-     
-     Avvocato Fabio Sarra è iscritta nelle categorie:
-    
-    
-     Servizi professionali
-     Consulenza aziendale
-    
-    
-    
-      Più informazioni su Avvocato Fabio Sarra
-    
-   
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
--
 0.091671094
 Lo Studio Si Occupa di Diritto Civile, Recupero Crediti per Le Aziende, Locazioni, Infortunistica Stradale E Ricostruzioni Sinistri, Diritto del Lavoro E Previdenza. 
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/p[1]
-__________________
-Studio Legale E Tributario Avvocato Baio
----
--
-0.55867857
-Studio Legale in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
--
-0.5059547
-Studio Legale in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
--
-0.34650302
-Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/span[1]
--
-0.2359931
-
-    Descrizione Avvocato Fabio Sarra, Roma
-    
-     
-      
-      
-      Visita il sito web
-     
-     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
-    
-    
-    
-    
-    
-    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-    
-     Zone servite
-    Roma, Via Panfilo Castaldi 8
-     
-     Avvocato Fabio Sarra è iscritta nelle categorie:
-    
-    
-     Servizi professionali
-     Consulenza aziendale
-    
-    
-    
-      Più informazioni su Avvocato Fabio Sarra
-    
-   
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
--
-0.18228374
-Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
--
-0.1497258
-Avvocato in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
--
-0.1204776
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
--
-0.1204776
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]/i[1]
--
-0.1204776
-Avvocato Fabio Sarra, 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]/small[1]
--
-0.1204776
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
--
-0.1204776
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
--
-0.10487359
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.10487359
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
--
-0.10487359
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
--
-0.10487359
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.10487359
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.10487359
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
--
-0.10487359
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.10487359
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.10487359
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
--
-0.08004056
-Lo Studio Si Occupa di Diritto Civile, Recupero Crediti per Le Aziende, Locazioni, Infortunistica Stradale E Ricostruzioni Sinistri, Diritto del Lavoro E Previdenza. 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/p[1]
--
-0.0794871
-E-mail a Avvocato Fabio Sarra, 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]
--
-0.0794871
-
-        E-mail a Avvocato Fabio Sarra, ✕
-       
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]
--
-0.0794871
-E-mail a Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
--
-0.0794871
-
-          E-mail a Avvocato Fabio Sarra✕
-         
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
--
-0.07283177
- Più informazioni su Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[9]/a[1]
--
-0.07210884
-Descrizione Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
--
-0.07210884
-Recensioni Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
--
-0.063862234
-Galleria Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
--
-0.057742234
-Dettagli azienda Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
 __________________
  
         
@@ -1912,15 +1648,19 @@ VIA UGONIO POMPEO, 3
 -
 0.37332827
 VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
 -
 0.37332827
 VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
 -
 0.25603965
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.25603965
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.25603965
 Roma
@@ -1932,59 +1672,19 @@ Roma
 -
 0.25603965
 Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.25603965
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
 -
 0.25603965
 Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
 -
-0.25603965
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.25603965
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.2470357
-Avvocato in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
--
-0.23192485
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.23192485
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.23192485
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.23192485
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.23192485
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.23192485
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.23192485
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
 0.23013596
 00162
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
--
-0.23013596
-00162
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
 -
 0.23013596
 00162
@@ -1992,7 +1692,11 @@ Roma
 -
 0.23013596
 00162
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
+-
+0.23013596
+00162
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
 -
 0.22628947
 
@@ -2001,25 +1705,57 @@ Roma
             
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
 -
-0.17250319
-Avvocato Fabio Sarra, Roma
+0.11133098
+Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
 -
-0.17250319
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
--
-0.17250319
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
--
-0.17250319
-Avvocato Fabio Sarra, Roma
+0.11133098
+Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
 -
-0.17250319
-Avvocato Fabio Sarra, Roma
+0.11133098
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.11133098
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.11133098
+Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.11133098
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.08310654
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a[1]
+-
+0.08310654
+Diritto del Lavoro in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a[1]
+-
+0.08171691
+Recensioni Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.08073982
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.08073982
+Infortunistica Stradale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
+-
+0.07835838
+Descrizione Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.077495635
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
 __________________
 LO STUDIO LEGALE AVV. LUCA RUBERTO OPERA NEL SETTORE DEL DIRITTO CIVILE, CON PARTICOLARE RIFERIMENTO ALLE SEGUENTI MATERIE: RECUPERO CREDITI PER LE AZIENDE, LOCAZIONI, INFORTUNISTICA STRADALE E RICOSTRUZIONE SINISTRI, DIRITTO DEL LAVORO E PREVIDENZA, SEPARAZIONE E DIVORZI. PRESTA ATTIVITA' DI ASSISTENZA E CONSULENZA LEGALE. PRESTA DOMICILIAZIONE PER I COLLEGHI. LO STUDIO E' SITUATO A ROMA IN VIA POMPEO UGONI N. 3 A POCHI PASSI DALLA CHIESA DI S. AGNESE.
 ---
@@ -2036,62 +1772,17 @@ Lo Studio Si Occupa di Diritto Civile, Recupero Crediti per Le Aziende, Locazion
 Studio Legale in Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
 -
-0.3223845
-Studio Legale in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
--
-0.2982584
-Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/span[1]
+0.24787174
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a[1]
 -
 0.24787174
 Diritto del Lavoro in Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a[1]
 -
-0.24787174
-Diritto Civile in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a[1]
--
-0.23211725
-
-    Descrizione Avvocato Fabio Sarra, Roma
-    
-     
-      
-      
-      Visita il sito web
-     
-     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
-    
-    
-    
-    
-    
-    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-    
-     Zone servite
-    Roma, Via Panfilo Castaldi 8
-     
-     Avvocato Fabio Sarra è iscritta nelle categorie:
-    
-    
-     Servizi professionali
-     Consulenza aziendale
-    
-    
-    
-      Più informazioni su Avvocato Fabio Sarra
-    
-   
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
--
 0.21206929
 Via Pompeo Ugonio N. 3
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
--
-0.20437968
-Diritto Civile in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[3]/a[1]
 -
 0.17909919
 Infortunistica Stradale in Roma
@@ -2105,25 +1796,9 @@ VIA UGONIO POMPEO, 3
 VIA UGONIO POMPEO, 3
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
 -
-0.1385815
-Diritto Penale in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[4]/a[1]
--
-0.1358012
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.1358012
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
--
 0.1358012
 Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.1358012
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
 0.1358012
 Avv. Luca Ruberto, Roma
@@ -2131,11 +1806,19 @@ Avv. Luca Ruberto, Roma
 -
 0.1358012
 Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.1358012
+Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
 -
-0.121855624
-Avv. Luca Ruberto
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+0.1358012
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.1358012
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
 0.121855624
 Avv. Luca Ruberto
@@ -2143,11 +1826,15 @@ Avv. Luca Ruberto
 -
 0.121855624
 Avv. Luca Ruberto
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/i[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
 -
 0.121855624
 Avv. Luca Ruberto
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.121855624
+Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/i[1]
 -
 0.11569857
 Aziende simili nelle vicinanze Avv. Luca Ruberto, Roma
@@ -2155,23 +1842,60 @@ Aziende simili nelle vicinanze Avv. Luca Ruberto, Roma
 -
 0.11046067
 VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
 -
 0.11046067
 VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
 -
-0.11008222
-Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+0.100297295
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
 -
-0.11008222
-Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+0.09898396
+Recensioni Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
 -
-0.11008222
-Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+0.094853885
+Descrizione Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.08821741
+Galleria Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.086197376
+Consulenza aziendale
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a[1]/span[1]
+-
+0.08028381
+
+          E-mail a Avv. Luca Ruberto✕
+         
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.08028381
+E-mail a Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.07530601
+Ricerche simili Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+__________________
+Studio Legale E Tributario Avvocato Baio
+---
+-
+0.5059547
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
+-
+0.18228374
+Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.08004056
+Lo Studio Si Occupa di Diritto Civile, Recupero Crediti per Le Aziende, Locazioni, Infortunistica Stradale E Ricostruzioni Sinistri, Diritto del Lavoro E Previdenza. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/p[1]
 __________________
  
      
@@ -2267,21 +1991,9 @@ __________________
 Studio Legale in Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
 -
-0.4260149
-Studio Legale in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
--
 0.35234943
 Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
--
-0.3399473
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.3399473
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
 0.3399473
 Avv. Luca Ruberto, Roma
@@ -2289,15 +2001,23 @@ Avv. Luca Ruberto, Roma
 -
 0.3399473
 Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.3399473
-Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
 -
 0.3399473
 Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.3399473
+Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.3399473
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.3399473
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
 0.30161837
 Via Pompeo Ugonio N. 3
@@ -2308,8 +2028,12 @@ Recensioni Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
 -
 0.27724123
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.27724123
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.27724123
 Roma
@@ -2321,19 +2045,15 @@ Roma
 -
 0.27724123
 Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.27724123
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
 -
 0.27724123
 Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.27724123
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.27724123
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.276538
 Lo Studio Si Occupa di Diritto Civile, Recupero Crediti per Le Aziende, Locazioni, Infortunistica Stradale E Ricostruzioni Sinistri, Diritto del Lavoro E Previdenza. 
@@ -2349,143 +2069,470 @@ VIA UGONIO POMPEO, 3
 -
 0.27019817
 VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
 -
 0.27019817
 VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
 -
-0.26845258
-Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/span[1]
+0.2427801
+Aziende simili nelle vicinanze Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
 -
-0.25237697
-
-    Descrizione Avvocato Fabio Sarra, Roma
-    
+0.2424719
+Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.2424719
+Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.2424719
+Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.2424719
+Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/i[1]
+-
+0.23744509
+Descrizione Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.22083215
+Galleria Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.2191469
+Ricerche simili Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+__________________
+ 
+      Studio Legale Tributario Immobiliare
+       Via Roma 90
+       00040 - Pomezia-roma -ciampino- Albano 
      
-      
-      
-      Visita il sito web
-     
-     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
-    
-    
-    
-    
-    
-    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-    
-     Zone servite
-    Roma, Via Panfilo Castaldi 8
-     
-     Avvocato Fabio Sarra è iscritta nelle categorie:
-    
-    
-     Servizi professionali
-     Consulenza aziendale
-    
-    
-    
-      Più informazioni su Avvocato Fabio Sarra
-    
-   
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
+---
 -
-0.25208694
+0.42260718
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
+-
+0.24819499
 Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
-0.25208694
+0.24819499
 Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
-0.25208694
+0.24819499
 Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
 -
-0.25208694
+0.24819499
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.24819499
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.24819499
 Roma 
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
 -
-0.25208694
+0.24819499
 Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.15876247
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.15876247
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.123034135
+Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.10791996
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.10791996
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.10791996
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.10791996
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.10791996
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.10791996
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.10605685
+VIA UGONIO POMPEO, 3
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+-
+0.10605685
+VIA UGONIO POMPEO, 3
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.086836085
+Via Pompeo Ugonio N. 3
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.08236805
+
+             00162 
+             Roma  - Nomentano
+            
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.080560274
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a[1]
+-
+0.080560274
+Diritto del Lavoro in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a[1]
+-
+0.079213224
+Recensioni Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.07826607
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.07826607
+Infortunistica Stradale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
+-
+0.0759576
+Descrizione Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.072327465
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.07071326
+Galleria Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.06341951
+V. NOMENTANA. 35500162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]
+__________________
+ 
+      Studio Legale Tributario Immobiliare
+       Via Roma 90
+       00040 - Pomezia-roma -ciampino- Albano 
+     
+---
+-
+0.42260718
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
+-
+0.24819499
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.24819499
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.24819499
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.24819499
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.24819499
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.24819499
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.24819499
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.15876247
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.15876247
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.123034135
+Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.10791996
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.10791996
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.10791996
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.10791996
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.10791996
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.10791996
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.10605685
+VIA UGONIO POMPEO, 3
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+-
+0.10605685
+VIA UGONIO POMPEO, 3
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.086836085
+Via Pompeo Ugonio N. 3
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.08236805
+
+             00162 
+             Roma  - Nomentano
+            
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.080560274
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a[1]
+-
+0.080560274
+Diritto del Lavoro in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a[1]
+-
+0.079213224
+Recensioni Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.07826607
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.07826607
+Infortunistica Stradale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
+-
+0.0759576
+Descrizione Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.072327465
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.07071326
+Galleria Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.06341951
+V. NOMENTANA. 35500162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]
+__________________
+ 
+      Studio Legale Sgalippa
+       Via Palombarese, 479
+       00013 - Fonte Nuova 
+     
+---
+-
+0.3748136
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
+-
+0.13503663
+Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.11640315
+VIA UGONIO POMPEO, 3
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+-
+0.11640315
+VIA UGONIO POMPEO, 3
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.10753756
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.10753756
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.095307305
+Via Pompeo Ugonio N. 3
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.059294418
+Lo Studio Si Occupa di Diritto Civile, Recupero Crediti per Le Aziende, Locazioni, Infortunistica Stradale E Ricostruzioni Sinistri, Diritto del Lavoro E Previdenza. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/p[1]
+__________________
+ 
+      Studio Legale Sgalippa
+       Via Palombarese, 479
+       00013 - Fonte Nuova 
+     
+---
+-
+0.3748136
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
+-
+0.13503663
+Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.11640315
+VIA UGONIO POMPEO, 3
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+-
+0.11640315
+VIA UGONIO POMPEO, 3
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.10753756
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.10753756
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.095307305
+Via Pompeo Ugonio N. 3
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.059294418
+Lo Studio Si Occupa di Diritto Civile, Recupero Crediti per Le Aziende, Locazioni, Infortunistica Stradale E Ricostruzioni Sinistri, Diritto del Lavoro E Previdenza. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/p[1]
+__________________
+ 
+      Studio Legale E Tributario Avvocato Baio
+       Via Della Tecnica, 58
+       00040 - Pomezia 
+     
+---
+-
+0.35252953
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
+-
+0.12700821
+Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.10948255
+VIA UGONIO POMPEO, 3
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+-
+0.10948255
+VIA UGONIO POMPEO, 3
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.10114406
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.10114406
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.08964094
+Via Pompeo Ugonio N. 3
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.05576915
+Lo Studio Si Occupa di Diritto Civile, Recupero Crediti per Le Aziende, Locazioni, Infortunistica Stradale E Ricostruzioni Sinistri, Diritto del Lavoro E Previdenza. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/p[1]
+__________________
+ 
+      Studio Legale E Tributario Avvocato Baio
+       Via Della Tecnica, 58
+       00040 - Pomezia 
+     
+---
+-
+0.35252953
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
+-
+0.12700821
+Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
+-
+0.10948255
+VIA UGONIO POMPEO, 3
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
+-
+0.10948255
+VIA UGONIO POMPEO, 3
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
+-
+0.10114406
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.10114406
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.08964094
+Via Pompeo Ugonio N. 3
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+-
+0.05576915
+Lo Studio Si Occupa di Diritto Civile, Recupero Crediti per Le Aziende, Locazioni, Infortunistica Stradale E Ricostruzioni Sinistri, Diritto del Lavoro E Previdenza. 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/p[1]
 __________________
 Avvocati - Studi a Roma
 ---
 -
-0.47139138
-Avvocato in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
--
-0.32919097
+0.2576816
 Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.32919097
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.32919097
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.32919097
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.32919097
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.32919097
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.32919097
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.3291691
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.3291691
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
--
-0.3291691
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
--
-0.3291691
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.3291691
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.3291691
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
--
-0.3291691
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.3291691
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.3291691
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.2576816
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.2576816
 Roma
@@ -2497,1060 +2544,133 @@ Roma
 -
 0.2576816
 Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.2576816
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
 -
 0.2576816
 Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
 -
-0.2576816
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+0.11204493
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
 -
-0.2576816
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+0.11204493
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
 -
-0.22597899
-Descrizione Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+0.11204493
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
 -
-0.22597899
-Recensioni Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
+0.11204493
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
 -
-0.2000754
-Galleria Avvocato Fabio Sarra, Roma
+0.11204493
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.11204493
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.08551636
+
+             00162 
+             Roma  - Nomentano
+            
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]
+-
+0.08363949
+Diritto Civile in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[3]/a[1]
+-
+0.08363949
+Diritto del Lavoro in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a[1]
+-
+0.082240954
+Recensioni Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
 -
-0.19316457
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
--
-0.19316457
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]/i[1]
--
-0.19316457
-Avvocato Fabio Sarra, 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]/small[1]
-__________________
- 
-      Studio Legale Tributario Immobiliare
-       Via Roma 90
-       00040 - Pomezia-roma -ciampino- Albano 
-     
----
--
-0.42260718
-Studio Legale in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
--
-0.4120745
-Studio Legale in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
--
-0.24819499
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.24819499
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.24819499
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.24819499
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.24819499
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.24819499
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.24819499
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.24383797
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.24383797
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.24383797
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.24383797
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.24383797
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.24383797
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.24383797
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.18259989
-Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/span[1]
--
-0.16917856
-Avvocato in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
--
-0.15876247
-VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
--
-0.15876247
-VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
--
-0.14803842
-
-    Descrizione Avvocato Fabio Sarra, Roma
-    
-     
-      
-      
-      Visita il sito web
-     
-     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
-    
-    
-    
-    
-    
-    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-    
-     Zone servite
-    Roma, Via Panfilo Castaldi 8
-     
-     Avvocato Fabio Sarra è iscritta nelle categorie:
-    
-    
-     Servizi professionali
-     Consulenza aziendale
-    
-    
-    
-      Più informazioni su Avvocato Fabio Sarra
-    
-   
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
--
-0.14247918
-Via Panfilo Castaldi 8
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
--
-0.123034135
-Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
--
-0.11852889
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.11852889
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
--
-0.11852889
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
--
-0.11852889
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.11852889
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.11852889
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
--
-0.11852889
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
-__________________
- 
-      Studio Legale Tributario Immobiliare
-       Via Roma 90
-       00040 - Pomezia-roma -ciampino- Albano 
-     
----
--
-0.42260718
-Studio Legale in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
--
-0.4120745
-Studio Legale in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
--
-0.24819499
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.24819499
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.24819499
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.24819499
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.24819499
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.24819499
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.24819499
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.24383797
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.24383797
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.24383797
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.24383797
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.24383797
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.24383797
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.24383797
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.18259989
-Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/span[1]
--
-0.16917856
-Avvocato in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
--
-0.15876247
-VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
--
-0.15876247
-VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
--
-0.14803842
-
-    Descrizione Avvocato Fabio Sarra, Roma
-    
-     
-      
-      
-      Visita il sito web
-     
-     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
-    
-    
-    
-    
-    
-    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-    
-     Zone servite
-    Roma, Via Panfilo Castaldi 8
-     
-     Avvocato Fabio Sarra è iscritta nelle categorie:
-    
-    
-     Servizi professionali
-     Consulenza aziendale
-    
-    
-    
-      Più informazioni su Avvocato Fabio Sarra
-    
-   
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
--
-0.14247918
-Via Panfilo Castaldi 8
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
--
-0.123034135
-Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
--
-0.11852889
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.11852889
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
--
-0.11852889
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
--
-0.11852889
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.11852889
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.11852889
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
--
-0.11852889
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
-__________________
- 
-      Studio Legale Sgalippa
-       Via Palombarese, 479
-       00013 - Fonte Nuova 
-     
----
--
-0.3748136
-Studio Legale in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
--
-0.36329624
-Studio Legale in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
--
-0.19996537
-Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/span[1]
--
-0.15602915
-Via Panfilo Castaldi 8
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
--
-0.13652119
-
-    Descrizione Avvocato Fabio Sarra, Roma
-    
-     
-      
-      
-      Visita il sito web
-     
-     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
-    
-    
-    
-    
-    
-    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-    
-     Zone servite
-    Roma, Via Panfilo Castaldi 8
-     
-     Avvocato Fabio Sarra è iscritta nelle categorie:
-    
-    
-     Servizi professionali
-     Consulenza aziendale
-    
-    
-    
-      Più informazioni su Avvocato Fabio Sarra
-    
-   
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
--
-0.13503663
-Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
--
-0.11640315
-VIA UGONIO POMPEO, 3
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
--
-0.11640315
-VIA UGONIO POMPEO, 3
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
--
-0.10753756
-VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
--
-0.10753756
-VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
--
-0.095307305
-Via Pompeo Ugonio N. 3
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
--
-0.059294418
-Lo Studio Si Occupa di Diritto Civile, Recupero Crediti per Le Aziende, Locazioni, Infortunistica Stradale E Ricostruzioni Sinistri, Diritto del Lavoro E Previdenza. 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/p[1]
-__________________
- 
-      Studio Legale Sgalippa
-       Via Palombarese, 479
-       00013 - Fonte Nuova 
-     
----
--
-0.3748136
-Studio Legale in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
--
-0.36329624
-Studio Legale in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
--
-0.19996537
-Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/span[1]
--
-0.15602915
-Via Panfilo Castaldi 8
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
--
-0.13652119
-
-    Descrizione Avvocato Fabio Sarra, Roma
-    
-     
-      
-      
-      Visita il sito web
-     
-     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
-    
-    
-    
-    
-    
-    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-    
-     Zone servite
-    Roma, Via Panfilo Castaldi 8
-     
-     Avvocato Fabio Sarra è iscritta nelle categorie:
-    
-    
-     Servizi professionali
-     Consulenza aziendale
-    
-    
-    
-      Più informazioni su Avvocato Fabio Sarra
-    
-   
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
--
-0.13503663
-Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
--
-0.11640315
-VIA UGONIO POMPEO, 3
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
--
-0.11640315
-VIA UGONIO POMPEO, 3
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
--
-0.10753756
-VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
--
-0.10753756
-VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
--
-0.095307305
-Via Pompeo Ugonio N. 3
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
--
-0.059294418
-Lo Studio Si Occupa di Diritto Civile, Recupero Crediti per Le Aziende, Locazioni, Infortunistica Stradale E Ricostruzioni Sinistri, Diritto del Lavoro E Previdenza. 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/p[1]
-__________________
- 
-      Studio Legale E Tributario Avvocato Baio
-       Via Della Tecnica, 58
-       00040 - Pomezia 
-     
----
--
-0.35994157
-Studio Legale in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
--
-0.35252953
-Studio Legale in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
--
-0.2232426
-Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/span[1]
--
-0.18212369
-
-    Descrizione Avvocato Fabio Sarra, Roma
-    
-     
-      
-      
-      Visita il sito web
-     
-     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
-    
-    
-    
-    
-    
-    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-    
-     Zone servite
-    Roma, Via Panfilo Castaldi 8
-     
-     Avvocato Fabio Sarra è iscritta nelle categorie:
-    
-    
-     Servizi professionali
-     Consulenza aziendale
-    
-    
-    
-      Più informazioni su Avvocato Fabio Sarra
-    
-   
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
--
-0.15458839
-Via Panfilo Castaldi 8
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
--
-0.12700821
-Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
--
-0.10948255
-VIA UGONIO POMPEO, 3
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
--
-0.10948255
-VIA UGONIO POMPEO, 3
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
--
-0.10114406
-VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
--
-0.10114406
-VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
--
-0.096464306
-Avvocato in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
--
-0.08964094
-Via Pompeo Ugonio N. 3
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
--
-0.077620484
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
--
-0.077620484
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]/i[1]
--
-0.077620484
-Avvocato Fabio Sarra, 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]/small[1]
--
-0.077620484
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
--
-0.077620484
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
--
-0.06756724
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.06756724
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
--
-0.06756724
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
--
-0.06756724
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.06756724
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.06756724
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
--
-0.06756724
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.06756724
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.06756724
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
--
-0.05576915
-Lo Studio Si Occupa di Diritto Civile, Recupero Crediti per Le Aziende, Locazioni, Infortunistica Stradale E Ricostruzioni Sinistri, Diritto del Lavoro E Previdenza. 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/p[1]
--
-0.0512114
-E-mail a Avvocato Fabio Sarra, 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]
--
-0.0512114
-
-        E-mail a Avvocato Fabio Sarra, ✕
-       
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]
--
-0.0512114
-E-mail a Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
-__________________
- 
-      Studio Legale E Tributario Avvocato Baio
-       Via Della Tecnica, 58
-       00040 - Pomezia 
-     
----
--
-0.35994157
-Studio Legale in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[2]/a[1]
--
-0.35252953
-Studio Legale in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
--
-0.2232426
-Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/span[1]
--
-0.18212369
-
-    Descrizione Avvocato Fabio Sarra, Roma
-    
-     
-      
-      
-      Visita il sito web
-     
-     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
-    
-    
-    
-    
-    
-    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-    
-     Zone servite
-    Roma, Via Panfilo Castaldi 8
-     
-     Avvocato Fabio Sarra è iscritta nelle categorie:
-    
-    
-     Servizi professionali
-     Consulenza aziendale
-    
-    
-    
-      Più informazioni su Avvocato Fabio Sarra
-    
-   
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
--
-0.15458839
-Via Panfilo Castaldi 8
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
--
-0.12700821
-Infortunistica Stradale, Studio Legale, Diritto Civile, Diritto del Lavoro, Locazione, Ricostruzione Sinistri, Recupero Crediti per Le Aziende
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
--
-0.10948255
-VIA UGONIO POMPEO, 3
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[1]
--
-0.10948255
-VIA UGONIO POMPEO, 3
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[1]
--
-0.10114406
-VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
--
-0.10114406
-VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
--
-0.096464306
-Avvocato in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
--
-0.08964094
-Via Pompeo Ugonio N. 3
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
--
-0.077620484
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
--
-0.077620484
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]/i[1]
--
-0.077620484
-Avvocato Fabio Sarra, 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]/small[1]
--
-0.077620484
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
--
-0.077620484
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
--
-0.06756724
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.06756724
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
--
-0.06756724
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
--
-0.06756724
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.06756724
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.06756724
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
--
-0.06756724
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.06756724
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.06756724
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
--
-0.05576915
-Lo Studio Si Occupa di Diritto Civile, Recupero Crediti per Le Aziende, Locazioni, Infortunistica Stradale E Ricostruzioni Sinistri, Diritto del Lavoro E Previdenza. 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/p[1]
--
-0.0512114
-E-mail a Avvocato Fabio Sarra, 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]
--
-0.0512114
-
-        E-mail a Avvocato Fabio Sarra, ✕
-       
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]
--
-0.0512114
-E-mail a Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
-__________________
- AVVOCATI STUDI 
----
--
-0.25422874
-Avvocato in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
--
-0.2045664
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
--
-0.2045664
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]/i[1]
--
-0.2045664
-Avvocato Fabio Sarra, 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]/small[1]
--
-0.2045664
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
--
-0.2045664
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
--
-0.1780714
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.1780714
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
--
-0.1780714
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
--
-0.1780714
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.1780714
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.1780714
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
--
-0.1780714
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.1780714
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.1780714
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
--
-0.13496609
-E-mail a Avvocato Fabio Sarra, 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]
--
-0.13496609
-
-        E-mail a Avvocato Fabio Sarra, ✕
-       
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]
--
-0.13496609
-E-mail a Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
--
-0.13496609
-
-          E-mail a Avvocato Fabio Sarra✕
-         
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
--
-0.12366561
- Più informazioni su Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[9]/a[1]
--
-0.12243808
-Descrizione Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
--
-0.12243808
-Recensioni Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
--
-0.122066766
-
-    Descrizione Avvocato Fabio Sarra, Roma
-    
-     
-      
-      
-      Visita il sito web
-     
-     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
-    
-    
-    
-    
-    
-    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-    
-     Zone servite
-    Roma, Via Panfilo Castaldi 8
-     
-     Avvocato Fabio Sarra è iscritta nelle categorie:
-    
-    
-     Servizi professionali
-     Consulenza aziendale
-    
-    
-    
-      Più informazioni su Avvocato Fabio Sarra
-    
-   
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
--
-0.10843565
-Galleria Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
--
-0.098044135
-Dettagli azienda Avvocato Fabio Sarra, Roma
+0.08125758
+Servizi professionali Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.08125758
+Infortunistica Stradale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
+-
+0.07886088
+Descrizione Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
 -
-0.0967275
- 
-     Avvocato Fabio Sarra è iscritta nelle categorie:
-    
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]
+0.0779926
+Studio Legale in Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
 -
-0.09344532
-Siti sociali Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+0.075091995
+Consulenza aziendale Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
 -
-0.09120493
-Ricerche simili Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]
+0.07341609
+Galleria Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
 -
-0.08132037
-Aziende simili nelle vicinanze Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]
+0.06584356
+V. NOMENTANA. 35500162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]
 -
-0.080331504
-Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+0.06277935
+Ricerche simili Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.06241958
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.06241958
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.062040977
+V. S. COSTANZA. 3500198  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.062040977
+V. S. COSTANZA. 700198  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.062040977
+V. S. COSTANZA. 2700198  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]
 __________________
 Avv. Dario Candeloro
 ---
 -
-0.22840667
-Sforza Arturo (Avv.)
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[1]/strong[1]/a[1]/span[1]
+0.15494077
+Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
 -
-0.22840667
-Simone Michele (Avv.)
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[1]/strong[1]/a[1]/span[1]
--
-0.16699962
-
-        Simone Michele (Avv.)
-        
-         60 m
-        
-        Dati
-       
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[1]
--
-0.16699962
-
-        Sforza Arturo (Avv.)
-        
-         70 m
-        
-        Dati
-       
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[1]
+0.15494077
+Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
 -
 0.15494077
 Avv. Luca Ruberto
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
--
-0.15494077
-Avv. Luca Ruberto
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
 -
 0.15494077
 Avv. Luca Ruberto
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/i[1]
 -
-0.15494077
-Avv. Luca Ruberto
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
--
-0.13898753
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.13898753
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
--
 0.13898753
 Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.13898753
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
 0.13898753
 Avv. Luca Ruberto, Roma
@@ -3558,7 +2678,19 @@ Avv. Luca Ruberto, Roma
 -
 0.13898753
 Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.13898753
+Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.13898753
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.13898753
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
 0.10285763
 
@@ -3634,164 +2766,6 @@ Aziende simili nelle vicinanze Avv. Luca Ruberto, Roma
        
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[1]
 __________________
-Avvocato Viviana Formichella
----
--
-0.18579522
-Avvocato in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
--
-0.14950104
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
--
-0.14950104
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]/i[1]
--
-0.14950104
-Avvocato Fabio Sarra, 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]/small[1]
--
-0.14950104
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
--
-0.14950104
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
--
-0.13013797
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.13013797
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
--
-0.13013797
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
--
-0.13013797
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.13013797
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.13013797
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
--
-0.13013797
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.13013797
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.13013797
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
--
-0.09863579
-E-mail a Avvocato Fabio Sarra, 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]
--
-0.09863579
-
-        E-mail a Avvocato Fabio Sarra, ✕
-       
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]
--
-0.09863579
-E-mail a Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
--
-0.09863579
-
-          E-mail a Avvocato Fabio Sarra✕
-         
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
--
-0.09037718
- Più informazioni su Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[9]/a[1]
--
-0.089480095
-Descrizione Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
--
-0.089480095
-Recensioni Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
--
-0.08920872
-
-    Descrizione Avvocato Fabio Sarra, Roma
-    
-     
-      
-      
-      Visita il sito web
-     
-     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
-    
-    
-    
-    
-    
-    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-    
-     Zone servite
-    Roma, Via Panfilo Castaldi 8
-     
-     Avvocato Fabio Sarra è iscritta nelle categorie:
-    
-    
-     Servizi professionali
-     Consulenza aziendale
-    
-    
-    
-      Più informazioni su Avvocato Fabio Sarra
-    
-   
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
--
-0.07924685
-Galleria Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
--
-0.071652524
-Dettagli azienda Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
--
-0.070690304
- 
-     Avvocato Fabio Sarra è iscritta nelle categorie:
-    
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]
--
-0.06829163
-Siti sociali Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
--
-0.0666543
-Ricerche simili Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]
--
-0.05943048
-Aziende simili nelle vicinanze Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]
--
-0.0587078
-Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
-__________________
  
       Avv. Dario Candeloro
        Via Conte Rosso, 5
@@ -3799,21 +2773,21 @@ __________________
      
 ---
 -
-0.16124058
-Via Panfilo Castaldi 8
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+0.14988925
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
 -
 0.14988925
 VIA UGONIO POMPEO, 300162  Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
 -
-0.14988925
-VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+0.14484918
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.14484918
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.14484918
 Roma
@@ -3825,27 +2799,15 @@ Roma
 -
 0.14484918
 Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.14484918
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
 -
 0.14484918
 Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.14484918
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.14484918
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.14224635
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.14224635
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
 0.14224635
 Avv. Luca Ruberto, Roma
@@ -3853,51 +2815,23 @@ Avv. Luca Ruberto, Roma
 -
 0.14224635
 Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
 -
 0.14224635
 Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
 -
 0.14224635
 Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
 -
-0.13797303
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+0.14224635
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
-0.13797303
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.13797303
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.13797303
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.13797303
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.13797303
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.13797303
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.13408639
-Sforza Arturo (Avv.)
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[1]/strong[1]/a[1]/span[1]
--
-0.13408639
-Simone Michele (Avv.)
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[1]/strong[1]/a[1]/span[1]
+0.14224635
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
 0.12379177
 VIA UGONIO POMPEO, 3
@@ -3918,6 +2852,48 @@ Via Pompeo Ugonio N. 3
 0.09990707
 Descrizione Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.092983626
+Galleria Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.087813355
+Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.087813355
+Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+-
+0.087813355
+Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.087813355
+Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/i[1]
+-
+0.079473734
+Ricerche simili Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.07148852
+Aziende simili nelle vicinanze Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.058295004
+
+          E-mail a Avv. Luca Ruberto✕
+         
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.058295004
+E-mail a Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.053882327
+ Più informazioni su Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[9]/a[1]
 __________________
  
       Avv. Dario Candeloro
@@ -3926,21 +2902,21 @@ __________________
      
 ---
 -
-0.16124058
-Via Panfilo Castaldi 8
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]
+0.14988925
+VIA UGONIO POMPEO, 300162  Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
 -
 0.14988925
 VIA UGONIO POMPEO, 300162  Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
 -
-0.14988925
-VIA UGONIO POMPEO, 300162  Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+0.14484918
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.14484918
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.14484918
 Roma
@@ -3952,27 +2928,15 @@ Roma
 -
 0.14484918
 Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.14484918
+Roma 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
 -
 0.14484918
 Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.14484918
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.14484918
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.14224635
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.14224635
-Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
 0.14224635
 Avv. Luca Ruberto, Roma
@@ -3980,51 +2944,23 @@ Avv. Luca Ruberto, Roma
 -
 0.14224635
 Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
 -
 0.14224635
 Avv. Luca Ruberto, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
 -
 0.14224635
 Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
 -
-0.13797303
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+0.14224635
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
-0.13797303
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.13797303
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.13797303
-Roma 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.13797303
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.13797303
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.13797303
-Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.13408639
-Sforza Arturo (Avv.)
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[4]/div[1]/div[1]/strong[1]/a[1]/span[1]
--
-0.13408639
-Simone Michele (Avv.)
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/ol[1]/li[3]/div[1]/div[1]/strong[1]/a[1]/span[1]
+0.14224635
+Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
 0.12379177
 VIA UGONIO POMPEO, 3
@@ -4045,328 +2981,46 @@ Via Pompeo Ugonio N. 3
 0.09990707
 Descrizione Avv. Luca Ruberto, Roma
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
-__________________
- 
-      Avvocato Viviana Formichella
-       Lungomare Delle Meduse, 127
-       00040 - Pomezia 
-     
----
 -
-0.10182253
-Avvocato in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
+0.092983626
+Galleria Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
 -
-0.081932
-Avvocato Fabio Sarra
+0.087813355
+Avv. Luca Ruberto
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
 -
-0.081932
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]/i[1]
--
-0.081932
-Avvocato Fabio Sarra, 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]/small[1]
--
-0.081932
-Avvocato Fabio Sarra
+0.087813355
+Avv. Luca Ruberto
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
 -
-0.081932
-Avvocato Fabio Sarra
+0.087813355
+Avv. Luca Ruberto
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
 -
-0.07132034
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+0.087813355
+Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/i[1]
 -
-0.07132034
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+0.079473734
+Ricerche simili Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
 -
-0.07132034
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
+0.07148852
+Aziende simili nelle vicinanze Avv. Luca Ruberto, Roma
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
 -
-0.07132034
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.07132034
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.07132034
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
--
-0.07132034
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.07132034
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.07132034
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
--
-0.054056
-E-mail a Avvocato Fabio Sarra, 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]
--
-0.054056
+0.058295004
 
-        E-mail a Avvocato Fabio Sarra, ✕
-       
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]
--
-0.054056
-E-mail a Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
--
-0.054056
-
-          E-mail a Avvocato Fabio Sarra✕
+          E-mail a Avv. Luca Ruberto✕
          
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
 -
-0.04952998
- Più informazioni su Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[9]/a[1]
--
-0.049038343
-Descrizione Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
--
-0.049038343
-Recensioni Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
--
-0.048889622
-
-    Descrizione Avvocato Fabio Sarra, Roma
-    
-     
-      
-      
-      Visita il sito web
-     
-     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
-    
-    
-    
-    
-    
-    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-    
-     Zone servite
-    Roma, Via Panfilo Castaldi 8
-     
-     Avvocato Fabio Sarra è iscritta nelle categorie:
-    
-    
-     Servizi professionali
-     Consulenza aziendale
-    
-    
-    
-      Più informazioni su Avvocato Fabio Sarra
-    
-   
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
--
-0.043430153
-Galleria Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
--
-0.03926819
-Dettagli azienda Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
--
-0.038740855
- 
-     Avvocato Fabio Sarra è iscritta nelle categorie:
-    
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]
--
-0.037426293
-Siti sociali Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
--
-0.03652898
-Ricerche simili Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]
--
-0.032570064
-Aziende simili nelle vicinanze Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]
--
-0.032174006
-Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
-__________________
- 
-      Avvocato Viviana Formichella
-       Lungomare Delle Meduse, 127
-       00040 - Pomezia 
-     
----
--
-0.10182253
-Avvocato in Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/ul[1]/li[1]/a[1]
--
-0.081932
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
--
-0.081932
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]/i[1]
--
-0.081932
-Avvocato Fabio Sarra, 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]/small[1]
--
-0.081932
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
--
-0.081932
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
--
-0.07132034
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.07132034
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
--
-0.07132034
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]/small[1]
--
-0.07132034
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.07132034
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.07132034
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]/small[1]
--
-0.07132034
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.07132034
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.07132034
-Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]/small[1]
--
-0.054056
-E-mail a Avvocato Fabio Sarra, 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]/h2[1]
--
-0.054056
-
-        E-mail a Avvocato Fabio Sarra, ✕
-       
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/div[1]/div[1]/div[1]/div[1]
--
-0.054056
-E-mail a Avvocato Fabio Sarra
+0.058295004
+E-mail a Avv. Luca Ruberto
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
 -
-0.054056
-
-          E-mail a Avvocato Fabio Sarra✕
-         
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
--
-0.04952998
- Più informazioni su Avvocato Fabio Sarra
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[9]/a[1]
--
-0.049038343
-Descrizione Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
--
-0.049038343
-Recensioni Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[8]/h2[1]
--
-0.048889622
-
-    Descrizione Avvocato Fabio Sarra, Roma
-    
-     
-      
-      
-      Visita il sito web
-     
-     Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
-    
-    
-    
-    
-    
-    Avvocato, Studio Legale, Diritto Civile, Diritto Penale, Consulenze, Legale/Legge, Legale, Legge, Avvocato Penalista, Domiciliazioni, Diritto Minorile, Patrocinio
-    
-     Zone servite
-    Roma, Via Panfilo Castaldi 8
-     
-     Avvocato Fabio Sarra è iscritta nelle categorie:
-    
-    
-     Servizi professionali
-     Consulenza aziendale
-    
-    
-    
-      Più informazioni su Avvocato Fabio Sarra
-    
-   
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]
--
-0.043430153
-Galleria Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
--
-0.03926819
-Dettagli azienda Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
--
-0.038740855
- 
-     Avvocato Fabio Sarra è iscritta nelle categorie:
-    
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[7]
--
-0.037426293
-Siti sociali Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
--
-0.03652898
-Ricerche simili Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[13]/h2[1]
--
-0.032570064
-Aziende simili nelle vicinanze Avvocato Fabio Sarra, Roma
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[12]/h2[1]
--
-0.032174006
-Avvocato Fabio Sarra, patrocinante in cassazione.  Servizio di consulenza on-line e telefonica.  Esperienza in diritto civile e penale. Servizio di domiciliazione davanti alla Corte dei Conti e di Cassazione per i Colleghi Avvocati. 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/div[1]/p[1]
+0.053882327
+ Più informazioni su Avv. Luca Ruberto
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[9]/a[1]
 __________________

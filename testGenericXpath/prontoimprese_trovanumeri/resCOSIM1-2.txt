@@ -24,10 +24,6 @@ Ambrosone Luigi
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.5503604
- Ambrosone Luigi - Avellino 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/a[1]
--
-0.5503604
 Altri Ambrosone Luigi 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[1]/td[1]/p[1]
 -
@@ -35,9 +31,17 @@ Altri Ambrosone Luigi
  Ambrosone Luigi - Benevento 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
+0.5503604
+ Ambrosone Luigi - Avellino 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/a[1]
+-
 0.50701046
 Immagini Ambrosone Luigi Napoli
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[3]/tbody[1]/tr[1]/td[1]/p[1]
+-
+0.4224672
+ Ambrosone Luigi - Cascine Vica 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/a[1]
 -
 0.4224672
  Ambrosone Luigi - Castel Volturno 
@@ -46,10 +50,6 @@ Immagini Ambrosone Luigi Napoli
 0.4224672
 Risultati ricerca Ambrosone Luigi 
 //html[1]/body[1]/table[1]/tbody[1]/tr[7]/td[1]/p[1]
--
-0.4224672
- Ambrosone Luigi - Cascine Vica 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/a[1]
 -
 0.41130933
 Tutti Ambrosone di Napoli
@@ -68,23 +68,16 @@ Tutti Ambrosone di Napoli
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/a[1]
 -
 0.20068453
- Ambrosone Avv. Nicola - Napoli 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.20068453
  Ambrosone Avv. Achille - Napoli 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
+-
+0.20068453
+ Ambrosone Avv. Nicola - Napoli 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.14337541
  Ambrosone Avv. Costantino Studio Legale - Napoli 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/a[1]
-__________________
-Avellino
----
--
-0.7878282
- Ambrosone Luigi - Avellino 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/a[1]
 __________________
 Benevento
 ---
@@ -93,6 +86,13 @@ Benevento
  Ambrosone Luigi - Benevento 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 __________________
+Avellino
+---
+-
+0.7878282
+ Ambrosone Luigi - Avellino 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[2]/td[1]/div[1]/div[1]/div[1]/a[1]
+__________________
 Napoli
 ---
 -
@@ -129,12 +129,12 @@ Immagini Ambrosone Luigi Napoli
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[3]/tbody[1]/tr[1]/td[1]/p[1]
 -
 0.36436757
- Ambrosone Avv. Nicola - Napoli 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.36436757
  Ambrosone Avv. Achille - Napoli 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
+-
+0.36436757
+ Ambrosone Avv. Nicola - Napoli 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.36008045
 
@@ -186,12 +186,12 @@ Immagini Ambrosone Luigi Napoli
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[3]/tbody[1]/tr[1]/td[1]/p[1]
 -
 0.36436757
- Ambrosone Avv. Nicola - Napoli 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.36436757
  Ambrosone Avv. Achille - Napoli 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
+-
+0.36436757
+ Ambrosone Avv. Nicola - Napoli 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.36008045
 
@@ -243,12 +243,12 @@ Immagini Ambrosone Luigi Napoli
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[3]/tbody[1]/tr[1]/td[1]/p[1]
 -
 0.36436757
- Ambrosone Avv. Nicola - Napoli 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.36436757
  Ambrosone Avv. Achille - Napoli 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
+-
+0.36436757
+ Ambrosone Avv. Nicola - Napoli 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.36008045
 
@@ -298,11 +298,11 @@ Tutti Ambrosone di Napoli
 -
 0.2297593
  Larocca Vittorio - Piazzetta Ascensione, 14 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.2297593
  Larocca Vittorio - Piazzetta Ascensione, 14 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.2297593
  Larocca Vittorio - Piazzetta Ascensione, 14 
@@ -310,11 +310,11 @@ Tutti Ambrosone di Napoli
 -
 0.2297593
  Larocca Vittorio - Piazzetta Ascensione, 14 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.2297593
  Larocca Vittorio - Piazzetta Ascensione, 14 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.18511422
  Ambrosone Luigi - Napoli 
@@ -349,12 +349,12 @@ Immagini Ambrosone Luigi Napoli
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[3]/tbody[1]/tr[1]/td[1]/p[1]
 -
 0.114850745
- Ambrosone Avv. Nicola - Napoli 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.114850745
  Ambrosone Avv. Achille - Napoli 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
+-
+0.114850745
+ Ambrosone Avv. Nicola - Napoli 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.10347212
 Dati del Comune Napoli
@@ -377,24 +377,24 @@ Dati del Comune Napoli
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.042755798
- Di Frenna Alfredo - Piazzetta Ascensione, 10 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.042755798
  Di Capua Giuseppe - Piazzetta Ascensione, 10 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
+0.042755798
+ Di Frenna Alfredo - Piazzetta Ascensione, 10 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+-
 0.041971173
- Saggiomo Giorgio - Piazzetta Ascensione, 28 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Capaldo Gaetano - Piazzetta Ascensione, 28 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.041971173
  Nicotra Salvatore - Piazzetta Ascensione, 28 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.041971173
- Capaldo Gaetano - Piazzetta Ascensione, 28 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
+ Saggiomo Giorgio - Piazzetta Ascensione, 28 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[5]/td[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.041136727
  Iannuzzi Maria - Piazzetta Ascensione, 29 
@@ -436,12 +436,12 @@ Immagini Ambrosone Luigi Napoli
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[7]/table[3]/tbody[1]/tr[1]/td[1]/p[1]
 -
 0.1196104
- Ambrosone Avv. Nicola - Napoli 
-//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
--
-0.1196104
  Ambrosone Avv. Achille - Napoli 
 //html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/a[1]
+-
+0.1196104
+ Ambrosone Avv. Nicola - Napoli 
+//html[1]/body[1]/table[1]/tbody[1]/tr[8]/td[1]/table[1]/tbody[1]/tr[1]/td[5]/table[1]/tbody[1]/tr[12]/td[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]/div[1]/div[1]/div[1]/a[1]
 -
 0.118203074
 

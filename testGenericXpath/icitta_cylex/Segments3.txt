@@ -1,113 +1,27 @@
-//html[1]/body[1]/div[1]/div[3]/div[1]/a[2]
-Lazio
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[3]
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[4]
  
-      Studio Legale Sgalippa
-       Via Palombarese, 479
-       00013 - Fonte Nuova 
+      Avvocato Viviana Formichella
+       Lungomare Delle Meduse, 127
+       00040 - Pomezia 
      
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/span[1]/strong[1]/h2[1]
-Avv. Luca Ruberto
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[6]/a[1]
-Studio Legale E Tributario Avvocato Baio
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[1]/a[3]
-Roma
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/h1[1]
-Avv. Luca Ruberto - Roma 
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[1]
 00162
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[3]/p[1]
-LO STUDIO LEGALE AVV. LUCA RUBERTO OPERA NEL SETTORE DEL DIRITTO CIVILE, CON PARTICOLARE RIFERIMENTO ALLE SEGUENTI MATERIE: RECUPERO CREDITI PER LE AZIENDE, LOCAZIONI, INFORTUNISTICA STRADALE E RICOSTRUZIONE SINISTRI, DIRITTO DEL LAVORO E PREVIDENZA, SEPARAZIONE E DIVORZI. PRESTA ATTIVITA' DI ASSISTENZA E CONSULENZA LEGALE. PRESTA DOMICILIAZIONE PER I COLLEGHI. LO STUDIO E' SITUATO A ROMA IN VIA POMPEO UGONI N. 3 A POCHI PASSI DALLA CHIESA DI S. AGNESE.
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/span[1]/h5[1]
+ AVVOCATI STUDI 
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[5]
- 
-      Studio Legale Tributario Immobiliare
-       Via Roma 90
-       00040 - Pomezia-roma -ciampino- Albano 
-     
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[4]
- 
-      Avvocato Viviana Formichella
-       Lungomare Delle Meduse, 127
-       00040 - Pomezia 
-     
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[3]
- 
-      Studio Legale Sgalippa
-       Via Palombarese, 479
-       00013 - Fonte Nuova 
-     
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]
-Email
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/strong[3]/a[1]
-Avvocati - Studi a Roma
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]
- Via Pompeo Ugonio N. 3   00162 Roma  (RM) 
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[1]/a[4]
+//html[1]/body[1]/div[1]/div[3]/div[1]/a[3]
 Roma
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[1]
-
-    > 
-   Lazio > 
-   Roma > 
-   Roma 
-  
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[9]
-
-     Scrivi la tua recensione per Avv. Luca Ruberto - Roma:
-      
-      
-    
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[2]/a[1]
-Avv. Dario Candeloro
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[6]
- 
-      Studio Legale E Tributario Avvocato Baio
-       Via Della Tecnica, 58
-       00040 - Pomezia 
-     
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]
- Via Pompeo Ugonio N. 3   00162 Roma  (RM) 
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[6]
- 
-      Studio Legale E Tributario Avvocato Baio
-       Via Della Tecnica, 58
-       00040 - Pomezia 
-     
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[2]
 Roma
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[5]/a[1]
-Studio Legale Tributario Immobiliare
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]
- Via Pompeo Ugonio N. 3   00162 Roma  (RM) 
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[4]
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[2]
  
-      Avvocato Viviana Formichella
-       Lungomare Delle Meduse, 127
-       00040 - Pomezia 
+      Avv. Dario Candeloro
+       Via Conte Rosso, 5
+       00185 - Roma 
      
 ________________________________________________________________________
 //html[1]/body[1]/div[1]
@@ -200,11 +114,55 @@ ________________________________________________________________________
   >   
 
 ________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[6]/a[1]
+Studio Legale E Tributario Avvocato Baio
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]
+ Via Pompeo Ugonio N. 3   00162 Roma  (RM) 
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/h1[1]
+Avv. Luca Ruberto - Roma 
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/a[1]
+Email
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]
+ Via Pompeo Ugonio N. 3   00162 Roma  (RM) 
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[2]/a[1]
+Avv. Dario Candeloro
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]
+ Via Pompeo Ugonio N. 3   00162 Roma  (RM) 
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[3]/a[1]
+Studio Legale Sgalippa
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/strong[3]/a[1]
+Avvocati - Studi a Roma
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[1]/a[4]
+Roma
+________________________________________________________________________
 //html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[4]/a[1]
 Avvocato Viviana Formichella
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[3]
-RM
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[2]
+ 
+      Avv. Dario Candeloro
+       Via Conte Rosso, 5
+       00185 - Roma 
+     
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/span[1]/strong[1]/h2[1]
+Avv. Luca Ruberto
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[5]
+ 
+      Studio Legale Tributario Immobiliare
+       Via Roma 90
+       00040 - Pomezia-roma -ciampino- Albano 
+     
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[5]
  
@@ -221,11 +179,31 @@ ________________________________________________________________________
    Roma 
   
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[2]
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[5]/a[1]
+Studio Legale Tributario Immobiliare
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[9]
+
+     Scrivi la tua recensione per Avv. Luca Ruberto - Roma:
+      
+      
+    
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[4]
  
-      Avv. Dario Candeloro
-       Via Conte Rosso, 5
-       00185 - Roma 
+      Avvocato Viviana Formichella
+       Lungomare Delle Meduse, 127
+       00040 - Pomezia 
+     
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[3]
+RM
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[6]
+ 
+      Studio Legale E Tributario Avvocato Baio
+       Via Della Tecnica, 58
+       00040 - Pomezia 
      
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[3]/div[1]
@@ -236,14 +214,30 @@ ________________________________________________________________________
    Roma 
   
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[3]/a[1]
-Studio Legale Sgalippa
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[3]/p[1]
+LO STUDIO LEGALE AVV. LUCA RUBERTO OPERA NEL SETTORE DEL DIRITTO CIVILE, CON PARTICOLARE RIFERIMENTO ALLE SEGUENTI MATERIE: RECUPERO CREDITI PER LE AZIENDE, LOCAZIONI, INFORTUNISTICA STRADALE E RICOSTRUZIONE SINISTRI, DIRITTO DEL LAVORO E PREVIDENZA, SEPARAZIONE E DIVORZI. PRESTA ATTIVITA' DI ASSISTENZA E CONSULENZA LEGALE. PRESTA DOMICILIAZIONE PER I COLLEGHI. LO STUDIO E' SITUATO A ROMA IN VIA POMPEO UGONI N. 3 A POCHI PASSI DALLA CHIESA DI S. AGNESE.
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[1]/span[1]/strong[1]
-Aziende Simili:
+//html[1]/body[1]/div[1]/div[3]/div[1]
+
+    > 
+   Lazio > 
+   Roma > 
+   Roma 
+  
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/span[1]/h5[1]
- AVVOCATI STUDI 
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[3]
+ 
+      Studio Legale Sgalippa
+       Via Palombarese, 479
+       00013 - Fonte Nuova 
+     
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[6]
+ 
+      Studio Legale E Tributario Avvocato Baio
+       Via Della Tecnica, 58
+       00040 - Pomezia 
+     
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]
  
@@ -259,10 +253,16 @@ ________________________________________________________________________
         
       
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[2]
+//html[1]/body[1]/div[1]/div[3]/div[1]/a[2]
+Lazio
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[3]
  
-      Avv. Dario Candeloro
-       Via Conte Rosso, 5
-       00185 - Roma 
+      Studio Legale Sgalippa
+       Via Palombarese, 479
+       00013 - Fonte Nuova 
      
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[5]/div[1]/span[1]/strong[1]
+Aziende Simili:
 ________________________________________________________________________

@@ -14,13 +14,14 @@ import org.jsoup.nodes.Node;
 
 import lib.utils.CleanHTMLTree;
 import model.BlacklistElement;
-import scala.Tuple2;
-import segmentation.WebPageSegmentation;
+import model.Xpath;
+import segmentation.WebPageSegmentator;
 
 public class XpathExtractor {
 
 	XpathApplier xpapplier;
 	XpathMaker xpmaker;
+	WebPageSegmentator segmentator;
 	
 	private static XpathExtractor instance = null;
 
@@ -33,17 +34,21 @@ public class XpathExtractor {
 	private XpathExtractor() {
 		xpapplier = XpathApplier.getInstance();
 		xpmaker = XpathMaker.getInstance();
+		segmentator = WebPageSegmentator.getInstance();
 	}
 	
 	/* dato un documento, restituisce gli xpath dei segmenti che lo compongono
 	 * richiede anche un massimo di 5 pagine per la pulizia del template */
-	public Set<Tuple2<String,Node>> getXPathsFromDocument(Document doc, int par, String cartella, double parameterTextFusion) throws Exception {
-
+//	public Set<Tuple2<String,Node>> getXPathsFromDocument(Document doc, int par,
+//			String cartella, double parameterTextFusion) throws Exception {
+	
+	public Set<Xpath> getXPathsFromDocument(Document doc, int par,
+			String cartella, double parameterTextFusion) throws Exception {
 		//pulire la pagina
 
 		List<Document> usedPagesForCleaning = new ArrayList<>();
 
-		System.out.println("Creazione lista di pagine da utilizzare per la pulizia del template");
+//		System.out.println("Creazione lista di pagine da utilizzare per la pulizia del template");
 		for (int i=1; i<=5;i++) {
 			try {
 				usedPagesForCleaning.add(Jsoup.parse(IOUtils.toString(
@@ -58,24 +63,24 @@ public class XpathExtractor {
 		//segmentazione
 
 //		List<Node> nodes_segments = WebPageSegmentation.segment(doc, parameterTextFusion);
-		List<Node> nodes_segments = WebPageSegmentation.segment(docClean, parameterTextFusion);
+		List<Node> nodes_segments = segmentator.segment(docClean, parameterTextFusion);
 
 		//estrazione degli xpath dei segmenti
 
 		//TODO la lista degli xPath deve essere associata al dominio
-		Set<Tuple2<String,Node>> xPaths_nodes = new HashSet<>();
+		Set<Xpath> xPaths = new HashSet<>();
 //		nodes_segments.forEach(node_segment -> {
 		for (int i=0;i<nodes_segments.size();i++) {
 			try {
-				xPaths_nodes.add(new Tuple2<String,Node>(xpmaker.calculateAbsoluteXPath(nodes_segments.get(i), doc),
-						nodes_segments.get(i)));
+				xPaths.add(new Xpath(nodes_segments.get(i),
+						xpmaker.calculateAbsoluteXPath(nodes_segments.get(i), doc)));
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
 		}
 //		});
 
-		return xPaths_nodes;
+		return xPaths;
 	}
 	
 	

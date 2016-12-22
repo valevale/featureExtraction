@@ -1,31 +1,57 @@
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[4]/ul[1]/li[3]
-Il capitale sociale registrato nel corso dell'anno 2015 è stata come rispetto all'anno precedente.
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]
+IMMOBILI RICCI S.R.L.
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/div[2]
-
-            SOCIETA' IN NOME COLLETTIVO - Società di persone
-            LASTRA A SIGNA, FIRENZE
-           
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[3]/ul[1]/li[2]
+La ditta OSVALDO GIUSTI S.R.L. è registrata come SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale.
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[3]
-: SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[5]/div[1]/div[2]
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]
 
             SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
-            FIRENZE, FIRENZE
+            BORGO SAN LORENZO, FIRENZE
            
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[4]/span[1]
-Compravendita di beni immobili effettuata su beni propri
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[2]
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[2]/span[1]/div[6]
 
-   Scopri tutte le informazioni di OSVALDO GIUSTI S.R.L. in Firenze (CAMPI BISENZIO). Codice Fiscale 05302..., VIA GIUSEPPE GIUSTI, 26, 50013. Prodotti, servizi e molto altro ancora.
-  
+              Firenze
+             
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/a[1]
-F.LLI LAPINI DI LAPINI GIUSEPPE E C. - S.N.C.
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[4]/ul[1]/li[2]
+I risultati della società durante l'anno 2015 sono stati discendente rispetto all'anno precedente.
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[3]/h2[1]
+Compila il form e accedi gratuitamente alla Scheda azienda di OSVALDO GIUSTI S.R... e altre aziende
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[4]
+Attività: Compravendita di beni immobili effettuata su beni propri
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]
+
+            SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+            BORGO SAN LORENZO, FIRENZE
+           
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+
+     Cerca:
+     
+      
+      
+       
+      
+     
+    
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/p[1]
+Compravendita di beni immobili effettuata su beni propri, CAMPI BISENZIO
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[5]/div[1]/div[1]/a[1]
+"ALBAFI S.R.L." IN LIQUIDAZIONE
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]/div[1]/p[1]
+Vuoi sapere come arrivare a OSVALDO GIUSTI S.R.L.?
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]
+IMMOBILIARE CIEMME - S.R.L. - SOCIETA' A RESPONSABILITA' LIMITATA
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[2]/span[1]/div[4]
 
@@ -38,51 +64,19 @@ ________________________________________________________________________
             FIRENZE, FIRENZE
            
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]
-OSVALDO GIUSTI S.R.L., Firenze
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[4]/div[1]/div[2]
-
-            SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
-            FIRENZE, FIRENZE
-           
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/p[1]
-Compravendita di beni immobili effettuata su beni propri, CAMPI BISENZIO
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[3]/ul[1]/li[3]
+L'attività svolta da OSVALDO GIUSTI S.R.L. è "Compravendita di beni immobili effettuata su beni propri".
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[2]
 
           Modifica/Cancella i dati
          
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[3]/ul[1]/li[3]
-L'attività svolta da OSVALDO GIUSTI S.R.L. è "Compravendita di beni immobili effettuata su beni propri".
-________________________________________________________________________
 //html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[4]/div[1]/div[2]
 
             SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
             FIRENZE, FIRENZE
            
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/div[2]
-
-            SOCIETA' IN NOME COLLETTIVO - Società di persone
-            LASTRA A SIGNA, FIRENZE
-           
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]/a[1]
-IMMBAG S.R.L.
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[3]/p[3]
-In 10 secondi otterrai l'accesso al report di OSVALDO GIUSTI S.R.L.
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[1]
-
-   OSVALDO GIUSTI S.R.L. in CAMPI BISENZIO, Firenze
-  
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/h1[1]
-OSVALDO GIUSTI S.R.L.
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[2]
 : 
@@ -99,20 +93,8 @@ ________________________________________________________________________
               Firenze
              
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[4]/ul[1]/li[2]
-I risultati della società durante l'anno 2015 sono stati discendente rispetto all'anno precedente.
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[4]/strong[1]
-Attività
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[4]
-Attività: Compravendita di beni immobili effettuata su beni propri
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[3]/h2[1]
-Compila il form e accedi gratuitamente alla Scheda azienda di OSVALDO GIUSTI S.R... e altre aziende
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[5]/a[1]/span[1]
-5302...
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[4]/ul[1]/li[3]
+Il capitale sociale registrato nel corso dell'anno 2015 è stata come rispetto all'anno precedente.
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]
 
@@ -120,31 +102,96 @@ ________________________________________________________________________
             REGGELLO, FIRENZE
            
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[5]
+: 5302...Vedi Codice Fiscale
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[2]/span[1]
+OSVALDO GIUSTI S.R.L.
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[2]
 
-            SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
-            BORGO SAN LORENZO, FIRENZE
+   Scopri tutte le informazioni di OSVALDO GIUSTI S.R.L. in Firenze (CAMPI BISENZIO). Codice Fiscale 05302..., VIA GIUSEPPE GIUSTI, 26, 50013. Prodotti, servizi e molto altro ancora.
+  
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]/h2[1]
+Geolocalizzazione di OSVALDO GIUSTI S.R.L.
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/div[2]
+
+            SOCIETA' IN NOME COLLETTIVO - Società di persone
+            LASTRA A SIGNA, FIRENZE
            
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[3]/h2[1]
+Informazioni generali di OSVALDO GIUSTI S.R.L. 
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[3]/ul[1]/li[4]/a[1]
+ Per accedere al report gratuito di OSVALDO GIUSTI S.R.L. registrati su iCribis. 
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[3]/ul[1]/li[1]
+L'impresa si trova in provincia di Firenze, nel Comune di CAMPI BISENZIO, in VIA GIUSEPPE GIUSTI, 26, 50013.
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[4]/div[1]/div[1]/a[1]
+IMMBAG S.R.L.
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[1]/div[1]/h2[1]
+OSVALDO GIUSTI S.R.L., Firenze
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[5]
+: 5302...Vedi Codice Fiscale
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/div[2]
+
+            SOCIETA' IN NOME COLLETTIVO - Società di persone
+            LASTRA A SIGNA, FIRENZE
+           
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[3]/div[1]/div[1]/a[1]
+F.LLI LAPINI DI LAPINI GIUSEPPE E C. - S.N.C.
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[4]/h2[1]
+Informazioni commerciali di OSVALDO GIUSTI S.R.L. 
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[2]/span[1]/div[2]
 
               VIA GIUSEPPE GIUSTI, 26, 50013
              
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[5]
-: 5302...Vedi Codice Fiscale
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/h1[1]
+OSVALDO GIUSTI S.R.L.
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[3]/ul[1]/li[1]
-L'impresa si trova in provincia di Firenze, nel Comune di CAMPI BISENZIO, in VIA GIUSEPPE GIUSTI, 26, 50013.
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[3]/p[3]
+In 10 secondi otterrai l'accesso al report di OSVALDO GIUSTI S.R.L.
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[1]/span[1]
 : OSVALDO GIUSTI S.R.L.
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/a[1]
-IMMOBILI RICCI S.R.L.
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]
+
+            SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+            REGGELLO, FIRENZE
+           
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[3]/ul[1]/li[4]/a[1]
- Per accedere al report gratuito di OSVALDO GIUSTI S.R.L. registrati su iCribis. 
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[4]/ul[1]/li[1]
+Le vendite registrate nel corso dell'anno 2015 sono stati pari rispetto all'anno precedente.
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[3]
+: SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[5]/a[1]/span[1]
+5302...
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[4]/span[1]
+Compravendita di beni immobili effettuata su beni propri
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[4]/ul[1]/li[4]
+ Per maggiori informazioni su OSVALDO GIUSTI S.R.L. o sul suo settore, 
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[4]/div[1]/div[2]
+
+            SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
+            FIRENZE, FIRENZE
+           
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]
 
@@ -169,64 +216,17 @@ ________________________________________________________________________
           Visualizza altre informazioni
          
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[2]/span[1]/div[6]
+//html[1]/body[1]/div[1]/div[1]/div[1]
 
-              Firenze
-             
+   OSVALDO GIUSTI S.R.L. in CAMPI BISENZIO, Firenze
+  
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[5]
-: 5302...Vedi Codice Fiscale
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[5]/div[1]/div[1]/a[1]
-"ALBAFI S.R.L." IN LIQUIDAZIONE
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[3]/div[2]/div[1]
-
-     Cerca:
-     
-      
-      
-       
-      
-     
-    
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]/div[1]/p[1]
-Vuoi sapere come arrivare a OSVALDO GIUSTI S.R.L.?
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[4]/h2[1]
-Informazioni commerciali di OSVALDO GIUSTI S.R.L. 
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[2]/h2[1]
-Geolocalizzazione di OSVALDO GIUSTI S.R.L.
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[2]
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[5]/div[1]/div[2]
 
             SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
-            BORGO SAN LORENZO, FIRENZE
+            FIRENZE, FIRENZE
            
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[3]/h2[1]
-Informazioni generali di OSVALDO GIUSTI S.R.L. 
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[3]/ul[1]/li[2]
-La ditta OSVALDO GIUSTI S.R.L. è registrata come SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale.
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]
-IMMOBILIARE CIEMME - S.R.L. - SOCIETA' A RESPONSABILITA' LIMITATA
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[4]/ul[1]/li[1]
-Le vendite registrate nel corso dell'anno 2015 sono stati pari rispetto all'anno precedente.
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[2]
-
-            SOCIETA' A RESPONSABILITA' LIMITATA - Società di capitale
-            REGGELLO, FIRENZE
-           
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[4]/div[1]/div[4]/ul[1]/li[4]
- Per maggiori informazioni su OSVALDO GIUSTI S.R.L. o sul suo settore, 
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[1]/ul[1]/li[2]/span[1]
-OSVALDO GIUSTI S.R.L.
+//html[1]/body[1]/div[1]/div[1]/div[4]/div[1]/div[3]/div[1]/div[1]/div[1]/div[3]/div[2]/ul[1]/li[4]/strong[1]
+Attività
 ________________________________________________________________________

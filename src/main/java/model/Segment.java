@@ -18,7 +18,7 @@ public class Segment {
 	private int relevance;
 	//xpath assoluto
 	private String absoluteXpath;
-	private Tuple2<String,Integer> xpath_specificity;
+	private Tuple2<Xpath,Integer> xpath_specificity;
 	private WebPageDocument document;
 	private XpathVersions xpathVersions = null;
 	
@@ -32,7 +32,7 @@ public class Segment {
 		if (this.w3c_node.getLength() == 0) System.out.println("RESTITUITO 0");
 		this.jsoup_node = node;
 		this.document = document;
-		this.xpath_specificity = new Tuple2<String,Integer>(this.absoluteXpath,0);
+		this.xpath_specificity = new Tuple2<Xpath,Integer>(new Xpath(this.jsoup_node, this.absoluteXpath),0);
 	}
 	
 	public void makeXpathVersions() throws XPathExpressionException, IOException, ParserConfigurationException {
@@ -63,11 +63,11 @@ public class Segment {
 		this.absoluteXpath=xPath;
 	}
 	
-	public String getXPath() {
+	public Xpath getXPath() {
 		return this.xpath_specificity._1();
 	}
 	
-	public void setXPath(String xPath, int specificity) {
+	public void setXPath(Xpath xPath, int specificity) {
 		this.xpath_specificity= new Tuple2<>(xPath,specificity);
 	}
 	
