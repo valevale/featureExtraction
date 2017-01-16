@@ -87,7 +87,7 @@ public class MatchingTester {
 			XpathApplier xpapplier = XpathApplier.getInstance();
 			//			org.w3c.dom.Document coloredRelevance = xpMaker.colorRelevance(segmentsToColor, doc_firstPage);
 			org.w3c.dom.Document coloredRelevance = xpapplier.colorRelevance(segmentsToColor, 
-					new WebPageDocument(new File(d1Path)).getDocument());
+					new WebPageDocument(new File(d1Path)).getDocument_jsoup());
 			PrintWriter testPrinter = new PrintWriter(cartella+"/relevances/relevance"+n1+"-"+n2+"_"+i+".html", "UTF-8");
 			testPrinter.println(DocumentUtils.getStringFromDocument(coloredRelevance));
 			testPrinter.close();
@@ -153,7 +153,7 @@ public class MatchingTester {
 		XpathApplier xpapplier = XpathApplier.getInstance();
 		//			org.w3c.dom.Document coloredRelevance = xpMaker.colorRelevance(segmentsToColor, doc_firstPage);
 		org.w3c.dom.Document coloredRelevance = xpapplier.colorRelevance(segmentsToColor, 
-				new WebPageDocument(new File(d1Path)).getDocument());
+				new WebPageDocument(new File(d1Path)).getDocument_jsoup());
 		PrintWriter testPrinter = new PrintWriter(cartella+"/relevances/relevance"+n1+"-"+n2+"_"+threshold+".html", "UTF-8");
 		testPrinter.println(DocumentUtils.getStringFromDocument(coloredRelevance));
 		testPrinter.close();

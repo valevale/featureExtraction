@@ -8,6 +8,7 @@ import java.util.Set;
 
 import org.apache.commons.io.IOUtils;
 import org.jsoup.Jsoup;
+import org.jsoup.helper.W3CDom;
 import org.jsoup.nodes.Document;
 import org.jsoup.safety.Whitelist;
 
@@ -21,8 +22,9 @@ public class WebPageDocument {
 	private Set<Xpath> xpaths;
 //	private Set<Tuple2<String,Node>> xPaths_nodes;
 //	private Set<String> xPaths;
-	private Set<Xpath> genericXpaths;
+//	private Set<Xpath> genericXpaths;
 	private DomainSource source;
+	private org.w3c.dom.Document document_w3c;
 	
 	public WebPageDocument(File html_document) throws Exception {
 		String htmlDocumentString = IOUtils.toString(new FileReader(html_document));
@@ -41,7 +43,7 @@ public class WebPageDocument {
 		this.segments = extractSegments(this.xpaths, this.document_jsoup);
 //		System.out.println(this.segments.size());
 //		this.xPaths = extractXPaths(this.xpaths);
-		this.genericXpaths = null;
+//		this.genericXpaths = null;
 //		this.source = DomainFacotyr.getDomain(parameter);
 	}
 	
@@ -55,9 +57,11 @@ public class WebPageDocument {
 		this.xpaths = xpextractor.getXPathsFromDocument(this.document_jsoup,
 				parameter, folder, parameterTextFusion);
 		this.segments = extractSegments(this.xpaths, this.document_jsoup);
-		this.genericXpaths = null;
+//		this.genericXpaths = null;
 		DomainsRepository domRep = DomainsRepository.getInstance();
 		this.source = domRep.createDomain(sourceParameter);
+		this.document_jsoup.outputSettings().syntax(Document.OutputSettings.Syntax.xml);
+		this.document_w3c = new W3CDom().fromJsoup(this.document_jsoup);
 	}
 	
 	public Segment getSegmentByXpath(String xpath) {
@@ -78,13 +82,17 @@ public class WebPageDocument {
 		this.segments = segments;
 	}
 	
-	public Document getDocument() {
+	public Document getDocument_jsoup() {
 		return this.document_jsoup;
 	}
 	
-	public void setDocument(Document doc) {
-		this.document_jsoup = doc;
+	public org.w3c.dom.Document getDocument_w3c() {
+		return this.document_w3c;
 	}
+	
+//	public void setDocument(Document doc) {
+//		this.document_jsoup = doc;
+//	}
 	
 	public Set<Xpath> getXPaths() {
 		return this.xpaths;

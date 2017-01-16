@@ -58,9 +58,11 @@ public class MatchingRepository {
 			}
 			//caso in cui non si è trovato nessun matching
 			//		System.out.println("+++++++++++++++++++++SONO QUI");
-			Matching newMatching = new Matching(domain1, xpath1, domain2, xpath2);
-			this.matchings.add(newMatching);
+//			Matching newMatching = new Matching(domain1, xpath1, domain2, xpath2);
+//			this.matchings.add(newMatching);
 		}
+		Matching newMatching = new Matching(domain1, xpath1, domain2, xpath2);
+		this.matchings.add(newMatching);
 	}
 
 	public List<Matching> getMatchings() {

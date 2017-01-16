@@ -28,12 +28,12 @@ Lupo Italo - Pescara
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.45729744
-Risultati di ricerca per Lupo Italo
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
--
-0.45729744
 Scrivi la tua recensione di Lupo Italo
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.45729744
+Risultati di ricerca per Lupo Italo
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
 -
 0.4531605
 Gioiellerie Pescara
@@ -142,19 +142,7 @@ __________________
 -
 0.5395072
 65122
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
--
-0.5395072
-65122
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.5395072
-65122
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.5395072
-65122
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.5395072
 65122
@@ -162,7 +150,45 @@ __________________
 -
 0.5395072
 65122
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.5395072
+65122
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.5395072
+65122
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+0.5395072
+65122
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.34703425
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[10]/div[1]
+-
+0.34703425
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[1]
+-
+0.34703425
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[7]/div[1]
+-
+0.34703425
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.34703425
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.34703425
 Pescara
@@ -172,11 +198,7 @@ Pescara
 
         Pescara
        
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[1]
--
-0.34703425
-Pescara
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[1]
 -
 0.34703425
 Pescara
@@ -184,43 +206,11 @@ Pescara
 -
 0.34703425
 Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.34703425
+Pescara
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
--
-0.34703425
-
-        Pescara
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[1]
--
-0.34703425
-
-        Pescara
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[10]/div[1]
--
-0.34703425
-Pescara
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.34703425
-
-        Pescara
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[7]/div[1]
--
-0.34703425
-
-        Pescara
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]
--
-0.34703425
-Pescara
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.34703425
-Pescara
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.34703425
 Pescara
@@ -228,7 +218,17 @@ Pescara
 -
 0.34703425
 Pescara
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.34703425
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.34703425
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]
 -
 0.3215572
 
@@ -339,12 +339,12 @@ Lupo Italo - Pescara
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.11142918
-Pietre preziose Pescara
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
--
-0.11142918
 Pietre preziose a Pescara
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[5]
+-
+0.11142918
+Pietre preziose Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
 __________________
 Via Roma Pescara
 ---
@@ -362,8 +362,10 @@ Via Roma Pescara
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]
 -
 0.36806324
-Pescara
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[10]/div[1]
 -
 0.36806324
 
@@ -372,16 +374,22 @@ Pescara
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[1]
 -
 0.36806324
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[7]/div[1]
+-
+0.36806324
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.36806324
 Pescara
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.36806324
 Pescara
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.36806324
-Pescara
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.36806324
 
@@ -390,34 +398,16 @@ Pescara
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[1]
 -
 0.36806324
-
-        Pescara
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[10]/div[1]
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.36806324
 Pescara
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.36806324
-
-        Pescara
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[7]/div[1]
--
-0.36806324
-
-        Pescara
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.36806324
 Pescara
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.36806324
-Pescara
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
 -
 0.36806324
 Pescara
@@ -425,7 +415,17 @@ Pescara
 -
 0.36806324
 Pescara
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.36806324
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.36806324
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]
 -
 0.35276154
 
@@ -457,11 +457,11 @@ V. Roma, 31/35
 -
 0.29465163
 Via Firenze, 202
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.29465163
 Via Firenze, 202
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.27449247
 Via Firenze, 128
@@ -587,12 +587,12 @@ Lupo Italo - Pescara
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.38067764
-Risultati di ricerca per Lupo Italo
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
--
-0.38067764
 Scrivi la tua recensione di Lupo Italo
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.38067764
+Risultati di ricerca per Lupo Italo
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
 -
 0.123591945
 
@@ -682,12 +682,12 @@ Lupo Italo - Pescara
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.38067764
-Risultati di ricerca per Lupo Italo
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
--
-0.38067764
 Scrivi la tua recensione di Lupo Italo
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.38067764
+Risultati di ricerca per Lupo Italo
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
 -
 0.123591945
 
@@ -782,11 +782,11 @@ V. Roma, 31/35
 -
 0.23848376
 Via Firenze, 202
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.23848376
 Via Firenze, 202
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.22216746
 Via Firenze, 128
@@ -934,12 +934,12 @@ Lupo Italo - Pescara
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.27761802
-Risultati di ricerca per Lupo Italo
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
--
-0.27761802
 Scrivi la tua recensione di Lupo Italo
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.27761802
+Risultati di ricerca per Lupo Italo
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
 -
 0.27510658
 Gioiellerie Pescara

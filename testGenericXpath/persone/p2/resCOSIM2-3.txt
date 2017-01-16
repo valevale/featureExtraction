@@ -23,7 +23,7 @@ Avvocato
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
 __________________
-Avvocato Fabio Sarra, 
+Avvocato Fabio Sarra
 ---
 -
 1.0
@@ -48,7 +48,7 @@ Avvocato
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
 __________________
-Avvocato Fabio Sarra
+Avvocato Fabio Sarra, 
 ---
 -
 1.0
@@ -471,9 +471,7 @@ Avvocato
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
 __________________
-
-          E-mail a Avvocato Fabio Sarra✕
-         
+E-mail a Avvocato Fabio Sarra, 
 ---
 -
 0.742324
@@ -498,7 +496,7 @@ Avvocato
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
 __________________
-E-mail a Avvocato Fabio Sarra, 
+E-mail a Avvocato Fabio Sarra
 ---
 -
 0.742324
@@ -550,7 +548,9 @@ Avvocato
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
 __________________
-E-mail a Avvocato Fabio Sarra
+
+          E-mail a Avvocato Fabio Sarra✕
+         
 ---
 -
 0.742324
@@ -745,7 +745,7 @@ Avvocato
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
 __________________
-Siti sociali Avvocato Fabio Sarra, Roma
+Dettagli azienda Avvocato Fabio Sarra, Roma
 ---
 -
 0.57624835
@@ -811,7 +811,7 @@ Via Panfilo Castaldi Roma
  00153 Roma RM
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
-Dettagli azienda Avvocato Fabio Sarra, Roma
+Siti sociali Avvocato Fabio Sarra, Roma
 ---
 -
 0.57624835
@@ -1207,7 +1207,7 @@ Via Panfilo Castaldi Roma
  00153 Roma RM
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
-Diritto Penale in Roma
+Consulenza aziendale Roma
 ---
 -
 0.19285813
@@ -1229,7 +1229,7 @@ Via Panfilo Castaldi Roma
  00153 Roma RM
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
-Consulenza aziendale Roma
+Diritto Penale in Roma
 ---
 -
 0.19285813
@@ -1287,7 +1287,7 @@ Via Panfilo Castaldi Roma
  00153 Roma RM
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
-V. ROLLI ETTORE. 2400153  Roma
+V. ROLLI ETTORE. 3700153  Roma
 ---
 -
 0.14334705
@@ -1298,7 +1298,7 @@ Via Panfilo Castaldi Roma
  00153 Roma RM
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
-V. ROLLI ETTORE. 3700153  Roma
+V. ROLLI ETTORE. 2400153  Roma
 ---
 -
 0.14334705

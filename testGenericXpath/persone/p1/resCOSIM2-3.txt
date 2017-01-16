@@ -14,14 +14,14 @@ Dragoni Luciano Tvc Hi-Fi
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 -
 0.38189104
-Dragoni
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
--
-0.38189104
  
                Dragoni  
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.38189104
+Dragoni
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
 -
 0.07794397
 nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi 
@@ -50,14 +50,14 @@ Dragoni Luciano Tvc Hi-Fi
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 -
 0.38189104
-Dragoni
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
--
-0.38189104
  
                Dragoni  
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.38189104
+Dragoni
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
 -
 0.07794397
 nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi 
@@ -86,14 +86,14 @@ Dragoni Luciano Tvc Hi-Fi
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 -
 0.38189104
-Dragoni
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
--
-0.38189104
  
                Dragoni  
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.38189104
+Dragoni
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
 -
 0.07794397
 nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi 
@@ -122,14 +122,14 @@ Dragoni Luciano Tvc Hi-Fi
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 -
 0.38189104
-Dragoni
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
--
-0.38189104
  
                Dragoni  
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.38189104
+Dragoni
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
 -
 0.07794397
 nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi 
@@ -158,14 +158,14 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 -
 0.343488
-Dragoni
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
--
-0.343488
  
                Dragoni  
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.343488
+Dragoni
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
 -
 0.19341102
 Via Porta Al Serraglio Prato
@@ -202,14 +202,14 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 -
 0.343488
-Dragoni
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
--
-0.343488
  
                Dragoni  
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.343488
+Dragoni
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
 -
 0.19341102
 Via Porta Al Serraglio Prato
@@ -246,14 +246,14 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 -
 0.343488
-Dragoni
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
--
-0.343488
  
                Dragoni  
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.343488
+Dragoni
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
 -
 0.19341102
 Via Porta Al Serraglio Prato
@@ -290,14 +290,14 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 -
 0.343488
-Dragoni
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
--
-0.343488
  
                Dragoni  
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.343488
+Dragoni
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
 -
 0.19341102
 Via Porta Al Serraglio Prato
@@ -334,14 +334,14 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 -
 0.343488
-Dragoni
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
--
-0.343488
  
                Dragoni  
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.343488
+Dragoni
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
 -
 0.19341102
 Via Porta Al Serraglio Prato
@@ -378,14 +378,14 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 -
 0.343488
-Dragoni
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
--
-0.343488
  
                Dragoni  
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.343488
+Dragoni
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
 -
 0.19341102
 Via Porta Al Serraglio Prato
@@ -422,14 +422,14 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 -
 0.343488
-Dragoni
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
--
-0.343488
  
                Dragoni  
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.343488
+Dragoni
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
 -
 0.19341102
 Via Porta Al Serraglio Prato
@@ -466,14 +466,14 @@ __________________
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 -
 0.33199656
-Dragoni
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
--
-0.33199656
  
                Dragoni  
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.33199656
+Dragoni
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
 -
 0.067760505
 nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi 
@@ -497,42 +497,6 @@ via Porta Al Serraglio n. 8
 Via Porta Al Serraglio Prato
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
 __________________
-E-mail a Dragoni Luciano Tvc Hi-Fi
----
--
-0.8135058
-
-              Dragoni Luciano Tvc Hi-Fi  
-             
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
--
-0.5907801
-
-              Informazioni aggiuntive su Dragoni Luciano Tvc Hi-Fi  
-             
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
--
-0.3114445
-Dragoni
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
--
-0.3114445
- 
-               Dragoni  
-             
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
--
-0.063565835
-nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi 
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[1]/td[4]/div[1]/u[1]
--
-0.038520936
-
-          Risultati 
-         nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi  1 - 1 di 1 risultati in (0.001 Secondi) 
-        
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[1]/td[4]/div[1]
-__________________
 
           E-mail a Dragoni Luciano Tvc Hi-Fi✕
          
@@ -551,14 +515,50 @@ __________________
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 -
 0.3114445
+ 
+               Dragoni  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.3114445
 Dragoni
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.063565835
+nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi 
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[1]/td[4]/div[1]/u[1]
+-
+0.038520936
+
+          Risultati 
+         nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi  1 - 1 di 1 risultati in (0.001 Secondi) 
+        
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[1]/td[4]/div[1]
+__________________
+E-mail a Dragoni Luciano Tvc Hi-Fi
+---
+-
+0.8135058
+
+              Dragoni Luciano Tvc Hi-Fi  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.5907801
+
+              Informazioni aggiuntive su Dragoni Luciano Tvc Hi-Fi  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 -
 0.3114445
  
                Dragoni  
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.3114445
+Dragoni
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
 -
 0.063565835
 nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi 
@@ -587,58 +587,14 @@ Descrizione Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 -
 0.28953955
-Dragoni
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
--
-0.28953955
  
                Dragoni  
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
 -
-0.16303377
-Via Porta Al Serraglio Prato
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
--
-0.16054788
- 59100 Prato (PO)
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
--
-0.059095033
-nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi 
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[1]/td[4]/div[1]/u[1]
--
-0.03581162
-
-          Risultati 
-         nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi  1 - 1 di 1 risultati in (0.001 Secondi) 
-        
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[1]/td[4]/div[1]
-__________________
-Galleria Dragoni Luciano Tvc Hi-Fi, Prato
----
--
-0.75628924
-
-              Dragoni Luciano Tvc Hi-Fi  
-             
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
--
-0.5492285
-
-              Informazioni aggiuntive su Dragoni Luciano Tvc Hi-Fi  
-             
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
--
 0.28953955
 Dragoni
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
--
-0.28953955
- 
-               Dragoni  
-             
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
 -
 0.16303377
 Via Porta Al Serraglio Prato
@@ -675,14 +631,58 @@ Recensioni Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 -
 0.28953955
+ 
+               Dragoni  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.28953955
 Dragoni
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.16303377
+Via Porta Al Serraglio Prato
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.16054788
+ 59100 Prato (PO)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+-
+0.059095033
+nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi 
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[1]/td[4]/div[1]/u[1]
+-
+0.03581162
+
+          Risultati 
+         nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi  1 - 1 di 1 risultati in (0.001 Secondi) 
+        
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[1]/td[4]/div[1]
+__________________
+Galleria Dragoni Luciano Tvc Hi-Fi, Prato
+---
+-
+0.75628924
+
+              Dragoni Luciano Tvc Hi-Fi  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.5492285
+
+              Informazioni aggiuntive su Dragoni Luciano Tvc Hi-Fi  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 -
 0.28953955
  
                Dragoni  
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.28953955
+Dragoni
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
 -
 0.16303377
 Via Porta Al Serraglio Prato
@@ -721,64 +721,20 @@ __________________
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 -
 0.26955986
-Dragoni
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
--
-0.26955986
  
                Dragoni  
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.26955986
+Dragoni
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
 -
 0.055017177
 nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi 
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[1]/td[4]/div[1]/u[1]
 -
 0.03334044
-
-          Risultati 
-         nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi  1 - 1 di 1 risultati in (0.001 Secondi) 
-        
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[1]/td[4]/div[1]
-__________________
-Ricerche simili Dragoni Luciano Tvc Hi-Fi, Prato
----
--
-0.66601664
-
-              Dragoni Luciano Tvc Hi-Fi  
-             
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
--
-0.4836712
-
-              Informazioni aggiuntive su Dragoni Luciano Tvc Hi-Fi  
-             
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
--
-0.2549794
-Dragoni
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
--
-0.2549794
- 
-               Dragoni  
-             
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
--
-0.14357366
-Via Porta Al Serraglio Prato
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
--
-0.1413845
- 59100 Prato (PO)
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
--
-0.052041307
-nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi 
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[1]/td[4]/div[1]/u[1]
--
-0.03153706
 
           Risultati 
          nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi  1 - 1 di 1 risultati in (0.001 Secondi) 
@@ -801,14 +757,58 @@ Siti sociali Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 -
 0.2549794
+ 
+               Dragoni  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.2549794
 Dragoni
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.14357366
+Via Porta Al Serraglio Prato
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.1413845
+ 59100 Prato (PO)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+-
+0.052041307
+nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi 
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[1]/td[4]/div[1]/u[1]
+-
+0.03153706
+
+          Risultati 
+         nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi  1 - 1 di 1 risultati in (0.001 Secondi) 
+        
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[1]/td[4]/div[1]
+__________________
+Ricerche simili Dragoni Luciano Tvc Hi-Fi, Prato
+---
+-
+0.66601664
+
+              Dragoni Luciano Tvc Hi-Fi  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.4836712
+
+              Informazioni aggiuntive su Dragoni Luciano Tvc Hi-Fi  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 -
 0.2549794
  
                Dragoni  
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.2549794
+Dragoni
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
 -
 0.14357366
 Via Porta Al Serraglio Prato
@@ -862,14 +862,14 @@ __________________
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 -
 0.24101643
-Dragoni
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
--
-0.24101643
  
                Dragoni  
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.24101643
+Dragoni
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
 -
 0.049191467
 nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi 
@@ -898,14 +898,14 @@ Aziende simili nelle vicinanze Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 -
 0.23042504
-Dragoni
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
--
-0.23042504
  
                Dragoni  
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.23042504
+Dragoni
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
 -
 0.1297476
 Via Porta Al Serraglio Prato
@@ -986,7 +986,7 @@ Via Porta Al Serraglio Prato
  Via Porta Al Serraglio, 8
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
 __________________
-Prato
+Prato 
 ---
 -
 0.44254297
@@ -997,7 +997,7 @@ Via Porta Al Serraglio Prato
  59100 Prato (PO)
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
-Prato 
+Prato
 ---
 -
 0.44254297
@@ -1078,17 +1078,6 @@ Via Porta Al Serraglio Prato
  Via Porta Al Serraglio, 8
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
 __________________
-Shopping e acquisti Prato
----
--
-0.19285813
-Via Porta Al Serraglio Prato
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
--
-0.1899175
- 59100 Prato (PO)
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
-__________________
 Agenti di commercio Prato
 ---
 -
@@ -1100,40 +1089,18 @@ Via Porta Al Serraglio Prato
  59100 Prato (PO)
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
-Agenti E Rappresentanti di commercio in Prato
+Shopping e acquisti Prato
 ---
 -
-0.1627022
+0.19285813
 Via Porta Al Serraglio Prato
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
 -
-0.16022137
+0.1899175
  59100 Prato (PO)
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
 13, V. BISENZIO59100  Prato
----
--
-0.1627022
-Via Porta Al Serraglio Prato
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
--
-0.16022137
- 59100 Prato (PO)
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
-__________________
-Via Dell'angiolo 2/4
----
--
-0.1627022
-Via Porta Al Serraglio Prato
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
--
-0.15174502
- Via Porta Al Serraglio, 8
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
-__________________
-P. CIARDI. 3359100  Prato
 ---
 -
 0.1627022
@@ -1154,6 +1121,39 @@ Via Porta Al Serraglio Prato
 0.16022137
  59100 Prato (PO)
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Agenti E Rappresentanti di commercio in Prato
+---
+-
+0.1627022
+Via Porta Al Serraglio Prato
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.16022137
+ 59100 Prato (PO)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+P. CIARDI. 3359100  Prato
+---
+-
+0.1627022
+Via Porta Al Serraglio Prato
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.16022137
+ 59100 Prato (PO)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Via Dell'angiolo 2/4
+---
+-
+0.1627022
+Via Porta Al Serraglio Prato
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.15174502
+ Via Porta Al Serraglio, 8
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
 __________________
 PIAZZA GIOVANNI CIARDI 3359100  Prato
 ---

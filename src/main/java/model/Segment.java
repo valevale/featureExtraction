@@ -28,7 +28,7 @@ public class Segment {
 	public Segment(String xPath, Node node, WebPageDocument document) throws XPathExpressionException, IOException, ParserConfigurationException {
 		this.absoluteXpath = xPath;
 		XpathApplier xpapplier = XpathApplier.getInstance();
-		this.w3c_node = xpapplier.getNodes(xPath, document.getDocument());
+		this.w3c_node = xpapplier.getNodes(xPath, document.getDocument_jsoup());
 		if (this.w3c_node.getLength() == 0) System.out.println("RESTITUITO 0");
 		this.jsoup_node = node;
 		this.document = document;

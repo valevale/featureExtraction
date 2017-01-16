@@ -31,12 +31,12 @@
     </pluginManagement>
   </build>
   
-  <groupId>FeatureExtractor</groupId>
-  <artifactId>FeatureExtractor</artifactId>
+  <groupId>DataFusion</groupId>
+  <artifactId>DataFusion</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>FeatureExtractor</name>
+  <name>DataFusion</name>
   <url>http://maven.apache.org</url>
 
   <properties>

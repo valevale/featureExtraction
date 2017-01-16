@@ -8,7 +8,6 @@ import java.util.Iterator;
 import org.mongodb.morphia.query.MorphiaIterator;
 
 import database.MongoFacade;
-import model.QueryEntry;
 import model.WebPage;
 
 public class Test {

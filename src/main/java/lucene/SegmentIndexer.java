@@ -30,6 +30,7 @@ public class SegmentIndexer {
 
 	/*costruttore che richied come input il path della cartella dove verrà creato l'indice*/
 	public SegmentIndexer(String indexDirectoryPath) throws IOException{
+//		System.out.println("CREATO INDICE A "+indexDirectoryPath);
 		Directory indexDirectory = 
 				FSDirectory.open(new File(indexDirectoryPath));
 		//utilizziamo un analyzer italiano

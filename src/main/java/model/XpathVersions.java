@@ -151,7 +151,7 @@ public class XpathVersions {
 	private boolean givesSameSegment(String xpath, Segment segment) throws XPathExpressionException, IOException, ParserConfigurationException {
 		XpathApplier xapplier = XpathApplier.getInstance();
 		//		System.out.println(xpath);
-		NodeList xpathNodes = xapplier.getNodes(xpath, segment.getDocument().getDocument());
+		NodeList xpathNodes = xapplier.getNodes(xpath, segment.getDocument().getDocument_jsoup());
 		//il numero di nodi è necessariamente 1
 		if (xpathNodes.getLength()==1)
 			return (xpathNodes.item(0).isEqualNode(segment.getW3cNodes().item(0)));

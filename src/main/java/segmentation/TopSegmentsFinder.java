@@ -5,7 +5,6 @@ import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.HashMap;
-import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
@@ -92,21 +91,21 @@ public class TopSegmentsFinder {
 		String indexPath = cartella+"segmentIndex";
 		
 		//troviamo i segmenti corrispondenti
-		System.out.println("Generazione degli oggetti Segment per il primo documento");
+//		System.out.println("Generazione degli oggetti Segment per il primo documento");
 		Set<Segment> firstPageSegments = firstDocument.getSegments();
 
-		System.out.println("Generazione degli oggetti Segment per il secondo documento");
+//		System.out.println("Generazione degli oggetti Segment per il secondo documento");
 		Set<Segment> secondPageSegments = secondDocument.getSegments();
 
 		XpathApplier xpapplier = XpathApplier.getInstance();
 
-		System.out.println("coloring segments");
-		org.w3c.dom.Document segmentedFirstPage = xpapplier.color(firstDocument.getXPaths(), firstDocument.getDocument());
+//		System.out.println("coloring segments");
+		org.w3c.dom.Document segmentedFirstPage = xpapplier.color(firstDocument.getXPaths(), firstDocument.getDocument_jsoup());
 		PrintWriter testPrinter = new PrintWriter(cartella+"orig"+n1+"Segmented.html", "UTF-8");
 		testPrinter.println(DocumentUtils.getStringFromDocument(segmentedFirstPage));
 		testPrinter.close();
 
-		org.w3c.dom.Document segmentedPage = xpapplier.color(secondDocument.getXPaths(), secondDocument.getDocument());
+		org.w3c.dom.Document segmentedPage = xpapplier.color(secondDocument.getXPaths(), secondDocument.getDocument_jsoup());
 		testPrinter = new PrintWriter(cartella+"orig"+n2+"Segmented.html", "UTF-8");
 		testPrinter.println(DocumentUtils.getStringFromDocument(segmentedPage));
 		testPrinter.close();
@@ -262,12 +261,12 @@ public class TopSegmentsFinder {
 		XpathApplier xpapplier = XpathApplier.getInstance();
 
 		System.out.println("coloring segments");
-		org.w3c.dom.Document segmentedFirstPage = xpapplier.color(firstDocument.getXPaths(), firstDocument.getDocument());
+		org.w3c.dom.Document segmentedFirstPage = xpapplier.color(firstDocument.getXPaths(), firstDocument.getDocument_jsoup());
 		PrintWriter testPrinter = new PrintWriter(cartella+"orig"+n1+"Segmented.html", "UTF-8");
 		testPrinter.println(DocumentUtils.getStringFromDocument(segmentedFirstPage));
 		testPrinter.close();
 
-		org.w3c.dom.Document segmentedPage = xpapplier.color(secondDocument.getXPaths(), secondDocument.getDocument());
+		org.w3c.dom.Document segmentedPage = xpapplier.color(secondDocument.getXPaths(), secondDocument.getDocument_jsoup());
 		testPrinter = new PrintWriter(cartella+"orig"+n2+"Segmented.html", "UTF-8");
 		testPrinter.println(DocumentUtils.getStringFromDocument(segmentedPage));
 		testPrinter.close();

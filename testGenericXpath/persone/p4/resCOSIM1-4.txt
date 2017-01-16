@@ -1,0 +1,2782 @@
+Prato
+---
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+1.0
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.42325652
+
+          Prato (PO)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.3966816
+Gori Emanuele - Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.35047576
+Rappresentanti di commercio a Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.2932645
+Consulenza fiscale Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.2763883
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.2763883
+Importazione esportazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.26247773
+
+       Gori Emanuele
+       
+        
+         
+          
+         
+         
+          Via Becherini Giuseppe, 113
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 433713
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.25654763
+Via Lorenzo Da Prato, 2
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.24838
+Consulenza finanziaria e commerciale Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.23787503
+Agenzie e uffici commerciali Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[2]/a[1]
+-
+0.23787503
+Agenti affari in mediazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
+-
+0.22970444
+
+            Via Clementi Muzio, 13 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+__________________
+Toscana
+---
+-
+1.0
+Toscana
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/span[1]/a[1]
+__________________
+59100
+---
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.32284853
+
+            Via Clementi Muzio, 13 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.18394428
+
+       Gori Emanuele
+       
+        
+         
+          
+         
+         
+          Via Becherini Giuseppe, 113
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 433713
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+Gori Emanuele - Prato 
+---
+-
+1.0
+Gori Emanuele - Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.9113525
+Gori Emanuele
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.9113525
+Gori Emanuele
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.48948547
+Risultati di ricerca per Gori Emanuele
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.48948547
+Scrivi la tua recensione di Gori Emanuele
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.41162688
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.41162688
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.41162688
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.41162688
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.41162688
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.41162688
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.41162688
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.41162688
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+0.41162688
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]
+-
+0.41162688
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.41162688
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.37431455
+
+       Gori Emanuele
+       
+        
+         
+          
+         
+         
+          Via Becherini Giuseppe, 113
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 433713
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.17422375
+
+          Prato (PO)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.14426525
+Rappresentanti di commercio a Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.12071556
+Consulenza fiscale Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.11376884
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.11376884
+Importazione esportazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.10560189
+Via Lorenzo Da Prato, 2
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.102239884
+Consulenza finanziaria e commerciale Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.09791576
+Agenzie e uffici commerciali Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[2]/a[1]
+-
+0.09791576
+Agenti affari in mediazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
+-
+0.094552524
+
+            Via Clementi Muzio, 13 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+__________________
+Prato
+---
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+1.0
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.42325652
+
+          Prato (PO)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.3966816
+Gori Emanuele - Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.35047576
+Rappresentanti di commercio a Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.2932645
+Consulenza fiscale Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.2763883
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.2763883
+Importazione esportazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.26247773
+
+       Gori Emanuele
+       
+        
+         
+          
+         
+         
+          Via Becherini Giuseppe, 113
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 433713
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.25654763
+Via Lorenzo Da Prato, 2
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.24838
+Consulenza finanziaria e commerciale Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.23787503
+Agenzie e uffici commerciali Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[2]/a[1]
+-
+0.23787503
+Agenti affari in mediazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
+-
+0.22970444
+
+            Via Clementi Muzio, 13 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+__________________
+Gori Emanuele
+---
+-
+1.0
+Gori Emanuele
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+1.0
+Gori Emanuele
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.90832174
+Gori Emanuele - Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.5370979
+Risultati di ricerca per Gori Emanuele
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.5370979
+Scrivi la tua recensione di Gori Emanuele
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.291308
+
+       Gori Emanuele
+       
+        
+         
+          
+         
+         
+          Via Becherini Giuseppe, 113
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 433713
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+Prato
+---
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+1.0
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.42325652
+
+          Prato (PO)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.3966816
+Gori Emanuele - Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.35047576
+Rappresentanti di commercio a Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.2932645
+Consulenza fiscale Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.2763883
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.2763883
+Importazione esportazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.26247773
+
+       Gori Emanuele
+       
+        
+         
+          
+         
+         
+          Via Becherini Giuseppe, 113
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 433713
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.25654763
+Via Lorenzo Da Prato, 2
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.24838
+Consulenza finanziaria e commerciale Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.23787503
+Agenzie e uffici commerciali Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[2]/a[1]
+-
+0.23787503
+Agenti affari in mediazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
+-
+0.22970444
+
+            Via Clementi Muzio, 13 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+__________________
+
+     Scrivi la tua recensione per Gori Emanuele - Prato:
+      
+      
+    
+---
+-
+0.96624297
+Scrivi la tua recensione di Gori Emanuele
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.6258893
+Gori Emanuele - Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.5704058
+Gori Emanuele
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.5704058
+Gori Emanuele
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.3063637
+Risultati di ricerca per Gori Emanuele
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.25763285
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.25763285
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.25763285
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.25763285
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.25763285
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.25763285
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.25763285
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.25763285
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+0.25763285
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]
+-
+0.25763285
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.25763285
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.23427947
+
+       Gori Emanuele
+       
+        
+         
+          
+         
+         
+          Via Becherini Giuseppe, 113
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 433713
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.10904478
+
+          Prato (PO)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.09029407
+Rappresentanti di commercio a Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.07555457
+Consulenza fiscale Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.0712067
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.0712067
+Importazione esportazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.06609509
+Via Lorenzo Da Prato, 2
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.063990854
+Consulenza finanziaria e commerciale Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.061284423
+Agenzie e uffici commerciali Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[2]/a[1]
+-
+0.061284423
+Agenti affari in mediazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
+-
+0.05917941
+
+            Via Clementi Muzio, 13 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+__________________
+PO
+---
+-
+0.8866191
+
+          Prato (PO)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.25784668
+
+       Gori Emanuele
+       
+        
+         
+          
+         
+         
+          Via Becherini Giuseppe, 113
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 433713
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+ AGENTI RAPPRESENTANTI COMMERCIO 
+---
+-
+0.81923866
+
+            Agente Di Commercio
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.7885247
+Rappresentanti di commercio
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
+-
+0.7303882
+Rappresentanti di commercio a Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.29195735
+Agenti affari in mediazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
+-
+0.26091012
+
+       Gori Emanuele
+       
+        
+         
+          
+         
+         
+          Via Becherini Giuseppe, 113
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 433713
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+Agenti E Rappresentanti Di Commercio a Prato
+---
+-
+0.809844
+Rappresentanti di commercio a Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.78146344
+
+            Agente Di Commercio
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.7521657
+Rappresentanti di commercio
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
+-
+0.3518108
+Agenti affari in mediazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
+-
+0.32859826
+
+       Gori Emanuele
+       
+        
+         
+          
+         
+         
+          Via Becherini Giuseppe, 113
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 433713
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.30015698
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.30015698
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.30015698
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.30015698
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.30015698
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.30015698
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.30015698
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.30015698
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+0.30015698
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]
+-
+0.30015698
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.30015698
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.1270434
+
+          Prato (PO)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.11906675
+Gori Emanuele - Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.08802539
+Consulenza fiscale Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.08295986
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.08295986
+Importazione esportazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.07700456
+Via Lorenzo Da Prato, 2
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.07455299
+Consulenza finanziaria e commerciale Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.07139985
+Agenzie e uffici commerciali Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[2]/a[1]
+-
+0.0689474
+
+            Via Clementi Muzio, 13 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+__________________
+ Via Becherini Giuseppe 113   59100 Prato  (PO) 
+---
+-
+0.80980057
+Via Becherini Giuseppe, 113
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.62903196
+
+       Gori Emanuele
+       
+        
+         
+          
+         
+         
+          Via Becherini Giuseppe, 113
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 433713
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.49449587
+
+          Prato (PO)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.31574824
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.31574824
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+0.31574824
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.31574824
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.31574824
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.31574824
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.31574824
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.25696257
+
+            Via Clementi Muzio, 13 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.22523858
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.22523858
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.22523858
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.22523858
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.22523858
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.22523858
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.22523858
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.22523858
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+0.22523858
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]
+-
+0.22523858
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.22523858
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.17212267
+Via Lorenzo Da Prato, 2
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.1614922
+Dentista Dott. Guiducci Giuseppe
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
+-
+0.11166924
+Via Clementi Muzio, 13
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.10252776
+Via Dell' Alberaccio, 64/Z
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.10252776
+Via Dell' Alberaccio, 69/B
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.098725446
+Via Mascagni Pietro, 74
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.098725446
+Via Leoncavallo Ruggero, 9
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.08934801
+Gori Emanuele - Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+__________________
+
+    > 
+   Toscana > 
+   Prato > 
+   Prato 
+  
+---
+-
+0.73069155
+Toscana
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/span[1]/a[1]
+-
+0.68270767
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.68270767
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.68270767
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.68270767
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.68270767
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.68270767
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.68270767
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.68270767
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+0.68270767
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]
+-
+0.68270767
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.68270767
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.2889605
+
+          Prato (PO)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.2708176
+Gori Emanuele - Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.2392725
+Rappresentanti di commercio a Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.20021395
+Consulenza fiscale Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.18869239
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.18869239
+Importazione esportazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.17919557
+
+       Gori Emanuele
+       
+        
+         
+          
+         
+         
+          Via Becherini Giuseppe, 113
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 433713
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.17514704
+Via Lorenzo Da Prato, 2
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.16957095
+Consulenza finanziaria e commerciale Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.16239911
+Agenzie e uffici commerciali Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[2]/a[1]
+-
+0.16239911
+Agenti affari in mediazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
+-
+0.156821
+
+            Via Clementi Muzio, 13 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+__________________
+ 
+     
+  
+  
+  
+    > 
+   Toscana > 
+   Prato > 
+   Prato 
+   
+   
+    
+    Gori Emanuele - Prato  
+    
+    
+     
+     
+      
+       Gori Emanuele  AGENTI RAPPRESENTANTI COMMERCIO   
+       
+        
+        Via Becherini Giuseppe 113   59100 Prato  (PO) 
+         
+        
+        0574433713  
+         
+       Agenti E Rappresentanti Di Commercio a Prato
+        
+        
+         
+         Modifica Dati 
+          
+         Elimina Azienda 
+         
+        
+        
+       
+      
+     
+     
+     
+     
+      Aziende Simili: 
+       
+      
+      Expo Agency Srl
+       Via Filzi Fabio 0034/a
+       59100 - Prato 
+      
+      
+      Nannicini Marco
+       Via Isola 11/a
+       59011 - Seano 
+      
+      
+      Conti Enrico Filati Srl Commercio Filati Testurizzati
+       Via Pantano 34
+       59013 - Montemurlo 
+      
+      
+      Mazzeigiuridica
+       Via Montalese 483
+       80066 - Fornacella 
+      
+      
+      Leader-tex Rappresentanze
+       Via Danubio 12
+       59100 - Prato 
+      
+     
+     
+     
+     
+    
+     Scrivi la tua recensione per Gori Emanuele - Prato:
+      
+      
+     
+     
+      
+       
+    
+   
+   
+   
+            
+          
+       
+  >   
+
+---
+-
+0.4582091
+
+       Gori Emanuele
+       
+        
+         
+          
+         
+         
+          Via Becherini Giuseppe, 113
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 433713
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.39875233
+Gori Emanuele - Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.37187985
+Rappresentanti di commercio a Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.34131396
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.34131396
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.34131396
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.34131396
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.34131396
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.34131396
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.34131396
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.34131396
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+0.34131396
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]
+-
+0.34131396
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.34131396
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.28337923
+Gori Emanuele
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.28337923
+Gori Emanuele
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.27153626
+Scrivi la tua recensione di Gori Emanuele
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.27063346
+
+            Agente Di Commercio
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.26998988
+Via Becherini Giuseppe, 113
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.26419303
+Rappresentanti di commercio
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
+-
+0.25358298
+
+            Via Clementi Muzio, 13 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.22969878
+
+          Prato (PO)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.21760967
+Via Lorenzo Da Prato, 2
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.17942522
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.17942522
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+0.17942522
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.17942522
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.17942522
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.17942522
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.17942522
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+__________________
+ 
+      Nannicini Marco
+       Via Isola 11/a
+       59011 - Seano 
+     
+---
+-
+0.35298812
+
+        11
+       
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[1]
+-
+0.083814465
+Via Becherini Giuseppe, 113
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.08340789
+Via Lorenzo Da Prato, 2
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.081756376
+Via Clementi Muzio, 13
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.07506362
+Via Dell' Alberaccio, 64/Z
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.07506362
+Via Dell' Alberaccio, 69/B
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.074632466
+
+            Via Clementi Muzio, 13 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.07227983
+Via Mascagni Pietro, 74
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.07227983
+Via Leoncavallo Ruggero, 9
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.04252216
+
+       Gori Emanuele
+       
+        
+         
+          
+         
+         
+          Via Becherini Giuseppe, 113
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 433713
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+ 
+      Leader-tex Rappresentanze
+       Via Danubio 12
+       59100 - Prato 
+     
+---
+-
+0.23642471
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.23642471
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+0.23642471
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.23642471
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.23642471
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.23642471
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.23642471
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.19240741
+
+            Via Clementi Muzio, 13 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.16865325
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.16865325
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.16865325
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.16865325
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.16865325
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.16865325
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.16865325
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.16865325
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+0.16865325
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]
+-
+0.16865325
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.16865325
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.1315735
+
+       Gori Emanuele
+       
+        
+         
+          
+         
+         
+          Via Becherini Giuseppe, 113
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 433713
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.12888132
+Via Lorenzo Da Prato, 2
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.08572014
+Via Becherini Giuseppe, 113
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.08361525
+Via Clementi Muzio, 13
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.07677033
+Via Dell' Alberaccio, 64/Z
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.07677033
+Via Dell' Alberaccio, 69/B
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.073923245
+Via Mascagni Pietro, 74
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.073923245
+Via Leoncavallo Ruggero, 9
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.07138358
+
+          Prato (PO)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.06690165
+Gori Emanuele - Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.059108876
+Rappresentanti di commercio a Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+__________________
+ 
+      Expo Agency Srl
+       Via Filzi Fabio 0034/a
+       59100 - Prato 
+     
+---
+-
+0.22237708
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.22237708
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+0.22237708
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.22237708
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.22237708
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.22237708
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.22237708
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.18637794
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[2]/a[1]
+-
+0.18097515
+
+            Via Clementi Muzio, 13 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.1586324
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.1586324
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.1586324
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.1586324
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.1586324
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.1586324
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.1586324
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.1586324
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+0.1586324
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]
+-
+0.1586324
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.1586324
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.123755805
+
+       Gori Emanuele
+       
+        
+         
+          
+         
+         
+          Via Becherini Giuseppe, 113
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 433713
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.1212236
+Via Lorenzo Da Prato, 2
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.08062691
+Via Becherini Giuseppe, 113
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.078647085
+Via Clementi Muzio, 13
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.07220887
+Via Dell' Alberaccio, 64/Z
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.07220887
+Via Dell' Alberaccio, 69/B
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.06953095
+Via Mascagni Pietro, 74
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.06953095
+Via Leoncavallo Ruggero, 9
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.06714219
+
+          Prato (PO)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.06292655
+Gori Emanuele - Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+__________________
+Conti Enrico Filati Srl Commercio Filati Testurizzati
+---
+-
+0.15861557
+Rappresentanti di commercio
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
+-
+0.15038638
+
+            Agente Di Commercio
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.14769483
+Rappresentanti di commercio a Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.0542921
+
+       Gori Emanuele
+       
+        
+         
+          
+         
+         
+          Via Becherini Giuseppe, 113
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 433713
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+ 
+      Conti Enrico Filati Srl Commercio Filati Testurizzati
+       Via Pantano 34
+       59013 - Montemurlo 
+     
+---
+-
+0.12910222
+Rappresentanti di commercio
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
+-
+0.12240422
+
+            Agente Di Commercio
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.12021348
+Rappresentanti di commercio a Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.07363189
+
+       Gori Emanuele
+       
+        
+         
+          
+         
+         
+          Via Becherini Giuseppe, 113
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 433713
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.057746913
+Via Becherini Giuseppe, 113
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.05746679
+Via Lorenzo Da Prato, 2
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.05632892
+Via Clementi Muzio, 13
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.051717713
+Via Dell' Alberaccio, 64/Z
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.051717713
+Via Dell' Alberaccio, 69/B
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.051420655
+
+            Via Clementi Muzio, 13 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.049799725
+Via Mascagni Pietro, 74
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.049799725
+Via Leoncavallo Ruggero, 9
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+__________________
+ 
+      Mazzeigiuridica
+       Via Montalese 483
+       80066 - Fornacella 
+     
+---
+-
+0.08958099
+Via Becherini Giuseppe, 113
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.08914644
+Via Lorenzo Da Prato, 2
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.087381296
+Via Clementi Muzio, 13
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.08022808
+Via Dell' Alberaccio, 64/Z
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.08022808
+Via Dell' Alberaccio, 69/B
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.079767264
+
+            Via Clementi Muzio, 13 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.07725277
+Via Mascagni Pietro, 74
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.07725277
+Via Leoncavallo Ruggero, 9
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.045447726
+
+       Gori Emanuele
+       
+        
+         
+          
+         
+         
+          Via Becherini Giuseppe, 113
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 433713
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________

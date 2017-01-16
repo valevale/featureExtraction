@@ -13,14 +13,14 @@ import javax.xml.xpath.XPathExpressionException;
 
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
-import org.jsoup.nodes.Document;
+//import org.jsoup.nodes.Document;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
 import lib.utils.DocumentUtils;
 import lucene.SegmentSearcher;
 import model.DomainSource;
-import model.MatchingRepository;
+import model.PairMatchingRepositoryRepository;
 import model.Segment;
 import model.WebPageDocument;
 import model.Xpath;
@@ -28,58 +28,26 @@ import scala.Tuple2;
 import segmentation.TopSegmentsFinder;
 import xpath.utils.XpathApplier;
 
-public class DomainsWrapper_new {
-
-	//	static String path = "/home/valentina/workspace_nuovo/FeatureExtractor/testGenericXpath/";
-	//	static int n1 = 1;
-	//	static int n2 = 2;
-	//	static int n3 = 3;
-	//	static int n4 = 4;
-	//	static int parN1 = 1;
-	//	static int parN2 = 2;
-	//	static double parameterTextFusion = -1;
+public class DomainsWrapper_pairMatching {
+//	static int count = 0;
 
 	public static void getSegmentsFrom(WebPageDocument firstDocument,
 			WebPageDocument secondDocument, WebPageDocument thirdDocument,
 			WebPageDocument fourthDocument, String cartella_primaPersona, String cartella_secondaPersona,
 			int n1, int n2, int n3, int n4) throws Exception {
-		//
-		//		String file = IOUtils.toString(new FileReader(new File(path + "webpages.txt")));
-		//
-		//		String[] folders = file.split("\n");
-		//
+
 		TopSegmentsFinder finder = TopSegmentsFinder.getInstance();
-		//
-		//		for (int k=0; k<folders.length;k++) {
-		//			String cartella = folders[k];
-		//
-		//			System.out.println("CARTELLA CORRENTE: "+cartella);
-		//
-		//			String d1Path = cartella+"orig"+n1+".html";
-		//			String d2Path = cartella+"orig"+n2+".html";
-		//
-		//			String d3Path = cartella+"orig"+n3+".html";
-		//			String d4Path = cartella+"orig"+n4+".html";
-		//
-		//
-		//			File d1 = new File(d1Path);
-		//			File d2 = new File(d2Path);
-		//
-		//			File d3 = new File(d3Path);
-		//			File d4 = new File(d4Path);
-		//
-		//			if (d1.exists() && d2.exists() && d3.exists() && d4.exists()) {
-		//				System.out.println("Trovati documenti");
-		//
+
 		String indexPathDominio1 = cartella_primaPersona+"segmentIndex";
 
 		File indexFolder = new File(indexPathDominio1);
 		String[]entries = indexFolder.list();
 
+		//		System.out.println(indexPathDominio1);
 
 		//eliminazione dell'indice
 		if (entries != null) {
-			System.out.println("deleting previous index");
+			//			System.out.println("deleting previous index1");
 			for(String s: entries){
 				File currentFile = new File(indexFolder.getPath(),s);
 				currentFile.delete();
@@ -103,8 +71,10 @@ public class DomainsWrapper_new {
 		indexFolder = new File(indexPathDominio2);
 		entries = indexFolder.list();
 
+		//		System.out.println(indexPathDominio2);
+
 		if (entries != null) {
-			System.out.println("deleting previous index");
+			//			System.out.println("deleting previous index2");
 			for(String s: entries){
 				File currentFile = new File(indexFolder.getPath(),s);
 				currentFile.delete();
@@ -118,36 +88,11 @@ public class DomainsWrapper_new {
 		finder.setRelevances(segment2hits_secondaPersona, fourthDocument, indexPathDominio2);
 
 
-		//creo, per efficienza, una lista di soli segmenti rilevanti, per il primo documento della prima
-		//coppia e della seconda coppia
-		//		List<Segment> relevantSegments_firstDocument = new ArrayList<>();
-		//		for (int i=0; i<segment2hits_primaPersona.size(); i++) {
-		//			Segment currentSegment = segment2hits_primaPersona.get(i)._1();
-		//			if (currentSegment.getRelevance() > 0) {
-		//				if (getGenericXpath(currentSegment, firstDocument) == null) {
-		//					relevantSegments_firstDocument.add(currentSegment);
-		//				}
-		//			}
-		//		}
-
-		//		List<Segment> relevantSegments_secondDocument = new ArrayList<>();
-		//		Iterator<Segment> secondDocumentSegmentsIt = secondDocument.getSegments().iterator();
-		//		while (secondDocumentSegmentsIt.hasNext()) {
-		//			Segment currentSegment = secondDocumentSegmentsIt.next();
-		//			if (currentSegment.getRelevance() > 0) {
-		//				if (getGenericXpath(currentSegment, secondDocument) == null){
-		//					relevantSegments_secondDocument.add(currentSegment);
-		//				}
-		//			}
-		//		}
-
 		List<Segment> relevantSegments_thirdDocument = new ArrayList<>();
 		for (int i=0; i<segment2hits_secondaPersona.size(); i++) {
 			Segment currentSegment = segment2hits_secondaPersona.get(i)._1();
 			if (currentSegment.getRelevance() > 0) {
-				//				if (getGenericXpath(currentSegment, thirdDocument) == null){
 				relevantSegments_thirdDocument.add(currentSegment);
-				//				}
 			}
 		}
 
@@ -156,9 +101,7 @@ public class DomainsWrapper_new {
 		while (fourthDocumentSegmentsIt.hasNext()) {
 			Segment currentSegment = fourthDocumentSegmentsIt.next();
 			if (currentSegment.getRelevance() > 0) {
-				//				if (getGenericXpath(currentSegment, fourthDocument) == null){
 				relevantSegments_fourthDocument.add(currentSegment);
-				//				}
 			}
 		}
 
@@ -166,6 +109,7 @@ public class DomainsWrapper_new {
 		SegmentSearcher searcher = new SegmentSearcher(indexPathDominio1);
 		for (int j=0; j<segment2hits_primaPersona.size(); j++) {
 			Segment seg = segment2hits_primaPersona.get(j)._1();
+			//			System.out.println("XPATH_fir_seg: "+seg.getAbsoluteXPath());
 			TopDocs hits = segment2hits_primaPersona.get(j)._2();
 			for(ScoreDoc scoreDoc : hits.scoreDocs) {
 				if (scoreDoc.score >= threshold) {
@@ -175,13 +119,19 @@ public class DomainsWrapper_new {
 					} catch (Exception e) {
 						e.printStackTrace();
 					}
+					//					System.out.println("XPATH_sec_seg: "+lucDoc.get("segmentPath"));
+					//					System.out.println(lucDoc.get("segmentContent"));
 					Segment seg_secondDocument = secondDocument.getSegmentByXpath(lucDoc.get("segmentPath"));
 					//setto le rilevanze
 					//					seg.setRelevance(seg.getRelevance()+1);
 					//					seg_secondDocument.setRelevance(seg_secondDocument.getRelevance()+1);
 					//aggiungiamo collegamento
-					addLink(seg, seg_secondDocument, thirdDocument.getDocument(), fourthDocument.getDocument(),
-							relevantSegments_thirdDocument, relevantSegments_fourthDocument);
+					//					System.out.println("SEGMENTI GREZZI:");
+					//					System.out.println(seg.getAbsoluteXPath());
+					//					System.out.println(seg_secondDocument.getAbsoluteXPath());
+					addLink(seg, seg_secondDocument, thirdDocument, fourthDocument, scoreDoc.score,
+							relevantSegments_thirdDocument, relevantSegments_fourthDocument,
+							segment2hits_secondaPersona, indexPathDominio2);
 				}
 			}
 		}
@@ -220,7 +170,6 @@ public class DomainsWrapper_new {
 		//			if (genericXpaths.size()==0) System.out.println("Non ho aggiunto nulla :(");
 		//		}
 		//metto gli xpath nella pagina
-		//TODO sono solo quelli NUOVI trovati... forse potresti aggiungere anche quelli trovati...?
 		//		firstDocument.setGenericXPaths(genericXpaths);
 
 		//più che metterli tutti, devi aggiungere il controllo che non metti "doppioni"
@@ -241,7 +190,7 @@ public class DomainsWrapper_new {
 		//				}
 		//
 		org.w3c.dom.Document firstDocumentWithRelevance = xapplier
-				.colorRelevance(firstDocument.getSegments(), firstDocument.getDocument());
+				.colorRelevance(firstDocument.getSegments(), firstDocument.getDocument_jsoup());
 		if (firstDocumentWithRelevance != null) {
 			PrintWriter testPrinter = new PrintWriter(cartella_primaPersona+"Relevance"+n1+".html", "UTF-8");
 			testPrinter.println(DocumentUtils.getStringFromDocument(firstDocumentWithRelevance));
@@ -249,7 +198,7 @@ public class DomainsWrapper_new {
 		}
 
 		org.w3c.dom.Document thirdDocumentWithRelevance = xapplier
-				.colorRelevance(thirdDocument.getSegments(), thirdDocument.getDocument());
+				.colorRelevance(thirdDocument.getSegments(), thirdDocument.getDocument_jsoup());
 		if (thirdDocumentWithRelevance != null) {
 			PrintWriter testPrinter = new PrintWriter(cartella_secondaPersona+"Relevance"+n3+".html", "UTF-8");
 			testPrinter.println(DocumentUtils.getStringFromDocument(thirdDocumentWithRelevance));
@@ -311,7 +260,7 @@ public class DomainsWrapper_new {
 		//				}
 		//
 		org.w3c.dom.Document secondDocumentWithRelevance = xapplier
-				.colorRelevance(secondDocument.getSegments(), secondDocument.getDocument());
+				.colorRelevance(secondDocument.getSegments(), secondDocument.getDocument_jsoup());
 		if (secondDocumentWithRelevance != null) {
 			PrintWriter testPrinter = new PrintWriter(cartella_primaPersona+"Relevance"+n2+".html", "UTF-8");
 			testPrinter.println(DocumentUtils.getStringFromDocument(secondDocumentWithRelevance));
@@ -319,7 +268,7 @@ public class DomainsWrapper_new {
 		}
 
 		org.w3c.dom.Document fourthDocumentWithRelevance = xapplier
-				.colorRelevance(fourthDocument.getSegments(), fourthDocument.getDocument());
+				.colorRelevance(fourthDocument.getSegments(), fourthDocument.getDocument_jsoup());
 		if (fourthDocumentWithRelevance != null) {
 			PrintWriter testPrinter = new PrintWriter(cartella_secondaPersona+"Relevance"+n4+".html", "UTF-8");
 			testPrinter.println(DocumentUtils.getStringFromDocument(fourthDocumentWithRelevance));
@@ -328,6 +277,7 @@ public class DomainsWrapper_new {
 
 		//			}//fine if d1 & d2 exists
 		//		} //fine folder
+//		System.out.println("count attuale: "+ count);
 	} //fine main
 
 	//di tutti i segmenti rilevanti, ora devo eliminare quelli che, per il dominio, esistono già
@@ -345,11 +295,23 @@ public class DomainsWrapper_new {
 		while (genericXpathIt.hasNext()) {
 			Xpath currentGenericXpath = genericXpathIt.next();
 			String path = currentGenericXpath.getXpath();
-			NodeList nl = xapplier.getNodes(path, webPageDocument.getDocument());
+			//						System.out.println("vediamo xpath "+path);
+			NodeList nl = xapplier.getNodes(path, webPageDocument.getDocument_jsoup());
 			//noi ne vogliamo 1 e 1 solo
 			if (nl.getLength() == 1) {
-				if (nl.item(0).isEqualNode(segment.getW3cNodes().item(0))) {
+				//								System.out.println(nl.item(0));
+//				System.out.println("segment "+segment);
+				//								System.out.println(segment.getW3cNodes().item(0));
+				//TODO è un po' fragile. o controlli ricorsivamente i genitori, oppure trovi un
+				//metodo di jsoup...
+				//(forse non è inefficiente se java al primo false esce dall'if...)
+				if (areEqualNodes(nl.item(0), segment.getW3cNodes().item(0))
+						//						nl.item(0).isEqualNode(segment.getW3cNodes().item(0))
+						//						&& nl.item(0).getNextSibling().isEqualNode(segment.getW3cNodes().item(0).getNextSibling())
+						//						&& nl.item(0).getParentNode().isEqualNode(segment.getW3cNodes().item(0).getParentNode())
+						) {
 					//					System.out.println("*****************ottimo!!!************************");
+//					System.out.println("QUESTO XPATH "+path+ " \n ci ha dato lo stesso nodo");
 					return currentGenericXpath;
 				}
 			}
@@ -358,24 +320,154 @@ public class DomainsWrapper_new {
 		return null;
 	}
 
-	private static boolean isARelevantSegment(String xpath, Document document, List<Segment> relevantSegments) throws XPathExpressionException, IOException, ParserConfigurationException {
+	private static boolean isARelevantSegment(String xpath, WebPageDocument document, List<Segment> relevantSegments) throws XPathExpressionException, IOException, ParserConfigurationException {
 		//		System.out.println(xpath);
 		if (xpath.equals("")) 
 			return false;
 		XpathApplier xapplier = XpathApplier.getInstance();
-		NodeList xpathNodes = xapplier.getNodes(xpath, document);
-		//		System.out.println("nodi matchati "+ xpathNodes.getLength());
+		NodeList xpathNodes = xapplier.getNodes(xpath, document.getDocument_jsoup());
+		//				System.out.println("nodi matchati "+ xpathNodes.getLength());
 		if (xpathNodes.getLength()!=1)
 			return false;
 		Node xpathNode = xpathNodes.item(0);
 		//controlliamo che il nodo restituito corrisponda a un segmento rilevante del documento 3
 		for (int i=0;i<relevantSegments.size();i++) {
 			Segment relevantSegment = relevantSegments.get(i);
-			if (xpathNode.isEqualNode(relevantSegment.getW3cNodes().item(0)))
+			if (areEqualNodes(xpathNode, relevantSegment.getW3cNodes().item(0))) {
 				return true;
+			}
 		}
 		//nessun matching
 		return false;
+	}
+
+	/*controlla che i segmenti siano presenti in un matching*/
+	private static boolean isARelevantMatching(String xpath1, WebPageDocument doc1,
+			String xpath2,WebPageDocument doc2,
+			List<Tuple2<Segment, TopDocs>> segment2hits, String indexPath)
+					throws XPathExpressionException, IOException, ParserConfigurationException {
+		//		System.out.println(xpath);
+		if (xpath1.equals("") || xpath1.equals("")) 
+			return false;
+		XpathApplier xapplier = XpathApplier.getInstance();
+		NodeList xpathNodes1 = xapplier.getNodes(xpath1, doc1.getDocument_jsoup());
+		NodeList xpathNodes2 = xapplier.getNodes(xpath2, doc2.getDocument_jsoup());
+		//		System.out.println("nodi matchati "+ xpathNodes.getLength());
+		if (xpathNodes1.getLength()!=1 || xpathNodes2.getLength()!=1)
+			return false;
+		Node xpathNode1 = xpathNodes1.item(0);
+		Node xpathNode2 = xpathNodes2.item(0);
+
+		for (int i=0;i<segment2hits.size();i++) {
+			Tuple2<Segment, TopDocs> segment2hit = segment2hits.get(i);
+			if (areEqualNodes(xpathNode1, segment2hit._1().getW3cNodes().item(0))) {
+				//				System.out.println("TROVATO 1° SEGMENTO");
+				//abbiamo individuato il segmento del primo documento, ora dobbiamo trovare il segmento
+				//del secondo documento
+				SegmentSearcher searcher = new SegmentSearcher(indexPath);
+				TopDocs hits = segment2hit._2();
+				for(ScoreDoc scoreDoc : hits.scoreDocs) {
+					if (scoreDoc.score >= 0.6) {
+						org.apache.lucene.document.Document lucDoc = null;
+						try {
+							lucDoc = searcher.getDocument(scoreDoc);
+						} catch (Exception e) {
+							e.printStackTrace();
+						}
+						//setto la rilevanza dei segmenti del secondo documento
+						Segment seg_secondDocument = doc2.getSegmentByXpath(lucDoc.get("segmentPath"));
+						if (areEqualNodes(xpathNode2, seg_secondDocument.getW3cNodes().item(0))) {
+							//							System.out.println("TROVATO 2° SEGMENTO");
+							return true;
+						}
+					}
+				}
+				//nessun matching nelle hits
+				return false;
+			}
+		}
+		//nessun matching
+		return false;
+	}
+
+	public static boolean areEqualNodes(Node n1, Node n2) {
+		if (n1 != null) {
+			if (n1.isEqualNode(n2)) {
+				//							if (n1.getParentNode().isEqualNode(n2.getParentNode())) {
+				if (areEqualNodes(n1.getParentNode(),n2.getParentNode())) {
+					Node siblingN1 = n1.getNextSibling();
+					Node siblingN2 = n2.getNextSibling();
+					//					if (siblingN1 != null)
+					//						System.out.println("fratello1 "+ siblingN1.getTextContent());
+					//					else
+					//						System.out.println("fratello1 null");
+					//					if (siblingN2 != null)
+					//						System.out.println("fratello2 "+ siblingN2.getTextContent());
+					//					else
+					//						System.out.println("fratello2 null");
+					//					if (siblingN1 != null && siblingN2 != null) 
+					//						System.out.println(siblingN1.isEqualNode(siblingN2));
+					if ((siblingN1 == null && siblingN2 != null)
+							|| (siblingN1 != null && siblingN2 == null)) {
+						//						System.out.println("Uno dei due fratelli è nullo");
+						return false;
+					}
+					if (siblingN1 == null && siblingN2 == null) {
+						//						System.out.println("Entrambi i fratelli sono nulli");
+						return true;
+					}
+					//					if (siblingN1.isEqualNode(siblingN2) && areEqualNodes(siblingN1, siblingN2)) {
+					if (siblingN1.isEqualNode(siblingN2)) {
+						List<Node> nextSiblingsN1 = new ArrayList<>();
+						getNextSiblings(n1, nextSiblingsN1);
+						List<Node> nextSiblingsN2 = new ArrayList<>();
+						getNextSiblings(n2, nextSiblingsN2);
+						if (areEqualListOfNodes(nextSiblingsN1, nextSiblingsN2)) {
+							List<Node> previousSiblingsN1 = new ArrayList<>();
+							getPreviousSiblings(n1, previousSiblingsN1);
+							List<Node> previousSiblingsN2 = new ArrayList<>();
+							getPreviousSiblings(n2, previousSiblingsN2);
+							if (areEqualListOfNodes(previousSiblingsN1, previousSiblingsN2)) {
+								//							System.out.println("I fratelli sono uguali");
+								return true;
+							}
+						}
+					}
+				}
+			}
+			return false;
+		}
+		return n2 == null;
+	}
+
+	//riempie la lista passata con i fratelli di destra del nodo, NON compreso il nodo stesso
+	public static void getNextSiblings(Node n, List<Node> nextSiblingsList) {
+		Node nextSibling = n.getNextSibling();
+		if (nextSibling == null)
+			return;
+		nextSiblingsList.add(nextSibling);
+		getNextSiblings(nextSibling, nextSiblingsList);
+	}
+
+	//riempie la lista passata con i fratelli di sinistra del nodo, NON compreso il nodo stesso
+	public static void getPreviousSiblings(Node n, List<Node> previousSiblingsList) {
+		Node prevSibling = n.getPreviousSibling();
+		if (prevSibling == null)
+			return;
+		previousSiblingsList.add(prevSibling);
+		getNextSiblings(prevSibling, previousSiblingsList);
+	}
+	
+	//confronta se due liste hanno gli stessi nodi
+	public static boolean areEqualListOfNodes(List<Node> list1, List<Node> list2) {
+		if (list1.size() != list2.size()) return false;
+		for (int i=0; i<list1.size(); i++) {
+			Node n1 = list1.get(i);
+			Node n2 = list2.get(i);
+			if (!(n1.isEqualNode(n2)))
+				return false;
+		}
+		return true;
 	}
 
 	//più che altro, ogni volta che supera la soglia,
@@ -383,11 +475,15 @@ public class DomainsWrapper_new {
 	//SE SÌ allora metti quello nella coppia collegamento
 	//SE NO generi un xpath generico
 	private static void addLink(Segment firstSegment, Segment secondSegment,
-			Document doc3, Document doc4,
+			WebPageDocument doc3, WebPageDocument doc4, float score,
 			List<Segment> relevantSegments_thirdDocument,
-			List<Segment> relevantSegments_fourthDocument) throws XPathExpressionException, IOException, ParserConfigurationException {
+			List<Segment> relevantSegments_fourthDocument, 
+			List<Tuple2<Segment, TopDocs>> segment2hits_secondaPersona,
+			String indexPath) throws XPathExpressionException, IOException, ParserConfigurationException {
 		//creazione degli xpath generici
 		//controllo che i due segmenti non abbiano già un xpath generico
+//		System.out.println("xpath assoluto1: "+firstSegment.getAbsoluteXPath());
+//		System.out.println("VEDIAMO SE IL NUOVO FIR SEG "+firstSegment+" POSSIEDE GIA' UN'XPATH GENERICA PER LEI");
 		Xpath genericXpath_firstSegment = getGenericXpath(firstSegment, firstSegment.getDocument());
 		if (genericXpath_firstSegment == null) {
 			//generi un xpath generico
@@ -410,18 +506,23 @@ public class DomainsWrapper_new {
 					specificityParameter++;
 			}
 		}
+//		System.out.println("xpath assoluto2: "+secondSegment.getAbsoluteXPath());
+//		System.out.println("VEDIAMO SE IL NUOVO SEC SEG "+secondSegment+" POSSIEDE GIA' UN'XPATH GENERICA PER LEI");
 		Xpath genericXpath_secondSegment = getGenericXpath(secondSegment, secondSegment.getDocument());
 		if (genericXpath_secondSegment == null) {
 			//generi un xpath generico
+//			System.out.println("NOPE");
 			secondSegment.makeXpathVersions();
 			int specificityParameter = 0;
 			boolean onlyOneSegmentFound = false;
 			while(specificityParameter <= 5 && !onlyOneSegmentFound) {
-				//					System.out.println("Parametro specificità "+specificityParameter);
+				//									System.out.println("Parametro specificità "+specificityParameter);
 				Xpath currentXpath = (new Xpath(secondSegment.getJsoupNode(),secondSegment
 						.getXpathVersions().getPathBySpecificity(specificityParameter)));
+				//				System.out.println(currentXpath.getXpath());
 				//se corrisponde a 1 unico segmento RILEVANTE
 				if (isARelevantSegment(currentXpath.getXpath(), doc4, relevantSegments_fourthDocument)) {
+					//					System.out.println("è rilevante");
 					onlyOneSegmentFound = true;
 					//sovrascrivo l'xpath assoluto
 					secondSegment.setXPath(currentXpath, specificityParameter);
@@ -433,13 +534,27 @@ public class DomainsWrapper_new {
 			}
 		}
 		if (genericXpath_firstSegment != null && genericXpath_secondSegment != null) {
-			//una volta che hai i generici di entrambi, crei collegamento
-			//		Matching m = new Matching(firstSegment.getDocument().getSource(), genericXpath_firstSegment,
-			//				secondSegment.getDocument().getSource(), genericXpath_secondSegment);
-			MatchingRepository mr = MatchingRepository.getInstance();
-			mr.addMatching(firstSegment.getDocument().getSource(), genericXpath_firstSegment,
-					secondSegment.getDocument().getSource(), genericXpath_secondSegment);
+			//CONTROLLO AGGIUNTIVO: i segmenti ottenuti da questi xpath generici sono stati matchati
+			//per alta coseno similarità nell'insieme segment2hits_secondaPersona
+			if (isARelevantMatching(genericXpath_firstSegment.getXpath(), doc3, 
+					genericXpath_secondSegment.getXpath(), doc4, 
+					segment2hits_secondaPersona, indexPath)) {
+				//una volta che hai i generici di entrambi, crei collegamento
+				//TODO è qui che cambia l'algoritmo
+				PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
+				//				System.out.println("ANDIAMO A AGGIUNGERE ");
+				//				System.out.println(genericXpath_firstSegment.getXpath());
+				//				System.out.println(genericXpath_secondSegment.getXpath());
+				pmr.addMatching(genericXpath_firstSegment, firstSegment.getDocument().getSource().getParameter(),
+						genericXpath_secondSegment, secondSegment.getDocument().getSource().getParameter(), score);
+			}
+			//TODO qui credo che dobbiamo fare backtracking
+//			else {
+//				//contiamo quante volte va qui
+//			}
 		}
+//		else {
+//			count++;
+//		}
 	}
 }
-

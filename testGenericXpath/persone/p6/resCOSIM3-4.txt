@@ -88,6 +88,94 @@ Dedo Ingegneria S.r.l.
       
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 __________________
+Ingegneri
+---
+-
+1.0
+Ingegneri
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
+-
+0.85220456
+Ingegneri a Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.7071067
+
+            Studio D'ingegneria
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.53124374
+
+            Studio di Ingegneria e Architettura
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.41361398
+Dedo Ingegneria S.r.l.
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.21190636
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
  Via Perugia, 9
 ---
 -
@@ -192,94 +280,6 @@ Via Bologna, 8
            
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
 __________________
-Ingegneri
----
--
-1.0
-Ingegneri
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
--
-0.85220456
-Ingegneri a Pescara
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
--
-0.7071067
-
-            Studio D'ingegneria
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
--
-0.53124374
-
-            Studio di Ingegneria e Architettura
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
--
-0.41361398
-Dedo Ingegneria S.r.l.
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[1]/a[1]
--
-0.21190636
-
-       Sargiacomo Ing. Silvio
-       Studio Tecnico
-       
-        
-         
-          
-         
-         
-          Via Perugia, 9
-         
-         
-          
-         
-         
-          65121
-         
-         
-          
-         
-         
-          Pescara (PE)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          085 4214339
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Ingegneri a Pescara
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
-__________________
 
               Sargiacomo Silvio 
              
@@ -298,12 +298,12 @@ Sargiacomo Ing. Silvio - Pescara
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.51287013
-Risultati di ricerca per Sargiacomo Ing. Silvio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
--
-0.51287013
 Scrivi la tua recensione di Sargiacomo Ing. Silvio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.51287013
+Risultati di ricerca per Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
 -
 0.300289
 
@@ -377,11 +377,11 @@ __________________
 -
 0.5577565
 65121
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.5577565
 65121
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
 -
 0.5577565
 65121
@@ -389,7 +389,7 @@ __________________
 -
 0.5577565
 65121
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.5577565
 65121
@@ -457,8 +457,32 @@ __________________
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 -
 0.36269975
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]
+-
+0.36269975
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[1]
+-
+0.36269975
 Pescara
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.36269975
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.36269975
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.36269975
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.36269975
 Pescara
@@ -467,14 +491,6 @@ Pescara
 0.36269975
 Pescara
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.36269975
-Pescara
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.36269975
-Pescara
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.36269975
 
@@ -487,10 +503,8 @@ Pescara
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.36269975
-
-        Pescara
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[1]
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.36269975
 
@@ -500,27 +514,13 @@ Pescara
 -
 0.36269975
 Pescara
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.36269975
-Pescara
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.36269975
 
         Pescara
        
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]
--
-0.36269975
-Pescara
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.36269975
-
-        Pescara
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[1]
 -
 0.33695507
 
@@ -551,16 +551,16 @@ Sargiacomo Ing. Silvio - Pescara
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.09590819
+Associazioni sindacali Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
+-
+0.09590819
 Categorie correlate a Pescara
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.09590819
 Agenzie immobiliari Pescara
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[2]/a[1]
--
-0.09590819
-Associazioni sindacali Pescara
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
 -
 0.08423869
 Architetti, studi architettura Pescara
@@ -586,8 +586,32 @@ Via Perugia, 9
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.39184925
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]
+-
+0.39184925
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[1]
+-
+0.39184925
 Pescara
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.39184925
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.39184925
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.39184925
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.39184925
 Pescara
@@ -596,14 +620,6 @@ Pescara
 0.39184925
 Pescara
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.39184925
-Pescara
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.39184925
-Pescara
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.39184925
 
@@ -616,10 +632,8 @@ Pescara
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.39184925
-
-        Pescara
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[1]
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.39184925
 
@@ -629,27 +643,13 @@ Pescara
 -
 0.39184925
 Pescara
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.39184925
-Pescara
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.39184925
 
         Pescara
        
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]
--
-0.39184925
-Pescara
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.39184925
-
-        Pescara
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[1]
 -
 0.37786096
 
@@ -755,16 +755,16 @@ Sargiacomo Ing. Silvio - Pescara
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.103616156
+Associazioni sindacali Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
+-
+0.103616156
 Categorie correlate a Pescara
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.103616156
 Agenzie immobiliari Pescara
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[2]/a[1]
--
-0.103616156
-Associazioni sindacali Pescara
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
 __________________
 
               Informazioni aggiuntive su Sargiacomo Silvio 
@@ -784,12 +784,12 @@ Sargiacomo Ing. Silvio - Pescara
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.27722025
-Risultati di ricerca per Sargiacomo Ing. Silvio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
--
-0.27722025
 Scrivi la tua recensione di Sargiacomo Ing. Silvio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.27722025
+Risultati di ricerca per Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
 -
 0.16231439
 

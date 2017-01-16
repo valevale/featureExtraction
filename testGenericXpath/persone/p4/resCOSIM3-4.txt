@@ -94,12 +94,12 @@ Via Dell' Alberaccio, 64/Z
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
 -
 0.12191329
-Via Mascagni Pietro, 74
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
--
-0.12191329
 Via Leoncavallo Ruggero, 9
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.12191329
+Via Mascagni Pietro, 74
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
 __________________
 
               Gori Emanuele  
@@ -205,11 +205,15 @@ __________________
 -
 0.5381718
 59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.5381718
+59100
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
 -
 0.5381718
 59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.5381718
 59100
@@ -218,10 +222,6 @@ __________________
 0.5381718
 59100
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.5381718
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.39531243
 
@@ -285,11 +285,39 @@ __________________
 -
 0.38390413
 Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.38390413
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+0.38390413
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.38390413
+Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.38390413
 Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.38390413
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.38390413
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.38390413
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]
 -
 0.38390413
 Prato
@@ -300,36 +328,8 @@ Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.38390413
-
-        Prato
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]
--
-0.38390413
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.38390413
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.38390413
-
-        Prato
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
--
-0.38390413
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.38390413
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.38390413
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
 -
 0.26243716
 
@@ -352,12 +352,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.106106594
-Importazione esportazione Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
--
-0.106106594
 Categorie correlate a Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.106106594
+Importazione esportazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
 -
 0.09848969
 Via Lorenzo Da Prato, 2
@@ -444,11 +444,39 @@ Via Becherini Giuseppe, 113
 -
 0.31456077
 Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.31456077
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+0.31456077
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.31456077
+Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.31456077
 Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.31456077
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.31456077
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.31456077
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]
 -
 0.31456077
 Prato
@@ -459,36 +487,8 @@ Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.31456077
-
-        Prato
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]
--
-0.31456077
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.31456077
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.31456077
-
-        Prato
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
--
-0.31456077
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.31456077
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.31456077
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
 -
 0.24038084
 Via Lorenzo Da Prato, 2
@@ -519,12 +519,12 @@ Via Dell' Alberaccio, 64/Z
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
 -
 0.13787669
-Via Mascagni Pietro, 74
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
--
-0.13787669
 Via Leoncavallo Ruggero, 9
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.13787669
+Via Mascagni Pietro, 74
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
 -
 0.1331399
 
@@ -545,12 +545,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.08694091
-Importazione esportazione Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
--
-0.08694091
 Categorie correlate a Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.08694091
+Importazione esportazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
 -
 0.0781306
 Consulenza finanziaria e commerciale Prato

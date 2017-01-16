@@ -10,7 +10,7 @@ import javax.xml.xpath.XPathExpressionException;
 
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Node;
-import org.w3c.dom.NodeList;
+//import org.w3c.dom.NodeList;
 
 public class XpathMaker {
 
@@ -204,132 +204,132 @@ public class XpathMaker {
 	}
 
 	/*versione ancora più robusta, aggiunta dei path relativi*/
-	public List<String> buildStrongPath(Node node, List<String> list, Document doc) throws XPathExpressionException, IOException, ParserConfigurationException {
-		//		System.out.println("il nodo: "+node);
-		if (node.parent() == null) {
-			return list;
-		}
-		else {
-			//			System.out.println("NODENAME DEL NODO CORRENTE "+node.nodeName());
-			if (!node.nodeName().equals("#text")) {
-				String nodeToCheck = isNodoUnico(node, list, doc);
-				if (list.size()!=0 && nodeToCheck!=null) {
-					//						System.out.println("E' UNICO");
-					list.add(0, nodeToCheck);
-					return list;
-				}
-				//					System.out.println("NON E' UNICO");
-				//controllo se ha fratelli
-				if (node.parent().childNodeSize() > 1
-						&& !node.nodeName().equals("html")) {
-					int i=0;
-					int j=1;
-					while (i<node.parent().childNodeSize()) {				//scorro i fratelli
-						//						System.out.println("IL FIGLIO"+ node.parent().childNode(i).toString()
-						//								+ "\n e NODENAME: "+ node.parent().childNode(i).nodeName());
-						if (!Pattern.matches("^#.*", node.parent().childNode(i).nodeName())
-								&& node.parent().childNode(i).nodeName().equals(node.nodeName())) {
-							//							System.out.println("NON E' UNO SPAZIO BIANCO! è il figlio "+ j);
-							if (node.parent().childNode(i).equals(node)) {	
-								//								System.out.println("e' il nodo corrente!");
-								//tra i fratelli cerco il nodo in questione, per assegnargli il giusto indice
-								list.add(0, node.nodeName()+"["+(j)+"]");
-								list = buildStrongPath(node.parent(), list, doc);
-								return list;
-							}
-							j++;
-						}
-						i++;
-					}
-				}
-				//non ha fratelli
-				else {
-					//					System.out.println("NON HA FRATELLI");
-					list.add(0, node.nodeName().toString());
-					list = buildStrongPath(node.parent(), list, doc);
-					return list;
-				}
-			}
-			//			System.out.println("E' #text");
-			//			System.out.println();
-		}
-		return buildStrongPath(node.parent(), list, doc);
-	}
+//	private List<String> buildStrongPath(Node node, List<String> list, Document doc) throws XPathExpressionException, IOException, ParserConfigurationException {
+//		//		System.out.println("il nodo: "+node);
+//		if (node.parent() == null) {
+//			return list;
+//		}
+//		else {
+//			//			System.out.println("NODENAME DEL NODO CORRENTE "+node.nodeName());
+//			if (!node.nodeName().equals("#text")) {
+//				String nodeToCheck = isNodoUnico(node, list, doc);
+//				if (list.size()!=0 && nodeToCheck!=null) {
+//					//						System.out.println("E' UNICO");
+//					list.add(0, nodeToCheck);
+//					return list;
+//				}
+//				//					System.out.println("NON E' UNICO");
+//				//controllo se ha fratelli
+//				if (node.parent().childNodeSize() > 1
+//						&& !node.nodeName().equals("html")) {
+//					int i=0;
+//					int j=1;
+//					while (i<node.parent().childNodeSize()) {				//scorro i fratelli
+//						//						System.out.println("IL FIGLIO"+ node.parent().childNode(i).toString()
+//						//								+ "\n e NODENAME: "+ node.parent().childNode(i).nodeName());
+//						if (!Pattern.matches("^#.*", node.parent().childNode(i).nodeName())
+//								&& node.parent().childNode(i).nodeName().equals(node.nodeName())) {
+//							//							System.out.println("NON E' UNO SPAZIO BIANCO! è il figlio "+ j);
+//							if (node.parent().childNode(i).equals(node)) {	
+//								//								System.out.println("e' il nodo corrente!");
+//								//tra i fratelli cerco il nodo in questione, per assegnargli il giusto indice
+//								list.add(0, node.nodeName()+"["+(j)+"]");
+//								list = buildStrongPath(node.parent(), list, doc);
+//								return list;
+//							}
+//							j++;
+//						}
+//						i++;
+//					}
+//				}
+//				//non ha fratelli
+//				else {
+//					//					System.out.println("NON HA FRATELLI");
+//					list.add(0, node.nodeName().toString());
+//					list = buildStrongPath(node.parent(), list, doc);
+//					return list;
+//				}
+//			}
+//			//			System.out.println("E' #text");
+//			//			System.out.println();
+//		}
+//		return buildStrongPath(node.parent(), list, doc);
+//	}
 
 	/* metodo che controlla se un nodo è unico nel DOM:
 	 * viene generato un path relativo che parte da quel nodo.
 	 * si verifica quindi l'xpath generato.
 	 * se restituisce 1 e 1 solo nodo, allora è un nodo unico. altrimenti non lo è.*/
-	public String isNodoUnico(Node node, List<String> sonsList, Document doc) throws XPathExpressionException, IOException, ParserConfigurationException {
-
-		//			System.out.println("SARA' UNICO?");
-		List<String> nodesList = new ArrayList<>(sonsList);
-		nodesList.add(0, node.nodeName());
-		//		System.out.println(sonsList.size());
-		String xPath = fromListToXpath(nodesList);
-		//			System.out.println("primo path: "+xPath);
-		NodeList nl = xpapplier.getNodes(xPath, doc);
-		if(nl.getLength()==1) {
-			//				System.out.println("fine metodo true1");
-			return node.nodeName();
-		}
-		//attributi
-		else {
-			//				System.out.println(nl.getLength()+" non unico");
-			if (node.hasAttr("class")){
-				//					System.out.println("HA CLASS");
-				nodesList = new ArrayList<>(sonsList);
-				nodesList.add(0, node.nodeName()+"[@class]");
-				xPath = fromListToXpath(nodesList);
-				//					System.out.println("il path con CLASS "+xPath);
-				nl = xpapplier.getNodes(xPath, doc);
-				//					System.out.println(nl.getLength());
-				if(nl.getLength()==1) {
-					//						System.out.println("fine metodo true2");
-					return node.nodeName()+"[@class]";
-				}
-				//valori
-				nodesList = new ArrayList<>(sonsList);
-				nodesList.add(0, node.nodeName()+"[@class='"+node.attr("class")+"']");
-				xPath = fromListToXpath(nodesList);
-				//					System.out.println("il path con CLASS valore "+xPath);
-				nl = xpapplier.getNodes(xPath, doc);
-				//					System.out.println(nl.getLength());
-				if(nl.getLength()==1) {
-					//						System.out.println("fine metodo true3");
-					return node.nodeName()+"[@class='"+node.attr("class")+"']";
-				}
-			}
-
-			else if (node.hasAttr("id")) {
-				//					System.out.println("HA ID");
-				nodesList = new ArrayList<>(sonsList);
-				nodesList.add(0, node.nodeName()+"[@id]");
-				xPath = fromListToXpath(nodesList);
-				//					System.out.println("il path con ID "+xPath);
-				nl = xpapplier.getNodes(xPath, doc);
-				//					System.out.println(nl.getLength());
-				if(nl.getLength()==1) {
-					//						System.out.println("fine metodo true4");
-					return node.nodeName()+"[@id]";
-				}
-				//valori
-				nodesList = new ArrayList<>(sonsList);
-				nodesList.add(0, node.nodeName()+"[@id='"+node.attr("id")+"']");
-				xPath = fromListToXpath(nodesList);
-				//					System.out.println("il path con ID valore "+xPath);
-				nl = xpapplier.getNodes(xPath, doc);
-				//					System.out.println(nl.getLength());
-				if(nl.getLength()==1) {
-					//						System.out.println("fine metodo true5");
-					return node.nodeName()+"[@id='"+node.attr("id")+"']";
-				}
-
-			}
-		}
-		//			System.out.println("fine metodo false");
-		return null;
-	}
+//	private String isNodoUnico(Node node, List<String> sonsList, Document doc) throws XPathExpressionException, IOException, ParserConfigurationException {
+//
+//		//			System.out.println("SARA' UNICO?");
+//		List<String> nodesList = new ArrayList<>(sonsList);
+//		nodesList.add(0, node.nodeName());
+//		//		System.out.println(sonsList.size());
+//		String xPath = fromListToXpath(nodesList);
+//		//			System.out.println("primo path: "+xPath);
+//		NodeList nl = xpapplier.getNodes(xPath, doc);
+//		if(nl.getLength()==1) {
+//			//				System.out.println("fine metodo true1");
+//			return node.nodeName();
+//		}
+//		//attributi
+//		else {
+//			//				System.out.println(nl.getLength()+" non unico");
+//			if (node.hasAttr("class")){
+//				//					System.out.println("HA CLASS");
+//				nodesList = new ArrayList<>(sonsList);
+//				nodesList.add(0, node.nodeName()+"[@class]");
+//				xPath = fromListToXpath(nodesList);
+//				//					System.out.println("il path con CLASS "+xPath);
+//				nl = xpapplier.getNodes(xPath, doc);
+//				//					System.out.println(nl.getLength());
+//				if(nl.getLength()==1) {
+//					//						System.out.println("fine metodo true2");
+//					return node.nodeName()+"[@class]";
+//				}
+//				//valori
+//				nodesList = new ArrayList<>(sonsList);
+//				nodesList.add(0, node.nodeName()+"[@class='"+node.attr("class")+"']");
+//				xPath = fromListToXpath(nodesList);
+//				//					System.out.println("il path con CLASS valore "+xPath);
+//				nl = xpapplier.getNodes(xPath, doc);
+//				//					System.out.println(nl.getLength());
+//				if(nl.getLength()==1) {
+//					//						System.out.println("fine metodo true3");
+//					return node.nodeName()+"[@class='"+node.attr("class")+"']";
+//				}
+//			}
+//
+//			else if (node.hasAttr("id")) {
+//				//					System.out.println("HA ID");
+//				nodesList = new ArrayList<>(sonsList);
+//				nodesList.add(0, node.nodeName()+"[@id]");
+//				xPath = fromListToXpath(nodesList);
+//				//					System.out.println("il path con ID "+xPath);
+//				nl = xpapplier.getNodes(xPath, doc);
+//				//					System.out.println(nl.getLength());
+//				if(nl.getLength()==1) {
+//					//						System.out.println("fine metodo true4");
+//					return node.nodeName()+"[@id]";
+//				}
+//				//valori
+//				nodesList = new ArrayList<>(sonsList);
+//				nodesList.add(0, node.nodeName()+"[@id='"+node.attr("id")+"']");
+//				xPath = fromListToXpath(nodesList);
+//				//					System.out.println("il path con ID valore "+xPath);
+//				nl = xpapplier.getNodes(xPath, doc);
+//				//					System.out.println(nl.getLength());
+//				if(nl.getLength()==1) {
+//					//						System.out.println("fine metodo true5");
+//					return node.nodeName()+"[@id='"+node.attr("id")+"']";
+//				}
+//
+//			}
+//		}
+//		//			System.out.println("fine metodo false");
+//		return null;
+//	}
 	
 	//xpath assoluto senza indici, class o id; solo tag
 		public List<String> buildPath1(Node node, List<String> list) {

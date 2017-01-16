@@ -1,37 +1,35 @@
-
-              Avvocato Fabio Sarra 
-             
+Avvocato
 ---
 -
 1.0
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
--
-1.0
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.91686153
-Avvocato Fabio Sarra - Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
--
-0.5819317
-Risultati di ricerca per Avvocato Fabio Sarra
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[11]/div[1]/a[1]
--
-0.5819317
-Scrivi la tua recensione di Avvocato Fabio Sarra
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[6]/div[1]/span[1]/h4[1]
--
-0.5528056
 Avvocati
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
 -
-0.43427753
+0.78558815
 Avvocati a Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]/div[2]/a[1]
 -
-0.35269082
+0.5391449
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.5391449
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.4962552
+Avvocato Fabio Sarra - Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.31893572
+Scrivi la tua recensione di Avvocato Fabio Sarra
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[6]/div[1]/span[1]/h4[1]
+-
+0.31893572
+Risultati di ricerca per Avvocato Fabio Sarra
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[11]/div[1]/a[1]
+-
+0.29811013
 
        Avvocato Fabio Sarra
        Patrocinante in Cassazione
@@ -95,11 +93,11 @@ Avvocati a Roma
       
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 -
-0.28378412
+0.24002503
 Avvocato Fabio Sarra offre consulenze telefoniche e on-line. Esperienza ventennale in diritto civile e penale. Offre ai Colleghi Avvocati un servizio di domiciliazione davanti Corte dei Conti, Corte di Cassazione Civile, Penale e del Lavoro.
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
 -
-0.18658863
+0.15792538
 
         Descrizione attività: 
         
@@ -149,23 +147,23 @@ Avvocati a Roma
 -
 0.5391449
 Avvocato Fabio Sarra
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.5391449
 Avvocato Fabio Sarra
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
 0.4962552
 Avvocato Fabio Sarra - Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.31893572
-Risultati di ricerca per Avvocato Fabio Sarra
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[11]/div[1]/a[1]
--
-0.31893572
 Scrivi la tua recensione di Avvocato Fabio Sarra
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[6]/div[1]/span[1]/h4[1]
+-
+0.31893572
+Risultati di ricerca per Avvocato Fabio Sarra
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[11]/div[1]/a[1]
 -
 0.29811013
 
@@ -342,16 +340,16 @@ Via Panfilo Castaldi 8
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 -
 0.15442862
-Via Di Pietra Papa, 4
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.15442862
 Via Nievo Ippolito, 61
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
 -
 0.15442862
 Via Nievo Ippolito, 61
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.15442862
+Via Di Pietra Papa, 4
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.13712338
 Via Oderisi Da Gubbio, 62
@@ -365,38 +363,40 @@ Via Oderisi Da Gubbio, 62
            
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]
 __________________
-Avvocato
+
+              Avvocato Fabio Sarra 
+             
 ---
 -
 1.0
-Avvocati
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
--
-0.78558815
-Avvocati a Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]/div[2]/a[1]
--
-0.5391449
-Avvocato Fabio Sarra
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
--
-0.5391449
 Avvocato Fabio Sarra
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
-0.4962552
+1.0
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.91686153
 Avvocato Fabio Sarra - Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
-0.31893572
-Risultati di ricerca per Avvocato Fabio Sarra
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[11]/div[1]/a[1]
--
-0.31893572
+0.5819317
 Scrivi la tua recensione di Avvocato Fabio Sarra
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[6]/div[1]/span[1]/h4[1]
 -
-0.29811013
+0.5819317
+Risultati di ricerca per Avvocato Fabio Sarra
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[11]/div[1]/a[1]
+-
+0.5528056
+Avvocati
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
+-
+0.43427753
+Avvocati a Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]/div[2]/a[1]
+-
+0.35269082
 
        Avvocato Fabio Sarra
        Patrocinante in Cassazione
@@ -460,11 +460,11 @@ Scrivi la tua recensione di Avvocato Fabio Sarra
       
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 -
-0.24002503
+0.28378412
 Avvocato Fabio Sarra offre consulenze telefoniche e on-line. Esperienza ventennale in diritto civile e penale. Offre ai Colleghi Avvocati un servizio di domiciliazione davanti Corte dei Conti, Corte di Cassazione Civile, Penale e del Lavoro.
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
 -
-0.15792538
+0.18658863
 
         Descrizione attività: 
         
@@ -510,11 +510,11 @@ __________________
 -
 0.5943701
 00153
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
 -
 0.5943701
 00153
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.5943701
 00153
@@ -522,7 +522,11 @@ __________________
 -
 0.5943701
 00153
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.38284513
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.38284513
 Roma
@@ -530,11 +534,17 @@ Roma
 -
 0.38284513
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.38284513
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.38284513
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
 -
 0.38284513
 Roma
@@ -542,7 +552,7 @@ Roma
 -
 0.38284513
 Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.38284513
 Roma
@@ -554,17 +564,7 @@ Roma
 -
 0.38284513
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.38284513
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.38284513
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.34626353
 
@@ -647,12 +647,12 @@ Avvocato Fabio Sarra - Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.11186251
-Categorie correlate a Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
--
-0.11186251
 Associazioni sindacali Roma
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.11186251
+Categorie correlate a Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
 -
 0.096338436
 Architetti, studi architettura Roma
@@ -743,15 +743,25 @@ Via Panfilo Castaldi 8
 -
 0.318301
 Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.318301
+Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.318301
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.318301
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.318301
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
 -
 0.318301
 Roma
@@ -759,7 +769,7 @@ Roma
 -
 0.318301
 Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.318301
 Roma
@@ -771,17 +781,7 @@ Roma
 -
 0.318301
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.318301
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.318301
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.22685787
 
@@ -796,16 +796,16 @@ Avvocati a Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]/div[2]/a[1]
 -
 0.17227006
-Via Di Pietra Papa, 4
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.17227006
 Via Nievo Ippolito, 61
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
 -
 0.17227006
 Via Nievo Ippolito, 61
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.17227006
+Via Di Pietra Papa, 4
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.1529655
 Via Oderisi Da Gubbio, 62
@@ -830,12 +830,12 @@ Avvocato Fabio Sarra - Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.093003534
-Categorie correlate a Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
--
-0.093003534
 Associazioni sindacali Roma
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.093003534
+Categorie correlate a Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
 -
 0.08009667
 Architetti, studi architettura Roma
@@ -852,23 +852,23 @@ __________________
 -
 0.5819317
 Avvocato Fabio Sarra
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.5819317
 Avvocato Fabio Sarra
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
 0.53355086
 Avvocato Fabio Sarra - Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.33864453
-Risultati di ricerca per Avvocato Fabio Sarra
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[11]/div[1]/a[1]
--
-0.33864453
 Scrivi la tua recensione di Avvocato Fabio Sarra
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[6]/div[1]/span[1]/h4[1]
+-
+0.33864453
+Risultati di ricerca per Avvocato Fabio Sarra
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[11]/div[1]/a[1]
 -
 0.3216951
 Avvocati

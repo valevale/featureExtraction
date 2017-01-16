@@ -9,24 +9,24 @@ Butera
 ---
 -
 1.0
-Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+Butera 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
 -
 1.0
 Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 1.0
 Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
 -
 1.0
-Butera 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
 -
 1.0
 Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 1.0
 Butera
@@ -38,15 +38,7 @@ Supermercati Butera
 -
 0.42225954
 Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.42225954
-Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.42225954
-Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
 0.42225954
 Mini Market Di Giuliana Antonio, Butera
@@ -54,15 +46,23 @@ Mini Market Di Giuliana Antonio, Butera
 -
 0.42225954
 Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.42225954
-Mini Market Di Giuliana Antonio, Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
 0.42225954
 Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.42225954
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.42225954
+Mini Market Di Giuliana Antonio, Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.42225954
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
 -
 0.33378753
 Shopping e acquisti Butera
@@ -133,26 +133,14 @@ __________________
 -
 1.0
 93011
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
 -
 1.0
 93011
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
 __________________
 Butera
 ---
--
-1.0
-Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
 -
 1.0
 Butera 
@@ -160,7 +148,19 @@ Butera
 -
 1.0
 Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 1.0
 Butera
@@ -172,15 +172,7 @@ Supermercati Butera
 -
 0.42225954
 Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.42225954
-Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.42225954
-Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
 0.42225954
 Mini Market Di Giuliana Antonio, Butera
@@ -188,15 +180,23 @@ Mini Market Di Giuliana Antonio, Butera
 -
 0.42225954
 Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.42225954
-Mini Market Di Giuliana Antonio, Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
 0.42225954
 Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.42225954
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.42225954
+Mini Market Di Giuliana Antonio, Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.42225954
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
 -
 0.33378753
 Shopping e acquisti Butera
@@ -251,15 +251,7 @@ Giuliana Antonio - Butera
 -
 0.7635629
 Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.7635629
-Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.7635629
-Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
 0.7635629
 Mini Market Di Giuliana Antonio, Butera
@@ -267,15 +259,23 @@ Mini Market Di Giuliana Antonio, Butera
 -
 0.7635629
 Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.7635629
-Mini Market Di Giuliana Antonio, Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
 0.7635629
 Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.7635629
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.7635629
+Mini Market Di Giuliana Antonio, Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.7635629
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
 -
 0.581936
 Recensioni Mini Market Di Giuliana Antonio, Butera
@@ -283,7 +283,7 @@ Recensioni Mini Market Di Giuliana Antonio, Butera
 -
 0.581838
 Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]/i[1]
 -
 0.581838
 Mini Market Di Giuliana Antonio
@@ -291,23 +291,11 @@ Mini Market Di Giuliana Antonio
 -
 0.581838
 Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
 -
 0.581838
 Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]/i[1]
--
-0.5571179
-Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.5571179
-Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.5571179
-Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
 -
 0.5571179
 Butera 
@@ -315,7 +303,19 @@ Butera
 -
 0.5571179
 Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.5571179
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.5571179
+Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.5571179
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.5571179
 Butera
@@ -406,24 +406,24 @@ Prodotti alimentari
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/ol[2]/li[2]/a[1]/span[1]
 -
 0.26083532
-Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+Butera 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
 -
 0.26083532
 Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.26083532
 Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
 -
 0.26083532
-Butera 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
 -
 0.26083532
 Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.26083532
 Butera
@@ -435,15 +435,7 @@ Supermercati Butera
 -
 0.1101402
 Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.1101402
-Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.1101402
-Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
 0.1101402
 Mini Market Di Giuliana Antonio, Butera
@@ -451,15 +443,23 @@ Mini Market Di Giuliana Antonio, Butera
 -
 0.1101402
 Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.1101402
-Mini Market Di Giuliana Antonio, Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
 0.1101402
 Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.1101402
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.1101402
+Mini Market Di Giuliana Antonio, Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.1101402
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
 -
 0.08706358
 Shopping e acquisti Butera
@@ -528,15 +528,7 @@ Recensioni Mini Market Di Giuliana Antonio, Butera
 -
 0.40483055
 Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.40483055
-Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.40483055
-Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
 0.40483055
 Mini Market Di Giuliana Antonio, Butera
@@ -544,19 +536,27 @@ Mini Market Di Giuliana Antonio, Butera
 -
 0.40483055
 Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
 0.40483055
 Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.40483055
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
 -
 0.40483055
 Mini Market Di Giuliana Antonio, Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
 -
+0.40483055
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
 0.3084825
 Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]/i[1]
 -
 0.3084825
 Mini Market Di Giuliana Antonio
@@ -564,23 +564,11 @@ Mini Market Di Giuliana Antonio
 -
 0.3084825
 Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
 -
 0.3084825
 Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]/i[1]
--
-0.2953762
-Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.2953762
-Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.2953762
-Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
 -
 0.2953762
 Butera 
@@ -588,7 +576,19 @@ Butera
 -
 0.2953762
 Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.2953762
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.2953762
+Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.2953762
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.2953762
 Butera
@@ -675,7 +675,7 @@ Giuliana Antonio
 -
 0.7006437
 Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]/i[1]
 -
 0.7006437
 Mini Market Di Giuliana Antonio
@@ -683,27 +683,11 @@ Mini Market Di Giuliana Antonio
 -
 0.7006437
 Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
 -
 0.7006437
 Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]/i[1]
--
-0.6321157
-Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.6321157
-Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.6321157
-Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
--
-0.6321157
-Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
 -
 0.6321157
 Mini Market Di Giuliana Antonio, Butera
@@ -711,11 +695,27 @@ Mini Market Di Giuliana Antonio, Butera
 -
 0.6321157
 Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.6321157
+Mini Market Di Giuliana Antonio, Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
 0.6321157
 Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.6321157
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.6321157
+Mini Market Di Giuliana Antonio, Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.6321157
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
 -
 0.48924562
 E-mail a Mini Market Di Giuliana Antonio
@@ -810,23 +810,11 @@ Via Luigi Sturzo, 80
 -
 0.31357363
 93011
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
 -
 0.31357363
 93011
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
--
-0.19446464
-Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.19446464
-Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.19446464
-Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
 -
 0.19446464
 Butera 
@@ -834,7 +822,19 @@ Butera
 -
 0.19446464
 Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.19446464
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.19446464
+Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.19446464
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.19446464
 Butera
@@ -858,15 +858,7 @@ Supermercati Butera
 -
 0.08211454
 Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.08211454
-Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.08211454
-Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
 0.08211454
 Mini Market Di Giuliana Antonio, Butera
@@ -874,15 +866,23 @@ Mini Market Di Giuliana Antonio, Butera
 -
 0.08211454
 Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.08211454
-Mini Market Di Giuliana Antonio, Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
 0.08211454
 Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.08211454
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.08211454
+Mini Market Di Giuliana Antonio, Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.08211454
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
 -
 0.06490987
 Shopping e acquisti Butera
@@ -917,24 +917,24 @@ Caltanissetta
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[3]/span[1]
 -
 0.28887478
-Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+Butera 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
 -
 0.28887478
 Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.28887478
 Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
 -
 0.28887478
-Butera 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
 -
 0.28887478
 Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.28887478
 Butera
@@ -946,15 +946,7 @@ Supermercati Butera
 -
 0.12198013
 Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.12198013
-Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.12198013
-Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
 0.12198013
 Mini Market Di Giuliana Antonio, Butera
@@ -962,15 +954,23 @@ Mini Market Di Giuliana Antonio, Butera
 -
 0.12198013
 Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.12198013
-Mini Market Di Giuliana Antonio, Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
 0.12198013
 Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.12198013
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.12198013
+Mini Market Di Giuliana Antonio, Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.12198013
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
 -
 0.09642281
 Shopping e acquisti Butera
@@ -1065,19 +1065,15 @@ Modifica Dati
 -
 0.47079158
 Dati
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/a[1]
--
-0.47079158
-Dati
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/a[1]
--
-0.47079158
-Dati
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[1]/a[1]
 -
 0.47079158
 Dati
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[1]/a[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[1]/a[1]
+-
+0.47079158
+Dati
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[1]/a[1]
 -
 0.47079158
 Dati
@@ -1085,7 +1081,11 @@ Dati
 -
 0.47079158
 Dati
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[1]/a[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[1]/a[1]
+-
+0.47079158
+Dati
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[1]/a[1]
 -
 0.13681592
 
@@ -1260,20 +1260,16 @@ Recensioni Mini Market Di Giuliana Antonio, Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
 -
 0.17247844
+Butera 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.17247844
 Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.17247844
 Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.17247844
-Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.17247844
-Butera 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
 -
 0.17247844
 Butera
@@ -1281,23 +1277,11 @@ Butera
 -
 0.17247844
 Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.17247844
+Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.17118369
-Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.17118369
-Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.17118369
-Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
--
-0.17118369
-Mini Market Di Giuliana Antonio, Butera
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
 -
 0.17118369
 Mini Market Di Giuliana Antonio, Butera
@@ -1305,11 +1289,27 @@ Mini Market Di Giuliana Antonio, Butera
 -
 0.17118369
 Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.17118369
+Mini Market Di Giuliana Antonio, Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
 0.17118369
 Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.17118369
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.17118369
+Mini Market Di Giuliana Antonio, Butera
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.17118369
+Mini Market Di Giuliana Antonio, Butera
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
 -
 0.13799681
 Supermercati Butera
@@ -1359,7 +1359,7 @@ VIA SAN ROCCO, 593011  Butera
 -
 0.10807895
 Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]/i[1]
 __________________
  
       Prolat Sicilia Spa

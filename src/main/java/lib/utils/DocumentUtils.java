@@ -25,6 +25,7 @@ public class DocumentUtils {
 		catch(TransformerException ex)
 		{
 			ex.printStackTrace();
+			System.out.println("errore "+ ex);
 			return null;
 		}
 	} 

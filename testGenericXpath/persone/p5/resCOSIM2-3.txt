@@ -381,62 +381,62 @@ Via Roma Pescara
  65122 Pescara (PE)
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
+Pescara
+---
+-
+0.51726764
+Via Roma Pescara
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.43579525
+ 65122 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Pescara
+---
+-
+0.51726764
+Via Roma Pescara
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.43579525
+ 65122 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Pescara
+---
+-
+0.51726764
+Via Roma Pescara
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.43579525
+ 65122 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Pescara
+---
+-
+0.51726764
+Via Roma Pescara
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.43579525
+ 65122 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Pescara
+---
+-
+0.51726764
+Via Roma Pescara
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.43579525
+ 65122 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
 Pescara 
----
--
-0.51726764
-Via Roma Pescara
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
--
-0.43579525
- 65122 Pescara (PE)
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
-__________________
-Pescara
----
--
-0.51726764
-Via Roma Pescara
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
--
-0.43579525
- 65122 Pescara (PE)
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
-__________________
-Pescara
----
--
-0.51726764
-Via Roma Pescara
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
--
-0.43579525
- 65122 Pescara (PE)
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
-__________________
-Pescara
----
--
-0.51726764
-Via Roma Pescara
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
--
-0.43579525
- 65122 Pescara (PE)
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
-__________________
-Pescara
----
--
-0.51726764
-Via Roma Pescara
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
--
-0.43579525
- 65122 Pescara (PE)
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
-__________________
-Pescara
 ---
 -
 0.51726764
@@ -458,9 +458,7 @@ __________________
 Via Roma Pescara
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
 __________________
-
-          E-mail a Lupo Italo✕
-         
+E-mail a Lupo Italo
 ---
 -
 0.48337346
@@ -485,7 +483,9 @@ Lupo
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 __________________
-E-mail a Lupo Italo
+
+          E-mail a Lupo Italo✕
+         
 ---
 -
 0.48337346
@@ -525,7 +525,7 @@ Via Roma Pescara
  65122 Pescara (PE)
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
-Descrizione Lupo Italo, Pescara
+Galleria Lupo Italo, Pescara
 ---
 -
 0.42949358
@@ -591,7 +591,7 @@ Via Roma Pescara
  65122 Pescara (PE)
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
-Galleria Lupo Italo, Pescara
+Descrizione Lupo Italo, Pescara
 ---
 -
 0.42949358
@@ -767,7 +767,7 @@ Via Roma Pescara
  65122 Pescara (PE)
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
-Gioielli Pescara
+Gioielli in Pescara
 ---
 -
 0.2922499
@@ -778,7 +778,7 @@ Via Roma Pescara
  65122 Pescara (PE)
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
-Gioielli in Pescara
+Orologi in Pescara
 ---
 -
 0.2922499
@@ -811,7 +811,7 @@ Via Roma Pescara
  65122 Pescara (PE)
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
-Orologi in Pescara
+Gioielli Pescara
 ---
 -
 0.2922499
@@ -819,17 +819,6 @@ Via Roma Pescara
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
 -
 0.246219
- 65122 Pescara (PE)
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
-__________________
-Pietre Preziose in Pescara
----
--
-0.22542277
-Via Roma Pescara
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
--
-0.1899175
  65122 Pescara (PE)
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
@@ -843,6 +832,17 @@ Via Roma Pescara
 0.20540342
  Via Roma, 35
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
+__________________
+Pietre Preziose in Pescara
+---
+-
+0.22542277
+Via Roma Pescara
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.1899175
+ 65122 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
 Shopping e acquisti Pescara
 ---
@@ -870,18 +870,7 @@ Gioielleria Landolfi E Ainis Snc
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 __________________
-V. MILANO. 7765122  Pescara
----
--
-0.19017492
-Via Roma Pescara
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
--
-0.16022137
- 65122 Pescara (PE)
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
-__________________
-V. FIRENZE. 23165122  Pescara
+Gioielli articoli da Regalo in Pescara
 ---
 -
 0.19017492
@@ -903,7 +892,18 @@ Via Roma Pescara
  65122 Pescara (PE)
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
-Gioielli articoli da Regalo in Pescara
+V. FIRENZE. 23165122  Pescara
+---
+-
+0.19017492
+Via Roma Pescara
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.16022137
+ 65122 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+V. MILANO. 7765122  Pescara
 ---
 -
 0.19017492
