@@ -571,7 +571,7 @@ nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi
         
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[1]/td[4]/div[1]
 __________________
-Descrizione Dragoni Luciano Tvc Hi-Fi, Prato
+Recensioni Dragoni Luciano Tvc Hi-Fi, Prato
 ---
 -
 0.75628924
@@ -615,7 +615,7 @@ nome:Dragoni AND nome:Luciano AND nome:Tvc AND nome:Hi-Fi
         
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[1]/td[4]/div[1]
 __________________
-Recensioni Dragoni Luciano Tvc Hi-Fi, Prato
+Descrizione Dragoni Luciano Tvc Hi-Fi, Prato
 ---
 -
 0.75628924
@@ -986,73 +986,73 @@ Via Porta Al Serraglio Prato
  Via Porta Al Serraglio, 8
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
 __________________
+Prato
+---
+-
+0.44254297
+Via Porta Al Serraglio Prato
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.43579525
+ 59100 Prato (PO)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Prato
+---
+-
+0.44254297
+Via Porta Al Serraglio Prato
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.43579525
+ 59100 Prato (PO)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Prato
+---
+-
+0.44254297
+Via Porta Al Serraglio Prato
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.43579525
+ 59100 Prato (PO)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Prato
+---
+-
+0.44254297
+Via Porta Al Serraglio Prato
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.43579525
+ 59100 Prato (PO)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Prato
+---
+-
+0.44254297
+Via Porta Al Serraglio Prato
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.43579525
+ 59100 Prato (PO)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Prato
+---
+-
+0.44254297
+Via Porta Al Serraglio Prato
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.43579525
+ 59100 Prato (PO)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
 Prato 
----
--
-0.44254297
-Via Porta Al Serraglio Prato
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
--
-0.43579525
- 59100 Prato (PO)
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
-__________________
-Prato
----
--
-0.44254297
-Via Porta Al Serraglio Prato
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
--
-0.43579525
- 59100 Prato (PO)
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
-__________________
-Prato
----
--
-0.44254297
-Via Porta Al Serraglio Prato
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
--
-0.43579525
- 59100 Prato (PO)
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
-__________________
-Prato
----
--
-0.44254297
-Via Porta Al Serraglio Prato
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
--
-0.43579525
- 59100 Prato (PO)
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
-__________________
-Prato
----
--
-0.44254297
-Via Porta Al Serraglio Prato
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
--
-0.43579525
- 59100 Prato (PO)
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
-__________________
-Prato
----
--
-0.44254297
-Via Porta Al Serraglio Prato
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
--
-0.43579525
- 59100 Prato (PO)
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
-__________________
-Prato
 ---
 -
 0.44254297
@@ -1078,17 +1078,6 @@ Via Porta Al Serraglio Prato
  Via Porta Al Serraglio, 8
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
 __________________
-Agenti di commercio Prato
----
--
-0.19285813
-Via Porta Al Serraglio Prato
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
--
-0.1899175
- 59100 Prato (PO)
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
-__________________
 Shopping e acquisti Prato
 ---
 -
@@ -1100,14 +1089,14 @@ Via Porta Al Serraglio Prato
  59100 Prato (PO)
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
-13, V. BISENZIO59100  Prato
+Agenti di commercio Prato
 ---
 -
-0.1627022
+0.19285813
 Via Porta Al Serraglio Prato
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
 -
-0.16022137
+0.1899175
  59100 Prato (PO)
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
@@ -1122,7 +1111,7 @@ Via Porta Al Serraglio Prato
  59100 Prato (PO)
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
-Agenti E Rappresentanti di commercio in Prato
+P. CIARDI. 3359100  Prato
 ---
 -
 0.1627022
@@ -1133,7 +1122,18 @@ Via Porta Al Serraglio Prato
  59100 Prato (PO)
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
-P. CIARDI. 3359100  Prato
+13, V. BISENZIO59100  Prato
+---
+-
+0.1627022
+Via Porta Al Serraglio Prato
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.16022137
+ 59100 Prato (PO)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Agenti E Rappresentanti di commercio in Prato
 ---
 -
 0.1627022

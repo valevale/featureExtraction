@@ -2,8 +2,18 @@ Roma
 ---
 -
 1.0
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+1.0
 Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 1.0
 
@@ -13,21 +23,7 @@ Roma
 -
 1.0
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-1.0
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
 -
 1.0
 Roma
@@ -35,7 +31,11 @@ Roma
 -
 1.0
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 1.0
 Roma
@@ -43,11 +43,11 @@ Roma
 -
 1.0
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 1.0
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.56770265
 Avvocati a Roma
@@ -196,8 +196,18 @@ Roma
 ---
 -
 1.0
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+1.0
 Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 1.0
 
@@ -207,21 +217,7 @@ Roma
 -
 1.0
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-1.0
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
 -
 1.0
 Roma
@@ -229,7 +225,11 @@ Roma
 -
 1.0
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 1.0
 Roma
@@ -237,11 +237,11 @@ Roma
 -
 1.0
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 1.0
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.56770265
 Avvocati a Roma
@@ -386,30 +386,15 @@ Commercialisti - studio commercialista Roma
       
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 __________________
-Roma
+Lazio
 ---
 -
 1.0
+Lazio
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/span[1]/a[1]
+__________________
 Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
--
-1.0
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+---
 -
 1.0
 
@@ -419,11 +404,33 @@ Roma
 -
 1.0
 Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+1.0
+Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 1.0
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 1.0
 Roma
@@ -431,11 +438,11 @@ Roma
 -
 1.0
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 1.0
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.56770265
 Avvocati a Roma
@@ -668,13 +675,6 @@ www.studiolegalecorini.it
       
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 __________________
-Lazio
----
--
-1.0
-Lazio
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/span[1]/a[1]
-__________________
 Lo Studio Legale Corini svolge attività di assistenza e consulenza legale specialistica in materia di diritto della musica e contratti discografici, nei diversi ambiti della tutela del diritto d'autore e dei diritti connessi, della proprietà intellettuale e del diritto dello spettacolo, in tema di privacy, di proprietà industriale e di contratti d'impresa, nonché nel settore dell'ICT e dei progetti di ricerca e sviluppo nazionali ed europei, attraverso la fomrulazione di pareri legali, l'analisi e l'elaborazione di contratti, la redazione di atti giudiziali e di atti stragiudiziali, l'assistenza nelle negoziazioni con i terzi, la partecipazione a progetti di ricerca e sviluppo (progetti R&D), la gestione dei rapporti con i vari enti ausiliari per la protezione delle opere dell'ingegno.
 ---
 -
@@ -692,12 +692,6 @@ Lo Studio Legale Corini svolge attività di assistenza e consulenza legale speci
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]
 -
 0.20877938
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
--
-0.20877938
 Studio Legale
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
@@ -705,13 +699,19 @@ Studio Legale
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.20877938
 
             Studio Legale
            
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.20877938
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.109943785
 Risultati di ricerca per Avvocato Simone Corini
@@ -812,11 +812,11 @@ Descrizione attività
 -
 0.040853467
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
 0.040853467
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.038077906
 Avvocato Simone Corini - Roma
@@ -851,37 +851,15 @@ Avvocato Simone Corini - Roma
 -
 0.46305737
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
 0.46305737
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.29622227
 Risultati di ricerca per Avvocato Simone Corini
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[11]/div[1]/a[1]
--
-0.26291525
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
--
-0.26291525
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
--
-0.26291525
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.26291525
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.26291525
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.26291525
 
@@ -891,11 +869,33 @@ Roma
 -
 0.26291525
 Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.26291525
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.26291525
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
+-
+0.26291525
+Roma
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.26291525
+Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.26291525
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.26291525
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.26291525
 Roma
@@ -903,11 +903,11 @@ Roma
 -
 0.26291525
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.26291525
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.16230853
 
@@ -1250,11 +1250,11 @@ Avvocato Simone Corini - Roma
 -
 0.7483446
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
 0.7483446
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.4787233
 Risultati di ricerca per Avvocato Simone Corini
@@ -1265,8 +1265,18 @@ Scrivi la tua recensione di Avvocato Simone Corini
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[6]/div[1]/span[1]/h4[1]
 -
 0.42489597
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.42489597
 Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.42489597
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.42489597
 
@@ -1276,21 +1286,7 @@ Roma
 -
 0.42489597
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.42489597
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.42489597
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.42489597
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
 -
 0.42489597
 Roma
@@ -1298,7 +1294,11 @@ Roma
 -
 0.42489597
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.42489597
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.42489597
 Roma
@@ -1306,11 +1306,11 @@ Roma
 -
 0.42489597
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.42489597
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.26230595
 
@@ -1469,11 +1469,11 @@ Simone Corini
 -
 0.8266789
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
 0.8266789
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.7688708
 Avvocato Simone Corini - Roma
@@ -1688,8 +1688,18 @@ Viale Tito Livio, 59
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 -
 0.19103833
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.19103833
 Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.19103833
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.19103833
 
@@ -1699,21 +1709,7 @@ Roma
 -
 0.19103833
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.19103833
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.19103833
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.19103833
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
 -
 0.19103833
 Roma
@@ -1721,7 +1717,11 @@ Roma
 -
 0.19103833
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.19103833
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.19103833
 Roma
@@ -1729,11 +1729,11 @@ Roma
 -
 0.19103833
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.19103833
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.14330356
 
@@ -1764,12 +1764,12 @@ Viale Delle Medaglie D'oro, 266
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.09821791
-Viale Delle Medaglie D'oro, 176
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
--
-0.09821791
 Viale delle Medaglie d'Oro, 143
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.09821791
+Viale Delle Medaglie D'oro, 176
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
 -
 0.07300541
 Notai Roma
@@ -1812,8 +1812,18 @@ Lazio
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/span[1]/a[1]
 -
 0.68745935
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.68745935
 Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.68745935
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.68745935
 
@@ -1823,21 +1833,7 @@ Roma
 -
 0.68745935
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.68745935
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.68745935
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.68745935
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
 -
 0.68745935
 Roma
@@ -1845,7 +1841,11 @@ Roma
 -
 0.68745935
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.68745935
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.68745935
 Roma
@@ -1853,11 +1853,11 @@ Roma
 -
 0.68745935
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.68745935
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.39027253
 Avvocati a Roma
@@ -2006,15 +2006,15 @@ Email
 ---
 -
 0.6827616
-mostra email
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[3]/a[1]
--
-0.6827616
 
            
           mostra email  
          
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[3]
+-
+0.6827616
+mostra email
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[3]/a[1]
 -
 0.17060205
 
@@ -2207,19 +2207,7 @@ Viale Tito Livio, 59
 -
 0.26011848
 00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
--
-0.26011848
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.26011848
-00136
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.26011848
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.26011848
 00136
@@ -2227,7 +2215,19 @@ Viale Tito Livio, 59
 -
 0.26011848
 00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.26011848
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+0.26011848
+00136
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.26011848
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.23876289
 
@@ -2246,8 +2246,18 @@ Viale Tito Livio, 59
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]
 -
 0.19655782
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.19655782
 Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.19655782
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.19655782
 
@@ -2257,21 +2267,7 @@ Roma
 -
 0.19655782
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.19655782
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.19655782
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.19655782
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
 -
 0.19655782
 Roma
@@ -2279,7 +2275,11 @@ Roma
 -
 0.19655782
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.19655782
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.19655782
 Roma
@@ -2287,11 +2287,11 @@ Roma
 -
 0.19655782
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.19655782
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.11158641
 Avvocati a Roma
@@ -2306,12 +2306,12 @@ Viale Delle Medaglie D'oro, 266
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.10105564
-Viale Delle Medaglie D'oro, 176
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
--
-0.10105564
 Viale delle Medaglie d'Oro, 143
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.10105564
+Viale Delle Medaglie D'oro, 176
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
 -
 0.084089644
 
@@ -2430,8 +2430,18 @@ Avvocato Simone Corini - Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.33924663
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.33924663
 Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.33924663
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.33924663
 
@@ -2441,21 +2451,7 @@ Roma
 -
 0.33924663
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.33924663
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.33924663
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.33924663
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
 -
 0.33924663
 Roma
@@ -2463,7 +2459,11 @@ Roma
 -
 0.33924663
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.33924663
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.33924663
 Roma
@@ -2471,11 +2471,11 @@ Roma
 -
 0.33924663
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.33924663
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.32934105
 
@@ -2577,12 +2577,6 @@ Avvocati a Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
 -
 0.24925137
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
--
-0.24925137
 Studio Legale
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
@@ -2590,7 +2584,7 @@ Studio Legale
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.24925137
 
@@ -2598,13 +2592,19 @@ Studio Legale
            
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
-0.23765713
-Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+0.24925137
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.23765713
 Avvocato Simone Corini
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.23765713
+Avvocato Simone Corini
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.2244034
 Scrivi la tua recensione di Avvocato Simone Corini
@@ -2624,11 +2624,11 @@ Risultati di ricerca per Avvocato Simone Corini
 -
 0.20406744
 00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.20406744
 00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 __________________
 Avvocati - Studi a Roma
 ---
@@ -2650,8 +2650,18 @@ Avvocato Simone Corini - Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.3667615
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.3667615
 Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.3667615
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.3667615
 
@@ -2661,21 +2671,7 @@ Roma
 -
 0.3667615
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.3667615
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.3667615
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.3667615
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
 -
 0.3667615
 Roma
@@ -2683,7 +2679,11 @@ Roma
 -
 0.3667615
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.3667615
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.3667615
 Roma
@@ -2691,19 +2691,19 @@ Roma
 -
 0.3667615
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.3667615
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.2755242
-Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.2755242
 Avvocato Simone Corini
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.2755242
+Avvocato Simone Corini
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.20584679
 
@@ -2865,11 +2865,11 @@ Architetti, studi architettura Roma
 -
 0.29616228
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
 0.29616228
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.27609578
 Avvocato Simone Corini - Roma
@@ -3092,8 +3092,18 @@ Viale Tito Livio, 59
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.24391666
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.24391666
 Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.24391666
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.24391666
 
@@ -3103,21 +3113,7 @@ Roma
 -
 0.24391666
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.24391666
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.24391666
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.24391666
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
 -
 0.24391666
 Roma
@@ -3125,7 +3121,11 @@ Roma
 -
 0.24391666
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.24391666
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.24391666
 Roma
@@ -3133,11 +3133,11 @@ Roma
 -
 0.24391666
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.24391666
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.2358839
 www.studiolegalecorini.it
@@ -3156,15 +3156,15 @@ Avvocati
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
 -
 0.15049857
-mostra email
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[3]/a[1]
--
-0.15049857
 
            
           mostra email  
          
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[3]
+-
+0.15049857
+mostra email
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[3]/a[1]
 -
 0.123536795
 
@@ -3192,11 +3192,11 @@ Ingegneri Roma
 -
 0.09161941
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
 0.09161941
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.06845824
 Categorie correlate a Roma
@@ -3206,12 +3206,6 @@ Acquaroli Avv. Antonio Studio Legale
 ---
 -
 0.46874756
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
--
-0.46874756
 Studio Legale
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
@@ -3219,13 +3213,19 @@ Studio Legale
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.46874756
 
             Studio Legale
            
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.46874756
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.36508814
 Studio di architettura Antonio Sabatino
@@ -3345,12 +3345,6 @@ De Conciliis E Di Giulio Studio Legale
 ---
 -
 0.42901495
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
--
-0.42901495
 Studio Legale
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
@@ -3358,13 +3352,19 @@ Studio Legale
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.42901495
 
             Studio Legale
            
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.42901495
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.21571177
 Studio Legale Zanchetti Gramaccioni
@@ -3480,12 +3480,6 @@ __________________
 ---
 -
 0.29937744
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
--
-0.29937744
 Studio Legale
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
@@ -3493,13 +3487,19 @@ Studio Legale
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.29937744
 
             Studio Legale
            
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.29937744
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.23317271
 Studio di architettura Antonio Sabatino
@@ -3511,19 +3511,7 @@ Studio di architettura Antonio Sabatino
 -
 0.19916508
 00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
--
-0.19916508
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.19916508
-00136
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.19916508
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.19916508
 00136
@@ -3531,33 +3519,23 @@ Studio di architettura Antonio Sabatino
 -
 0.19916508
 00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.19916508
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+0.19916508
+00136
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.19916508
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.1505291
 Studio Legale Zanchetti Gramaccioni
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[1]/a[1]
--
-0.15049855
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
--
-0.15049855
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
--
-0.15049855
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.15049855
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.15049855
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.15049855
 
@@ -3567,11 +3545,33 @@ Roma
 -
 0.15049855
 Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.15049855
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.15049855
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
+-
+0.15049855
+Roma
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.15049855
+Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.15049855
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.15049855
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.15049855
 Roma
@@ -3579,11 +3579,11 @@ Roma
 -
 0.15049855
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.15049855
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.14329825
 Bergami Avv. Valentina
@@ -3706,12 +3706,6 @@ __________________
 ---
 -
 0.292481
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
--
-0.292481
 Studio Legale
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
@@ -3719,7 +3713,7 @@ Studio Legale
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.292481
 
@@ -3727,17 +3721,15 @@ Studio Legale
            
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
+0.292481
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
 0.19457713
 00136
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.19457713
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
--
-0.19457713
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.19457713
 00136
@@ -3745,41 +3737,27 @@ Studio Legale
 -
 0.19457713
 00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.19457713
+00136
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.19457713
 00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
 -
 0.19457713
 00136
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
+0.19457713
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
 0.14706153
 Studio Legale Zanchetti Gramaccioni
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[1]/a[1]
--
-0.14703168
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
--
-0.14703168
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
--
-0.14703168
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.14703168
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.14703168
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.14703168
 
@@ -3789,11 +3767,33 @@ Roma
 -
 0.14703168
 Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.14703168
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.14703168
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
+-
+0.14703168
+Roma
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.14703168
+Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.14703168
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.14703168
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.14703168
 Roma
@@ -3801,11 +3801,11 @@ Roma
 -
 0.14703168
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.14703168
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.13990834
 Dentista Dott. Guiducci Giuseppe
@@ -3943,19 +3943,7 @@ __________________
 -
 0.20873894
 00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
--
-0.20873894
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.20873894
-00136
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.20873894
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.20873894
 00136
@@ -3963,29 +3951,19 @@ __________________
 -
 0.20873894
 00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.20873894
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+0.20873894
+00136
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
-0.15773302
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
--
-0.15773302
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
--
-0.15773302
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.15773302
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.15773302
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+0.20873894
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.15773302
 
@@ -3995,11 +3973,33 @@ Roma
 -
 0.15773302
 Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.15773302
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.15773302
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
+-
+0.15773302
+Roma
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.15773302
+Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.15773302
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.15773302
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.15773302
 Roma
@@ -4007,11 +4007,11 @@ Roma
 -
 0.15773302
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.15773302
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.1501866
 Bergami Avv. Valentina
@@ -4172,19 +4172,7 @@ __________________
 -
 0.23398201
 00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
--
-0.23398201
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.23398201
-00136
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.23398201
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.23398201
 00136
@@ -4192,29 +4180,19 @@ __________________
 -
 0.23398201
 00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.23398201
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+0.23398201
+00136
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
-0.17680788
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
--
-0.17680788
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
--
-0.17680788
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.17680788
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.17680788
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+0.23398201
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.17680788
 
@@ -4224,11 +4202,33 @@ Roma
 -
 0.17680788
 Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.17680788
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.17680788
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
+-
+0.17680788
+Roma
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.17680788
+Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.17680788
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.17680788
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.17680788
 Roma
@@ -4236,11 +4236,11 @@ Roma
 -
 0.17680788
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.17680788
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.12778768
 

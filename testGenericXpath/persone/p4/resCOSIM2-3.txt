@@ -1,3 +1,14 @@
+VIA GIUSEPPE BECHERINI 113
+---
+-
+1.0
+ Via Becherini Giuseppe, 113
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
+-
+0.6867033
+Via Becherini Giuseppe Prato
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+__________________
 Gori Emanuele
 ---
 -
@@ -22,17 +33,6 @@ Gori
               Informazioni aggiuntive su Gori Emanuele  
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
-__________________
-VIA GIUSEPPE BECHERINI 113
----
--
-1.0
- Via Becherini Giuseppe, 113
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
--
-0.6867033
-Via Becherini Giuseppe Prato
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
 __________________
 Gori Emanuele
 ---
@@ -332,9 +332,7 @@ __________________
 Gori
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
 __________________
-
-          E-mail a Gori Emanuele✕
-         
+E-mail a Gori Emanuele
 ---
 -
 0.65676236
@@ -359,7 +357,9 @@ Gori
              
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
 __________________
-E-mail a Gori Emanuele
+
+          E-mail a Gori Emanuele✕
+         
 ---
 -
 0.65676236
@@ -652,7 +652,7 @@ Via Becherini Giuseppe Prato
  59100 Prato (PO)
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
-Prato 
+Prato
 ---
 -
 0.44254297
@@ -663,7 +663,7 @@ Via Becherini Giuseppe Prato
  59100 Prato (PO)
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
-Prato
+Prato 
 ---
 -
 0.44254297
@@ -744,21 +744,6 @@ Via Becherini Giuseppe Prato
  Via Becherini Giuseppe, 113
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
 __________________
-VIA AUGUSTO BORGIOLI, 12559100  Prato
----
--
-0.31707925
-Via Becherini Giuseppe Prato
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
--
-0.15038006
- 59100 Prato (PO)
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
--
-0.14242436
- Via Becherini Giuseppe, 113
-//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
-__________________
 VIA RUGGERO LEONCAVALLO 959100  Prato
 ---
 -
@@ -774,7 +759,22 @@ Via Becherini Giuseppe Prato
  Via Becherini Giuseppe, 113
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
 __________________
-Agenti di commercio Prato
+VIA AUGUSTO BORGIOLI, 12559100  Prato
+---
+-
+0.31707925
+Via Becherini Giuseppe Prato
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.15038006
+ 59100 Prato (PO)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+-
+0.14242436
+ Via Becherini Giuseppe, 113
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
+__________________
+Agenti di commercio in Prato
 ---
 -
 0.19285813
@@ -785,7 +785,7 @@ Via Becherini Giuseppe Prato
  59100 Prato (PO)
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
-Agenti di commercio in Prato
+Agenti di commercio Prato
 ---
 -
 0.19285813
@@ -862,7 +862,7 @@ Via Becherini Giuseppe Prato
  Via Becherini Giuseppe, 113
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
 __________________
-V. P. MASCAGNI. 7459100  Prato
+V. M. CLEMENTI. 1359100  Prato
 ---
 -
 0.14334705
@@ -873,7 +873,7 @@ Via Becherini Giuseppe Prato
  59100 Prato (PO)
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
-V. M. CLEMENTI. 1359100  Prato
+V. P. MASCAGNI. 7459100  Prato
 ---
 -
 0.14334705

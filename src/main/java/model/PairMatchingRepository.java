@@ -48,6 +48,8 @@ public class PairMatchingRepository {
 		return this.matchings2vote.keySet();
 	}
 	
+	/*dato un xpath appartenente a una delle coppie del repository (specificando se si trova a "sinistra"
+	 * (primo elemento della coppia) o a "destra" (secondo elemento della coppia)*/
 	public List<PairMatching> getPairsWith(Xpath xpath, boolean isElementAtRight) {
 		List<PairMatching> pairsWithXpath = new ArrayList<>();
 		Iterator<PairMatching> matchingsIt = this.matchings2vote.keySet().iterator();

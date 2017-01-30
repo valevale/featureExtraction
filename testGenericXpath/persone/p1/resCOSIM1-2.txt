@@ -1,100 +1,3 @@
-Dragoni Luciano Tvc Hi Fi
----
--
-1.0
-Dragoni Luciano Tvc Hi-Fi
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]/i[1]
--
-1.0
-Dragoni Luciano Tvc Hi-Fi
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
--
-1.0
-Dragoni Luciano Tvc Hi-Fi
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
--
-1.0
-Dragoni Luciano Tvc Hi-Fi
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
--
-0.9276008
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.9276008
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
--
-0.9276008
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.9276008
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.9276008
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.9276008
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
--
-0.9276008
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.7374329
-
-          E-mail a Dragoni Luciano Tvc Hi-Fi✕
-         
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
--
-0.7374329
-E-mail a Dragoni Luciano Tvc Hi-Fi
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
--
-0.7323307
-Recensioni Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
--
-0.6900256
- Più informazioni su Dragoni Luciano Tvc Hi-Fi
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
--
-0.6648321
-Descrizione Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
--
-0.6648321
-Galleria Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
--
-0.59339446
-Siti sociali Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
--
-0.5807634
-Ricerche simili Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
--
-0.55897456
- 
-     Dragoni Luciano Tvc Hi-Fi è iscritta nelle categorie:
-    
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]
--
-0.52219146
-Aziende simili nelle vicinanze Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
--
-0.50618196
-
-     Scrivi tu la prima recensione per Dragoni Luciano Tvc Hi-Fi!
-    
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
-__________________
 Agenti E Rappresentanti Di Commercio a Prato
 ---
 -
@@ -115,22 +18,6 @@ Agenti di commercio
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/ol[1]/li[2]/a[1]/span[1]
 -
 0.2833933
-Prato 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.2833933
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.2833933
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.2833933
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.2833933
 Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
@@ -140,11 +27,39 @@ Prato
 -
 0.2833933
 Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.2833933
+Prato 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.2833933
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.2833933
+Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.2833933
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.102696285
 Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.102696285
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.102696285
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.102696285
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
 -
 0.102696285
 Dragoni Luciano Tvc Hi-Fi, Prato
@@ -153,18 +68,6 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 0.102696285
 Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.102696285
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.102696285
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.102696285
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
 -
 0.102696285
 Dragoni Luciano Tvc Hi-Fi, Prato
@@ -222,22 +125,6 @@ Prato
 ---
 -
 1.0
-Prato 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-1.0
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-1.0
 Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
@@ -247,11 +134,39 @@ Prato
 -
 1.0
 Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.36238077
 Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.36238077
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.36238077
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.36238077
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
 -
 0.36238077
 Dragoni Luciano Tvc Hi-Fi, Prato
@@ -260,18 +175,6 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 0.36238077
 Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.36238077
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.36238077
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.36238077
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
 -
 0.36238077
 Dragoni Luciano Tvc Hi-Fi, Prato
@@ -337,124 +240,134 @@ Via Dell'angiolo 2/459100  Prato
 Aziende simili nelle vicinanze Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
 __________________
-Prato
+Dragoni Luciano Tvc Hi Fi - Prato 
 ---
 -
 1.0
-Prato 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-1.0
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.36238077
 Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
 -
-0.36238077
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
--
-0.36238077
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.36238077
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.36238077
+1.0
 Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
 -
-0.36238077
+1.0
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+1.0
 Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
 -
-0.36238077
+1.0
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+1.0
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+1.0
 Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
 -
-0.33694345
-Agenti di commercio Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+0.92968214
+Dragoni Luciano Tvc Hi-Fi
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]/i[1]
 -
-0.29251674
-Shopping e acquisti Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+0.92968214
+Dragoni Luciano Tvc Hi-Fi
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
 -
-0.28760928
+0.92968214
+Dragoni Luciano Tvc Hi-Fi
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.92968214
+Dragoni Luciano Tvc Hi-Fi
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.7888219
 Recensioni Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
 -
-0.27303517
-P. CIARDI. 3359100  Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]
--
-0.26582572
-Agenti E Rappresentanti di commercio in Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a[1]
--
-0.26150435
+0.71594054
 Descrizione Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
 -
-0.26150435
+0.71594054
 Galleria Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
 -
-0.25752255
-P. CIARDI. 2259100  Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[2]/span[1]
+0.6855782
+
+          E-mail a Dragoni Luciano Tvc Hi-Fi✕
+         
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
 -
-0.25022697
-VIA DEL SERRAGLIO, 9059100  Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]
+0.6855782
+E-mail a Dragoni Luciano Tvc Hi-Fi
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
 -
-0.23375031
+0.6415045
+ Più informazioni su Dragoni Luciano Tvc Hi-Fi
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.63886166
 Siti sociali Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
 -
-0.23127912
-13, V. BISENZIO59100  Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]
--
-0.22883056
+0.62523854
 Ricerche simili Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
 -
-0.22251399
-PIAZZA GIOVANNI CIARDI 3359100  Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]
--
-0.21231587
-Via Dell'angiolo 2/459100  Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]
--
-0.20597154
+0.56208664
 Aziende simili nelle vicinanze Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.5196687
+ 
+     Dragoni Luciano Tvc Hi-Fi è iscritta nelle categorie:
+    
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]
+-
+0.47058833
+
+     Scrivi tu la prima recensione per Dragoni Luciano Tvc Hi-Fi!
+    
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+-
+0.36836272
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.36836272
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+0.36836272
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.36836272
+Prato 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.36836272
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.36836272
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.36836272
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.12411741
+Agenti di commercio Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
 __________________
 59100
 ---
@@ -465,19 +378,19 @@ __________________
 -
 1.0
 59100
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
--
-1.0
-59100
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
--
-1.0
-59100
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
 -
 1.0
 59100
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+59100
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+59100
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
 -
 1.0
 59100
@@ -487,24 +400,105 @@ __________________
 59100
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[2]
 __________________
-Prato
+Dragoni Luciano Tvc Hi Fi
 ---
 -
 1.0
-Prato 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+Dragoni Luciano Tvc Hi-Fi
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]/i[1]
 -
 1.0
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+Dragoni Luciano Tvc Hi-Fi
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
 -
 1.0
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+Dragoni Luciano Tvc Hi-Fi
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
 -
 1.0
+Dragoni Luciano Tvc Hi-Fi
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+-
+0.9276008
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.9276008
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.9276008
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.9276008
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.9276008
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.9276008
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.9276008
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.7374329
+
+          E-mail a Dragoni Luciano Tvc Hi-Fi✕
+         
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
+-
+0.7374329
+E-mail a Dragoni Luciano Tvc Hi-Fi
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
+-
+0.7323307
+Recensioni Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.6900256
+ Più informazioni su Dragoni Luciano Tvc Hi-Fi
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
+-
+0.6648321
+Descrizione Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.6648321
+Galleria Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.59339446
+Siti sociali Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.5807634
+Ricerche simili Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.55897456
+ 
+     Dragoni Luciano Tvc Hi-Fi è iscritta nelle categorie:
+    
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]
+-
+0.52219146
+Aziende simili nelle vicinanze Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.50618196
+
+     Scrivi tu la prima recensione per Dragoni Luciano Tvc Hi-Fi!
+    
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
+__________________
 Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+---
 -
 1.0
 Prato
@@ -516,11 +510,39 @@ Prato
 -
 1.0
 Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.36238077
 Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.36238077
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.36238077
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.36238077
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
 -
 0.36238077
 Dragoni Luciano Tvc Hi-Fi, Prato
@@ -529,18 +551,6 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 0.36238077
 Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.36238077
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.36238077
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.36238077
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
 -
 0.36238077
 Dragoni Luciano Tvc Hi-Fi, Prato
@@ -625,134 +635,124 @@ Agenti di commercio
 Agenti di commercio Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
 __________________
-Dragoni Luciano Tvc Hi Fi - Prato 
+Prato
 ---
 -
 1.0
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-1.0
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
--
-1.0
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-1.0
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-1.0
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-1.0
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
--
-1.0
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.92968214
-Dragoni Luciano Tvc Hi-Fi
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]/i[1]
--
-0.92968214
-Dragoni Luciano Tvc Hi-Fi
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
--
-0.92968214
-Dragoni Luciano Tvc Hi-Fi
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
--
-0.92968214
-Dragoni Luciano Tvc Hi-Fi
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
--
-0.7888219
-Recensioni Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
--
-0.71594054
-Descrizione Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
--
-0.71594054
-Galleria Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
--
-0.6855782
-
-          E-mail a Dragoni Luciano Tvc Hi-Fi✕
-         
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]
--
-0.6855782
-E-mail a Dragoni Luciano Tvc Hi-Fi
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]
--
-0.6415045
- Più informazioni su Dragoni Luciano Tvc Hi-Fi
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[7]/a[1]
--
-0.63886166
-Siti sociali Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
--
-0.62523854
-Ricerche simili Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
--
-0.56208664
-Aziende simili nelle vicinanze Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
--
-0.5196687
- 
-     Dragoni Luciano Tvc Hi-Fi è iscritta nelle categorie:
-    
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]
--
-0.47058833
-
-     Scrivi tu la prima recensione per Dragoni Luciano Tvc Hi-Fi!
-    
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
--
-0.36836272
-Prato 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.36836272
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.36836272
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.36836272
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.36836272
 Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
-0.36836272
+1.0
 Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
 -
-0.36836272
+1.0
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Prato 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
 Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
 -
-0.12411741
+1.0
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+0.36238077
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.36238077
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.36238077
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.36238077
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.36238077
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.36238077
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.36238077
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.33694345
 Agenti di commercio Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.29251674
+Shopping e acquisti Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.28760928
+Recensioni Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.27303517
+P. CIARDI. 3359100  Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.26582572
+Agenti E Rappresentanti di commercio in Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/ul[1]/li[1]/a[1]
+-
+0.26150435
+Descrizione Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.26150435
+Galleria Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.25752255
+P. CIARDI. 2259100  Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[2]/span[1]
+-
+0.25022697
+VIA DEL SERRAGLIO, 9059100  Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.23375031
+Siti sociali Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]
+-
+0.23127912
+13, V. BISENZIO59100  Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.22883056
+Ricerche simili Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]
+-
+0.22251399
+PIAZZA GIOVANNI CIARDI 3359100  Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]
+-
+0.21231587
+Via Dell'angiolo 2/459100  Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]
+-
+0.20597154
+Aziende simili nelle vicinanze Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
 __________________
 
      Scrivi la tua recensione per Dragoni Luciano Tvc Hi Fi - Prato:
@@ -777,11 +777,7 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 -
 0.66595566
 Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
--
-0.66595566
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
 -
 0.66595566
 Dragoni Luciano Tvc Hi-Fi, Prato
@@ -789,11 +785,15 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 -
 0.66595566
 Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
 -
 0.66595566
 Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.66595566
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
 0.66595566
 Dragoni Luciano Tvc Hi-Fi, Prato
@@ -809,11 +809,11 @@ Dragoni Luciano Tvc Hi-Fi
 -
 0.61912704
 Dragoni Luciano Tvc Hi-Fi
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
 -
 0.61912704
 Dragoni Luciano Tvc Hi-Fi
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
 -
 0.47678465
 Descrizione Dragoni Luciano Tvc Hi-Fi, Prato
@@ -856,22 +856,6 @@ Aziende simili nelle vicinanze Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[5]
 -
 0.24531324
-Prato 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.24531324
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.24531324
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.24531324
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.24531324
 Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
@@ -881,7 +865,23 @@ Prato
 -
 0.24531324
 Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.24531324
+Prato 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.24531324
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.24531324
+Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.24531324
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.23754038
 
@@ -936,19 +936,19 @@ VIA DEL SERRAGLIO, 90
 -
 0.30746895
 59100
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
--
-0.30746895
-59100
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
--
-0.30746895
-59100
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
 -
 0.30746895
 59100
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+0.30746895
+59100
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+0.30746895
+59100
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
 -
 0.30746895
 59100
@@ -957,22 +957,6 @@ VIA DEL SERRAGLIO, 90
 0.30746895
 59100
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[2]
--
-0.18746221
-Prato 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.18746221
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.18746221
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.18746221
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
 -
 0.18746221
 Prato
@@ -984,7 +968,23 @@ Prato
 -
 0.18746221
 Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.18746221
+Prato 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.18746221
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.18746221
+Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.18746221
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.16705328
 Via Dell'angiolo 2/459100  Prato
@@ -1000,11 +1000,7 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 -
 0.067932695
 Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
--
-0.067932695
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
 -
 0.067932695
 Dragoni Luciano Tvc Hi-Fi, Prato
@@ -1012,11 +1008,15 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 -
 0.067932695
 Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
 -
 0.067932695
 Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.067932695
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
 0.067932695
 Dragoni Luciano Tvc Hi-Fi, Prato
@@ -1047,22 +1047,6 @@ __________________
 ---
 -
 0.6027982
-Prato 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.6027982
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.6027982
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.6027982
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.6027982
 Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
@@ -1072,11 +1056,39 @@ Prato
 -
 0.6027982
 Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.6027982
+Prato 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.6027982
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.6027982
+Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.6027982
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.21844247
 Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.21844247
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.21844247
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.21844247
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
 -
 0.21844247
 Dragoni Luciano Tvc Hi-Fi, Prato
@@ -1085,18 +1097,6 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 0.21844247
 Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.21844247
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.21844247
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.21844247
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
 -
 0.21844247
 Dragoni Luciano Tvc Hi-Fi, Prato
@@ -1254,6 +1254,18 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 -
 0.41120845
 Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.41120845
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.41120845
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+-
+0.41120845
+Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
 -
 0.41120845
@@ -1262,35 +1274,7 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 -
 0.41120845
 Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.41120845
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.41120845
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
--
-0.41120845
-Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.40783274
-Prato 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.40783274
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.40783274
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.40783274
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
 -
 0.40783274
 Prato
@@ -1302,7 +1286,23 @@ Prato
 -
 0.40783274
 Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.40783274
+Prato 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.40783274
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.40783274
+Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.40783274
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.37557912
 Recensioni Dragoni Luciano Tvc Hi-Fi, Prato
@@ -1314,19 +1314,19 @@ Recensioni Dragoni Luciano Tvc Hi-Fi, Prato
 -
 0.36486167
 59100
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
--
-0.36486167
-59100
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
--
-0.36486167
-59100
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
 -
 0.36486167
 59100
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+0.36486167
+59100
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+0.36486167
+59100
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
 -
 0.36486167
 59100
@@ -1381,19 +1381,19 @@ __________________
 -
 0.23453453
 59100
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
--
-0.23453453
-59100
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
--
-0.23453453
-59100
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
 -
 0.23453453
 59100
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+0.23453453
+59100
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+0.23453453
+59100
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
 -
 0.23453453
 59100
@@ -1408,22 +1408,6 @@ VIA DEL SERRAGLIO, 9059100  Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]
 -
 0.14299448
-Prato 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.14299448
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.14299448
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.14299448
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.14299448
 Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
@@ -1433,7 +1417,23 @@ Prato
 -
 0.14299448
 Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.14299448
+Prato 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.14299448
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.14299448
+Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.14299448
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.12742674
 Via Dell'angiolo 2/459100  Prato
@@ -1457,11 +1457,7 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 -
 0.05181845
 Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
--
-0.05181845
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
 -
 0.05181845
 Dragoni Luciano Tvc Hi-Fi, Prato
@@ -1469,11 +1465,15 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 -
 0.05181845
 Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
 -
 0.05181845
 Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.05181845
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
 0.05181845
 Dragoni Luciano Tvc Hi-Fi, Prato
@@ -1508,19 +1508,19 @@ __________________
 -
 0.23146088
 59100
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
--
-0.23146088
-59100
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
--
-0.23146088
-59100
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
 -
 0.23146088
 59100
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+0.23146088
+59100
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+0.23146088
+59100
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
 -
 0.23146088
 59100
@@ -1539,22 +1539,6 @@ PIAZZA GIOVANNI CIARDI 33
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[1]
 -
 0.1411205
-Prato 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.1411205
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.1411205
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.1411205
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.1411205
 Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
@@ -1564,11 +1548,39 @@ Prato
 -
 0.1411205
 Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.1411205
+Prato 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.1411205
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.1411205
+Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.1411205
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.05113935
 Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.05113935
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.05113935
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.05113935
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
 -
 0.05113935
 Dragoni Luciano Tvc Hi-Fi, Prato
@@ -1577,18 +1589,6 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 0.05113935
 Dragoni Luciano Tvc Hi-Fi, Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.05113935
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.05113935
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.05113935
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
 -
 0.05113935
 Dragoni Luciano Tvc Hi-Fi, Prato
@@ -1635,19 +1635,19 @@ __________________
 -
 0.21106265
 59100
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
--
-0.21106265
-59100
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
--
-0.21106265
-59100
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
 -
 0.21106265
 59100
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+0.21106265
+59100
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+0.21106265
+59100
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
 -
 0.21106265
 59100
@@ -1666,22 +1666,6 @@ VIA DEL SERRAGLIO, 9059100  Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]
 -
 0.12868379
-Prato 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.12868379
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.12868379
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.12868379
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.12868379
 Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
@@ -1691,7 +1675,23 @@ Prato
 -
 0.12868379
 Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.12868379
+Prato 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.12868379
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.12868379
+Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.12868379
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.114674054
 Via Dell'angiolo 2/459100  Prato
@@ -1728,11 +1728,7 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 -
 0.046632532
 Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
--
-0.046632532
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
 -
 0.046632532
 Dragoni Luciano Tvc Hi-Fi, Prato
@@ -1740,11 +1736,15 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 -
 0.046632532
 Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
 -
 0.046632532
 Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.046632532
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
 0.046632532
 Dragoni Luciano Tvc Hi-Fi, Prato
@@ -1771,19 +1771,19 @@ __________________
 -
 0.20676889
 59100
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
--
-0.20676889
-59100
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
--
-0.20676889
-59100
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
 -
 0.20676889
 59100
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+0.20676889
+59100
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+0.20676889
+59100
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
 -
 0.20676889
 59100
@@ -1798,22 +1798,6 @@ VIA DEL SERRAGLIO, 9059100  Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]
 -
 0.12606591
-Prato 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.12606591
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.12606591
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.12606591
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.12606591
 Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
@@ -1823,7 +1807,23 @@ Prato
 -
 0.12606591
 Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.12606591
+Prato 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.12606591
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.12606591
+Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.12606591
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.11234117
 Via Dell'angiolo 2/459100  Prato
@@ -1847,11 +1847,7 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 -
 0.04568386
 Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
--
-0.04568386
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
 -
 0.04568386
 Dragoni Luciano Tvc Hi-Fi, Prato
@@ -1859,11 +1855,15 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 -
 0.04568386
 Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
 -
 0.04568386
 Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.04568386
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
 0.04568386
 Dragoni Luciano Tvc Hi-Fi, Prato
@@ -1918,19 +1918,19 @@ __________________
 -
 0.19978786
 59100
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
--
-0.19978786
-59100
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
--
-0.19978786
-59100
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
 -
 0.19978786
 59100
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+0.19978786
+59100
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+0.19978786
+59100
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
 -
 0.19978786
 59100
@@ -1949,22 +1949,6 @@ VIA DEL SERRAGLIO, 9059100  Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]
 -
 0.121809624
-Prato 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-0.121809624
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-0.121809624
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-0.121809624
-Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-0.121809624
 Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
@@ -1974,7 +1958,23 @@ Prato
 -
 0.121809624
 Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+0.121809624
+Prato 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+0.121809624
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.121809624
+Prato
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.121809624
+Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.108548254
 Via Dell'angiolo 2/459100  Prato
@@ -2011,11 +2011,7 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 -
 0.044141464
 Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
--
-0.044141464
-Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
 -
 0.044141464
 Dragoni Luciano Tvc Hi-Fi, Prato
@@ -2023,11 +2019,15 @@ Dragoni Luciano Tvc Hi-Fi, Prato
 -
 0.044141464
 Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
 -
 0.044141464
 Dragoni Luciano Tvc Hi-Fi, Prato
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[11]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.044141464
+Dragoni Luciano Tvc Hi-Fi, Prato
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
 0.044141464
 Dragoni Luciano Tvc Hi-Fi, Prato

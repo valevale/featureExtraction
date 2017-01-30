@@ -7,15 +7,7 @@
 -
 1.0
 59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 1.0
 59100
@@ -23,11 +15,19 @@
 -
 1.0
 59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 1.0
 59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
 -
 0.3604886
 
@@ -110,23 +110,7 @@ Prato
 -
 1.0
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 1.0
 Prato
@@ -134,7 +118,11 @@ Prato
 -
 1.0
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 1.0
 Prato
@@ -149,6 +137,18 @@ Prato
 1.0
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.43000787
 
@@ -165,12 +165,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.2813638
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.2813638
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.2813638
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.26987544
 
@@ -264,38 +264,74 @@ Agenzie e uffici commerciali Prato
 Agenti affari in mediazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
 __________________
-59100
+Prato
 ---
 -
 1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
 -
 1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
 -
-0.3604886
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.43000787
+
+          Prato (PO)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.34606683
+Rappresentanti di commercio a Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.29848742
+Consulenza fiscale Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.2813638
+Importazione esportazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.2813638
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.26987544
 
             Via Altopascio, 31 - 
             59100 
@@ -303,15 +339,11 @@ __________________
            
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]
 -
-0.33686596
-
-            Via S. Vincenzo, 45 - 
-            59100 
-            Prato
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+0.26841983
+Dragoni Luciano Tvc Hi-fi - Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
-0.1685821
+0.2532053
 
        Dragoni Luciano Tvc Hi-fi
        
@@ -370,47 +402,16 @@ __________________
        
       
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
-__________________
-59100
----
 -
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+0.25292447
+Consulenza finanziaria e commerciale Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[2]/a[1]
 -
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+0.25292447
+Agenzie e uffici commerciali Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[2]/a[1]
 -
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.3604886
-
-            Via Altopascio, 31 - 
-            59100 
-            Prato
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.33686596
+0.25227883
 
             Via S. Vincenzo, 45 - 
             59100 
@@ -418,302 +419,16 @@ __________________
            
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
 -
-0.1685821
-
-       Dragoni Luciano Tvc Hi-fi
-       
-        
-         
-          
-         
-         
-          Via S. Vincenzo, 30
-         
-         
-          
-         
-         
-          59100
-         
-         
-          
-         
-         
-          Prato (PO)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0574 27097
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Rappresentanti di commercio a Prato
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
-__________________
-59100
----
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.3604886
-
-            Via Altopascio, 31 - 
-            59100 
-            Prato
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.33686596
-
-            Via S. Vincenzo, 45 - 
-            59100 
-            Prato
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.1685821
-
-       Dragoni Luciano Tvc Hi-fi
-       
-        
-         
-          
-         
-         
-          Via S. Vincenzo, 30
-         
-         
-          
-         
-         
-          59100
-         
-         
-          
-         
-         
-          Prato (PO)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0574 27097
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Rappresentanti di commercio a Prato
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
-__________________
-59100
----
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.3604886
-
-            Via Altopascio, 31 - 
-            59100 
-            Prato
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.33686596
-
-            Via S. Vincenzo, 45 - 
-            59100 
-            Prato
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.1685821
-
-       Dragoni Luciano Tvc Hi-fi
-       
-        
-         
-          
-         
-         
-          Via S. Vincenzo, 30
-         
-         
-          
-         
-         
-          59100
-         
-         
-          
-         
-         
-          Prato (PO)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0574 27097
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Rappresentanti di commercio a Prato
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+0.23282509
+Agenti affari in mediazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
 __________________
 Prato 
 ---
 -
 1.0
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 1.0
 Prato
@@ -721,7 +436,11 @@ Prato
 -
 1.0
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 1.0
 Prato
@@ -736,6 +455,18 @@ Prato
 1.0
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.43000787
 
@@ -752,12 +483,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.2813638
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.2813638
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.2813638
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.26987544
 
@@ -856,23 +587,7 @@ Prato
 -
 1.0
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 1.0
 Prato
@@ -880,7 +595,11 @@ Prato
 -
 1.0
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 1.0
 Prato
@@ -895,6 +614,18 @@ Prato
 1.0
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.43000787
 
@@ -911,12 +642,865 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.2813638
+Importazione esportazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.2813638
 Categorie correlate a Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.26987544
+
+            Via Altopascio, 31 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.26841983
+Dragoni Luciano Tvc Hi-fi - Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.2532053
+
+       Dragoni Luciano Tvc Hi-fi
+       
+        
+         
+          
+         
+         
+          Via S. Vincenzo, 30
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 27097
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.25292447
+Consulenza finanziaria e commerciale Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.25292447
+Agenzie e uffici commerciali Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[2]/a[1]
+-
+0.25227883
+
+            Via S. Vincenzo, 45 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.23282509
+Agenti affari in mediazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
+__________________
+59100
+---
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+0.3604886
+
+            Via Altopascio, 31 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.33686596
+
+            Via S. Vincenzo, 45 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.1685821
+
+       Dragoni Luciano Tvc Hi-fi
+       
+        
+         
+          
+         
+         
+          Via S. Vincenzo, 30
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 27097
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+59100
+---
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+0.3604886
+
+            Via Altopascio, 31 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.33686596
+
+            Via S. Vincenzo, 45 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.1685821
+
+       Dragoni Luciano Tvc Hi-fi
+       
+        
+         
+          
+         
+         
+          Via S. Vincenzo, 30
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 27097
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+59100
+---
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+0.3604886
+
+            Via Altopascio, 31 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.33686596
+
+            Via S. Vincenzo, 45 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.1685821
+
+       Dragoni Luciano Tvc Hi-fi
+       
+        
+         
+          
+         
+         
+          Via S. Vincenzo, 30
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 27097
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+Prato
+---
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.43000787
+
+          Prato (PO)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.34606683
+Rappresentanti di commercio a Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.29848742
+Consulenza fiscale Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.2813638
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.2813638
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.26987544
+
+            Via Altopascio, 31 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.26841983
+Dragoni Luciano Tvc Hi-fi - Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.2532053
+
+       Dragoni Luciano Tvc Hi-fi
+       
+        
+         
+          
+         
+         
+          Via S. Vincenzo, 30
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 27097
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.25292447
+Consulenza finanziaria e commerciale Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.25292447
+Agenzie e uffici commerciali Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[2]/a[1]
+-
+0.25227883
+
+            Via S. Vincenzo, 45 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.23282509
+Agenti affari in mediazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
+__________________
+59100
+---
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+0.3604886
+
+            Via Altopascio, 31 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.33686596
+
+            Via S. Vincenzo, 45 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.1685821
+
+       Dragoni Luciano Tvc Hi-fi
+       
+        
+         
+          
+         
+         
+          Via S. Vincenzo, 30
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 27097
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+59100
+---
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+0.3604886
+
+            Via Altopascio, 31 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.33686596
+
+            Via S. Vincenzo, 45 - 
+            59100 
+            Prato
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.1685821
+
+       Dragoni Luciano Tvc Hi-fi
+       
+        
+         
+          
+         
+         
+          Via S. Vincenzo, 30
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 27097
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+Prato
+---
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.43000787
+
+          Prato (PO)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.34606683
+Rappresentanti di commercio a Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.29848742
+Consulenza fiscale Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.2813638
+Importazione esportazione Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.2813638
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.26987544
 
@@ -1079,165 +1663,6 @@ __________________
       
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 __________________
-Prato
----
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-
-        Prato
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
--
-0.43000787
-
-          Prato (PO)
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
--
-0.34606683
-Rappresentanti di commercio a Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
--
-0.29848742
-Consulenza fiscale Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.2813638
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.2813638
-Importazione esportazione Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
--
-0.26987544
-
-            Via Altopascio, 31 - 
-            59100 
-            Prato
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.26841983
-Dragoni Luciano Tvc Hi-fi - Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
--
-0.2532053
-
-       Dragoni Luciano Tvc Hi-fi
-       
-        
-         
-          
-         
-         
-          Via S. Vincenzo, 30
-         
-         
-          
-         
-         
-          59100
-         
-         
-          
-         
-         
-          Prato (PO)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0574 27097
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Rappresentanti di commercio a Prato
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
--
-0.25292447
-Consulenza finanziaria e commerciale Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[2]/a[1]
--
-0.25292447
-Agenzie e uffici commerciali Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[2]/a[1]
--
-0.25227883
-
-            Via S. Vincenzo, 45 - 
-            59100 
-            Prato
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.23282509
-Agenti affari in mediazione Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
-__________________
 59100
 ---
 -
@@ -1247,15 +1672,7 @@ __________________
 -
 1.0
 59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 1.0
 59100
@@ -1263,11 +1680,19 @@ __________________
 -
 1.0
 59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 1.0
 59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
 -
 0.3604886
 
@@ -1350,23 +1775,7 @@ Prato
 -
 1.0
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 1.0
 Prato
@@ -1374,7 +1783,11 @@ Prato
 -
 1.0
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 1.0
 Prato
@@ -1389,6 +1802,18 @@ Prato
 1.0
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.43000787
 
@@ -1405,437 +1830,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.2813638
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.2813638
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
--
-0.26987544
-
-            Via Altopascio, 31 - 
-            59100 
-            Prato
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.26841983
-Dragoni Luciano Tvc Hi-fi - Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
--
-0.2532053
-
-       Dragoni Luciano Tvc Hi-fi
-       
-        
-         
-          
-         
-         
-          Via S. Vincenzo, 30
-         
-         
-          
-         
-         
-          59100
-         
-         
-          
-         
-         
-          Prato (PO)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0574 27097
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Rappresentanti di commercio a Prato
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
--
-0.25292447
-Consulenza finanziaria e commerciale Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[2]/a[1]
--
-0.25292447
-Agenzie e uffici commerciali Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[2]/a[1]
--
-0.25227883
-
-            Via S. Vincenzo, 45 - 
-            59100 
-            Prato
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.23282509
-Agenti affari in mediazione Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
-__________________
-59100
----
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.3604886
-
-            Via Altopascio, 31 - 
-            59100 
-            Prato
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.33686596
-
-            Via S. Vincenzo, 45 - 
-            59100 
-            Prato
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.1685821
-
-       Dragoni Luciano Tvc Hi-fi
-       
-        
-         
-          
-         
-         
-          Via S. Vincenzo, 30
-         
-         
-          
-         
-         
-          59100
-         
-         
-          
-         
-         
-          Prato (PO)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0574 27097
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Rappresentanti di commercio a Prato
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
-__________________
-Prato
----
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-
-        Prato
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
--
-0.43000787
-
-          Prato (PO)
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
--
-0.34606683
-Rappresentanti di commercio a Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
--
-0.29848742
-Consulenza fiscale Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.2813638
 Categorie correlate a Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.2813638
-Importazione esportazione Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
--
-0.26987544
-
-            Via Altopascio, 31 - 
-            59100 
-            Prato
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.26841983
-Dragoni Luciano Tvc Hi-fi - Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
--
-0.2532053
-
-       Dragoni Luciano Tvc Hi-fi
-       
-        
-         
-          
-         
-         
-          Via S. Vincenzo, 30
-         
-         
-          
-         
-         
-          59100
-         
-         
-          
-         
-         
-          Prato (PO)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0574 27097
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Rappresentanti di commercio a Prato
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
--
-0.25292447
-Consulenza finanziaria e commerciale Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[2]/a[1]
--
-0.25292447
-Agenzie e uffici commerciali Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[2]/a[1]
--
-0.25227883
-
-            Via S. Vincenzo, 45 - 
-            59100 
-            Prato
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.23282509
-Agenti affari in mediazione Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
-__________________
-Prato
----
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-
-        Prato
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
--
-1.0
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
--
-0.43000787
-
-          Prato (PO)
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
--
-0.34606683
-Rappresentanti di commercio a Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
--
-0.29848742
-Consulenza fiscale Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.2813638
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.2813638
-Importazione esportazione Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
 -
 0.26987544
 
@@ -2014,23 +2014,7 @@ Risultati di ricerca per Dragoni Luciano Tvc Hi-fi
 -
 0.2796215
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.2796215
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.2796215
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.2796215
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.2796215
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.2796215
 Prato
@@ -2038,7 +2022,11 @@ Prato
 -
 0.2796215
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.2796215
 Prato
@@ -2053,6 +2041,18 @@ Prato
 0.2796215
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.120239444
 
@@ -2069,12 +2069,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.07867537
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.07867537
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.07867537
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.07546297
 
@@ -2189,23 +2189,7 @@ Risultati di ricerca per Dragoni Luciano Tvc Hi-fi
 -
 0.2796215
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.2796215
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.2796215
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.2796215
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.2796215
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.2796215
 Prato
@@ -2213,7 +2197,11 @@ Prato
 -
 0.2796215
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.2796215
 Prato
@@ -2228,6 +2216,18 @@ Prato
 0.2796215
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.120239444
 
@@ -2244,12 +2244,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.07867537
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.07867537
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.07867537
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.07546297
 
@@ -2364,23 +2364,7 @@ Risultati di ricerca per Dragoni Luciano Tvc Hi-fi
 -
 0.2796215
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.2796215
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.2796215
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.2796215
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.2796215
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.2796215
 Prato
@@ -2388,7 +2372,11 @@ Prato
 -
 0.2796215
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.2796215
 Prato
@@ -2403,6 +2391,18 @@ Prato
 0.2796215
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.120239444
 
@@ -2419,12 +2419,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.07867537
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.07867537
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.07867537
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.07546297
 
@@ -2539,23 +2539,7 @@ Risultati di ricerca per Dragoni Luciano Tvc Hi-fi
 -
 0.2796215
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.2796215
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.2796215
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.2796215
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.2796215
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.2796215
 Prato
@@ -2563,7 +2547,11 @@ Prato
 -
 0.2796215
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.2796215
 Prato
@@ -2578,6 +2566,18 @@ Prato
 0.2796215
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.120239444
 
@@ -2594,12 +2594,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.07867537
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.07867537
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.07867537
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.07546297
 
@@ -2714,23 +2714,7 @@ Risultati di ricerca per Dragoni Luciano Tvc Hi-fi
 -
 0.2796215
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.2796215
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.2796215
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.2796215
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.2796215
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.2796215
 Prato
@@ -2738,7 +2722,11 @@ Prato
 -
 0.2796215
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.2796215
 Prato
@@ -2753,6 +2741,18 @@ Prato
 0.2796215
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.120239444
 
@@ -2769,12 +2769,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.07867537
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.07867537
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.07867537
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.07546297
 
@@ -2889,23 +2889,7 @@ Risultati di ricerca per Dragoni Luciano Tvc Hi-fi
 -
 0.2796215
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.2796215
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.2796215
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.2796215
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.2796215
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.2796215
 Prato
@@ -2913,7 +2897,11 @@ Prato
 -
 0.2796215
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.2796215
 Prato
@@ -2928,6 +2916,18 @@ Prato
 0.2796215
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.120239444
 
@@ -2944,12 +2944,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.07867537
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.07867537
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.07867537
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.07546297
 
@@ -3064,23 +3064,7 @@ Risultati di ricerca per Dragoni Luciano Tvc Hi-fi
 -
 0.2796215
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.2796215
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.2796215
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.2796215
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.2796215
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.2796215
 Prato
@@ -3088,7 +3072,11 @@ Prato
 -
 0.2796215
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.2796215
 Prato
@@ -3103,6 +3091,18 @@ Prato
 0.2796215
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.2796215
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.120239444
 
@@ -3119,12 +3119,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.07867537
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.07867537
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.07867537
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.07546297
 
@@ -3656,23 +3656,7 @@ Risultati di ricerca per Dragoni Luciano Tvc Hi-fi
 -
 0.24113692
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.24113692
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.24113692
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.24113692
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.24113692
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.24113692
 Prato
@@ -3680,7 +3664,11 @@ Prato
 -
 0.24113692
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.24113692
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.24113692
 Prato
@@ -3695,6 +3683,18 @@ Prato
 0.24113692
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.24113692
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.24113692
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.24113692
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.10369077
 
@@ -3711,12 +3711,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.0678472
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.0678472
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.0678472
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.065076925
 
@@ -3831,23 +3831,7 @@ Risultati di ricerca per Dragoni Luciano Tvc Hi-fi
 -
 0.23183496
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.23183496
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.23183496
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.23183496
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.23183496
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.23183496
 Prato
@@ -3855,7 +3839,11 @@ Prato
 -
 0.23183496
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.23183496
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.23183496
 Prato
@@ -3870,6 +3858,18 @@ Prato
 0.23183496
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.23183496
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.23183496
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.23183496
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.09969086
 
@@ -3886,12 +3886,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.06522997
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.06522997
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.06522997
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.06256656
 
@@ -4006,23 +4006,7 @@ Risultati di ricerca per Dragoni Luciano Tvc Hi-fi
 -
 0.23183496
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.23183496
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.23183496
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.23183496
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.23183496
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.23183496
 Prato
@@ -4030,7 +4014,11 @@ Prato
 -
 0.23183496
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.23183496
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.23183496
 Prato
@@ -4045,6 +4033,18 @@ Prato
 0.23183496
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.23183496
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.23183496
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.23183496
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.09969086
 
@@ -4061,12 +4061,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.06522997
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.06522997
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.06522997
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.06256656
 
@@ -4095,89 +4095,6 @@ Agenzie e uffici commerciali Prato
 0.053976998
 Agenti affari in mediazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
-__________________
-E-mail a Dragoni Luciano Tvc Hi-Fi
----
--
-0.8181319
-Dragoni Luciano Tvc Hi-fi
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.8181319
-Dragoni Luciano Tvc Hi-fi
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
--
-0.7853947
-Dragoni Luciano Tvc Hi-fi - Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
--
-0.5856618
-Scrivi la tua recensione di Dragoni Luciano Tvc Hi-fi
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.5856618
-Risultati di ricerca per Dragoni Luciano Tvc Hi-fi
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
--
-0.36359686
-
-       Dragoni Luciano Tvc Hi-fi
-       
-        
-         
-          
-         
-         
-          Via S. Vincenzo, 30
-         
-         
-          
-         
-         
-          59100
-         
-         
-          
-         
-         
-          Prato (PO)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0574 27097
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Rappresentanti di commercio a Prato
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 __________________
 
           E-mail a Dragoni Luciano Tvc Hi-Fi✕
@@ -4347,6 +4264,89 @@ Risultati di ricerca per Dragoni Luciano Tvc Hi-fi
       
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 __________________
+E-mail a Dragoni Luciano Tvc Hi-Fi
+---
+-
+0.8181319
+Dragoni Luciano Tvc Hi-fi
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.8181319
+Dragoni Luciano Tvc Hi-fi
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.7853947
+Dragoni Luciano Tvc Hi-fi - Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.5856618
+Scrivi la tua recensione di Dragoni Luciano Tvc Hi-fi
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.5856618
+Risultati di ricerca per Dragoni Luciano Tvc Hi-fi
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.36359686
+
+       Dragoni Luciano Tvc Hi-fi
+       
+        
+         
+          
+         
+         
+          Via S. Vincenzo, 30
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 27097
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
 Agenti E Rappresentanti di commercio in Prato
 ---
 -
@@ -4424,23 +4424,7 @@ Agenti affari in mediazione Prato
 -
 0.29113072
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.29113072
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.29113072
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.29113072
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.29113072
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.29113072
 Prato
@@ -4448,7 +4432,11 @@ Prato
 -
 0.29113072
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.29113072
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.29113072
 Prato
@@ -4464,6 +4452,18 @@ Prato
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
 -
+0.29113072
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.29113072
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.29113072
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
 0.1251885
 
           Prato (PO)
@@ -4475,12 +4475,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.08191365
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.08191365
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.08191365
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.07856903
 
@@ -4670,23 +4670,7 @@ Scrivi la tua recensione di Dragoni Luciano Tvc Hi-fi
 -
 0.20845251
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.20845251
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.20845251
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.20845251
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.20845251
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.20845251
 Prato
@@ -4694,7 +4678,11 @@ Prato
 -
 0.20845251
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.20845251
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.20845251
 Prato
@@ -4709,6 +4697,18 @@ Prato
 0.20845251
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.20845251
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.20845251
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.20845251
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.08963622
 
@@ -4725,12 +4725,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.058650993
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.058650993
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.058650993
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.056256212
 
@@ -4934,23 +4934,7 @@ Risultati di ricerca per Dragoni Luciano Tvc Hi-fi
 -
 0.20235533
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.20235533
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.20235533
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.20235533
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.20235533
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.20235533
 Prato
@@ -4958,7 +4942,11 @@ Prato
 -
 0.20235533
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.20235533
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.20235533
 Prato
@@ -4973,6 +4961,18 @@ Prato
 0.20235533
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.20235533
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.20235533
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.20235533
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.087014385
 
@@ -4989,12 +4989,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.056935467
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.056935467
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.056935467
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.05461073
 
@@ -5109,23 +5109,7 @@ Risultati di ricerca per Dragoni Luciano Tvc Hi-fi
 -
 0.18185641
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.18185641
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.18185641
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.18185641
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.18185641
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.18185641
 Prato
@@ -5133,7 +5117,11 @@ Prato
 -
 0.18185641
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.18185641
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.18185641
 Prato
@@ -5148,6 +5136,18 @@ Prato
 0.18185641
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.18185641
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.18185641
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.18185641
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.078199685
 
@@ -5164,12 +5164,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.051167812
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.051167812
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.051167812
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.049078576
 
@@ -5225,23 +5225,7 @@ Rappresentanti di commercio
 -
 0.34093222
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.34093222
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.34093222
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.34093222
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.34093222
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.34093222
 Prato
@@ -5249,7 +5233,11 @@ Prato
 -
 0.34093222
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.34093222
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.34093222
 Prato
@@ -5264,6 +5252,18 @@ Prato
 0.34093222
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.34093222
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.34093222
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.34093222
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.22510488
 
@@ -5336,12 +5336,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.095925994
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.095925994
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.095925994
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.09200923
 
@@ -5460,23 +5460,7 @@ Shopping e acquisti Prato
 -
 0.2813638
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.2813638
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.2813638
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.2813638
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.2813638
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.2813638
 Prato
@@ -5484,7 +5468,11 @@ Prato
 -
 0.2813638
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.2813638
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.2813638
 Prato
@@ -5499,6 +5487,18 @@ Prato
 0.2813638
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.2813638
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.2813638
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.2813638
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.12098866
 
@@ -5515,12 +5515,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.07916559
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.07916559
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.07916559
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.07593318
 
@@ -5626,23 +5626,7 @@ VIA DEL SERRAGLIO, 9059100  Prato
 -
 0.262411
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.262411
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.262411
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.262411
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.262411
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.262411
 Prato
@@ -5650,7 +5634,11 @@ Prato
 -
 0.262411
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.262411
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.262411
 Prato
@@ -5665,6 +5653,18 @@ Prato
 0.262411
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.262411
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.262411
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.262411
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.20570143
 
@@ -5687,12 +5687,12 @@ Via Altopascio, 31
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.139271
-Via S. Vincenzo, 45
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.139271
 Via S. Vincenzo, 30
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.139271
+Via S. Vincenzo, 45
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.1349114
 Via Pistoiese, 83
@@ -5781,12 +5781,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.07383295
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.07383295
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.07383295
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.07043632
 Dragoni Luciano Tvc Hi-fi - Prato
@@ -5804,12 +5804,8 @@ Agenzie e uffici commerciali Prato
 Agenti affari in mediazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
 __________________
-13, V. BISENZIO59100  Prato
+P. CIARDI. 2259100  Prato
 ---
--
-0.23282509
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.23282509
 Prato
@@ -5817,23 +5813,15 @@ Prato
 -
 0.23282509
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.23282509
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.23282509
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.23282509
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.23282509
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.23282509
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.23282509
 Prato
@@ -5848,6 +5836,18 @@ Prato
 0.23282509
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.23282509
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.23282509
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.23282509
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.10011662
 
@@ -5864,12 +5864,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.06550855
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.06550855
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.06550855
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.06283377
 
@@ -5968,23 +5968,7 @@ P. CIARDI. 3359100  Prato
 -
 0.23282509
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.23282509
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.23282509
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.23282509
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.23282509
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.23282509
 Prato
@@ -5992,7 +5976,11 @@ Prato
 -
 0.23282509
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.23282509
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.23282509
 Prato
@@ -6007,6 +5995,18 @@ Prato
 0.23282509
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.23282509
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.23282509
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.23282509
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.10011662
 
@@ -6023,12 +6023,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.06550855
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.06550855
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.06550855
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.06283377
 
@@ -6122,12 +6122,8 @@ Agenzie e uffici commerciali Prato
 Agenti affari in mediazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
 __________________
-P. CIARDI. 2259100  Prato
+13, V. BISENZIO59100  Prato
 ---
--
-0.23282509
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.23282509
 Prato
@@ -6135,23 +6131,15 @@ Prato
 -
 0.23282509
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.23282509
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.23282509
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.23282509
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.23282509
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.23282509
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.23282509
 Prato
@@ -6166,6 +6154,18 @@ Prato
 0.23282509
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.23282509
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.23282509
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.23282509
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.10011662
 
@@ -6182,12 +6182,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.06550855
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.06550855
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.06550855
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.06283377
 
@@ -6302,23 +6302,7 @@ Via Dell'angiolo 2/459100  Prato
 -
 0.22173989
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.22173989
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.22173989
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.22173989
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.22173989
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.22173989
 Prato
@@ -6326,7 +6310,11 @@ Prato
 -
 0.22173989
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.22173989
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.22173989
 Prato
@@ -6341,6 +6329,18 @@ Prato
 0.22173989
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.22173989
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.22173989
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.22173989
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.17381974
 
@@ -6363,12 +6363,12 @@ Via Altopascio, 31
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.11768537
-Via S. Vincenzo, 45
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.11768537
 Via S. Vincenzo, 30
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.11768537
+Via S. Vincenzo, 45
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.11400146
 Via Pistoiese, 83
@@ -6457,12 +6457,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.062389575
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.062389575
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.062389575
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.05951938
 Dragoni Luciano Tvc Hi-fi - Prato
@@ -6485,23 +6485,7 @@ PIAZZA GIOVANNI CIARDI 3359100  Prato
 -
 0.20301272
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.20301272
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.20301272
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.20301272
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.20301272
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.20301272
 Prato
@@ -6509,7 +6493,11 @@ Prato
 -
 0.20301272
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.20301272
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.20301272
 Prato
@@ -6524,6 +6512,18 @@ Prato
 0.20301272
 Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.20301272
+Prato
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.20301272
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.20301272
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.08729707
 
@@ -6540,12 +6540,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.057120435
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.057120435
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.057120435
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.054788146
 
@@ -6660,12 +6660,12 @@ Via Altopascio, 31
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.14432885
-Via S. Vincenzo, 45
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.14432885
 Via S. Vincenzo, 30
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.14432885
+Via S. Vincenzo, 45
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.1398109
 Via Pistoiese, 83
@@ -6763,12 +6763,12 @@ Via Altopascio, 31
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.12068985
-Via S. Vincenzo, 45
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.12068985
 Via S. Vincenzo, 30
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.12068985
+Via S. Vincenzo, 45
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.11691189
 Via Pistoiese, 83
@@ -6866,12 +6866,12 @@ Via Altopascio, 31
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.10582166
-Via S. Vincenzo, 45
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.10582166
 Via S. Vincenzo, 30
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.10582166
+Via S. Vincenzo, 45
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.10250912
 Via Pistoiese, 83

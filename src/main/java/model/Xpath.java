@@ -6,14 +6,25 @@ public class Xpath {
 
 	private String xpath;
 	private Node node;
+	private int idDomain;
 	
 	public Xpath(Node node, String xpath){
 		this.node=node;
 		this.xpath=xpath;
 	}
 	
+	public Xpath(Node node, String xpath, int domain){
+		this.node=node;
+		this.xpath=xpath;
+		this.idDomain=domain;
+	}
+	
 	public Node getNode() {
 		return this.node;
+	}
+	
+	public int getIdDomain() {
+		return this.idDomain;
 	}
 	
 	public String getXpath() {

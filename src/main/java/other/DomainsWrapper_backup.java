@@ -1,4 +1,4 @@
-package main;
+package other;
 
 import java.io.File;
 import java.io.IOException;
@@ -28,7 +28,7 @@ import scala.Tuple2;
 import segmentation.TopSegmentsFinder;
 import xpath.utils.XpathApplier;
 
-public class DomainsWrapper {
+public class DomainsWrapper_backup {
 
 	//	static String path = "/home/valentina/workspace_nuovo/FeatureExtractor/testGenericXpath/";
 	//	static int n1 = 1;
@@ -349,7 +349,7 @@ public class DomainsWrapper {
 			NodeList nl = xapplier.getNodes(path, webPageDocument.getDocument_jsoup());
 			//noi ne vogliamo 1 e 1 solo
 			if (nl.getLength() == 1) {
-				if (areEqualNodes(nl.item(0), segment.getW3cNodes().item(0))) {
+				if (nl.item(0).isEqualNode(segment.getW3cNodes().item(0))) {
 					//					System.out.println("*****************ottimo!!!************************");
 					return currentGenericXpath;
 				}
@@ -372,9 +372,8 @@ public class DomainsWrapper {
 		//controlliamo che il nodo restituito corrisponda a un segmento rilevante del documento 3
 		for (int i=0;i<relevantSegments.size();i++) {
 			Segment relevantSegment = relevantSegments.get(i);
-			if (areEqualNodes(xpathNode, relevantSegment.getW3cNodes().item(0))) {
+			if (xpathNode.isEqualNode(relevantSegment.getW3cNodes().item(0)))
 				return true;
-			}
 		}
 		//nessun matching
 		return false;
@@ -399,8 +398,8 @@ public class DomainsWrapper {
 
 		for (int i=0;i<segment2hits.size();i++) {
 			Tuple2<Segment, TopDocs> segment2hit = segment2hits.get(i);
-			if (areEqualNodes(xpathNode1, segment2hit._1().getW3cNodes().item(0))) {
-				//				System.out.println("TROVATO 1° SEGMENTO");
+			if (xpathNode1.isEqualNode(segment2hit._1().getW3cNodes().item(0))) {
+//				System.out.println("TROVATO 1° SEGMENTO");
 				//abbiamo individuato il segmento del primo documento, ora dobbiamo trovare il segmento
 				//del secondo documento
 				SegmentSearcher searcher = new SegmentSearcher(indexPath);
@@ -415,8 +414,8 @@ public class DomainsWrapper {
 						}
 						//setto la rilevanza dei segmenti del secondo documento
 						Segment seg_secondDocument = doc2.getSegmentByXpath(lucDoc.get("segmentPath"));
-						if (areEqualNodes(xpathNode2, seg_secondDocument.getW3cNodes().item(0))) {
-							//							System.out.println("TROVATO 2° SEGMENTO");
+						if (xpathNode2.isEqualNode(seg_secondDocument.getW3cNodes().item(0))) {
+//							System.out.println("TROVATO 2° SEGMENTO");
 							return true;
 						}
 					}
@@ -427,86 +426,6 @@ public class DomainsWrapper {
 		}
 		//nessun matching
 		return false;
-	}
-	
-	public static boolean areEqualNodes(Node n1, Node n2) {
-		if (n1 != null) {
-			if (n1.isEqualNode(n2)) {
-				//							if (n1.getParentNode().isEqualNode(n2.getParentNode())) {
-				if (areEqualNodes(n1.getParentNode(),n2.getParentNode())) {
-					Node siblingN1 = n1.getNextSibling();
-					Node siblingN2 = n2.getNextSibling();
-					//					if (siblingN1 != null)
-					//						System.out.println("fratello1 "+ siblingN1.getTextContent());
-					//					else
-					//						System.out.println("fratello1 null");
-					//					if (siblingN2 != null)
-					//						System.out.println("fratello2 "+ siblingN2.getTextContent());
-					//					else
-					//						System.out.println("fratello2 null");
-					//					if (siblingN1 != null && siblingN2 != null) 
-					//						System.out.println(siblingN1.isEqualNode(siblingN2));
-					if ((siblingN1 == null && siblingN2 != null)
-							|| (siblingN1 != null && siblingN2 == null)) {
-						//						System.out.println("Uno dei due fratelli è nullo");
-						return false;
-					}
-					if (siblingN1 == null && siblingN2 == null) {
-						//						System.out.println("Entrambi i fratelli sono nulli");
-						return true;
-					}
-					//					if (siblingN1.isEqualNode(siblingN2) && areEqualNodes(siblingN1, siblingN2)) {
-					if (siblingN1.isEqualNode(siblingN2)) {
-						List<Node> nextSiblingsN1 = new ArrayList<>();
-						getNextSiblings(n1, nextSiblingsN1);
-						List<Node> nextSiblingsN2 = new ArrayList<>();
-						getNextSiblings(n2, nextSiblingsN2);
-						if (areEqualListOfNodes(nextSiblingsN1, nextSiblingsN2)) {
-							List<Node> previousSiblingsN1 = new ArrayList<>();
-							getPreviousSiblings(n1, previousSiblingsN1);
-							List<Node> previousSiblingsN2 = new ArrayList<>();
-							getPreviousSiblings(n2, previousSiblingsN2);
-							if (areEqualListOfNodes(previousSiblingsN1, previousSiblingsN2)) {
-								//							System.out.println("I fratelli sono uguali");
-								return true;
-							}
-						}
-					}
-				}
-			}
-			return false;
-		}
-		return n2 == null;
-	}
-
-	//riempie la lista passata con i fratelli di destra del nodo, NON compreso il nodo stesso
-	public static void getNextSiblings(Node n, List<Node> nextSiblingsList) {
-		Node nextSibling = n.getNextSibling();
-		if (nextSibling == null)
-			return;
-		nextSiblingsList.add(nextSibling);
-		getNextSiblings(nextSibling, nextSiblingsList);
-	}
-
-	//riempie la lista passata con i fratelli di sinistra del nodo, NON compreso il nodo stesso
-	public static void getPreviousSiblings(Node n, List<Node> previousSiblingsList) {
-		Node prevSibling = n.getPreviousSibling();
-		if (prevSibling == null)
-			return;
-		previousSiblingsList.add(prevSibling);
-		getNextSiblings(prevSibling, previousSiblingsList);
-	}
-	
-	//confronta se due liste hanno gli stessi nodi
-	public static boolean areEqualListOfNodes(List<Node> list1, List<Node> list2) {
-		if (list1.size() != list2.size()) return false;
-		for (int i=0; i<list1.size(); i++) {
-			Node n1 = list1.get(i);
-			Node n2 = list2.get(i);
-			if (!(n1.isEqualNode(n2)))
-				return false;
-		}
-		return true;
 	}
 
 	//più che altro, ogni volta che supera la soglia,
@@ -571,14 +490,14 @@ public class DomainsWrapper {
 			if (isARelevantMatching(genericXpath_firstSegment.getXpath(), doc3, 
 					genericXpath_secondSegment.getXpath(), doc4, 
 					segment2hits_secondaPersona, indexPath)) {
-				//				System.out.println("SONO QUIIII");
+//				System.out.println("SONO QUIIII");
 				//una volta che hai i generici di entrambi, crei collegamento
 				//		Matching m = new Matching(firstSegment.getDocument().getSource(), genericXpath_firstSegment,
 				//				secondSegment.getDocument().getSource(), genericXpath_secondSegment);
 				MatchingRepository mr = MatchingRepository.getInstance();
 				mr.addMatching(firstSegment.getDocument().getSource(), genericXpath_firstSegment,
 						secondSegment.getDocument().getSource(), genericXpath_secondSegment);
-				//				System.out.println(mr.getMatchings().size());
+//				System.out.println(mr.getMatchings().size());
 			}
 		}
 	}

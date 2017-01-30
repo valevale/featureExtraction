@@ -73,7 +73,7 @@ public class XpathExtractor {
 		for (int i=0;i<nodes_segments.size();i++) {
 			try {
 				xPaths.add(new Xpath(nodes_segments.get(i),
-						xpmaker.calculateAbsoluteXPath(nodes_segments.get(i), doc)));
+						xpmaker.calculateAbsoluteXPath(nodes_segments.get(i), doc),par));
 			} catch (Exception e) {
 				e.printStackTrace();
 			}

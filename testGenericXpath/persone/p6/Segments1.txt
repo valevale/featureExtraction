@@ -1,42 +1,24 @@
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[8]
+
+     Scrivi la tua recensione per Sargiacomo Ing. Silvio Studio Tecnico - Pescara:
+      
+      
+    
+________________________________________________________________________
 //html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/span[1]/strong[1]/h2[1]
 Sargiacomo Ing. Silvio Studio Tecnico
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[6]/a[1]
-Studio Di Ingegneria Ing. Carlo Galli
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/span[1]/h5[1]
- INGEGNERI STUDI 
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[3]/a[1]
-Arrizza Ing. Fabio Studio D'ingegneria
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[2]
+//html[1]/body[1]/div[1]/div[3]/div[1]/a[4]
 Pescara
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[1]/a[2]
-Abruzzo
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]
-Modifica Dati
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[5]
- 
-      Del Proposto Dr. Ing. Luisa Studio Di Ingegneria
-       Via Messina 20
-       65122 - Pescara 
-     
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]
  Via Perugia 9   65121 Pescara  (PE) 
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/strong[3]/a[1]
-Ingegneri - Studi a Pescara
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[5]/a[1]
+Del Proposto Dr. Ing. Luisa Studio Di Ingegneria
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/h1[1]
-Sargiacomo Ing. Silvio Studio Tecnico - Pescara 
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[2]
- 0854214339 
+//html[1]/body[1]/div[1]/div[3]/div[1]/a[3]
+Pescara
 ________________________________________________________________________
 //html[1]/body[1]/div[1]
  
@@ -130,27 +112,15 @@ ________________________________________________________________________
   >   
 
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/a[2]
-Elimina Azienda
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[1]/a[3]
-Pescara
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[1]/a[4]
-Pescara
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[1]/span[1]/strong[1]
-Aziende Simili:
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[2]
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[3]
  
-      Cristini Ing. Stefano
-       Via Trento 114
+      Arrizza Ing. Fabio Studio D'ingegneria
+       Via Trento 122
        65122 - Pescara 
      
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[4]/a[1]
-Del Rosso Ing. Alessandro
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/strong[3]/a[1]
+Ingegneri - Studi a Pescara
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[6]
  
@@ -159,38 +129,18 @@ ________________________________________________________________________
        65122 - Pescara 
      
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[2]/a[1]
-Cristini Ing. Stefano
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[3]
-PE
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[4]
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[2]
  
-      Del Rosso Ing. Alessandro
-       Via Trento 122
+      Cristini Ing. Stefano
+       Via Trento 114
        65122 - Pescara 
      
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[5]/a[1]
-Del Proposto Dr. Ing. Luisa Studio Di Ingegneria
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[1]/span[1]/strong[1]
+Aziende Simili:
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[1]
-65121
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[8]
-
-     Scrivi la tua recensione per Sargiacomo Ing. Silvio Studio Tecnico - Pescara:
-      
-      
-    
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[3]
- 
-      Arrizza Ing. Fabio Studio D'ingegneria
-       Via Trento 122
-       65122 - Pescara 
-     
+//html[1]/body[1]/div[1]/div[3]/div[1]/a[2]
+Abruzzo
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[3]/div[1]
 
@@ -199,4 +149,54 @@ ________________________________________________________________________
    Pescara > 
    Pescara 
   
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[4]/a[1]
+Del Rosso Ing. Alessandro
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[1]
+65121
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[3]/a[1]
+Arrizza Ing. Fabio Studio D'ingegneria
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[3]
+PE
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]
+Modifica Dati
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[2]
+ 0854214339 
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[5]
+ 
+      Del Proposto Dr. Ing. Luisa Studio Di Ingegneria
+       Via Messina 20
+       65122 - Pescara 
+     
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[2]/a[1]
+Cristini Ing. Stefano
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/h1[1]
+Sargiacomo Ing. Silvio Studio Tecnico - Pescara 
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/span[1]/h5[1]
+ INGEGNERI STUDI 
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[4]
+ 
+      Del Rosso Ing. Alessandro
+       Via Trento 122
+       65122 - Pescara 
+     
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/a[2]
+Elimina Azienda
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[6]/a[1]
+Studio Di Ingegneria Ing. Carlo Galli
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[2]
+Pescara
 ________________________________________________________________________

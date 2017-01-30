@@ -28,8 +28,11 @@ import scala.Tuple2;
 import segmentation.TopSegmentsFinder;
 import xpath.utils.XpathApplier;
 
+/* estraiamo da un documento, in comparazione con altri 3 (uno della stessa persona di un altro dominio,
+ * uno di un'altra persona con lo stesso dominio, e un ultimo della stessa altra persona e dello stesso
+ * altro dominio), le coppie di segmenti del documento 1 e 2 simili per coseno similarità
+ * le coppie vengono messe in un repository e si calcola il loro voto, basato sulla coseno smilarità */
 public class DomainsWrapper_pairMatching {
-//	static int count = 0;
 
 	public static void getSegmentsFrom(WebPageDocument firstDocument,
 			WebPageDocument secondDocument, WebPageDocument thirdDocument,
@@ -43,17 +46,13 @@ public class DomainsWrapper_pairMatching {
 		File indexFolder = new File(indexPathDominio1);
 		String[]entries = indexFolder.list();
 
-		//		System.out.println(indexPathDominio1);
-
 		//eliminazione dell'indice
 		if (entries != null) {
-			//			System.out.println("deleting previous index1");
 			for(String s: entries){
 				File currentFile = new File(indexFolder.getPath(),s);
 				currentFile.delete();
 			}
 		}
-
 
 		//passo 1: prendere la pagina da segmentare
 
@@ -302,8 +301,6 @@ public class DomainsWrapper_pairMatching {
 				//								System.out.println(nl.item(0));
 //				System.out.println("segment "+segment);
 				//								System.out.println(segment.getW3cNodes().item(0));
-				//TODO è un po' fragile. o controlli ricorsivamente i genitori, oppure trovi un
-				//metodo di jsoup...
 				//(forse non è inefficiente se java al primo false esce dall'if...)
 				if (areEqualNodes(nl.item(0), segment.getW3cNodes().item(0))
 						//						nl.item(0).isEqualNode(segment.getW3cNodes().item(0))
@@ -540,7 +537,7 @@ public class DomainsWrapper_pairMatching {
 					genericXpath_secondSegment.getXpath(), doc4, 
 					segment2hits_secondaPersona, indexPath)) {
 				//una volta che hai i generici di entrambi, crei collegamento
-				//TODO è qui che cambia l'algoritmo
+				//è qui che cambia l'algoritmo
 				PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
 				//				System.out.println("ANDIAMO A AGGIUNGERE ");
 				//				System.out.println(genericXpath_firstSegment.getXpath());
@@ -548,13 +545,6 @@ public class DomainsWrapper_pairMatching {
 				pmr.addMatching(genericXpath_firstSegment, firstSegment.getDocument().getSource().getParameter(),
 						genericXpath_secondSegment, secondSegment.getDocument().getSource().getParameter(), score);
 			}
-			//TODO qui credo che dobbiamo fare backtracking
-//			else {
-//				//contiamo quante volte va qui
-//			}
 		}
-//		else {
-//			count++;
-//		}
 	}
 }

@@ -1,3 +1,88 @@
+
+              Gori Emanuele  
+             
+---
+-
+1.0
+Gori Emanuele
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+1.0
+Gori Emanuele
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.90832174
+Gori Emanuele - Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.5370979
+Scrivi la tua recensione di Gori Emanuele
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.5370979
+Risultati di ricerca per Gori Emanuele
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.291308
+
+       Gori Emanuele
+       
+        
+         
+          
+         
+         
+          Via Becherini Giuseppe, 113
+         
+         
+          
+         
+         
+          59100
+         
+         
+          
+         
+         
+          Prato (PO)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0574 433713
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Rappresentanti di commercio a Prato
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
  Via Becherini Giuseppe, 113
 ---
 -
@@ -78,12 +163,12 @@ Via Clementi Muzio, 13
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.12660867
-Via Dell' Alberaccio, 69/B
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
--
-0.12660867
 Via Dell' Alberaccio, 64/Z
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.12660867
+Via Dell' Alberaccio, 69/B
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
 -
 0.12588145
 
@@ -94,97 +179,12 @@ Via Dell' Alberaccio, 64/Z
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
 -
 0.12191329
-Via Leoncavallo Ruggero, 9
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
--
-0.12191329
 Via Mascagni Pietro, 74
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
-__________________
-
-              Gori Emanuele  
-             
----
 -
-1.0
-Gori Emanuele
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-1.0
-Gori Emanuele
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
--
-0.90832174
-Gori Emanuele - Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
--
-0.5370979
-Risultati di ricerca per Gori Emanuele
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
--
-0.5370979
-Scrivi la tua recensione di Gori Emanuele
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.291308
-
-       Gori Emanuele
-       
-        
-         
-          
-         
-         
-          Via Becherini Giuseppe, 113
-         
-         
-          
-         
-         
-          59100
-         
-         
-          
-         
-         
-          Prato (PO)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0574 433713
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Rappresentanti di commercio a Prato
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+0.12191329
+Via Leoncavallo Ruggero, 9
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
 __________________
  59100 Prato (PO)
 ---
@@ -201,7 +201,11 @@ __________________
 -
 0.5381718
 59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.5381718
+59100
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.5381718
 59100
@@ -209,7 +213,7 @@ __________________
 -
 0.5381718
 59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.5381718
 59100
@@ -217,11 +221,7 @@ __________________
 -
 0.5381718
 59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.5381718
-59100
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
 -
 0.39531243
 
@@ -285,16 +285,6 @@ __________________
 -
 0.38390413
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.38390413
-
-        Prato
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
--
-0.38390413
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.38390413
@@ -303,15 +293,21 @@ Prato
 -
 0.38390413
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.38390413
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.38390413
 Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.38390413
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
 -
 0.38390413
 
@@ -321,15 +317,19 @@ Prato
 -
 0.38390413
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.38390413
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.38390413
-Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.38390413
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.38390413
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.38390413
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.26243716
 
@@ -352,12 +352,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.106106594
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.106106594
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.106106594
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.09848969
 Via Lorenzo Da Prato, 2
@@ -444,16 +444,6 @@ Via Becherini Giuseppe, 113
 -
 0.31456077
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.31456077
-
-        Prato
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
--
-0.31456077
-Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.31456077
@@ -462,15 +452,21 @@ Prato
 -
 0.31456077
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.31456077
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.31456077
 Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.31456077
-Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+
+        Prato
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
 -
 0.31456077
 
@@ -480,15 +476,19 @@ Prato
 -
 0.31456077
 Prato
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.31456077
-Prato
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.31456077
-Prato
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.31456077
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.31456077
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.31456077
+Prato
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.24038084
 Via Lorenzo Da Prato, 2
@@ -511,20 +511,20 @@ Via Clementi Muzio, 13
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.14318688
-Via Dell' Alberaccio, 69/B
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
--
-0.14318688
 Via Dell' Alberaccio, 64/Z
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
 -
-0.13787669
-Via Leoncavallo Ruggero, 9
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+0.14318688
+Via Dell' Alberaccio, 69/B
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
 -
 0.13787669
 Via Mascagni Pietro, 74
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.13787669
+Via Leoncavallo Ruggero, 9
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
 -
 0.1331399
 
@@ -545,12 +545,12 @@ Consulenza fiscale Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.08694091
-Categorie correlate a Prato
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.08694091
 Importazione esportazione Prato
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.08694091
+Categorie correlate a Prato
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
 0.0781306
 Consulenza finanziaria e commerciale Prato
@@ -571,23 +571,23 @@ __________________
 -
 0.6913124
 Gori Emanuele
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
 0.6913124
 Gori Emanuele
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.6303746
 Gori Emanuele - Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.3772789
-Risultati di ricerca per Gori Emanuele
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
--
-0.3772789
 Scrivi la tua recensione di Gori Emanuele
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.3772789
+Risultati di ricerca per Gori Emanuele
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
 -
 0.2055831
 
@@ -654,23 +654,23 @@ Gori
 -
 0.6913124
 Gori Emanuele
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
 0.6913124
 Gori Emanuele
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.6303746
 Gori Emanuele - Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.3772789
-Risultati di ricerca per Gori Emanuele
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
--
-0.3772789
 Scrivi la tua recensione di Gori Emanuele
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.3772789
+Risultati di ricerca per Gori Emanuele
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
 -
 0.2055831
 
@@ -739,23 +739,23 @@ __________________
 -
 0.5370979
 Gori Emanuele
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
 0.5370979
 Gori Emanuele
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.48785764
 Gori Emanuele - Prato
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.28847408
-Risultati di ricerca per Gori Emanuele
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
--
-0.28847408
 Scrivi la tua recensione di Gori Emanuele
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.28847408
+Risultati di ricerca per Gori Emanuele
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
 -
 0.15646088
 

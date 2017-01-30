@@ -1,28 +1,20 @@
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[3]
- 
-      Nannicini Marco
-       Via Isola 11/a
-       59011 - Seano 
-     
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/a[2]
+Elimina Azienda
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[3]
-PO
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[5]
- 
-      Mazzeigiuridica
-       Via Montalese 483
-       80066 - Fornacella 
-     
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[1]/a[3]
-Prato
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/h1[1]
+Gori Emanuele - Prato 
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[3]/a[1]
 Nannicini Marco
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/a[2]
-Elimina Azienda
+//html[1]/body[1]/div[1]/div[3]/div[1]/a[4]
+Prato
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/span[1]/h5[1]
+ AGENTI RAPPRESENTANTI COMMERCIO 
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/strong[3]/a[1]
+Agenti E Rappresentanti Di Commercio a Prato
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[4]
  
@@ -31,47 +23,14 @@ ________________________________________________________________________
        59013 - Montemurlo 
      
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[5]/a[1]
-Mazzeigiuridica
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[2]
+ 0574433713 
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[1]/a[4]
-Prato
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[6]/a[1]
+Leader-tex Rappresentanze
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/strong[3]/a[1]
-Agenti E Rappresentanti Di Commercio a Prato
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]
- Via Becherini Giuseppe 113   59100 Prato  (PO) 
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]
-Modifica Dati
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[8]
-
-     Scrivi la tua recensione per Gori Emanuele - Prato:
-      
-      
-    
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[6]
- 
-      Leader-tex Rappresentanze
-       Via Danubio 12
-       59100 - Prato 
-     
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[1]/a[2]
-Toscana
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[2]
- 
-      Expo Agency Srl
-       Via Filzi Fabio 0034/a
-       59100 - Prato 
-     
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[1]/span[1]/strong[1]
-Aziende Simili:
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[1]
+59100
 ________________________________________________________________________
 //html[1]/body[1]/div[1]
  
@@ -165,29 +124,23 @@ ________________________________________________________________________
   >   
 
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/span[1]/h5[1]
- AGENTI RAPPRESENTANTI COMMERCIO 
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]
+ Via Becherini Giuseppe 113   59100 Prato  (PO) 
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[6]/a[1]
-Leader-tex Rappresentanze
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/span[1]/strong[1]/h2[1]
-Gori Emanuele
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[1]
-59100
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[2]
+//html[1]/body[1]/div[1]/div[3]/div[1]/a[3]
 Prato
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[2]
- 0574433713 
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[1]/span[1]/strong[1]
+Aziende Simili:
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[5]/a[1]
+Mazzeigiuridica
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[1]/a[2]
+Toscana
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[2]/a[1]
 Expo Agency Srl
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[4]/a[1]
-Conti Enrico Filati Srl Commercio Filati Testurizzati
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[3]/div[1]
 
@@ -197,6 +150,53 @@ ________________________________________________________________________
    Prato 
   
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/h1[1]
-Gori Emanuele - Prato 
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[4]/a[1]
+Conti Enrico Filati Srl Commercio Filati Testurizzati
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[2]
+ 
+      Expo Agency Srl
+       Via Filzi Fabio 0034/a
+       59100 - Prato 
+     
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[3]
+ 
+      Nannicini Marco
+       Via Isola 11/a
+       59011 - Seano 
+     
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]
+Modifica Dati
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/span[1]/strong[1]/h2[1]
+Gori Emanuele
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[8]
+
+     Scrivi la tua recensione per Gori Emanuele - Prato:
+      
+      
+    
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[5]
+ 
+      Mazzeigiuridica
+       Via Montalese 483
+       80066 - Fornacella 
+     
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[6]
+ 
+      Leader-tex Rappresentanze
+       Via Danubio 12
+       59100 - Prato 
+     
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[3]
+PO
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[2]
+Prato
 ________________________________________________________________________

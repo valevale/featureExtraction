@@ -33,14 +33,14 @@ __________________
 Ingegneri
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
 __________________
-PE
+65121
 ---
 -
 0.5301321
  65121 Pescara (PE)
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
-65121
+PE
 ---
 -
 0.5301321
@@ -312,7 +312,7 @@ Via Perugia Pescara
  65121 Pescara (PE)
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
-Studio Di Ingegneria Ing. Carlo Galli
+Arrizza Ing. Fabio Studio D'ingegneria
 ---
 -
 0.32391667
@@ -325,7 +325,7 @@ Studio Di Ingegneria Ing. Carlo Galli
 Ingegneri
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
 __________________
-Arrizza Ing. Fabio Studio D'ingegneria
+Studio Di Ingegneria Ing. Carlo Galli
 ---
 -
 0.32391667
@@ -352,8 +352,8 @@ Ingegneri
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
 __________________
  
-      Cristini Ing. Stefano
-       Via Trento 114
+      Del Rosso Ing. Alessandro
+       Via Trento 122
        65122 - Pescara 
      
 ---
@@ -371,8 +371,8 @@ Via Perugia Pescara
 //html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
 __________________
  
-      Del Rosso Ing. Alessandro
-       Via Trento 122
+      Cristini Ing. Stefano
+       Via Trento 114
        65122 - Pescara 
      
 ---

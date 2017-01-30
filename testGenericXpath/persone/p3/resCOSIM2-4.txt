@@ -1,3 +1,134 @@
+Mini Market Di Giuliana Antonio, Butera
+---
+-
+1.0
+Mini Market Di Giuliana Antonio - Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.9202092
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.9202092
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.61294144
+Risultati di ricerca per Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.61294144
+Scrivi la tua recensione di Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.47726953
+
+       Mini Market Di Giuliana Antonio
+       
+        
+         
+          
+         
+         
+          Via Giacomo Matteotti, 80
+         
+         
+          
+         
+         
+          93011
+         
+         
+          
+         
+         
+          Butera (CL)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0934 347885
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Alimentari negozi a Butera
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.3914269
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.3914269
+
+        Butera
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+0.3914269
+Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.3914269
+Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.20549801
+
+          Butera (CL)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.18524179
+Panetteria Butera
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.18248808
+Alimentari negozi a Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.14889254
+Studio di architettura Antonio Sabatino
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
+-
+0.13899942
+Categorie correlate a Butera
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.12785651
+
+            Via S.rocco, 5 - 
+            93011 
+            Butera
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+__________________
 Caltanissetta
 ---
 -
@@ -5,6 +136,406 @@ Caltanissetta
 Caltanissetta
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
 __________________
+93011
+---
+-
+1.0
+93011
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+1.0
+93011
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.42914444
+
+            Via S.rocco, 5 - 
+            93011 
+            Butera
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.20969759
+
+       Mini Market Di Giuliana Antonio
+       
+        
+         
+          
+         
+         
+          Via Giacomo Matteotti, 80
+         
+         
+          
+         
+         
+          93011
+         
+         
+          
+         
+         
+          Butera (CL)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0934 347885
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Alimentari negozi a Butera
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+Butera
+---
+-
+1.0
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+1.0
+
+        Butera
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+1.0
+Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.5249972
+
+          Butera (CL)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.47324747
+Panetteria Butera
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.46621242
+Alimentari negozi a Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.37732786
+Mini Market Di Giuliana Antonio - Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.3551095
+Categorie correlate a Butera
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.3266421
+
+            Via S.rocco, 5 - 
+            93011 
+            Butera
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.32189998
+
+       Mini Market Di Giuliana Antonio
+       
+        
+         
+          
+         
+         
+          Via Giacomo Matteotti, 80
+         
+         
+          
+         
+         
+          93011
+         
+         
+          
+         
+         
+          Butera (CL)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0934 347885
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Alimentari negozi a Butera
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+Mini Market Di Giuliana Antonio, Butera
+---
+-
+1.0
+Mini Market Di Giuliana Antonio - Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.9202092
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.9202092
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.61294144
+Risultati di ricerca per Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.61294144
+Scrivi la tua recensione di Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.47726953
+
+       Mini Market Di Giuliana Antonio
+       
+        
+         
+          
+         
+         
+          Via Giacomo Matteotti, 80
+         
+         
+          
+         
+         
+          93011
+         
+         
+          
+         
+         
+          Butera (CL)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0934 347885
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Alimentari negozi a Butera
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.3914269
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.3914269
+
+        Butera
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+0.3914269
+Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.3914269
+Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.20549801
+
+          Butera (CL)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.18524179
+Panetteria Butera
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.18248808
+Alimentari negozi a Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.14889254
+Studio di architettura Antonio Sabatino
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
+-
+0.13899942
+Categorie correlate a Butera
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.12785651
+
+            Via S.rocco, 5 - 
+            93011 
+            Butera
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+__________________
+93011
+---
+-
+1.0
+93011
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+1.0
+93011
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.42914444
+
+            Via S.rocco, 5 - 
+            93011 
+            Butera
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.20969759
+
+       Mini Market Di Giuliana Antonio
+       
+        
+         
+          
+         
+         
+          Via Giacomo Matteotti, 80
+         
+         
+          
+         
+         
+          93011
+         
+         
+          
+         
+         
+          Butera (CL)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0934 347885
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Alimentari negozi a Butera
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
 Mini Market Di Giuliana Antonio
 ---
 -
@@ -21,12 +552,12 @@ Mini Market Di Giuliana Antonio - Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.66608924
-Scrivi la tua recensione di Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.66608924
 Risultati di ricerca per Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.66608924
+Scrivi la tua recensione di Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
 -
 0.3796195
 
@@ -92,6 +623,359 @@ Risultati di ricerca per Mini Market Di Giuliana Antonio
 Studio di architettura Antonio Sabatino
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
 __________________
+Butera
+---
+-
+1.0
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+1.0
+
+        Butera
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+1.0
+Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.5249972
+
+          Butera (CL)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.47324747
+Panetteria Butera
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.46621242
+Alimentari negozi a Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.37732786
+Mini Market Di Giuliana Antonio - Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.3551095
+Categorie correlate a Butera
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.3266421
+
+            Via S.rocco, 5 - 
+            93011 
+            Butera
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.32189998
+
+       Mini Market Di Giuliana Antonio
+       
+        
+         
+          
+         
+         
+          Via Giacomo Matteotti, 80
+         
+         
+          
+         
+         
+          93011
+         
+         
+          
+         
+         
+          Butera (CL)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0934 347885
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Alimentari negozi a Butera
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+Mini Market Di Giuliana Antonio, Butera
+---
+-
+1.0
+Mini Market Di Giuliana Antonio - Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.9202092
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.9202092
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.61294144
+Risultati di ricerca per Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.61294144
+Scrivi la tua recensione di Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.47726953
+
+       Mini Market Di Giuliana Antonio
+       
+        
+         
+          
+         
+         
+          Via Giacomo Matteotti, 80
+         
+         
+          
+         
+         
+          93011
+         
+         
+          
+         
+         
+          Butera (CL)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0934 347885
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Alimentari negozi a Butera
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.3914269
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.3914269
+
+        Butera
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+0.3914269
+Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.3914269
+Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.20549801
+
+          Butera (CL)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.18524179
+Panetteria Butera
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.18248808
+Alimentari negozi a Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.14889254
+Studio di architettura Antonio Sabatino
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
+-
+0.13899942
+Categorie correlate a Butera
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.12785651
+
+            Via S.rocco, 5 - 
+            93011 
+            Butera
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+__________________
+Butera
+---
+-
+1.0
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+1.0
+
+        Butera
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+1.0
+Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.5249972
+
+          Butera (CL)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.47324747
+Panetteria Butera
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.46621242
+Alimentari negozi a Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.37732786
+Mini Market Di Giuliana Antonio - Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.3551095
+Categorie correlate a Butera
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.3266421
+
+            Via S.rocco, 5 - 
+            93011 
+            Butera
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.32189998
+
+       Mini Market Di Giuliana Antonio
+       
+        
+         
+          
+         
+         
+          Via Giacomo Matteotti, 80
+         
+         
+          
+         
+         
+          93011
+         
+         
+          
+         
+         
+          Butera (CL)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0934 347885
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Alimentari negozi a Butera
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
 Mini Market Di Giuliana Antonio
 ---
 -
@@ -108,12 +992,12 @@ Mini Market Di Giuliana Antonio - Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.66608924
-Scrivi la tua recensione di Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.66608924
 Risultati di ricerca per Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.66608924
+Scrivi la tua recensione di Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
 -
 0.3796195
 
@@ -178,6 +1062,703 @@ Risultati di ricerca per Mini Market Di Giuliana Antonio
 0.16180292
 Studio di architettura Antonio Sabatino
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
+__________________
+Butera 
+---
+-
+1.0
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+1.0
+
+        Butera
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+1.0
+Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.5249972
+
+          Butera (CL)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.47324747
+Panetteria Butera
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.46621242
+Alimentari negozi a Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.37732786
+Mini Market Di Giuliana Antonio - Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.3551095
+Categorie correlate a Butera
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.3266421
+
+            Via S.rocco, 5 - 
+            93011 
+            Butera
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.32189998
+
+       Mini Market Di Giuliana Antonio
+       
+        
+         
+          
+         
+         
+          Via Giacomo Matteotti, 80
+         
+         
+          
+         
+         
+          93011
+         
+         
+          
+         
+         
+          Butera (CL)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0934 347885
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Alimentari negozi a Butera
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+93011
+---
+-
+1.0
+93011
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+1.0
+93011
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.42914444
+
+            Via S.rocco, 5 - 
+            93011 
+            Butera
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.20969759
+
+       Mini Market Di Giuliana Antonio
+       
+        
+         
+          
+         
+         
+          Via Giacomo Matteotti, 80
+         
+         
+          
+         
+         
+          93011
+         
+         
+          
+         
+         
+          Butera (CL)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0934 347885
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Alimentari negozi a Butera
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+Mini Market Di Giuliana Antonio
+---
+-
+1.0
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+1.0
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.9159223
+Mini Market Di Giuliana Antonio - Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.66608924
+Risultati di ricerca per Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.66608924
+Scrivi la tua recensione di Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.3796195
+
+       Mini Market Di Giuliana Antonio
+       
+        
+         
+          
+         
+         
+          Via Giacomo Matteotti, 80
+         
+         
+          
+         
+         
+          93011
+         
+         
+          
+         
+         
+          Butera (CL)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0934 347885
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Alimentari negozi a Butera
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.16180292
+Studio di architettura Antonio Sabatino
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
+__________________
+93011
+---
+-
+1.0
+93011
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+1.0
+93011
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.42914444
+
+            Via S.rocco, 5 - 
+            93011 
+            Butera
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.20969759
+
+       Mini Market Di Giuliana Antonio
+       
+        
+         
+          
+         
+         
+          Via Giacomo Matteotti, 80
+         
+         
+          
+         
+         
+          93011
+         
+         
+          
+         
+         
+          Butera (CL)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0934 347885
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Alimentari negozi a Butera
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+Mini Market Di Giuliana Antonio, Butera
+---
+-
+1.0
+Mini Market Di Giuliana Antonio - Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.9202092
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.9202092
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.61294144
+Risultati di ricerca per Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.61294144
+Scrivi la tua recensione di Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.47726953
+
+       Mini Market Di Giuliana Antonio
+       
+        
+         
+          
+         
+         
+          Via Giacomo Matteotti, 80
+         
+         
+          
+         
+         
+          93011
+         
+         
+          
+         
+         
+          Butera (CL)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0934 347885
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Alimentari negozi a Butera
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.3914269
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.3914269
+
+        Butera
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+0.3914269
+Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.3914269
+Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.20549801
+
+          Butera (CL)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.18524179
+Panetteria Butera
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.18248808
+Alimentari negozi a Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.14889254
+Studio di architettura Antonio Sabatino
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
+-
+0.13899942
+Categorie correlate a Butera
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.12785651
+
+            Via S.rocco, 5 - 
+            93011 
+            Butera
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+__________________
+Mini Market Di Giuliana Antonio, Butera
+---
+-
+1.0
+Mini Market Di Giuliana Antonio - Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.9202092
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.9202092
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.61294144
+Risultati di ricerca per Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.61294144
+Scrivi la tua recensione di Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.47726953
+
+       Mini Market Di Giuliana Antonio
+       
+        
+         
+          
+         
+         
+          Via Giacomo Matteotti, 80
+         
+         
+          
+         
+         
+          93011
+         
+         
+          
+         
+         
+          Butera (CL)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0934 347885
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Alimentari negozi a Butera
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.3914269
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.3914269
+
+        Butera
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
+-
+0.3914269
+Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.3914269
+Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.20549801
+
+          Butera (CL)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.18524179
+Panetteria Butera
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.18248808
+Alimentari negozi a Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.14889254
+Studio di architettura Antonio Sabatino
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
+-
+0.13899942
+Categorie correlate a Butera
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.12785651
+
+            Via S.rocco, 5 - 
+            93011 
+            Butera
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+__________________
+93011
+---
+-
+1.0
+93011
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+1.0
+93011
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.42914444
+
+            Via S.rocco, 5 - 
+            93011 
+            Butera
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.20969759
+
+       Mini Market Di Giuliana Antonio
+       
+        
+         
+          
+         
+         
+          Via Giacomo Matteotti, 80
+         
+         
+          
+         
+         
+          93011
+         
+         
+          
+         
+         
+          Butera (CL)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0934 347885
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Alimentari negozi a Butera
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 __________________
 
                0934 347885
@@ -248,95 +1829,12 @@ __________________
       
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 __________________
-Mini Market Di Giuliana Antonio
+Butera
 ---
 -
 1.0
-Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
--
-1.0
-Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.9159223
-Mini Market Di Giuliana Antonio - Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
--
-0.66608924
-Scrivi la tua recensione di Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.66608924
-Risultati di ricerca per Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
--
-0.3796195
-
-       Mini Market Di Giuliana Antonio
-       
-        
-         
-          
-         
-         
-          Via Giacomo Matteotti, 80
-         
-         
-          
-         
-         
-          93011
-         
-         
-          
-         
-         
-          Butera (CL)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0934 347885
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Alimentari negozi a Butera
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
--
-0.16180292
-Studio di architettura Antonio Sabatino
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
-__________________
-Butera 
----
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 1.0
 
@@ -346,15 +1844,11 @@ Butera
 -
 1.0
 Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-1.0
-Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 1.0
 Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.5249972
 
@@ -462,12 +1956,12 @@ Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.61294144
-Scrivi la tua recensione di Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.61294144
 Risultati di ricerca per Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.61294144
+Scrivi la tua recensione di Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
 -
 0.47726953
 
@@ -530,6 +2024,10 @@ Risultati di ricerca per Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 -
 0.3914269
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.3914269
 
         Butera
        
@@ -537,15 +2035,11 @@ Risultati di ricerca per Mini Market Di Giuliana Antonio
 -
 0.3914269
 Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.3914269
-Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.3914269
 Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.20549801
 
@@ -581,6 +2075,10 @@ Butera
 ---
 -
 1.0
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+1.0
 
         Butera
        
@@ -588,15 +2086,11 @@ Butera
 -
 1.0
 Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-1.0
-Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 1.0
 Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.5249972
 
@@ -629,688 +2123,6 @@ Categorie correlate a Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
 -
 0.32189998
-
-       Mini Market Di Giuliana Antonio
-       
-        
-         
-          
-         
-         
-          Via Giacomo Matteotti, 80
-         
-         
-          
-         
-         
-          93011
-         
-         
-          
-         
-         
-          Butera (CL)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0934 347885
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Alimentari negozi a Butera
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
-__________________
-Mini Market Di Giuliana Antonio, Butera
----
--
-1.0
-Mini Market Di Giuliana Antonio - Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
--
-0.9202092
-Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
--
-0.9202092
-Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.61294144
-Scrivi la tua recensione di Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.61294144
-Risultati di ricerca per Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
--
-0.47726953
-
-       Mini Market Di Giuliana Antonio
-       
-        
-         
-          
-         
-         
-          Via Giacomo Matteotti, 80
-         
-         
-          
-         
-         
-          93011
-         
-         
-          
-         
-         
-          Butera (CL)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0934 347885
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Alimentari negozi a Butera
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
--
-0.3914269
-
-        Butera
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
--
-0.3914269
-Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.3914269
-Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.3914269
-Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.20549801
-
-          Butera (CL)
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
--
-0.18524179
-Panetteria Butera
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.18248808
-Alimentari negozi a Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
--
-0.14889254
-Studio di architettura Antonio Sabatino
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
--
-0.13899942
-Categorie correlate a Butera
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.12785651
-
-            Via S.rocco, 5 - 
-            93011 
-            Butera
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
-__________________
-93011
----
--
-1.0
-93011
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
--
-1.0
-93011
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.42914444
-
-            Via S.rocco, 5 - 
-            93011 
-            Butera
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.20969759
-
-       Mini Market Di Giuliana Antonio
-       
-        
-         
-          
-         
-         
-          Via Giacomo Matteotti, 80
-         
-         
-          
-         
-         
-          93011
-         
-         
-          
-         
-         
-          Butera (CL)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0934 347885
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Alimentari negozi a Butera
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
-__________________
-Mini Market Di Giuliana Antonio, Butera
----
--
-1.0
-Mini Market Di Giuliana Antonio - Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
--
-0.9202092
-Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
--
-0.9202092
-Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.61294144
-Scrivi la tua recensione di Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.61294144
-Risultati di ricerca per Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
--
-0.47726953
-
-       Mini Market Di Giuliana Antonio
-       
-        
-         
-          
-         
-         
-          Via Giacomo Matteotti, 80
-         
-         
-          
-         
-         
-          93011
-         
-         
-          
-         
-         
-          Butera (CL)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0934 347885
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Alimentari negozi a Butera
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
--
-0.3914269
-
-        Butera
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
--
-0.3914269
-Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.3914269
-Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.3914269
-Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.20549801
-
-          Butera (CL)
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
--
-0.18524179
-Panetteria Butera
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.18248808
-Alimentari negozi a Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
--
-0.14889254
-Studio di architettura Antonio Sabatino
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
--
-0.13899942
-Categorie correlate a Butera
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.12785651
-
-            Via S.rocco, 5 - 
-            93011 
-            Butera
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
-__________________
-Mini Market Di Giuliana Antonio, Butera
----
--
-1.0
-Mini Market Di Giuliana Antonio - Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
--
-0.9202092
-Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
--
-0.9202092
-Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.61294144
-Scrivi la tua recensione di Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.61294144
-Risultati di ricerca per Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
--
-0.47726953
-
-       Mini Market Di Giuliana Antonio
-       
-        
-         
-          
-         
-         
-          Via Giacomo Matteotti, 80
-         
-         
-          
-         
-         
-          93011
-         
-         
-          
-         
-         
-          Butera (CL)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0934 347885
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Alimentari negozi a Butera
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
--
-0.3914269
-
-        Butera
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
--
-0.3914269
-Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.3914269
-Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.3914269
-Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.20549801
-
-          Butera (CL)
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
--
-0.18524179
-Panetteria Butera
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.18248808
-Alimentari negozi a Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
--
-0.14889254
-Studio di architettura Antonio Sabatino
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
--
-0.13899942
-Categorie correlate a Butera
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.12785651
-
-            Via S.rocco, 5 - 
-            93011 
-            Butera
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
-__________________
-Mini Market Di Giuliana Antonio, Butera
----
--
-1.0
-Mini Market Di Giuliana Antonio - Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
--
-0.9202092
-Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
--
-0.9202092
-Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.61294144
-Scrivi la tua recensione di Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.61294144
-Risultati di ricerca per Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
--
-0.47726953
-
-       Mini Market Di Giuliana Antonio
-       
-        
-         
-          
-         
-         
-          Via Giacomo Matteotti, 80
-         
-         
-          
-         
-         
-          93011
-         
-         
-          
-         
-         
-          Butera (CL)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0934 347885
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Alimentari negozi a Butera
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
--
-0.3914269
-
-        Butera
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
--
-0.3914269
-Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.3914269
-Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.3914269
-Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.20549801
-
-          Butera (CL)
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
--
-0.18524179
-Panetteria Butera
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.18248808
-Alimentari negozi a Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
--
-0.14889254
-Studio di architettura Antonio Sabatino
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
--
-0.13899942
-Categorie correlate a Butera
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.12785651
-
-            Via S.rocco, 5 - 
-            93011 
-            Butera
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
-__________________
-93011
----
--
-1.0
-93011
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
--
-1.0
-93011
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.42914444
-
-            Via S.rocco, 5 - 
-            93011 
-            Butera
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.20969759
 
        Mini Market Di Giuliana Antonio
        
@@ -1449,58 +2261,30 @@ __________________
       
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 __________________
-Butera
+Mini Market Di Giuliana Antonio, Butera
 ---
 -
 1.0
-
-        Butera
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
--
-1.0
-Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-1.0
-Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.5249972
-
-          Butera (CL)
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
--
-0.47324747
-Panetteria Butera
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.46621242
-Alimentari negozi a Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
--
-0.37732786
 Mini Market Di Giuliana Antonio - Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
-0.3551095
-Categorie correlate a Butera
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+0.9202092
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
-0.3266421
-
-            Via S.rocco, 5 - 
-            93011 
-            Butera
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+0.9202092
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
-0.32189998
+0.61294144
+Risultati di ricerca per Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.61294144
+Scrivi la tua recensione di Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.47726953
 
        Mini Market Di Giuliana Antonio
        
@@ -1559,117 +2343,54 @@ Categorie correlate a Butera
        
       
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
-__________________
-Butera
----
 -
-1.0
+0.3914269
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.3914269
 
         Butera
        
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
 -
-1.0
-Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-1.0
+0.3914269
 Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
-1.0
+0.3914269
 Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
-0.5249972
+0.20549801
 
           Butera (CL)
          
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
 -
-0.47324747
+0.18524179
 Panetteria Butera
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
-0.46621242
+0.18248808
 Alimentari negozi a Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
 -
-0.37732786
-Mini Market Di Giuliana Antonio - Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+0.14889254
+Studio di architettura Antonio Sabatino
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
 -
-0.3551095
+0.13899942
 Categorie correlate a Butera
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 -
-0.3266421
+0.12785651
 
             Via S.rocco, 5 - 
             93011 
             Butera
            
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.32189998
-
-       Mini Market Di Giuliana Antonio
-       
-        
-         
-          
-         
-         
-          Via Giacomo Matteotti, 80
-         
-         
-          
-         
-         
-          93011
-         
-         
-          
-         
-         
-          Butera (CL)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0934 347885
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Alimentari negozi a Butera
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 __________________
 Supermercati
 ---
@@ -1680,727 +2401,6 @@ Supermercati
            
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 __________________
-Mini Market Di Giuliana Antonio, Butera
----
--
-1.0
-Mini Market Di Giuliana Antonio - Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
--
-0.9202092
-Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
--
-0.9202092
-Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.61294144
-Scrivi la tua recensione di Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.61294144
-Risultati di ricerca per Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
--
-0.47726953
-
-       Mini Market Di Giuliana Antonio
-       
-        
-         
-          
-         
-         
-          Via Giacomo Matteotti, 80
-         
-         
-          
-         
-         
-          93011
-         
-         
-          
-         
-         
-          Butera (CL)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0934 347885
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Alimentari negozi a Butera
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
--
-0.3914269
-
-        Butera
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
--
-0.3914269
-Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.3914269
-Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.3914269
-Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.20549801
-
-          Butera (CL)
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
--
-0.18524179
-Panetteria Butera
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.18248808
-Alimentari negozi a Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
--
-0.14889254
-Studio di architettura Antonio Sabatino
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
--
-0.13899942
-Categorie correlate a Butera
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.12785651
-
-            Via S.rocco, 5 - 
-            93011 
-            Butera
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
-__________________
-Mini Market Di Giuliana Antonio, Butera
----
--
-1.0
-Mini Market Di Giuliana Antonio - Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
--
-0.9202092
-Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
--
-0.9202092
-Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.61294144
-Scrivi la tua recensione di Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.61294144
-Risultati di ricerca per Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
--
-0.47726953
-
-       Mini Market Di Giuliana Antonio
-       
-        
-         
-          
-         
-         
-          Via Giacomo Matteotti, 80
-         
-         
-          
-         
-         
-          93011
-         
-         
-          
-         
-         
-          Butera (CL)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0934 347885
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Alimentari negozi a Butera
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
--
-0.3914269
-
-        Butera
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
--
-0.3914269
-Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.3914269
-Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.3914269
-Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.20549801
-
-          Butera (CL)
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
--
-0.18524179
-Panetteria Butera
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.18248808
-Alimentari negozi a Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
--
-0.14889254
-Studio di architettura Antonio Sabatino
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
--
-0.13899942
-Categorie correlate a Butera
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.12785651
-
-            Via S.rocco, 5 - 
-            93011 
-            Butera
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
-__________________
-93011
----
--
-1.0
-93011
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
--
-1.0
-93011
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.42914444
-
-            Via S.rocco, 5 - 
-            93011 
-            Butera
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.20969759
-
-       Mini Market Di Giuliana Antonio
-       
-        
-         
-          
-         
-         
-          Via Giacomo Matteotti, 80
-         
-         
-          
-         
-         
-          93011
-         
-         
-          
-         
-         
-          Butera (CL)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0934 347885
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Alimentari negozi a Butera
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
-__________________
-93011
----
--
-1.0
-93011
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
--
-1.0
-93011
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.42914444
-
-            Via S.rocco, 5 - 
-            93011 
-            Butera
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.20969759
-
-       Mini Market Di Giuliana Antonio
-       
-        
-         
-          
-         
-         
-          Via Giacomo Matteotti, 80
-         
-         
-          
-         
-         
-          93011
-         
-         
-          
-         
-         
-          Butera (CL)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0934 347885
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Alimentari negozi a Butera
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
-__________________
-Butera
----
--
-1.0
-
-        Butera
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
--
-1.0
-Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-1.0
-Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.5249972
-
-          Butera (CL)
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
--
-0.47324747
-Panetteria Butera
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.46621242
-Alimentari negozi a Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
--
-0.37732786
-Mini Market Di Giuliana Antonio - Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
--
-0.3551095
-Categorie correlate a Butera
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.3266421
-
-            Via S.rocco, 5 - 
-            93011 
-            Butera
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.32189998
-
-       Mini Market Di Giuliana Antonio
-       
-        
-         
-          
-         
-         
-          Via Giacomo Matteotti, 80
-         
-         
-          
-         
-         
-          93011
-         
-         
-          
-         
-         
-          Butera (CL)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0934 347885
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Alimentari negozi a Butera
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
-__________________
-93011
----
--
-1.0
-93011
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
--
-1.0
-93011
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.42914444
-
-            Via S.rocco, 5 - 
-            93011 
-            Butera
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.20969759
-
-       Mini Market Di Giuliana Antonio
-       
-        
-         
-          
-         
-         
-          Via Giacomo Matteotti, 80
-         
-         
-          
-         
-         
-          93011
-         
-         
-          
-         
-         
-          Butera (CL)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0934 347885
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Alimentari negozi a Butera
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
-__________________
-Butera
----
--
-1.0
-
-        Butera
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]
--
-1.0
-Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-1.0
-Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.5249972
-
-          Butera (CL)
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
--
-0.47324747
-Panetteria Butera
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.46621242
-Alimentari negozi a Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
--
-0.37732786
-Mini Market Di Giuliana Antonio - Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
--
-0.3551095
-Categorie correlate a Butera
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
--
-0.3266421
-
-            Via S.rocco, 5 - 
-            93011 
-            Butera
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.32189998
-
-       Mini Market Di Giuliana Antonio
-       
-        
-         
-          
-         
-         
-          Via Giacomo Matteotti, 80
-         
-         
-          
-         
-         
-          93011
-         
-         
-          
-         
-         
-          Butera (CL)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0934 347885
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Alimentari negozi a Butera
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
-__________________
 Mini Market Di Giuliana Antonio
 ---
 -
@@ -2417,12 +2417,12 @@ Mini Market Di Giuliana Antonio - Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.66608924
-Scrivi la tua recensione di Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.66608924
 Risultati di ricerca per Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.66608924
+Scrivi la tua recensione di Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
 -
 0.3796195
 
@@ -2587,6 +2587,10 @@ Supermercati Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.5249972
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.5249972
 
         Butera
        
@@ -2594,15 +2598,11 @@ Supermercati Butera
 -
 0.5249972
 Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.5249972
-Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.5249972
 Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.27562204
 
@@ -2778,6 +2778,10 @@ Risultati di ricerca per Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 -
 0.33050072
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.33050072
 
         Butera
        
@@ -2785,15 +2789,11 @@ Risultati di ricerca per Mini Market Di Giuliana Antonio
 -
 0.33050072
 Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.33050072
-Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.33050072
 Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.17351195
 
@@ -2841,12 +2841,12 @@ Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.49538922
-Scrivi la tua recensione di Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.49538922
 Risultati di ricerca per Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.49538922
+Scrivi la tua recensione di Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
 -
 0.38573697
 
@@ -2909,6 +2909,10 @@ Risultati di ricerca per Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 -
 0.31635758
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.31635758
 
         Butera
        
@@ -2916,15 +2920,11 @@ Risultati di ricerca per Mini Market Di Giuliana Antonio
 -
 0.31635758
 Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.31635758
-Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.31635758
 Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.16608682
 
@@ -2972,12 +2972,12 @@ Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.49538922
-Scrivi la tua recensione di Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.49538922
 Risultati di ricerca per Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.49538922
+Scrivi la tua recensione di Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
 -
 0.38573697
 
@@ -3040,6 +3040,10 @@ Risultati di ricerca per Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 -
 0.31635758
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.31635758
 
         Butera
        
@@ -3047,15 +3051,11 @@ Risultati di ricerca per Mini Market Di Giuliana Antonio
 -
 0.31635758
 Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.31635758
-Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.31635758
 Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.16608682
 
@@ -3103,12 +3103,99 @@ Mini Market Di Giuliana Antonio - Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.52220994
+Risultati di ricerca per Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.52220994
 Scrivi la tua recensione di Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.2976194
+
+       Mini Market Di Giuliana Antonio
+       
+        
+         
+          
+         
+         
+          Via Giacomo Matteotti, 80
+         
+         
+          
+         
+         
+          93011
+         
+         
+          
+         
+         
+          Butera (CL)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0934 347885
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Alimentari negozi a Butera
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.1268525
+Studio di architettura Antonio Sabatino
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
+__________________
+ Più informazioni su Mini Market Di Giuliana Antonio
+---
+-
+0.7839939
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.7839939
+Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.7180776
+Mini Market Di Giuliana Antonio - Butera
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.52220994
 Risultati di ricerca per Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.52220994
+Scrivi la tua recensione di Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
 -
 0.2976194
 
@@ -3192,99 +3279,12 @@ Mini Market Di Giuliana Antonio - Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.52220994
-Scrivi la tua recensione di Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.52220994
 Risultati di ricerca per Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
--
-0.2976194
-
-       Mini Market Di Giuliana Antonio
-       
-        
-         
-          
-         
-         
-          Via Giacomo Matteotti, 80
-         
-         
-          
-         
-         
-          93011
-         
-         
-          
-         
-         
-          Butera (CL)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0934 347885
-         
-        
-        
-        
-          Chiama
-        
-        
-        
-         
-          
-         
-         
-          Alimentari negozi a Butera
-          
-         
-        
-         
-        
-       
-         
-          
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
--
-0.1268525
-Studio di architettura Antonio Sabatino
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
-__________________
- Più informazioni su Mini Market Di Giuliana Antonio
----
--
-0.7839939
-Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
--
-0.7839939
-Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.7180776
-Mini Market Di Giuliana Antonio - Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.52220994
 Scrivi la tua recensione di Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.52220994
-Risultati di ricerca per Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
 -
 0.2976194
 
@@ -3501,6 +3501,10 @@ Scrivi la tua recensione di Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 -
 0.2814953
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.2814953
 
         Butera
        
@@ -3508,15 +3512,11 @@ Scrivi la tua recensione di Mini Market Di Giuliana Antonio
 -
 0.2814953
 Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.2814953
-Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.2814953
 Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.14778423
 
@@ -3564,12 +3564,12 @@ Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.42687154
-Scrivi la tua recensione di Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.42687154
 Risultati di ricerca per Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.42687154
+Scrivi la tua recensione di Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
 -
 0.33238536
 
@@ -3632,6 +3632,10 @@ Risultati di ricerca per Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 -
 0.27260187
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.27260187
 
         Butera
        
@@ -3639,15 +3643,11 @@ Risultati di ricerca per Mini Market Di Giuliana Antonio
 -
 0.27260187
 Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.27260187
-Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.27260187
 Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.14311522
 
@@ -3697,12 +3697,12 @@ Mini Market Di Giuliana Antonio - Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.45937374
-Scrivi la tua recensione di Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.45937374
 Risultati di ricerca per Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.45937374
+Scrivi la tua recensione di Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
 -
 0.28824517
 Categorie correlate a Butera
@@ -3788,12 +3788,12 @@ Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.38066646
-Scrivi la tua recensione di Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.38066646
 Risultati di ricerca per Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.38066646
+Scrivi la tua recensione di Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
 -
 0.29640758
 
@@ -3856,6 +3856,10 @@ Risultati di ricerca per Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 -
 0.24309513
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.24309513
 
         Butera
        
@@ -3863,15 +3867,11 @@ Risultati di ricerca per Mini Market Di Giuliana Antonio
 -
 0.24309513
 Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.24309513
-Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.24309513
 Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.12762426
 
@@ -3916,12 +3916,6 @@ Prodotti alimentari
 
             Alimentari
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]
--
-0.52245295
-
-            Alimentari
-           
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.52245295
@@ -3929,6 +3923,12 @@ Prodotti alimentari
             Alimentari
            
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.52245295
+
+            Alimentari
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.3188342
 Alimentari negozi
@@ -4011,12 +4011,6 @@ Vendita Alimentari
 
             Alimentari
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]
--
-0.52245295
-
-            Alimentari
-           
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.52245295
@@ -4024,6 +4018,12 @@ Vendita Alimentari
             Alimentari
            
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.52245295
+
+            Alimentari
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.3188342
 Alimentari negozi
@@ -4115,12 +4115,12 @@ Mini Market Di Giuliana Antonio - Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.11878045
-Scrivi la tua recensione di Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.11878045
 Risultati di ricerca per Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.11878045
+Scrivi la tua recensione di Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
 -
 0.06835965
 
@@ -4198,12 +4198,12 @@ Via S.rocco, 5
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
 -
 0.13969441
-Via Infantone, 38
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.13969441
 Via Marconi, 61
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.13969441
+Via Infantone, 38
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.124347895
 Via Vespri, 47
@@ -4302,12 +4302,6 @@ Alimenti, Vendita Alimentari
 
             Alimentari
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]
--
-0.39755353
-
-            Alimentari
-           
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.39755353
@@ -4315,6 +4309,12 @@ Alimenti, Vendita Alimentari
             Alimentari
            
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.39755353
+
+            Alimentari
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.24261259
 Alimentari negozi
@@ -4401,21 +4401,9 @@ __________________
 -
 0.15600058
 
-           13.62 km
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]
--
-0.15600058
-
            13.84 km
          
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]
--
-0.15600058
-
-           13.51 km
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]
 -
 0.15600058
 
@@ -4425,9 +4413,21 @@ __________________
 -
 0.15600058
 
+           13.62 km
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]
+-
+0.15600058
+
            13.69 km
          
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[1]
+-
+0.15600058
+
+           13.51 km
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]
 -
 0.13161324
 Mini Market Di Giuliana Antonio
@@ -4442,12 +4442,12 @@ Mini Market Di Giuliana Antonio - Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.08922589
-Scrivi la tua recensione di Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.08922589
 Risultati di ricerca per Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.08922589
+Scrivi la tua recensione di Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
 -
 0.05135063
 
@@ -4513,6 +4513,10 @@ Shopping e acquisti Butera
 ---
 -
 0.3551095
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.3551095
 
         Butera
        
@@ -4520,15 +4524,11 @@ Shopping e acquisti Butera
 -
 0.3551095
 Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.3551095
-Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.3551095
 Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.1864315
 
@@ -4707,16 +4707,16 @@ Via Giacomo Matteotti, 80
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 -
 0.13969441
+Via Marconi, 61
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.13969441
 Via Infantone, 38
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.13969441
 Via S.rocco, 5
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.13969441
-Via Marconi, 61
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.124347895
 Via Vespri, 47
@@ -4750,6 +4750,10 @@ V. MILANO. 393011  Butera
 ---
 -
 0.29623866
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.29623866
 
         Butera
        
@@ -4757,15 +4761,11 @@ V. MILANO. 393011  Butera
 -
 0.29623866
 Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.29623866
-Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.29623866
 Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.15552446
 
@@ -4857,8 +4857,12 @@ Categorie correlate a Butera
       
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 __________________
-VIA SAN ROCCO, 593011  Butera
+Via Luigi Sturzo, 8093011  Butera
 ---
+-
+0.282555
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.282555
 
@@ -4868,15 +4872,11 @@ VIA SAN ROCCO, 593011  Butera
 -
 0.282555
 Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.282555
-Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.282555
 Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.19745862
 
@@ -4961,16 +4961,16 @@ Alimentari negozi a Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
 -
 0.12638608
+Via Marconi, 61
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.12638608
 Via Infantone, 38
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.12638608
 Via S.rocco, 5
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.12638608
-Via Marconi, 61
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.112501584
 Via Vespri, 47
@@ -5004,8 +5004,12 @@ Via Giacomo Matteotti, 80
 Categorie correlate a Butera
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
 __________________
-Via Luigi Sturzo, 8093011  Butera
+VIA SAN ROCCO, 593011  Butera
 ---
+-
+0.282555
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.282555
 
@@ -5015,15 +5019,11 @@ Via Luigi Sturzo, 8093011  Butera
 -
 0.282555
 Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.282555
-Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.282555
 Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.19745862
 
@@ -5108,16 +5108,16 @@ Alimentari negozi a Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
 -
 0.12638608
+Via Marconi, 61
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.12638608
 Via Infantone, 38
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.12638608
 Via S.rocco, 5
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.12638608
-Via Marconi, 61
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.112501584
 Via Vespri, 47
@@ -5155,6 +5155,10 @@ V. LUIGI STURZO. 6193011  Butera
 ---
 -
 0.25941163
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.25941163
 
         Butera
        
@@ -5162,15 +5166,11 @@ V. LUIGI STURZO. 6193011  Butera
 -
 0.25941163
 Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.25941163
-Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.25941163
 Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.13619037
 
@@ -5266,6 +5266,10 @@ V. Monte Grappa, 393011  Butera
 ---
 -
 0.25941163
+Butera
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.25941163
 
         Butera
        
@@ -5273,15 +5277,11 @@ V. Monte Grappa, 393011  Butera
 -
 0.25941163
 Butera
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.25941163
-Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.25941163
 Butera
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.13619037
 
@@ -5397,12 +5397,12 @@ Mini Market Di Giuliana Antonio - Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.09523485
-Scrivi la tua recensione di Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.09523485
 Risultati di ricerca per Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.09523485
+Scrivi la tua recensione di Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
 -
 0.05480886
 
@@ -5525,21 +5525,9 @@ Gori Emanuele
 -
 0.18486297
 
-           13.62 km
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]
--
-0.18486297
-
            13.84 km
          
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]
--
-0.18486297
-
-           13.51 km
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]
 -
 0.18486297
 
@@ -5549,9 +5537,21 @@ Gori Emanuele
 -
 0.18486297
 
+           13.62 km
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]
+-
+0.18486297
+
            13.69 km
          
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[1]
+-
+0.18486297
+
+           13.51 km
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]
 -
 0.16379878
 Corso Vittorio Emanuele, 26
@@ -5584,21 +5584,9 @@ Dentista Dott. Guiducci Giuseppe
 -
 0.13611598
 
-           13.62 km
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]
--
-0.13611598
-
            13.84 km
          
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]
--
-0.13611598
-
-           13.51 km
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]
 -
 0.13611598
 
@@ -5608,9 +5596,21 @@ Dentista Dott. Guiducci Giuseppe
 -
 0.13611598
 
+           13.62 km
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]
+-
+0.13611598
+
            13.69 km
          
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[1]
+-
+0.13611598
+
+           13.51 km
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]
 -
 0.11483718
 Mini Market Di Giuliana Antonio
@@ -5625,12 +5625,12 @@ Mini Market Di Giuliana Antonio - Butera
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.077852726
-Scrivi la tua recensione di Mini Market Di Giuliana Antonio
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
--
-0.077852726
 Risultati di ricerca per Mini Market Di Giuliana Antonio
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.077852726
+Scrivi la tua recensione di Mini Market Di Giuliana Antonio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
 -
 0.04480523
 
@@ -5718,21 +5718,9 @@ __________________
 -
 0.14554304
 
-           13.62 km
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]
--
-0.14554304
-
            13.84 km
          
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]
--
-0.14554304
-
-           13.51 km
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]
 -
 0.14554304
 
@@ -5742,7 +5730,19 @@ __________________
 -
 0.14554304
 
+           13.62 km
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]
+-
+0.14554304
+
            13.69 km
          
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[1]
+-
+0.14554304
+
+           13.51 km
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]
 __________________

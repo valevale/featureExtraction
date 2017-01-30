@@ -3,19 +3,7 @@ Lupo Italo - Pescara
 -
 1.0
 Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-1.0
-Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-1.0
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-1.0
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
 -
 1.0
 Lupo Italo, Pescara
@@ -25,13 +13,17 @@ Lupo Italo, Pescara
 Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
-0.86576796
-Lupo Italo
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+1.0
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
 -
-0.86576796
-Lupo Italo
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+1.0
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+1.0
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
 -
 0.86576796
 Lupo Italo
@@ -40,6 +32,14 @@ Lupo Italo
 0.86576796
 Lupo Italo
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[6]/i[1]
+-
+0.86576796
+Lupo Italo
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.86576796
+Lupo Italo
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
 -
 0.6754553
 Recensioni Lupo Italo, Pescara
@@ -69,15 +69,11 @@ Pescara
 -
 0.5004457
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.5004457
-Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.5004457
-Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.5004457
+Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
 -
 0.5004457
 Pescara
@@ -85,11 +81,15 @@ Pescara
 -
 0.5004457
 Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.5004457
+Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.5004457
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.4980816
 Ricerche simili Lupo Italo, Pescara
@@ -116,12 +116,12 @@ Aziende simili nelle vicinanze Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/div[1]
 -
 0.2526552
-Gioielli in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
--
-0.2526552
 Gioielli Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.2526552
+Gioielli in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
 -
 0.22000305
 Gioielleria in Pescara
@@ -136,15 +136,11 @@ Pescara
 -
 1.0
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
 -
 1.0
 Pescara
@@ -152,35 +148,27 @@ Pescara
 -
 1.0
 Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 1.0
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.5048604
-Gioielli in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.5048604
 Gioielli Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
 -
-0.4936632
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+0.5048604
+Gioielli in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
 -
 0.4936632
 Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.4936632
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.4936632
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
 -
 0.4936632
 Lupo Italo, Pescara
@@ -190,17 +178,29 @@ Lupo Italo, Pescara
 Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
+0.4936632
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.4936632
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.4936632
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
 0.43961424
 Gioielleria in Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[9]/a[1]
 -
 0.3878534
-Argenteria in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[11]/a[1]
--
-0.3878534
 Oreficeria in Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[15]/a[1]
+-
+0.3878534
+Argenteria in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[11]/a[1]
 -
 0.3878534
 Orologi in Pescara
@@ -227,16 +227,16 @@ Shopping e acquisti Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
 -
 0.267268
+V. FIRENZE. 12865122  Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.267268
 V. FIRENZE. 25565122  Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
 -
 0.267268
 V. FIRENZE. 23165122  Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
--
-0.267268
-V. FIRENZE. 12865122  Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
 -
 0.2563382
 Gioielli articoli da Regalo in Pescara
@@ -259,15 +259,11 @@ Pescara
 -
 1.0
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
 -
 1.0
 Pescara
@@ -275,35 +271,27 @@ Pescara
 -
 1.0
 Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 1.0
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.5048604
-Gioielli in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.5048604
 Gioielli Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
 -
-0.4936632
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+0.5048604
+Gioielli in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
 -
 0.4936632
 Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.4936632
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.4936632
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
 -
 0.4936632
 Lupo Italo, Pescara
@@ -313,17 +301,29 @@ Lupo Italo, Pescara
 Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
+0.4936632
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.4936632
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.4936632
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
 0.43961424
 Gioielleria in Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[9]/a[1]
 -
 0.3878534
-Argenteria in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[11]/a[1]
--
-0.3878534
 Oreficeria in Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[15]/a[1]
+-
+0.3878534
+Argenteria in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[11]/a[1]
 -
 0.3878534
 Orologi in Pescara
@@ -350,16 +350,16 @@ Shopping e acquisti Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
 -
 0.267268
+V. FIRENZE. 12865122  Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.267268
 V. FIRENZE. 25565122  Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
 -
 0.267268
 V. FIRENZE. 23165122  Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
--
-0.267268
-V. FIRENZE. 12865122  Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
 -
 0.2563382
 Gioielli articoli da Regalo in Pescara
@@ -390,15 +390,11 @@ Pescara
 -
 0.31728947
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.31728947
-Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.31728947
-Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.31728947
+Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
 -
 0.31728947
 Pescara
@@ -406,39 +402,31 @@ Pescara
 -
 0.31728947
 Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.31728947
+Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.31728947
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.20327787
 Gioielli, Gioielli articoli da Regalo, Anelli, Pietre Dure Semipreziose, Orecchini, Bracciali, Collana, Braccialetti, Gioielleria, Orologi, Argenteria, Pietre Preziose, Argento, Gold, Oreficeria, Bomboniere, Oro, Ingrosso, Forniture per uffici ed Aziende, Sport E Tempo Libero, Forniture, Tempo Libero, Articoli da Regalo, Orafo, Lavorazioni, Regalistica Aziendale, Artigianato, Medaglie, Gadget, Minerali, Distintivi, Pescara, Jewelry, Croci, Silver, Pendenti, Handmade, Bracelets, Necklaces, Earrings, Pin, Trofeo, Silverware, Pendants, Crosses, Precious Stones, Jewelery, O-Ring, Coppe Trofei, Cufflink, Tie Pins, Pe 53, In Pescara, Conchiglie E Fo, Italo Lupo, Fermacravatta
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/span[1]
 -
 0.16018689
-Gioielli in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
--
-0.16018689
 Gioielli Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
 -
-0.15663414
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+0.16018689
+Gioielli in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
 -
 0.15663414
 Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.15663414
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.15663414
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
 -
 0.15663414
 Lupo Italo, Pescara
@@ -448,17 +436,29 @@ Lupo Italo, Pescara
 Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
+0.15663414
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.15663414
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.15663414
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
 0.13948497
 Gioielleria in Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[9]/a[1]
 -
 0.1230618
-Argenteria in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[11]/a[1]
--
-0.1230618
 Oreficeria in Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[15]/a[1]
+-
+0.1230618
+Argenteria in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[11]/a[1]
 -
 0.1230618
 Orologi in Pescara
@@ -481,154 +481,23 @@ Shopping e acquisti Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
 -
 0.084801316
+V. FIRENZE. 12865122  Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.084801316
 V. FIRENZE. 25565122  Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
 -
 0.084801316
 V. FIRENZE. 23165122  Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
--
-0.084801316
-V. FIRENZE. 12865122  Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
 -
 0.08133341
 Gioielli articoli da Regalo in Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
 __________________
-Pescara
----
--
-1.0
-Pescara 
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
--
-1.0
-Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
--
-1.0
-Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.5048604
-Gioielli in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
--
-0.5048604
-Gioielli Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
--
-0.4936632
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.4936632
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.4936632
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.4936632
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
--
-0.4936632
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
--
-0.4936632
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
--
-0.43961424
-Gioielleria in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[9]/a[1]
--
-0.3878534
-Argenteria in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[11]/a[1]
--
-0.3878534
-Oreficeria in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[15]/a[1]
--
-0.3878534
-Orologi in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[10]/a[1]
--
-0.33591524
-Recensioni Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
--
-0.32024074
-Descrizione Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
--
-0.29609096
-Pietre Preziose in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[12]/a[1]
--
-0.29557323
-Galleria Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
--
-0.28518867
-Shopping e acquisti Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
--
-0.267268
-V. FIRENZE. 25565122  Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
--
-0.267268
-V. FIRENZE. 23165122  Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
--
-0.267268
-V. FIRENZE. 12865122  Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
--
-0.2563382
-Gioielli articoli da Regalo in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
--
-0.24841172
-Ricerche simili Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
--
-0.24453211
-V. MILANO. 7765122  Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
-__________________
 Lupo Italo
 ---
--
-1.0
-Lupo Italo
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
--
-1.0
-Lupo Italo
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
 -
 1.0
 Lupo Italo
@@ -638,21 +507,17 @@ Lupo Italo
 Lupo Italo
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[6]/i[1]
 -
-0.86274016
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+1.0
+Lupo Italo
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+1.0
+Lupo Italo
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
 -
 0.86274016
 Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.86274016
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.86274016
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
 -
 0.86274016
 Lupo Italo, Pescara
@@ -661,6 +526,18 @@ Lupo Italo, Pescara
 0.86274016
 Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.86274016
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.86274016
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.86274016
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
 -
 0.5885396
 E-mail a Lupo Italo
@@ -717,23 +594,11 @@ __________________
 -
 1.0
 65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
--
-1.0
-65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
--
-1.0
-65122
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
 -
 1.0
 65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
--
-1.0
-65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[2]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
 -
 1.0
 65122
@@ -741,7 +606,142 @@ __________________
 -
 1.0
 65122
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+65122
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+65122
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+-
+1.0
+65122
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[2]
+__________________
+Pescara
+---
+-
+1.0
+Pescara 
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[2]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
+-
+0.5048604
+Gioielli Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.5048604
+Gioielli in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
+-
+0.4936632
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
+-
+0.4936632
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]/small[1]
+-
+0.4936632
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.4936632
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.4936632
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.4936632
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
+0.43961424
+Gioielleria in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[9]/a[1]
+-
+0.3878534
+Oreficeria in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[15]/a[1]
+-
+0.3878534
+Argenteria in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[11]/a[1]
+-
+0.3878534
+Orologi in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[10]/a[1]
+-
+0.33591524
+Recensioni Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]
+-
+0.32024074
+Descrizione Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]
+-
+0.29609096
+Pietre Preziose in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[12]/a[1]
+-
+0.29557323
+Galleria Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]
+-
+0.28518867
+Shopping e acquisti Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
+-
+0.267268
+V. FIRENZE. 12865122  Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.267268
+V. FIRENZE. 25565122  Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
+-
+0.267268
+V. FIRENZE. 23165122  Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
+-
+0.2563382
+Gioielli articoli da Regalo in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[2]/a[1]
+-
+0.24841172
+Ricerche simili Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/h2[1]
+-
+0.24453211
+V. MILANO. 7765122  Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]
 __________________
  PIETRE PREZIOSE 
 ---
@@ -777,19 +777,7 @@ Recensioni Lupo Italo, Pescara
 -
 0.5376136
 Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
--
-0.5376136
-Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.5376136
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.5376136
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
 -
 0.5376136
 Lupo Italo, Pescara
@@ -799,13 +787,17 @@ Lupo Italo, Pescara
 Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
-0.46544853
-Lupo Italo
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+0.5376136
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
 -
-0.46544853
-Lupo Italo
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
+0.5376136
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.5376136
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
 -
 0.46544853
 Lupo Italo
@@ -814,6 +806,14 @@ Lupo Italo
 0.46544853
 Lupo Italo
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[6]/i[1]
+-
+0.46544853
+Lupo Italo
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
+-
+0.46544853
+Lupo Italo
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
 -
 0.34599033
 Descrizione Lupo Italo, Pescara
@@ -852,15 +852,11 @@ Pescara
 -
 0.2690464
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.2690464
-Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.2690464
-Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.2690464
+Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
 -
 0.2690464
 Pescara
@@ -868,11 +864,15 @@ Pescara
 -
 0.2690464
 Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.2690464
+Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.2690464
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.2677754
 Ricerche simili Lupo Italo, Pescara
@@ -893,12 +893,12 @@ Aziende simili nelle vicinanze Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[6]
 -
 0.13583086
-Gioielli in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
--
-0.13583086
 Gioielli Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.13583086
+Gioielli in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
 __________________
  Via Roma 31/35   65122 Pescara  (PE) 
 ---
@@ -909,19 +909,15 @@ __________________
 -
 0.3057446
 65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
--
-0.3057446
-65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
--
-0.3057446
-65122
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
 -
 0.3057446
 65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+0.3057446
+65122
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
 -
 0.3057446
 65122
@@ -929,7 +925,11 @@ __________________
 -
 0.3057446
 65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+-
+0.3057446
+65122
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
 -
 0.3057446
 65122
@@ -949,15 +949,11 @@ Pescara
 -
 0.17882085
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.17882085
-Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.17882085
-Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.17882085
+Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
 -
 0.17882085
 Pescara
@@ -965,35 +961,27 @@ Pescara
 -
 0.17882085
 Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.17882085
+Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.17882085
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.090279564
-Gioielli in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.090279564
 Gioielli Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
 -
-0.08827727
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+0.090279564
+Gioielli in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
 -
 0.08827727
 Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.08827727
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.08827727
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
 -
 0.08827727
 Lupo Italo, Pescara
@@ -1003,17 +991,29 @@ Lupo Italo, Pescara
 Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
+0.08827727
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.08827727
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.08827727
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
 0.07861219
 Gioielleria in Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[9]/a[1]
 -
 0.06935628
-Argenteria in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[11]/a[1]
--
-0.06935628
 Oreficeria in Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[15]/a[1]
+-
+0.06935628
+Argenteria in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[11]/a[1]
 -
 0.06935628
 Orologi in Pescara
@@ -1060,15 +1060,11 @@ Pescara
 -
 0.5938334
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.5938334
-Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.5938334
-Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.5938334
+Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
 -
 0.5938334
 Pescara
@@ -1076,35 +1072,27 @@ Pescara
 -
 0.5938334
 Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.5938334
+Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.5938334
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.29980296
-Gioielli in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.29980296
 Gioielli Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
 -
-0.29315367
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+0.29980296
+Gioielli in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
 -
 0.29315367
 Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.29315367
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.29315367
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
 -
 0.29315367
 Lupo Italo, Pescara
@@ -1114,17 +1102,29 @@ Lupo Italo, Pescara
 Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
+0.29315367
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.29315367
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.29315367
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
 0.26105762
 Gioielleria in Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[9]/a[1]
 -
 0.23032032
-Argenteria in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[11]/a[1]
--
-0.23032032
 Oreficeria in Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[15]/a[1]
+-
+0.23032032
+Argenteria in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[11]/a[1]
 -
 0.23032032
 Orologi in Pescara
@@ -1151,16 +1151,16 @@ Shopping e acquisti Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
 -
 0.15871266
+V. FIRENZE. 12865122  Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.15871266
 V. FIRENZE. 25565122  Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
 -
 0.15871266
 V. FIRENZE. 23165122  Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
--
-0.15871266
-V. FIRENZE. 12865122  Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
 -
 0.1522222
 Gioielli articoli da Regalo in Pescara
@@ -1206,11 +1206,7 @@ Dati
 -
 0.47840658
 Dati
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[1]/a[1]
--
-0.47840658
-Dati
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[1]/a[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[1]/a[1]
 -
 0.47840658
 Dati
@@ -1218,7 +1214,11 @@ Dati
 -
 0.47840658
 Dati
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[1]/a[1]
+-
+0.47840658
+Dati
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[1]/a[1]
 -
 0.1638252
 
@@ -1369,15 +1369,11 @@ Pescara
 -
 0.38836828
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.38836828
-Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.38836828
-Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.38836828
+Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
 -
 0.38836828
 Pescara
@@ -1385,27 +1381,19 @@ Pescara
 -
 0.38836828
 Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.38836828
+Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.38836828
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.3882531
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.3882531
 Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.3882531
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.3882531
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
 -
 0.3882531
 Lupo Italo, Pescara
@@ -1414,6 +1402,18 @@ Lupo Italo, Pescara
 0.3882531
 Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.3882531
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.3882531
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.3882531
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
 -
 0.36784598
 Pietre Preziose in Pescara
@@ -1445,27 +1445,19 @@ Galleria Lupo Italo, Pescara
 -
 0.22395824
 Lupo Italo
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
--
-0.22395824
-Lupo Italo
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
--
-0.22395824
-Lupo Italo
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/span[1]
 -
 0.22395824
 Lupo Italo
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[6]/i[1]
 -
-0.22134165
-65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+0.22395824
+Lupo Italo
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]/span[1]
 -
-0.22134165
-65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+0.22395824
+Lupo Italo
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/h2[1]/small[1]
 -
 0.22134165
 65122
@@ -1473,7 +1465,11 @@ Lupo Italo
 -
 0.22134165
 65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+0.22134165
+65122
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
 -
 0.22134165
 65122
@@ -1481,7 +1477,11 @@ Lupo Italo
 -
 0.22134165
 65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+-
+0.22134165
+65122
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
 __________________
  
         
@@ -1518,15 +1518,11 @@ Pescara
 -
 0.19946802
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.19946802
-Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.19946802
-Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.19946802
+Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
 -
 0.19946802
 Pescara
@@ -1534,11 +1530,15 @@ Pescara
 -
 0.19946802
 Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.19946802
+Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.19946802
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.19306631
 Questa è la mia azienda
@@ -1546,19 +1546,15 @@ Questa è la mia azienda
 -
 0.17052339
 65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
--
-0.17052339
-65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
--
-0.17052339
-65122
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
 -
 0.17052339
 65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+0.17052339
+65122
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
 -
 0.17052339
 65122
@@ -1566,7 +1562,11 @@ Questa è la mia azienda
 -
 0.17052339
 65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+-
+0.17052339
+65122
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
 -
 0.17052339
 65122
@@ -1586,11 +1586,7 @@ Dati
 -
 0.14723681
 Dati
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[1]/a[1]
--
-0.14723681
-Dati
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[1]/a[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[1]/a[1]
 -
 0.14723681
 Dati
@@ -1598,7 +1594,11 @@ Dati
 -
 0.14723681
 Dati
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[1]/a[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[1]/a[1]
+-
+0.14723681
+Dati
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[1]/a[1]
 -
 0.12832531
 Aziende simili nelle vicinanze Lupo Italo, Pescara
@@ -1617,12 +1617,12 @@ Pietre Dure Semipreziose
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[4]/a[1]
 -
 0.10070351
-Gioielli in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
--
-0.10070351
 Gioielli Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
+-
+0.10070351
+Gioielli in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
 __________________
 Compro Oro Gold 2000 Di Sepiaci Sergio
 ---
@@ -1648,19 +1648,15 @@ __________________
 -
 0.25376073
 65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
--
-0.25376073
-65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
--
-0.25376073
-65122
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
 -
 0.25376073
 65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+0.25376073
+65122
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
 -
 0.25376073
 65122
@@ -1668,7 +1664,11 @@ __________________
 -
 0.25376073
 65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+-
+0.25376073
+65122
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
 -
 0.25376073
 65122
@@ -1688,15 +1688,11 @@ Pescara
 -
 0.14841704
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.14841704
-Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.14841704
-Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.14841704
+Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
 -
 0.14841704
 Pescara
@@ -1704,35 +1700,27 @@ Pescara
 -
 0.14841704
 Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.14841704
+Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.14841704
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.074929886
-Gioielli in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.074929886
 Gioielli Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
 -
-0.07326803
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+0.074929886
+Gioielli in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
 -
 0.07326803
 Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.07326803
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.07326803
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
 -
 0.07326803
 Lupo Italo, Pescara
@@ -1742,17 +1730,29 @@ Lupo Italo, Pescara
 Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
+0.07326803
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.07326803
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.07326803
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
 0.06524625
 Gioielleria in Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[9]/a[1]
 -
 0.057564054
-Argenteria in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[11]/a[1]
--
-0.057564054
 Oreficeria in Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[15]/a[1]
+-
+0.057564054
+Argenteria in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[11]/a[1]
 -
 0.057564054
 Orologi in Pescara
@@ -1779,19 +1779,15 @@ Gold
 -
 0.18623401
 65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
--
-0.18623401
-65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
--
-0.18623401
-65122
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[2]/span[1]
 -
 0.18623401
 65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[2]
+-
+0.18623401
+65122
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
 -
 0.18623401
 65122
@@ -1799,7 +1795,11 @@ Gold
 -
 0.18623401
 65122
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[2]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]/span[2]
+-
+0.18623401
+65122
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[2]
 -
 0.18623401
 65122
@@ -1819,15 +1819,11 @@ Pescara
 -
 0.1089227
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.1089227
-Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.1089227
-Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.1089227
+Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
 -
 0.1089227
 Pescara
@@ -1835,39 +1831,31 @@ Pescara
 -
 0.1089227
 Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.1089227
+Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.1089227
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.09167703
 oro, artigianato, gioielli, Jewelry, gadgets, pins, 
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/div[1]/p[1]
 -
 0.054990757
-Gioielli in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
--
-0.054990757
 Gioielli Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
 -
-0.053771123
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+0.054990757
+Gioielli in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
 -
 0.053771123
 Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.053771123
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.053771123
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
 -
 0.053771123
 Lupo Italo, Pescara
@@ -1876,6 +1864,18 @@ Lupo Italo, Pescara
 0.053771123
 Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
+-
+0.053771123
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.053771123
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.053771123
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
 -
 0.053132225
 Gioielli, Gioielli articoli da Regalo, Anelli, Pietre Dure Semipreziose, Orecchini, Bracciali, Collana, Braccialetti, Gioielleria, Orologi, Argenteria, Pietre Preziose, Argento, Gold, Oreficeria, Bomboniere, Oro, Ingrosso, Forniture per uffici ed Aziende, Sport E Tempo Libero, Forniture, Tempo Libero, Articoli da Regalo, Orafo, Lavorazioni, Regalistica Aziendale, Artigianato, Medaglie, Gadget, Minerali, Distintivi, Pescara, Jewelry, Croci, Silver, Pendenti, Handmade, Bracelets, Necklaces, Earrings, Pin, Trofeo, Silverware, Pendants, Crosses, Precious Stones, Jewelery, O-Ring, Coppe Trofei, Cufflink, Tie Pins, Pe 53, In Pescara, Conchiglie E Fo, Italo Lupo, Fermacravatta
@@ -1886,12 +1886,12 @@ Gioielleria in Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[9]/a[1]
 -
 0.04224604
-Argenteria in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[11]/a[1]
--
-0.04224604
 Oreficeria in Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[15]/a[1]
+-
+0.04224604
+Argenteria in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[11]/a[1]
 __________________
  
       Maggi Gmd
@@ -1914,15 +1914,11 @@ Pescara
 -
 0.13226733
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
--
-0.13226733
-Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
--
-0.13226733
-Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[1]/div[1]/div[2]/span[1]/span[3]
+-
+0.13226733
+Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
 -
 0.13226733
 Pescara
@@ -1930,35 +1926,27 @@ Pescara
 -
 0.13226733
 Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[6]/div[1]/div[2]/span[1]/span[3]
+-
+0.13226733
+Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]/span[3]
 -
 0.13226733
 Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[3]/div[1]/div[2]/span[1]/span[3]
--
-0.06677654
-Gioielli in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]/span[3]
 -
 0.06677654
 Gioielli Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[2]/a[1]/span[1]
 -
-0.06529551
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+0.06677654
+Gioielli in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[1]/a[1]
 -
 0.06529551
 Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[6]/h2[1]/small[1]
--
-0.06529551
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
--
-0.06529551
-Lupo Italo, Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
 -
 0.06529551
 Lupo Italo, Pescara
@@ -1968,17 +1956,29 @@ Lupo Italo, Pescara
 Lupo Italo, Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]/h1[1]
 -
+0.06529551
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[7]/h2[1]/small[1]
+-
+0.06529551
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/h2[1]/small[1]
+-
+0.06529551
+Lupo Italo, Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[5]/h2[1]/small[1]
+-
 0.058146596
 Gioielleria in Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[9]/a[1]
 -
 0.05130033
-Argenteria in Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[11]/a[1]
--
-0.05130033
 Oreficeria in Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[15]/a[1]
+-
+0.05130033
+Argenteria in Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[10]/ul[1]/li[11]/a[1]
 -
 0.05130033
 Orologi in Pescara
@@ -2005,16 +2005,16 @@ Shopping e acquisti Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/ol[1]/li[1]/a[1]/span[1]
 -
 0.035350822
+V. FIRENZE. 12865122  Pescara
+//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
+-
+0.035350822
 V. FIRENZE. 25565122  Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[2]/div[1]/div[2]/span[1]
 -
 0.035350822
 V. FIRENZE. 23165122  Pescara
 //html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[4]/div[1]/div[2]/span[1]
--
-0.035350822
-V. FIRENZE. 12865122  Pescara
-//html[1]/body[1]/div[5]/div[2]/div[1]/div[9]/ol[1]/li[5]/div[1]/div[2]/span[1]
 -
 0.03390517
 Gioielli articoli da Regalo in Pescara

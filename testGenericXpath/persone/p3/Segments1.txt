@@ -1,31 +1,5 @@
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/span[1]/strong[1]/h2[1]
-Giuliana Antonio
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[3]
- 
-      Societa' Coop. Prod. E Lav. Europa 92 Rl Ingrosso Formaggi-salumi
-       Contrada Calderaro
-       93100 - Caltanissetta 
-     
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/a[2]
-Elimina Azienda
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]
- Via Giacomo Matteotti 80   93011 Butera  (CL) 
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[1]
-93011
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[6]
- 
-      Giorgio Supermercato
-       Via Tumminelli Mauro Presidente 20
-       93100 - Caltanissetta 
-     
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[1]/a[2]
-Sicilia
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[5]/a[1]
+Cicardo Giuseppe Generi Alimentari
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[3]/div[1]
 
@@ -35,11 +9,11 @@ ________________________________________________________________________
    Butera 
   
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[6]/a[1]
-Giorgio Supermercato
+//html[1]/body[1]/div[1]/div[3]/div[1]/a[3]
+Caltanissetta
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[1]/span[1]/strong[1]
-Aziende Simili:
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/a[2]
+Elimina Azienda
 ________________________________________________________________________
 //html[1]/body[1]/div[1]
  
@@ -133,8 +107,24 @@ ________________________________________________________________________
   >   
 
 ________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[1]/a[2]
+Sicilia
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[8]
+
+     Scrivi la tua recensione per Giuliana Antonio - Butera:
+      
+      
+    
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/span[1]/strong[1]/h2[1]
+Giuliana Antonio
+________________________________________________________________________
 //html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/span[1]/h5[1]
  ALIMENTARI VENDITA DETTAGLIO 
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[2]/a[1]
+Soc.coop.di Prod.e Lavoro Europa 92 A.r.l.
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/div[1]/div[1]/a[1]
 Modifica Dati
@@ -146,6 +136,18 @@ ________________________________________________________________________
        93100 - Caltanissetta 
      
 ________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[6]/a[1]
+Giorgio Supermercato
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[1]
+93011
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/h1[1]
+Giuliana Antonio - Butera 
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[3]/a[1]
+Societa' Coop. Prod. E Lav. Europa 92 Rl Ingrosso Formaggi-salumi
+________________________________________________________________________
 //html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[5]
  
       Cicardo Giuseppe Generi Alimentari
@@ -153,8 +155,21 @@ ________________________________________________________________________
        93100 - Caltanissetta 
      
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/strong[3]/a[1]
-Alimentari - Vendita Al Dettaglio a Butera
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[2]
+Butera
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[6]
+ 
+      Giorgio Supermercato
+       Via Tumminelli Mauro Presidente 20
+       93100 - Caltanissetta 
+     
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[1]/a[4]
+Butera
+________________________________________________________________________
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[2]
+ 0934347885 
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[4]
  
@@ -163,37 +178,22 @@ ________________________________________________________________________
        93100 - Caltanissetta 
      
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[8]
-
-     Scrivi la tua recensione per Giuliana Antonio - Butera:
-      
-      
-    
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[3]
+ 
+      Societa' Coop. Prod. E Lav. Europa 92 Rl Ingrosso Formaggi-salumi
+       Contrada Calderaro
+       93100 - Caltanissetta 
+     
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[2]
- 0934347885 
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/strong[3]/a[1]
+Alimentari - Vendita Al Dettaglio a Butera
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[1]/a[3]
-Caltanissetta
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[2]
-Butera
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[2]/a[1]
-Soc.coop.di Prod.e Lavoro Europa 92 A.r.l.
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[1]/span[1]/strong[1]
+Aziende Simili:
 ________________________________________________________________________
 //html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]/span[3]
 CL
 ________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[1]/a[4]
-Butera
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[3]/a[1]
-Societa' Coop. Prod. E Lav. Europa 92 Rl Ingrosso Formaggi-salumi
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[1]/h1[1]
-Giuliana Antonio - Butera 
-________________________________________________________________________
-//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[4]/div[5]/a[1]
-Cicardo Giuseppe Generi Alimentari
+//html[1]/body[1]/div[1]/div[3]/div[2]/div[2]/div[2]/div[1]/div[1]/span[1]
+ Via Giacomo Matteotti 80   93011 Butera  (CL) 
 ________________________________________________________________________

@@ -25,6 +25,7 @@ public class WebPageDocument {
 //	private Set<Xpath> genericXpaths;
 	private DomainSource source;
 	private org.w3c.dom.Document document_w3c;
+	private int idDomain;
 	
 	public WebPageDocument(File html_document) throws Exception {
 		String htmlDocumentString = IOUtils.toString(new FileReader(html_document));
@@ -40,6 +41,7 @@ public class WebPageDocument {
 		XpathExtractor xpextractor = XpathExtractor.getInstance();
 		this.xpaths = xpextractor.getXPathsFromDocument(this.document_jsoup,
 				parameter, folder, parameterTextFusion);
+		this.idDomain=parameter;
 		this.segments = extractSegments(this.xpaths, this.document_jsoup);
 //		System.out.println(this.segments.size());
 //		this.xPaths = extractXPaths(this.xpaths);
@@ -56,6 +58,7 @@ public class WebPageDocument {
 		XpathExtractor xpextractor = XpathExtractor.getInstance();
 		this.xpaths = xpextractor.getXPathsFromDocument(this.document_jsoup,
 				parameter, folder, parameterTextFusion);
+		this.idDomain=parameter;
 		this.segments = extractSegments(this.xpaths, this.document_jsoup);
 //		this.genericXpaths = null;
 		DomainsRepository domRep = DomainsRepository.getInstance();
@@ -76,6 +79,10 @@ public class WebPageDocument {
 	
 	public Set<Segment> getSegments() {
 		return this.segments;
+	}
+	
+	public int getIdDomain() {
+		return this.idDomain;
 	}
 	
 	public void setSegments(Set<Segment> segments) {

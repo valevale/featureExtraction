@@ -1,13 +1,203 @@
+Roma
+---
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+1.0
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.56770265
+Avvocati a Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.4278112
+
+          Roma (RM)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.38215062
+Notai Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.38215062
+Ingegneri Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[5]/div[2]/a[1]
+-
+0.35329542
+Avvocato Simone Corini - Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.28066242
+Associazioni sindacali Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.28066242
+Categorie correlate a Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
+-
+0.26176512
+
+            Viale Delle Medaglie D'oro, 169 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.26176512
+
+            Viale Delle Medaglie D'oro, 266 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.25140452
+
+            Viale Tito Livio, 59 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.2414109
+Architetti, studi architettura Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[4]/div[2]/a[1]
+-
+0.19477129
+Commercialisti - studio commercialista Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.18850668
+
+       Avvocato Simone Corini
+       Studio Legale
+       
+        
+         
+          
+         
+         
+          Viale Tito Livio, 67
+         
+         
+          
+         
+         
+          00136
+         
+         
+          
+         
+         
+          Roma (RM)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0635 401156
+         
+         
+           
+          0635 401167
+         
+         
+           
+          mostra email  
+         
+         
+           
+          www.studiolegalecorini.it
+         
+        
+        
+        
+          Chiama
+        
+        
+         
+          N. Partita IVA:
+         
+         
+          08464931008
+         
+         
+        
+        
+         
+          
+         
+         
+          Avvocati a Roma
+          
+         
+        
+         
+        
+       
+         
+          Impresa Verificata   |    
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
 00136
 ---
 -
 1.0
 00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 1.0
 00136
@@ -19,15 +209,679 @@
 -
 1.0
 00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 1.0
 00136
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
+0.3472053
+
+            Viale Delle Medaglie D'oro, 169 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.3472053
+
+            Viale Delle Medaglie D'oro, 266 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.33340377
+
+            Viale Tito Livio, 59 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.12470851
+
+       Avvocato Simone Corini
+       Studio Legale
+       
+        
+         
+          
+         
+         
+          Viale Tito Livio, 67
+         
+         
+          
+         
+         
+          00136
+         
+         
+          
+         
+         
+          Roma (RM)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0635 401156
+         
+         
+           
+          0635 401167
+         
+         
+           
+          mostra email  
+         
+         
+           
+          www.studiolegalecorini.it
+         
+        
+        
+        
+          Chiama
+        
+        
+         
+          N. Partita IVA:
+         
+         
+          08464931008
+         
+         
+        
+        
+         
+          
+         
+         
+          Avvocati a Roma
+          
+         
+        
+         
+        
+       
+         
+          Impresa Verificata   |    
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+Roma 
+---
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+1.0
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.56770265
+Avvocati a Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.4278112
+
+          Roma (RM)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.38215062
+Notai Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.38215062
+Ingegneri Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[5]/div[2]/a[1]
+-
+0.35329542
+Avvocato Simone Corini - Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.28066242
+Associazioni sindacali Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.28066242
+Categorie correlate a Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
+-
+0.26176512
+
+            Viale Delle Medaglie D'oro, 169 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.26176512
+
+            Viale Delle Medaglie D'oro, 266 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.25140452
+
+            Viale Tito Livio, 59 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.2414109
+Architetti, studi architettura Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[4]/div[2]/a[1]
+-
+0.19477129
+Commercialisti - studio commercialista Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.18850668
+
+       Avvocato Simone Corini
+       Studio Legale
+       
+        
+         
+          
+         
+         
+          Viale Tito Livio, 67
+         
+         
+          
+         
+         
+          00136
+         
+         
+          
+         
+         
+          Roma (RM)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0635 401156
+         
+         
+           
+          0635 401167
+         
+         
+           
+          mostra email  
+         
+         
+           
+          www.studiolegalecorini.it
+         
+        
+        
+        
+          Chiama
+        
+        
+         
+          N. Partita IVA:
+         
+         
+          08464931008
+         
+         
+        
+        
+         
+          
+         
+         
+          Avvocati a Roma
+          
+         
+        
+         
+        
+       
+         
+          Impresa Verificata   |    
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+00136
+---
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
 1.0
 00136
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.3472053
+
+            Viale Delle Medaglie D'oro, 169 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.3472053
+
+            Viale Delle Medaglie D'oro, 266 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.33340377
+
+            Viale Tito Livio, 59 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.12470851
+
+       Avvocato Simone Corini
+       Studio Legale
+       
+        
+         
+          
+         
+         
+          Viale Tito Livio, 67
+         
+         
+          
+         
+         
+          00136
+         
+         
+          
+         
+         
+          Roma (RM)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0635 401156
+         
+         
+           
+          0635 401167
+         
+         
+           
+          mostra email  
+         
+         
+           
+          www.studiolegalecorini.it
+         
+        
+        
+        
+          Chiama
+        
+        
+         
+          N. Partita IVA:
+         
+         
+          08464931008
+         
+         
+        
+        
+         
+          
+         
+         
+          Avvocati a Roma
+          
+         
+        
+         
+        
+       
+         
+          Impresa Verificata   |    
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+Roma
+---
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+1.0
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.56770265
+Avvocati a Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.4278112
+
+          Roma (RM)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.38215062
+Notai Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.38215062
+Ingegneri Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[5]/div[2]/a[1]
+-
+0.35329542
+Avvocato Simone Corini - Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.28066242
+Associazioni sindacali Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.28066242
+Categorie correlate a Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
+-
+0.26176512
+
+            Viale Delle Medaglie D'oro, 169 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.26176512
+
+            Viale Delle Medaglie D'oro, 266 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.25140452
+
+            Viale Tito Livio, 59 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.2414109
+Architetti, studi architettura Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[4]/div[2]/a[1]
+-
+0.19477129
+Commercialisti - studio commercialista Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.18850668
+
+       Avvocato Simone Corini
+       Studio Legale
+       
+        
+         
+          
+         
+         
+          Viale Tito Livio, 67
+         
+         
+          
+         
+         
+          00136
+         
+         
+          
+         
+         
+          Roma (RM)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0635 401156
+         
+         
+           
+          0635 401167
+         
+         
+           
+          mostra email  
+         
+         
+           
+          www.studiolegalecorini.it
+         
+        
+        
+        
+          Chiama
+        
+        
+         
+          N. Partita IVA:
+         
+         
+          08464931008
+         
+         
+        
+        
+         
+          
+         
+         
+          Avvocati a Roma
+          
+         
+        
+         
+        
+       
+         
+          Impresa Verificata   |    
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+00136
+---
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.3472053
 
@@ -266,14 +1120,256 @@ Viale delle Medaglie d'Oro, 143
            
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
 __________________
-www.studiolegalecorini.it
+Roma
 ---
 -
 1.0
-www.studiolegalecorini.it
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[4]/a[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
-0.18276836
+1.0
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+1.0
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.56770265
+Avvocati a Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.4278112
+
+          Roma (RM)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.38215062
+Notai Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.38215062
+Ingegneri Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[5]/div[2]/a[1]
+-
+0.35329542
+Avvocato Simone Corini - Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.28066242
+Associazioni sindacali Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.28066242
+Categorie correlate a Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
+-
+0.26176512
+
+            Viale Delle Medaglie D'oro, 169 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.26176512
+
+            Viale Delle Medaglie D'oro, 266 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.25140452
+
+            Viale Tito Livio, 59 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.2414109
+Architetti, studi architettura Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[4]/div[2]/a[1]
+-
+0.19477129
+Commercialisti - studio commercialista Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.18850668
+
+       Avvocato Simone Corini
+       Studio Legale
+       
+        
+         
+          
+         
+         
+          Viale Tito Livio, 67
+         
+         
+          
+         
+         
+          00136
+         
+         
+          
+         
+         
+          Roma (RM)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0635 401156
+         
+         
+           
+          0635 401167
+         
+         
+           
+          mostra email  
+         
+         
+           
+          www.studiolegalecorini.it
+         
+        
+        
+        
+          Chiama
+        
+        
+         
+          N. Partita IVA:
+         
+         
+          08464931008
+         
+         
+        
+        
+         
+          
+         
+         
+          Avvocati a Roma
+          
+         
+        
+         
+        
+       
+         
+          Impresa Verificata   |    
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+00136
+---
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.3472053
+
+            Viale Delle Medaglie D'oro, 169 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.3472053
+
+            Viale Delle Medaglie D'oro, 266 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.33340377
+
+            Viale Tito Livio, 59 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.12470851
 
        Avvocato Simone Corini
        Studio Legale
@@ -491,11 +1587,7 @@ __________________
 -
 1.0
 00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 1.0
 00136
@@ -507,15 +1599,19 @@ __________________
 -
 1.0
 00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 1.0
 00136
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.3472053
 
@@ -622,148 +1718,26 @@ __________________
       
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 __________________
-00136
----
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.3472053
-
-            Viale Delle Medaglie D'oro, 169 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.3472053
-
-            Viale Delle Medaglie D'oro, 266 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.33340377
-
-            Viale Tito Livio, 59 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.12470851
-
-       Avvocato Simone Corini
-       Studio Legale
-       
-        
-         
-          
-         
-         
-          Viale Tito Livio, 67
-         
-         
-          
-         
-         
-          00136
-         
-         
-          
-         
-         
-          Roma (RM)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0635 401156
-         
-         
-           
-          0635 401167
-         
-         
-           
-          mostra email  
-         
-         
-           
-          www.studiolegalecorini.it
-         
-        
-        
-        
-          Chiama
-        
-        
-         
-          N. Partita IVA:
-         
-         
-          08464931008
-         
-         
-        
-        
-         
-          
-         
-         
-          Avvocati a Roma
-          
-         
-        
-         
-        
-       
-         
-          Impresa Verificata   |    
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
-__________________
-Roma 
+Roma
 ---
 -
 1.0
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 1.0
 Roma
@@ -771,13 +1745,11 @@ Roma
 -
 1.0
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 1.0
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 1.0
 Roma
@@ -788,10 +1760,6 @@ Roma
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
 
         Roma
        
@@ -799,15 +1767,7 @@ Roma
 -
 1.0
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.56770265
 Avvocati a Roma
@@ -832,808 +1792,12 @@ Avvocato Simone Corini - Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.28066242
-Categorie correlate a Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
--
-0.28066242
 Associazioni sindacali Roma
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
--
-0.26176512
-
-            Viale Delle Medaglie D'oro, 169 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.26176512
-
-            Viale Delle Medaglie D'oro, 266 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.25140452
-
-            Viale Tito Livio, 59 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.2414109
-Architetti, studi architettura Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[4]/div[2]/a[1]
--
-0.19477129
-Commercialisti - studio commercialista Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[3]/div[2]/a[1]
--
-0.18850668
-
-       Avvocato Simone Corini
-       Studio Legale
-       
-        
-         
-          
-         
-         
-          Viale Tito Livio, 67
-         
-         
-          
-         
-         
-          00136
-         
-         
-          
-         
-         
-          Roma (RM)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0635 401156
-         
-         
-           
-          0635 401167
-         
-         
-           
-          mostra email  
-         
-         
-           
-          www.studiolegalecorini.it
-         
-        
-        
-        
-          Chiama
-        
-        
-         
-          N. Partita IVA:
-         
-         
-          08464931008
-         
-         
-        
-        
-         
-          
-         
-         
-          Avvocati a Roma
-          
-         
-        
-         
-        
-       
-         
-          Impresa Verificata   |    
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
-__________________
-00136
----
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.3472053
-
-            Viale Delle Medaglie D'oro, 169 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.3472053
-
-            Viale Delle Medaglie D'oro, 266 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.33340377
-
-            Viale Tito Livio, 59 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.12470851
-
-       Avvocato Simone Corini
-       Studio Legale
-       
-        
-         
-          
-         
-         
-          Viale Tito Livio, 67
-         
-         
-          
-         
-         
-          00136
-         
-         
-          
-         
-         
-          Roma (RM)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0635 401156
-         
-         
-           
-          0635 401167
-         
-         
-           
-          mostra email  
-         
-         
-           
-          www.studiolegalecorini.it
-         
-        
-        
-        
-          Chiama
-        
-        
-         
-          N. Partita IVA:
-         
-         
-          08464931008
-         
-         
-        
-        
-         
-          
-         
-         
-          Avvocati a Roma
-          
-         
-        
-         
-        
-       
-         
-          Impresa Verificata   |    
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
-__________________
-00136
----
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.3472053
-
-            Viale Delle Medaglie D'oro, 169 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.3472053
-
-            Viale Delle Medaglie D'oro, 266 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.33340377
-
-            Viale Tito Livio, 59 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.12470851
-
-       Avvocato Simone Corini
-       Studio Legale
-       
-        
-         
-          
-         
-         
-          Viale Tito Livio, 67
-         
-         
-          
-         
-         
-          00136
-         
-         
-          
-         
-         
-          Roma (RM)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0635 401156
-         
-         
-           
-          0635 401167
-         
-         
-           
-          mostra email  
-         
-         
-           
-          www.studiolegalecorini.it
-         
-        
-        
-        
-          Chiama
-        
-        
-         
-          N. Partita IVA:
-         
-         
-          08464931008
-         
-         
-        
-        
-         
-          
-         
-         
-          Avvocati a Roma
-          
-         
-        
-         
-        
-       
-         
-          Impresa Verificata   |    
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
-__________________
-Roma
----
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-1.0
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.56770265
-Avvocati a Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
--
-0.4278112
-
-          Roma (RM)
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
--
-0.38215062
-Notai Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.38215062
-Ingegneri Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[5]/div[2]/a[1]
--
-0.35329542
-Avvocato Simone Corini - Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.28066242
 Categorie correlate a Roma
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
--
-0.28066242
-Associazioni sindacali Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
--
-0.26176512
-
-            Viale Delle Medaglie D'oro, 169 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.26176512
-
-            Viale Delle Medaglie D'oro, 266 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.25140452
-
-            Viale Tito Livio, 59 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.2414109
-Architetti, studi architettura Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[4]/div[2]/a[1]
--
-0.19477129
-Commercialisti - studio commercialista Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[3]/div[2]/a[1]
--
-0.18850668
-
-       Avvocato Simone Corini
-       Studio Legale
-       
-        
-         
-          
-         
-         
-          Viale Tito Livio, 67
-         
-         
-          
-         
-         
-          00136
-         
-         
-          
-         
-         
-          Roma (RM)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0635 401156
-         
-         
-           
-          0635 401167
-         
-         
-           
-          mostra email  
-         
-         
-           
-          www.studiolegalecorini.it
-         
-        
-        
-        
-          Chiama
-        
-        
-         
-          N. Partita IVA:
-         
-         
-          08464931008
-         
-         
-        
-        
-         
-          
-         
-         
-          Avvocati a Roma
-          
-         
-        
-         
-        
-       
-         
-          Impresa Verificata   |    
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
-__________________
-00136
----
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.3472053
-
-            Viale Delle Medaglie D'oro, 169 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.3472053
-
-            Viale Delle Medaglie D'oro, 266 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.33340377
-
-            Viale Tito Livio, 59 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.12470851
-
-       Avvocato Simone Corini
-       Studio Legale
-       
-        
-         
-          
-         
-         
-          Viale Tito Livio, 67
-         
-         
-          
-         
-         
-          00136
-         
-         
-          
-         
-         
-          Roma (RM)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0635 401156
-         
-         
-           
-          0635 401167
-         
-         
-           
-          mostra email  
-         
-         
-           
-          www.studiolegalecorini.it
-         
-        
-        
-        
-          Chiama
-        
-        
-         
-          N. Partita IVA:
-         
-         
-          08464931008
-         
-         
-        
-        
-         
-          
-         
-         
-          Avvocati a Roma
-          
-         
-        
-         
-        
-       
-         
-          Impresa Verificata   |    
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
-__________________
-Roma
----
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-1.0
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.56770265
-Avvocati a Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
--
-0.4278112
-
-          Roma (RM)
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
--
-0.38215062
-Notai Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.38215062
-Ingegneri Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[5]/div[2]/a[1]
--
-0.35329542
-Avvocato Simone Corini - Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
--
-0.28066242
-Categorie correlate a Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
--
-0.28066242
-Associazioni sindacali Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
 -
 0.26176512
 
@@ -1753,7 +1917,21 @@ Roma
 -
 1.0
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 1.0
 Roma
@@ -1761,13 +1939,11 @@ Roma
 -
 1.0
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 1.0
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 1.0
 Roma
@@ -1778,10 +1954,6 @@ Roma
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
 
         Roma
        
@@ -1789,15 +1961,7 @@ Roma
 -
 1.0
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.56770265
 Avvocati a Roma
@@ -1822,206 +1986,12 @@ Avvocato Simone Corini - Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.28066242
-Categorie correlate a Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
--
-0.28066242
 Associazioni sindacali Roma
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
--
-0.26176512
-
-            Viale Delle Medaglie D'oro, 169 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.26176512
-
-            Viale Delle Medaglie D'oro, 266 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.25140452
-
-            Viale Tito Livio, 59 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.2414109
-Architetti, studi architettura Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[4]/div[2]/a[1]
--
-0.19477129
-Commercialisti - studio commercialista Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[3]/div[2]/a[1]
--
-0.18850668
-
-       Avvocato Simone Corini
-       Studio Legale
-       
-        
-         
-          
-         
-         
-          Viale Tito Livio, 67
-         
-         
-          
-         
-         
-          00136
-         
-         
-          
-         
-         
-          Roma (RM)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0635 401156
-         
-         
-           
-          0635 401167
-         
-         
-           
-          mostra email  
-         
-         
-           
-          www.studiolegalecorini.it
-         
-        
-        
-        
-          Chiama
-        
-        
-         
-          N. Partita IVA:
-         
-         
-          08464931008
-         
-         
-        
-        
-         
-          
-         
-         
-          Avvocati a Roma
-          
-         
-        
-         
-        
-       
-         
-          Impresa Verificata   |    
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
-__________________
-Roma
----
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-1.0
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.56770265
-Avvocati a Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
--
-0.4278112
-
-          Roma (RM)
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
--
-0.38215062
-Notai Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.38215062
-Ingegneri Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[5]/div[2]/a[1]
--
-0.35329542
-Avvocato Simone Corini - Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.28066242
 Categorie correlate a Roma
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
--
-0.28066242
-Associazioni sindacali Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
 -
 0.26176512
 
@@ -2141,11 +2111,7 @@ __________________
 -
 1.0
 00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-1.0
-00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 1.0
 00136
@@ -2157,15 +2123,243 @@ __________________
 -
 1.0
 00136
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 1.0
 00136
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
+0.3472053
+
+            Viale Delle Medaglie D'oro, 169 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.3472053
+
+            Viale Delle Medaglie D'oro, 266 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.33340377
+
+            Viale Tito Livio, 59 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.12470851
+
+       Avvocato Simone Corini
+       Studio Legale
+       
+        
+         
+          
+         
+         
+          Viale Tito Livio, 67
+         
+         
+          
+         
+         
+          00136
+         
+         
+          
+         
+         
+          Roma (RM)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0635 401156
+         
+         
+           
+          0635 401167
+         
+         
+           
+          mostra email  
+         
+         
+           
+          www.studiolegalecorini.it
+         
+        
+        
+        
+          Chiama
+        
+        
+         
+          N. Partita IVA:
+         
+         
+          08464931008
+         
+         
+        
+        
+         
+          
+         
+         
+          Avvocati a Roma
+          
+         
+        
+         
+        
+       
+         
+          Impresa Verificata   |    
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+www.studiolegalecorini.it
+---
+-
+1.0
+www.studiolegalecorini.it
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[4]/a[1]
+-
+0.18276836
+
+       Avvocato Simone Corini
+       Studio Legale
+       
+        
+         
+          
+         
+         
+          Viale Tito Livio, 67
+         
+         
+          
+         
+         
+          00136
+         
+         
+          
+         
+         
+          Roma (RM)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0635 401156
+         
+         
+           
+          0635 401167
+         
+         
+           
+          mostra email  
+         
+         
+           
+          www.studiolegalecorini.it
+         
+        
+        
+        
+          Chiama
+        
+        
+         
+          N. Partita IVA:
+         
+         
+          08464931008
+         
+         
+        
+        
+         
+          
+         
+         
+          Avvocati a Roma
+          
+         
+        
+         
+        
+       
+         
+          Impresa Verificata   |    
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+00136
+---
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
 1.0
 00136
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+00136
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.3472053
 
@@ -2277,7 +2471,21 @@ Roma
 -
 1.0
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 1.0
 Roma
@@ -2285,13 +2493,11 @@ Roma
 -
 1.0
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 1.0
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 1.0
 Roma
@@ -2302,10 +2508,6 @@ Roma
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
 
         Roma
        
@@ -2313,15 +2515,7 @@ Roma
 -
 1.0
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.56770265
 Avvocati a Roma
@@ -2346,206 +2540,12 @@ Avvocato Simone Corini - Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.28066242
-Categorie correlate a Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
--
-0.28066242
 Associazioni sindacali Roma
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
--
-0.26176512
-
-            Viale Delle Medaglie D'oro, 169 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.26176512
-
-            Viale Delle Medaglie D'oro, 266 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.25140452
-
-            Viale Tito Livio, 59 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.2414109
-Architetti, studi architettura Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[4]/div[2]/a[1]
--
-0.19477129
-Commercialisti - studio commercialista Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[3]/div[2]/a[1]
--
-0.18850668
-
-       Avvocato Simone Corini
-       Studio Legale
-       
-        
-         
-          
-         
-         
-          Viale Tito Livio, 67
-         
-         
-          
-         
-         
-          00136
-         
-         
-          
-         
-         
-          Roma (RM)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0635 401156
-         
-         
-           
-          0635 401167
-         
-         
-           
-          mostra email  
-         
-         
-           
-          www.studiolegalecorini.it
-         
-        
-        
-        
-          Chiama
-        
-        
-         
-          N. Partita IVA:
-         
-         
-          08464931008
-         
-         
-        
-        
-         
-          
-         
-         
-          Avvocati a Roma
-          
-         
-        
-         
-        
-       
-         
-          Impresa Verificata   |    
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
-__________________
-Roma
----
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-1.0
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-1.0
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.56770265
-Avvocati a Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
--
-0.4278112
-
-          Roma (RM)
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
--
-0.38215062
-Notai Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.38215062
-Ingegneri Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[5]/div[2]/a[1]
--
-0.35329542
-Avvocato Simone Corini - Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.28066242
 Categorie correlate a Roma
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
--
-0.28066242
-Associazioni sindacali Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
 -
 0.26176512
 
@@ -2677,10 +2677,8 @@ Lo Studio Legale Corini svolge attività di assistenza e consulenza legale speci
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]
 -
 0.21375015
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.21375015
 
@@ -2689,14 +2687,16 @@ Lo Studio Legale Corini svolge attività di assistenza e consulenza legale speci
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.21375015
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.21375015
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.11256141
 Risultati di ricerca per Avvocato Simone Corini
@@ -2793,11 +2793,11 @@ Studio Legale Zanchetti Gramaccioni
 -
 0.041826133
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
 0.041826133
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.038984492
 Avvocato Simone Corini - Roma
@@ -2819,10 +2819,8 @@ Studio Legale Corini
 ---
 -
 0.8080794
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.8080794
 
@@ -2831,14 +2829,16 @@ Studio Legale Corini
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.8080794
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.8080794
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.40630805
 Studio Legale Zanchetti Gramaccioni
@@ -2846,11 +2846,11 @@ Studio Legale Zanchetti Gramaccioni
 -
 0.32617998
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
 0.32617998
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.3040195
 Avvocato Simone Corini - Roma
@@ -2970,10 +2970,8 @@ Studio Legale Corini
 ---
 -
 0.8080794
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.8080794
 
@@ -2982,14 +2980,16 @@ Studio Legale Corini
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.8080794
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.8080794
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.40630805
 Studio Legale Zanchetti Gramaccioni
@@ -2997,11 +2997,11 @@ Studio Legale Zanchetti Gramaccioni
 -
 0.32617998
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
 0.32617998
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.3040195
 Avvocato Simone Corini - Roma
@@ -3121,10 +3121,8 @@ Studio Legale Corini
 ---
 -
 0.8080794
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.8080794
 
@@ -3133,14 +3131,16 @@ Studio Legale Corini
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.8080794
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.8080794
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.40630805
 Studio Legale Zanchetti Gramaccioni
@@ -3148,11 +3148,11 @@ Studio Legale Zanchetti Gramaccioni
 -
 0.32617998
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
 0.32617998
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.3040195
 Avvocato Simone Corini - Roma
@@ -3272,10 +3272,8 @@ Studio Legale Corini
 ---
 -
 0.8080794
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.8080794
 
@@ -3284,14 +3282,16 @@ Studio Legale Corini
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.8080794
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.8080794
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.40630805
 Studio Legale Zanchetti Gramaccioni
@@ -3299,11 +3299,11 @@ Studio Legale Zanchetti Gramaccioni
 -
 0.32617998
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
 0.32617998
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.3040195
 Avvocato Simone Corini - Roma
@@ -3423,10 +3423,8 @@ Studio Legale Corini, Roma
 ---
 -
 0.7486649
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.7486649
 
@@ -3435,14 +3433,16 @@ Studio Legale Corini, Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.7486649
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.7486649
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.41657117
 Avvocato Simone Corini - Roma
@@ -3454,7 +3454,21 @@ Studio Legale Zanchetti Gramaccioni
 -
 0.37635764
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.37635764
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.37635764
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.37635764
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.37635764
 Roma
@@ -3462,13 +3476,11 @@ Roma
 -
 0.37635764
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.37635764
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.37635764
 Roma
@@ -3479,10 +3491,6 @@ Roma
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.37635764
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.37635764
 
         Roma
        
@@ -3490,23 +3498,15 @@ Roma
 -
 0.37635764
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.37635764
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.37635764
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.3021974
-Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.3021974
 Avvocato Simone Corini
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.3021974
+Avvocato Simone Corini
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.2864466
 
@@ -3640,10 +3640,8 @@ Studio Legale Corini, Roma
 ---
 -
 0.7486649
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.7486649
 
@@ -3652,14 +3650,16 @@ Studio Legale Corini, Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.7486649
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.7486649
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.41657117
 Avvocato Simone Corini - Roma
@@ -3671,7 +3671,21 @@ Studio Legale Zanchetti Gramaccioni
 -
 0.37635764
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.37635764
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.37635764
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.37635764
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.37635764
 Roma
@@ -3679,13 +3693,11 @@ Roma
 -
 0.37635764
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.37635764
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.37635764
 Roma
@@ -3696,10 +3708,6 @@ Roma
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.37635764
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.37635764
 
         Roma
        
@@ -3707,23 +3715,15 @@ Roma
 -
 0.37635764
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.37635764
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.37635764
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.3021974
-Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.3021974
 Avvocato Simone Corini
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.3021974
+Avvocato Simone Corini
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.2864466
 
@@ -3857,10 +3857,8 @@ Studio Legale Corini, Roma
 ---
 -
 0.7486649
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.7486649
 
@@ -3869,14 +3867,16 @@ Studio Legale Corini, Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.7486649
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.7486649
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.41657117
 Avvocato Simone Corini - Roma
@@ -3888,7 +3888,21 @@ Studio Legale Zanchetti Gramaccioni
 -
 0.37635764
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.37635764
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.37635764
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.37635764
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.37635764
 Roma
@@ -3896,13 +3910,11 @@ Roma
 -
 0.37635764
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.37635764
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.37635764
 Roma
@@ -3913,10 +3925,6 @@ Roma
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.37635764
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.37635764
 
         Roma
        
@@ -3924,23 +3932,15 @@ Roma
 -
 0.37635764
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.37635764
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.37635764
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.3021974
-Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.3021974
 Avvocato Simone Corini
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.3021974
+Avvocato Simone Corini
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.2864466
 
@@ -4074,10 +4074,8 @@ Studio Legale Corini, Roma
 ---
 -
 0.7486649
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.7486649
 
@@ -4086,14 +4084,16 @@ Studio Legale Corini, Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.7486649
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.7486649
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.41657117
 Avvocato Simone Corini - Roma
@@ -4105,7 +4105,21 @@ Studio Legale Zanchetti Gramaccioni
 -
 0.37635764
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.37635764
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.37635764
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.37635764
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.37635764
 Roma
@@ -4113,13 +4127,11 @@ Roma
 -
 0.37635764
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.37635764
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.37635764
 Roma
@@ -4130,10 +4142,6 @@ Roma
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.37635764
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.37635764
 
         Roma
        
@@ -4141,23 +4149,15 @@ Roma
 -
 0.37635764
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.37635764
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.37635764
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.3021974
-Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.3021974
 Avvocato Simone Corini
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.3021974
+Avvocato Simone Corini
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.2864466
 
@@ -4291,10 +4291,8 @@ Studio Legale Corini, Roma
 ---
 -
 0.7486649
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.7486649
 
@@ -4303,14 +4301,16 @@ Studio Legale Corini, Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.7486649
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.7486649
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.41657117
 Avvocato Simone Corini - Roma
@@ -4322,7 +4322,21 @@ Studio Legale Zanchetti Gramaccioni
 -
 0.37635764
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.37635764
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.37635764
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.37635764
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.37635764
 Roma
@@ -4330,13 +4344,11 @@ Roma
 -
 0.37635764
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.37635764
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.37635764
 Roma
@@ -4347,10 +4359,6 @@ Roma
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.37635764
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.37635764
 
         Roma
        
@@ -4358,23 +4366,15 @@ Roma
 -
 0.37635764
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.37635764
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.37635764
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.3021974
-Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.3021974
 Avvocato Simone Corini
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.3021974
+Avvocato Simone Corini
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.2864466
 
@@ -4508,10 +4508,8 @@ Studio Legale Corini, Roma
 ---
 -
 0.7486649
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.7486649
 
@@ -4520,14 +4518,16 @@ Studio Legale Corini, Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.7486649
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.7486649
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.41657117
 Avvocato Simone Corini - Roma
@@ -4539,7 +4539,21 @@ Studio Legale Zanchetti Gramaccioni
 -
 0.37635764
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.37635764
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.37635764
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.37635764
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.37635764
 Roma
@@ -4547,13 +4561,11 @@ Roma
 -
 0.37635764
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.37635764
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.37635764
 Roma
@@ -4564,10 +4576,6 @@ Roma
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.37635764
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.37635764
 
         Roma
        
@@ -4575,23 +4583,15 @@ Roma
 -
 0.37635764
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.37635764
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.37635764
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.3021974
-Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.3021974
 Avvocato Simone Corini
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.3021974
+Avvocato Simone Corini
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.2864466
 
@@ -4747,10 +4747,8 @@ Scrivi la tua recensione di Avvocato Simone Corini
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[6]/div[1]/span[1]/h4[1]
 -
 0.43580276
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.43580276
 
@@ -4759,14 +4757,16 @@ Scrivi la tua recensione di Avvocato Simone Corini
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.43580276
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.43580276
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.2191247
 Studio Legale Zanchetti Gramaccioni
@@ -4774,11 +4774,11 @@ Studio Legale Zanchetti Gramaccioni
 -
 0.17591107
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
 0.17591107
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.16395979
 Avvocato Simone Corini - Roma
@@ -4894,10 +4894,8 @@ Descrizione Studio Legale Corini, Roma
 ---
 -
 0.60528404
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.60528404
 
@@ -4906,14 +4904,16 @@ Descrizione Studio Legale Corini, Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.60528404
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.60528404
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.41614467
 Descrizione attività
@@ -4929,7 +4929,21 @@ Studio Legale Zanchetti Gramaccioni
 -
 0.30427933
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.30427933
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.30427933
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.30427933
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.30427933
 Roma
@@ -4937,13 +4951,11 @@ Roma
 -
 0.30427933
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.30427933
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.30427933
 Roma
@@ -4954,10 +4966,6 @@ Roma
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.30427933
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.30427933
 
         Roma
        
@@ -4965,23 +4973,15 @@ Roma
 -
 0.30427933
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.30427933
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.30427933
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.24432191
-Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.24432191
 Avvocato Simone Corini
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.24432191
+Avvocato Simone Corini
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.23158765
 
@@ -5111,12 +5111,12 @@ Viale TITO LIVIO. 100
 ---
 -
 0.59970754
-Viale Tito Livio, 59
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.59970754
 Viale Tito Livio, 67
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.59970754
+Viale Tito Livio, 59
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.5390514
 
@@ -5243,12 +5243,12 @@ Viale TITO LIVIO. 100
 ---
 -
 0.59970754
-Viale Tito Livio, 59
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.59970754
 Viale Tito Livio, 67
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.59970754
+Viale Tito Livio, 59
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.5390514
 
@@ -5371,224 +5371,6 @@ Viale delle Medaglie d'Oro, 143
            
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
 __________________
-Viale TITO LIVIO. 10000136  Roma
----
--
-0.5884902
-
-            Viale Tito Livio, 59 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.57872283
-Viale Tito Livio, 59
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.57872283
-Viale Tito Livio, 67
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
--
-0.2622188
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.2622188
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
--
-0.2622188
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
--
-0.2622188
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
--
-0.2622188
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.2622188
-Roma
-//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
--
-0.2622188
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.2622188
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
--
-0.2622188
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.2622188
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.2622188
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.24050418
-
-       Avvocato Simone Corini
-       Studio Legale
-       
-        
-         
-          
-         
-         
-          Viale Tito Livio, 67
-         
-         
-          
-         
-         
-          00136
-         
-         
-          
-         
-         
-          Roma (RM)
-         
-        
-        
-        
-         
-         
-         
-         
-           
-          0635 401156
-         
-         
-           
-          0635 401167
-         
-         
-           
-          mostra email  
-         
-         
-           
-          www.studiolegalecorini.it
-         
-        
-        
-        
-          Chiama
-        
-        
-         
-          N. Partita IVA:
-         
-         
-          08464931008
-         
-         
-        
-        
-         
-          
-         
-         
-          Avvocati a Roma
-          
-         
-        
-         
-        
-       
-         
-          Impresa Verificata   |    
-        
-        
-        Opzioni 
-       
-      
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
--
-0.19669816
-
-            Viale Delle Medaglie D'oro, 169 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.19669816
-
-            Viale Delle Medaglie D'oro, 266 - 
-            00136 
-            Roma
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
--
-0.14886232
-Avvocati a Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
--
-0.14261216
-Viale Delle Medaglie D'oro, 266
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.14261216
-Viale Delle Medaglie D'oro, 169
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.13481368
-Viale Delle Medaglie D'oro, 176
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
--
-0.13481368
-Viale delle Medaglie d'Oro, 143
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
--
-0.11218014
-
-          Roma (RM)
-         
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
--
-0.100207075
-Notai Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[1]/div[2]/a[1]
--
-0.100207075
-Ingegneri Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[5]/div[2]/a[1]
--
-0.0926407
-Avvocato Simone Corini - Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
--
-0.073594965
-Categorie correlate a Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
--
-0.073594965
-Associazioni sindacali Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
--
-0.06330247
-Architetti, studi architettura Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[4]/div[2]/a[1]
--
-0.051072694
-Commercialisti - studio commercialista Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[3]/div[2]/a[1]
-__________________
 Viale TITO LIVIO. 5900136  Roma
 ---
 -
@@ -5601,16 +5383,30 @@ Viale TITO LIVIO. 5900136  Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
 -
 0.57872283
-Viale Tito Livio, 59
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.57872283
 Viale Tito Livio, 67
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
 -
+0.57872283
+Viale Tito Livio, 59
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
 0.2622188
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.2622188
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.2622188
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.2622188
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.2622188
 Roma
@@ -5618,13 +5414,11 @@ Roma
 -
 0.2622188
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.2622188
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.2622188
 Roma
@@ -5635,10 +5429,6 @@ Roma
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.2622188
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.2622188
 
         Roma
        
@@ -5646,15 +5436,7 @@ Roma
 -
 0.2622188
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.2622188
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.2622188
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.24050418
 
@@ -5792,12 +5574,12 @@ Avvocato Simone Corini - Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.073594965
-Categorie correlate a Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
--
-0.073594965
 Associazioni sindacali Roma
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.073594965
+Categorie correlate a Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
 -
 0.06330247
 Architetti, studi architettura Roma
@@ -5819,16 +5601,30 @@ Viale TITO LIVIO. 10000136  Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
 -
 0.57872283
-Viale Tito Livio, 59
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.57872283
 Viale Tito Livio, 67
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
 -
+0.57872283
+Viale Tito Livio, 59
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
 0.2622188
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.2622188
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.2622188
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.2622188
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.2622188
 Roma
@@ -5836,13 +5632,11 @@ Roma
 -
 0.2622188
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.2622188
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.2622188
 Roma
@@ -5853,10 +5647,6 @@ Roma
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.2622188
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.2622188
 
         Roma
        
@@ -5864,15 +5654,7 @@ Roma
 -
 0.2622188
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.2622188
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.2622188
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.24050418
 
@@ -6010,12 +5792,230 @@ Avvocato Simone Corini - Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.073594965
+Associazioni sindacali Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.073594965
 Categorie correlate a Roma
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
+-
+0.06330247
+Architetti, studi architettura Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[4]/div[2]/a[1]
+-
+0.051072694
+Commercialisti - studio commercialista Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[3]/div[2]/a[1]
+__________________
+Viale TITO LIVIO. 10000136  Roma
+---
+-
+0.5884902
+
+            Viale Tito Livio, 59 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.57872283
+Viale Tito Livio, 67
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.57872283
+Viale Tito Livio, 59
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.2622188
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.2622188
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.2622188
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.2622188
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.2622188
+Roma
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.2622188
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.2622188
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.2622188
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.2622188
+Roma
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.2622188
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
+-
+0.2622188
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.24050418
+
+       Avvocato Simone Corini
+       Studio Legale
+       
+        
+         
+          
+         
+         
+          Viale Tito Livio, 67
+         
+         
+          
+         
+         
+          00136
+         
+         
+          
+         
+         
+          Roma (RM)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0635 401156
+         
+         
+           
+          0635 401167
+         
+         
+           
+          mostra email  
+         
+         
+           
+          www.studiolegalecorini.it
+         
+        
+        
+        
+          Chiama
+        
+        
+         
+          N. Partita IVA:
+         
+         
+          08464931008
+         
+         
+        
+        
+         
+          
+         
+         
+          Avvocati a Roma
+          
+         
+        
+         
+        
+       
+         
+          Impresa Verificata   |    
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.19669816
+
+            Viale Delle Medaglie D'oro, 169 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.19669816
+
+            Viale Delle Medaglie D'oro, 266 - 
+            00136 
+            Roma
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.14886232
+Avvocati a Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.14261216
+Viale Delle Medaglie D'oro, 266
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.14261216
+Viale Delle Medaglie D'oro, 169
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.13481368
+Viale Delle Medaglie D'oro, 176
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.13481368
+Viale delle Medaglie d'Oro, 143
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.11218014
+
+          Roma (RM)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.100207075
+Notai Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.100207075
+Ingegneri Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[5]/div[2]/a[1]
+-
+0.0926407
+Avvocato Simone Corini - Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.073594965
 Associazioni sindacali Roma
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.073594965
+Categorie correlate a Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
 -
 0.06330247
 Architetti, studi architettura Roma
@@ -6029,10 +6029,8 @@ Recensioni Studio Legale Corini, Roma
 ---
 -
 0.58599055
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.58599055
 
@@ -6041,14 +6039,16 @@ Recensioni Studio Legale Corini, Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.58599055
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.58599055
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.4668364
 Scrivi la tua recensione di Avvocato Simone Corini
@@ -6064,7 +6064,21 @@ Studio Legale Zanchetti Gramaccioni
 -
 0.29458037
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.29458037
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.29458037
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.29458037
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.29458037
 Roma
@@ -6072,13 +6086,11 @@ Roma
 -
 0.29458037
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.29458037
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.29458037
 Roma
@@ -6089,10 +6101,6 @@ Roma
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.29458037
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.29458037
 
         Roma
        
@@ -6100,23 +6108,15 @@ Roma
 -
 0.29458037
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.29458037
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.29458037
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.23653413
-Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.23653413
 Avvocato Simone Corini
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.23653413
+Avvocato Simone Corini
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.22420576
 
@@ -6246,10 +6246,8 @@ __________________
 ---
 -
 0.5764725
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.5764725
 
@@ -6258,14 +6256,16 @@ __________________
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.5764725
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.5764725
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.28985447
 Studio Legale Zanchetti Gramaccioni
@@ -6273,11 +6273,11 @@ Studio Legale Zanchetti Gramaccioni
 -
 0.23269223
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
 0.23269223
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.21688326
 Avvocato Simone Corini - Roma
@@ -6397,10 +6397,8 @@ E-mail a Studio Legale Corini
 ---
 -
 0.5764725
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.5764725
 
@@ -6409,14 +6407,16 @@ E-mail a Studio Legale Corini
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.5764725
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.5764725
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.28985447
 Studio Legale Zanchetti Gramaccioni
@@ -6424,11 +6424,11 @@ Studio Legale Zanchetti Gramaccioni
 -
 0.23269223
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
 0.23269223
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.21688326
 Avvocato Simone Corini - Roma
@@ -6550,10 +6550,8 @@ __________________
 ---
 -
 0.5764725
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.5764725
 
@@ -6562,14 +6560,16 @@ __________________
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.5764725
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.5764725
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.28985447
 Studio Legale Zanchetti Gramaccioni
@@ -6577,11 +6577,11 @@ Studio Legale Zanchetti Gramaccioni
 -
 0.23269223
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
 0.23269223
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.21688326
 Avvocato Simone Corini - Roma
@@ -6733,12 +6733,12 @@ Viale delle Medaglie d'Oro, 143
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
 -
 0.14586511
-Viale Tito Livio, 59
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.14586511
 Viale Tito Livio, 67
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.14586511
+Viale Tito Livio, 59
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.13179457
 
@@ -6866,7 +6866,21 @@ Viale delle Medaglie d'Oro, 143
 -
 0.2714212
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.2714212
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.2714212
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.2714212
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.2714212
 Roma
@@ -6874,13 +6888,11 @@ Roma
 -
 0.2714212
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.2714212
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.2714212
 Roma
@@ -6891,10 +6903,6 @@ Roma
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.2714212
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.2714212
 
         Roma
        
@@ -6902,15 +6910,7 @@ Roma
 -
 0.2714212
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.2714212
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.2714212
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.1954819
 
@@ -6925,12 +6925,12 @@ Avvocati a Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
 -
 0.14038941
-Viale Tito Livio, 59
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
--
-0.14038941
 Viale Tito Livio, 67
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.14038941
+Viale Tito Livio, 59
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
 -
 0.11611705
 
@@ -7032,12 +7032,12 @@ Avvocato Simone Corini - Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.07617774
-Categorie correlate a Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
--
-0.07617774
 Associazioni sindacali Roma
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.07617774
+Categorie correlate a Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
 -
 0.06552404
 Architetti, studi architettura Roma
@@ -7051,10 +7051,8 @@ Galleria Studio Legale Corini, Roma
 ---
 -
 0.55369127
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.55369127
 
@@ -7063,14 +7061,16 @@ Galleria Studio Legale Corini, Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.55369127
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.55369127
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.3080842
 Avvocato Simone Corini - Roma
@@ -7082,7 +7082,21 @@ Studio Legale Zanchetti Gramaccioni
 -
 0.2783434
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.2783434
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.2783434
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.2783434
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.2783434
 Roma
@@ -7090,13 +7104,11 @@ Roma
 -
 0.2783434
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.2783434
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.2783434
 Roma
@@ -7107,10 +7119,6 @@ Roma
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.2783434
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.2783434
 
         Roma
        
@@ -7118,23 +7126,15 @@ Roma
 -
 0.2783434
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.2783434
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.2783434
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.22349659
-Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.22349659
 Avvocato Simone Corini
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.22349659
+Avvocato Simone Corini
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.21184775
 
@@ -7281,10 +7281,8 @@ Lo Studio Legale Corini svolge attività di assistenza e consulenza legale speci
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]
 -
 0.101578526
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.101578526
 
@@ -7293,14 +7291,16 @@ Lo Studio Legale Corini svolge attività di assistenza e consulenza legale speci
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.101578526
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.101578526
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.051627237
 Studio Legale Zanchetti Gramaccioni
@@ -7404,10 +7404,8 @@ Lo Studio Legale Corini svolge attività di assistenza e consulenza legale speci
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]
 -
 0.23607114
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.23607114
 
@@ -7416,14 +7414,16 @@ Lo Studio Legale Corini svolge attività di assistenza e consulenza legale speci
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.23607114
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.23607114
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.11869825
 Studio Legale Zanchetti Gramaccioni
@@ -7431,11 +7431,11 @@ Studio Legale Zanchetti Gramaccioni
 -
 0.097082585
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
 0.097082585
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.095120445
 
@@ -7562,10 +7562,8 @@ Ricerche simili Studio Legale Corini, Roma
 ---
 -
 0.4946266
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.4946266
 
@@ -7574,14 +7572,16 @@ Ricerche simili Studio Legale Corini, Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.4946266
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.4946266
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.33406845
 Risultati di ricerca per Avvocato Simone Corini
@@ -7597,7 +7597,21 @@ Studio Legale Zanchetti Gramaccioni
 -
 0.24865131
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.24865131
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.24865131
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.24865131
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.24865131
 Roma
@@ -7605,13 +7619,11 @@ Roma
 -
 0.24865131
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.24865131
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.24865131
 Roma
@@ -7622,10 +7634,6 @@ Roma
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.24865131
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.24865131
 
         Roma
        
@@ -7633,23 +7641,15 @@ Roma
 -
 0.24865131
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.24865131
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.24865131
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.19965525
-Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.19965525
 Avvocato Simone Corini
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.19965525
+Avvocato Simone Corini
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.1961198
 Lo Studio Legale Corini svolge attività di assistenza e consulenza legale specialistica in materia di diritto della musica e contratti discografici, nei diversi ambiti della tutela del diritto d'autore e dei diritti connessi, della proprietà intellettuale e del diritto dello spettacolo, in tema di privacy, di proprietà industriale e di contratti d'impresa, nonché nel settore dell'ICT e dei progetti di ricerca e sviluppo nazionali ed europei, attraverso la fomrulazione di pareri legali, l'analisi e l'elaborazione di contratti, la redazione di atti giudiziali e di atti stragiudiziali, l'assistenza nelle negoziazioni con i terzi, la partecipazione a progetti di ricerca e sviluppo (progetti R&D), la gestione dei rapporti con i vari enti ausiliari per la protezione delle opere dell'ingegno.
@@ -7781,10 +7781,8 @@ __________________
 ---
 -
 0.4916393
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.4916393
 
@@ -7793,14 +7791,16 @@ __________________
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.4916393
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.4916393
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.32750195
 Categorie correlate a Roma
@@ -7812,11 +7812,11 @@ Studio Legale Zanchetti Gramaccioni
 -
 0.19844942
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
 -
 0.19844942
 Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.18496688
 Avvocato Simone Corini - Roma
@@ -7963,10 +7963,8 @@ Pareri Legali
 ---
 -
 0.43101528
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.43101528
 
@@ -7975,14 +7973,16 @@ Pareri Legali
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.43101528
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.43101528
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.2190633
 Studio Legale Zanchetti Gramaccioni
@@ -8086,10 +8086,8 @@ Aziende simili nelle vicinanze Studio Legale Corini, Roma
 ---
 -
 0.40104997
-
-            Studio Legale
-           
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+Studio Legale
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
 -
 0.40104997
 
@@ -8098,14 +8096,16 @@ Aziende simili nelle vicinanze Studio Legale Corini, Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.40104997
-Studio Legale
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+
+            Studio Legale
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.40104997
 
             Studio Legale
            
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
 -
 0.2231517
 Avvocato Simone Corini - Roma
@@ -8117,7 +8117,21 @@ Studio Legale Zanchetti Gramaccioni
 -
 0.20160985
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.20160985
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.20160985
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.20160985
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.20160985
 Roma
@@ -8125,13 +8139,11 @@ Roma
 -
 0.20160985
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.20160985
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.20160985
 Roma
@@ -8142,10 +8154,6 @@ Roma
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.20160985
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.20160985
 
         Roma
        
@@ -8153,23 +8161,15 @@ Roma
 -
 0.20160985
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.20160985
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.20160985
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.16188318
-Avvocato Simone Corini
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.16188318
 Avvocato Simone Corini
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.16188318
+Avvocato Simone Corini
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
 -
 0.15344568
 
@@ -8304,7 +8304,21 @@ Contrattualistica in Roma
 -
 0.38215062
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.38215062
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.38215062
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.38215062
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.38215062
 Roma
@@ -8312,13 +8326,11 @@ Roma
 -
 0.38215062
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.38215062
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.38215062
 Roma
@@ -8329,10 +8341,6 @@ Roma
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.38215062
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.38215062
 
         Roma
        
@@ -8340,15 +8348,7 @@ Roma
 -
 0.38215062
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.38215062
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.38215062
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.21694793
 Avvocati a Roma
@@ -8373,12 +8373,12 @@ Avvocato Simone Corini - Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.107255325
-Categorie correlate a Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
--
-0.107255325
 Associazioni sindacali Roma
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.107255325
+Categorie correlate a Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
 -
 0.10003369
 
@@ -8547,7 +8547,21 @@ Consulenza aziendale Roma
 -
 0.3073163
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.3073163
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.3073163
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.3073163
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.3073163
 Roma
@@ -8555,13 +8569,11 @@ Roma
 -
 0.3073163
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.3073163
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.3073163
 Roma
@@ -8572,10 +8584,6 @@ Roma
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.3073163
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.3073163
 
         Roma
        
@@ -8583,15 +8591,7 @@ Roma
 -
 0.3073163
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.3073163
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.3073163
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.1744643
 Avvocati a Roma
@@ -8616,12 +8616,12 @@ Avvocato Simone Corini - Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.086252145
-Categorie correlate a Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
--
-0.086252145
 Associazioni sindacali Roma
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.086252145
+Categorie correlate a Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
 -
 0.080444686
 
@@ -8754,7 +8754,21 @@ Servizi professionali Roma
 -
 0.28066242
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.28066242
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.28066242
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.28066242
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.28066242
 Roma
@@ -8762,13 +8776,11 @@ Roma
 -
 0.28066242
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.28066242
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.28066242
 Roma
@@ -8779,10 +8791,6 @@ Roma
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.28066242
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.28066242
 
         Roma
        
@@ -8790,15 +8798,7 @@ Roma
 -
 0.28066242
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.28066242
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.28066242
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.15933281
 Avvocati a Roma
@@ -8823,12 +8823,12 @@ Avvocato Simone Corini - Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.0787714
-Categorie correlate a Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
--
-0.0787714
 Associazioni sindacali Roma
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.0787714
+Categorie correlate a Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
 -
 0.073467635
 
@@ -8970,7 +8970,7 @@ Bergami Avv. Valentina
 Callari Avv. Claudia
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/a[1]
 __________________
-Lipari Nicolo' (Avv.)
+Sebastiani Umberto (Avv.)
 ---
 -
 0.2423502
@@ -8981,7 +8981,7 @@ Bergami Avv. Valentina
 Callari Avv. Claudia
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/a[1]
 __________________
-Sebastiani Umberto (Avv.)
+Lipari Nicolo' (Avv.)
 ---
 -
 0.2423502
@@ -9008,7 +9008,21 @@ V. CADLOLO ALBERTO. 11800136  Roma
 -
 0.20248589
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.20248589
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.20248589
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.20248589
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.20248589
 Roma
@@ -9016,13 +9030,11 @@ Roma
 -
 0.20248589
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.20248589
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.20248589
 Roma
@@ -9033,10 +9045,6 @@ Roma
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.20248589
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.20248589
 
         Roma
        
@@ -9044,15 +9052,7 @@ Roma
 -
 0.20248589
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.20248589
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.20248589
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.11495178
 Avvocati a Roma
@@ -9077,12 +9077,12 @@ Avvocato Simone Corini - Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.056830183
-Categorie correlate a Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
--
-0.056830183
 Associazioni sindacali Roma
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.056830183
+Categorie correlate a Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
 -
 0.05300374
 
@@ -9202,7 +9202,21 @@ V. CLIVO DI CINNA. 19600136  Roma
 -
 0.20248589
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.20248589
+
+        Roma
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+-
+0.20248589
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.20248589
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
 -
 0.20248589
 Roma
@@ -9210,13 +9224,11 @@ Roma
 -
 0.20248589
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.20248589
-
-        Roma
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+Roma
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
 -
 0.20248589
 Roma
@@ -9227,10 +9239,6 @@ Roma
 //html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
 -
 0.20248589
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.20248589
 
         Roma
        
@@ -9238,15 +9246,7 @@ Roma
 -
 0.20248589
 Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
--
-0.20248589
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
--
-0.20248589
-Roma
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
 -
 0.11495178
 Avvocati a Roma
@@ -9271,12 +9271,12 @@ Avvocato Simone Corini - Roma
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
 -
 0.056830183
-Categorie correlate a Roma
-//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
--
-0.056830183
 Associazioni sindacali Roma
 //html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.056830183
+Categorie correlate a Roma
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
 -
 0.05300374
 
@@ -9391,22 +9391,6 @@ Commercialisti - studio commercialista Roma
       
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
 __________________
-Proprietà Intellettuale
----
--
-0.1926535
-Lo Studio Legale Corini svolge attività di assistenza e consulenza legale specialistica in materia di diritto della musica e contratti discografici, nei diversi ambiti della tutela del diritto d'autore e dei diritti connessi, della proprietà intellettuale e del diritto dello spettacolo, in tema di privacy, di proprietà industriale e di contratti d'impresa, nonché nel settore dell'ICT e dei progetti di ricerca e sviluppo nazionali ed europei, attraverso la fomrulazione di pareri legali, l'analisi e l'elaborazione di contratti, la redazione di atti giudiziali e di atti stragiudiziali, l'assistenza nelle negoziazioni con i terzi, la partecipazione a progetti di ricerca e sviluppo (progetti R&D), la gestione dei rapporti con i vari enti ausiliari per la protezione delle opere dell'ingegno.
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
--
-0.18940601
-
-        Descrizione attività: 
-        
-        Lo Studio Legale Corini svolge attività di assistenza e consulenza legale specialistica in materia di diritto della musica e contratti discografici, nei diversi ambiti della tutela del diritto d'autore e dei diritti connessi, della proprietà intellettuale e del diritto dello spettacolo, in tema di privacy, di proprietà industriale e di contratti d'impresa, nonché nel settore dell'ICT e dei progetti di ricerca e sviluppo nazionali ed europei, attraverso la fomrulazione di pareri legali, l'analisi e l'elaborazione di contratti, la redazione di atti giudiziali e di atti stragiudiziali, l'assistenza nelle negoziazioni con i terzi, la partecipazione a progetti di ricerca e sviluppo (progetti R&D), la gestione dei rapporti con i vari enti ausiliari per la protezione delle opere dell'ingegno.
-        
-       
-//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]
-__________________
 Proprietà industriale
 ---
 -
@@ -9423,10 +9407,26 @@ Lo Studio Legale Corini svolge attività di assistenza e consulenza legale speci
        
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]
 __________________
+Proprietà Intellettuale
+---
+-
+0.1926535
+Lo Studio Legale Corini svolge attività di assistenza e consulenza legale specialistica in materia di diritto della musica e contratti discografici, nei diversi ambiti della tutela del diritto d'autore e dei diritti connessi, della proprietà intellettuale e del diritto dello spettacolo, in tema di privacy, di proprietà industriale e di contratti d'impresa, nonché nel settore dell'ICT e dei progetti di ricerca e sviluppo nazionali ed europei, attraverso la fomrulazione di pareri legali, l'analisi e l'elaborazione di contratti, la redazione di atti giudiziali e di atti stragiudiziali, l'assistenza nelle negoziazioni con i terzi, la partecipazione a progetti di ricerca e sviluppo (progetti R&D), la gestione dei rapporti con i vari enti ausiliari per la protezione delle opere dell'ingegno.
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.18940601
 
-        Sebastiani Umberto (Avv.)
+        Descrizione attività: 
         
-         20 m
+        Lo Studio Legale Corini svolge attività di assistenza e consulenza legale specialistica in materia di diritto della musica e contratti discografici, nei diversi ambiti della tutela del diritto d'autore e dei diritti connessi, della proprietà intellettuale e del diritto dello spettacolo, in tema di privacy, di proprietà industriale e di contratti d'impresa, nonché nel settore dell'ICT e dei progetti di ricerca e sviluppo nazionali ed europei, attraverso la fomrulazione di pareri legali, l'analisi e l'elaborazione di contratti, la redazione di atti giudiziali e di atti stragiudiziali, l'assistenza nelle negoziazioni con i terzi, la partecipazione a progetti di ricerca e sviluppo (progetti R&D), la gestione dei rapporti con i vari enti ausiliari per la protezione delle opere dell'ingegno.
+        
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]
+__________________
+
+        Lipari Nicolo' (Avv.)
+        
+         130 m
         
         Dati
        
@@ -9458,9 +9458,9 @@ Callari Avv. Claudia
 //html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/a[1]
 __________________
 
-        Lipari Nicolo' (Avv.)
+        Sebastiani Umberto (Avv.)
         
-         130 m
+         20 m
         
         Dati
        

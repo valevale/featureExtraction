@@ -32,7 +32,7 @@ public class Segment {
 		if (this.w3c_node.getLength() == 0) System.out.println("RESTITUITO 0");
 		this.jsoup_node = node;
 		this.document = document;
-		this.xpath_specificity = new Tuple2<Xpath,Integer>(new Xpath(this.jsoup_node, this.absoluteXpath),0);
+		this.xpath_specificity = new Tuple2<Xpath,Integer>(new Xpath(this.jsoup_node, this.absoluteXpath, this.document.getIdDomain()),0);
 	}
 	
 	public void makeXpathVersions() throws XPathExpressionException, IOException, ParserConfigurationException {
