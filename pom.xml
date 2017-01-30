@@ -22,7 +22,7 @@
 				  <archive>
 					<manifest>
 						<!-- Jar file entry point -->
-						<mainClass>featureExtractor.EntityExtractor</mainClass>
+						<mainClass>main.Main</mainClass>
 					</manifest>
 				  </archive>
 				</configuration>
