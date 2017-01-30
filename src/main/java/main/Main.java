@@ -40,16 +40,17 @@ public class Main {
 //			Source currentSource = facade.getSourceWithId(id);
 //			System.out.println(currentSource.getId().toString());
 //		}
+		System.out.println("*****************************INIZIO A ESTRARRE DAL DB*******************************");
 		MongoFacade facade = new MongoFacade("web_search_pages");
 		Source currentSource = facade.getSourceWithId("5750678b3387e31f516fa1c7");
-		System.out.println(currentSource.getId().toString());
+		System.out.println("***ECCO L'ID "+currentSource.getId().toString());
 		 currentSource = facade.getSourceWithId("5750678b3387e31f516fa1d0");
-		System.out.println(currentSource.getId().toString());
+		System.out.println("***ECCO L'ID "+currentSource.getId().toString());
 		 currentSource = facade.getSourceWithId("575067b33387e31f516face0");
-		System.out.println(currentSource.getId().toString());
+		System.out.println("***ECCO L'ID "+currentSource.getId().toString());
 		 currentSource = facade.getSourceWithId("5750678b3387e31f516fa1cd");
-		System.out.println(currentSource.getId().toString());
+		System.out.println("***ECCO L'ID "+currentSource.getId().toString());
 		 currentSource = facade.getSourceWithId("5750678a3387e31f516fa185");
-		System.out.println(currentSource.getId().toString());
+		System.out.println("***ECCO L'ID "+currentSource.getId().toString());
 	}
 }
