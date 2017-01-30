@@ -1,7 +1,9 @@
-package main;
+package main_backup;
 
 import java.sql.Timestamp;
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
@@ -11,12 +13,14 @@ import org.jgrapht.DirectedGraph;
 import org.jgrapht.GraphPath;
 import org.jgrapht.UndirectedGraph;
 import org.jgrapht.alg.ConnectivityInspector;
+import org.jgrapht.alg.flow.EdmondsKarpMFImpl;
+import org.jgrapht.alg.flow.MaximumFlowAlgorithmBase;
+import org.jgrapht.alg.interfaces.MinimumSTCutAlgorithm;
 import org.jgrapht.alg.shortestpath.AllDirectedPaths;
 import org.jgrapht.graph.DefaultWeightedEdge;
 import org.jgrapht.graph.DirectedMultigraph;
 import org.jgrapht.graph.SimpleWeightedGraph;
 
-import model.InformationsMatching;
 import model.PairMatching;
 import model.PairMatchingRepository;
 import model.PairMatchingRepositoryRepository;
@@ -25,10 +29,12 @@ import scala.Tuple2;
 
 public class SegmentGraphGenerator {
 
-	public static List<InformationsMatching> getInformations() throws Exception {
+	public static Map<Integer,List<Tuple2<Integer,List<RelevantInformation>>>> getInformations() throws Exception {
+
 
 		Timestamp timestamp = new Timestamp(System.currentTimeMillis());
 		System.out.println("preparazione: "+timestamp);
+		
 		
 		SimpleWeightedGraph<RelevantInformation, DefaultWeightedEdge> g = createGraph();
 
@@ -41,7 +47,10 @@ public class SegmentGraphGenerator {
 
 		DirectedGraph<RelevantInformation, DefaultWeightedEdge> gDirected = convertUndirectedGraph(g);
 
-		List<InformationsMatching> maxWeightPaths = new ArrayList<>();
+		List<Tuple2<Integer,List<RelevantInformation>>> maxWeightPaths = new ArrayList<>();
+		List<Tuple2<Integer,List<RelevantInformation>>> longestPaths = new ArrayList<>();
+
+		Map<Integer,List<Tuple2<Integer,List<RelevantInformation>>>> result = new HashMap<>();
 
 		timestamp = new Timestamp(System.currentTimeMillis());
 		System.out.println("creazione grafo: "+timestamp);
@@ -61,9 +70,7 @@ public class SegmentGraphGenerator {
 			GraphPath<RelevantInformation,DefaultWeightedEdge> firstMaxWeightedPath = getMaxWeightedPath(
 					transversalPaths, g);
 			List<RelevantInformation> usedVertexForPaths = firstMaxWeightedPath.getVertexList();
-			InformationsMatching matching = new InformationsMatching(firstMaxWeightedPath.getVertexList(), i+"_1");
-//			maxWeightPaths.add(new Tuple2<Integer,List<RelevantInformation>>(1,firstMaxWeightedPath.getVertexList()));
-			maxWeightPaths.add(matching);
+			maxWeightPaths.add(new Tuple2<Integer,List<RelevantInformation>>(1,firstMaxWeightedPath.getVertexList()));
 			//individuo i nodi appartenenti al cammino
 			//possibilità:
 			//-creiamo un nuovo grafo senza quei nodi
@@ -92,11 +99,9 @@ public class SegmentGraphGenerator {
 					pathRaccolte++;
 					GraphPath<RelevantInformation,DefaultWeightedEdge> newMaxWeightedPath = getMaxWeightedPath(
 							transversalPathsFiltered, g);
-//					maxWeightPaths.add(new Tuple2<Integer,List<RelevantInformation>>((pathRaccolte),vertexOfNewMaxWeightedPath));
-//					usedVertexForPaths.addAll(vertexOfNewMaxWeightedPath);
-					InformationsMatching newMatching = new InformationsMatching(newMaxWeightedPath.getVertexList(),
-							i+"_"+pathRaccolte);
-					maxWeightPaths.add(newMatching);
+					List<RelevantInformation> vertexOfNewMaxWeightedPath = newMaxWeightedPath.getVertexList();
+					maxWeightPaths.add(new Tuple2<Integer,List<RelevantInformation>>((pathRaccolte),vertexOfNewMaxWeightedPath));
+					usedVertexForPaths.addAll(vertexOfNewMaxWeightedPath);
 				}
 				else {
 					ancoraAltriCammini = false;
@@ -109,12 +114,166 @@ public class SegmentGraphGenerator {
 		timestamp = new Timestamp(System.currentTimeMillis());
 		System.out.println("weight: "+timestamp);
 
+		//per ogni sottografo
+		for (int i=0; i<semanticSubGraphList.size(); i++) {
+			Set<RelevantInformation> currentSemanticSubGraph = semanticSubGraphList.get(i);
+			//**ORA FACCIAMO L'ALGORITMO DEL PIU' LUNGO
+			List<GraphPath<RelevantInformation,DefaultWeightedEdge>> transversalPaths = selectTransversalPaths(
+					currentSemanticSubGraph, gDirected);
+			//			List<GraphPath<SegmentGraphNode,DefaultWeightedEdge>> longestPaths = new ArrayList<>();
+			//prima path
+			GraphPath<RelevantInformation,DefaultWeightedEdge> firstLongestPath = getLongestPath(transversalPaths, g);
+			List<RelevantInformation> usedVertexForPaths = firstLongestPath.getVertexList();
+			longestPaths.add(new Tuple2<Integer,List<RelevantInformation>>(1,firstLongestPath.getVertexList()));
+			//individuo i nodi appartenenti al cammino
+			//possibilità:
+			//-creiamo un nuovo grafo senza quei nodi
+			//-rigeneriamo i cammini (o meglio li riprendo, non li ricalcolo, spezzando il codice)
+			//e NON prendo i cammini che contengono anche un solo nodo di quelli
+			//proviamo con questa seconda strada
+//			List<GraphPath<SegmentGraphNode,DefaultWeightedEdge>> transversalPathsFiltered = new ArrayList<>();
+//			for (int j=0;j<transversalPaths.size();j++) {
+//				GraphPath<SegmentGraphNode,DefaultWeightedEdge> currentPath = transversalPaths.get(j);
+//				List<SegmentGraphNode> vertexOfCurrentPath = currentPath.getVertexList();
+//				//verifica se currentPath e firstMaxWeightedPath hanno nodi in comune
+//				boolean vertexInCommon = false;
+//				for (int k=0; k<vertexOfCurrentPath.size() && !vertexInCommon; k++) {
+//					if (vertexOfFirstLongestPath.contains(vertexOfCurrentPath.get(k)))
+//						vertexInCommon = true;
+//				}
+//				if (!vertexInCommon) 
+//					transversalPathsFiltered.add(currentPath);
+//			}
+//			//seleziono quello massimo
+//			if (!transversalPathsFiltered.isEmpty()) {
+//				GraphPath<SegmentGraphNode,DefaultWeightedEdge> secondLongestPath = getLongestPath(
+//						transversalPathsFiltered);
+//				List<SegmentGraphNode> vertexOfSecondLongestPath = secondLongestPath.getVertexList();
+//				longestPaths.add(new Tuple2<Integer,List<SegmentGraphNode>>(2,vertexOfSecondLongestPath));
+//			}
+			int pathRaccolte = 1;
+			boolean ancoraAltriCammini = true;
+			while (pathRaccolte <=5 && ancoraAltriCammini){
+				List<GraphPath<RelevantInformation,DefaultWeightedEdge>> transversalPathsFiltered = new ArrayList<>();
+				for (int j=0;j<transversalPaths.size();j++) {
+					GraphPath<RelevantInformation,DefaultWeightedEdge> currentPath = transversalPaths.get(j);
+					List<RelevantInformation> vertexOfCurrentPath = currentPath.getVertexList();
+					//verifica se currentPath e firstMaxWeightedPath hanno nodi in comune
+					boolean vertexInCommon = false;
+					for (int k=0; k<vertexOfCurrentPath.size() && !vertexInCommon; k++) {
+						if (usedVertexForPaths.contains(vertexOfCurrentPath.get(k)))
+							vertexInCommon = true;
+					}
+					if (!vertexInCommon)
+						transversalPathsFiltered.add(currentPath);
+				}
+				//seleziono quello massimo, secondo cammino
+				if (!transversalPathsFiltered.isEmpty()) {
+					pathRaccolte++;
+					GraphPath<RelevantInformation,DefaultWeightedEdge> newLongestPath = getLongestPath(
+							transversalPathsFiltered, g);
+					List<RelevantInformation> vertexOfNewMaxWeightedPath = newLongestPath.getVertexList();
+					longestPaths.add(new Tuple2<Integer,List<RelevantInformation>>((pathRaccolte),vertexOfNewMaxWeightedPath));
+					usedVertexForPaths.addAll(vertexOfNewMaxWeightedPath);
+				}
+				else {
+					ancoraAltriCammini = false;
+				}
+			}
+			
+		}
+
+		timestamp = new Timestamp(System.currentTimeMillis());
+		System.out.println("longest: "+timestamp);
+
+		List<Tuple2<Integer,List<RelevantInformation>>> minCutPaths = new ArrayList<>();
+
+		//per ogni sottografo
+		for (int i=0; i<semanticSubGraphList.size(); i++) {
+			Set<RelevantInformation> currentSemanticSubGraph = semanticSubGraphList.get(i);
+
+			Set<RelevantInformation> path = minCutAlg(currentSemanticSubGraph, g);
+
+			List<RelevantInformation> listVertex = new ArrayList<>(path);
+
+			minCutPaths.add(new Tuple2<Integer,List<RelevantInformation>>(1,listVertex));
+		}
+
+		timestamp = new Timestamp(System.currentTimeMillis());
+		System.out.println("mincut: "+timestamp);
+
+		result.put(1, maxWeightPaths);
+		result.put(2, longestPaths);
+		result.put(3, minCutPaths);
 		//cosa facciamo ritornare?
 		//i soli vertici
 		//		return new Tuple2<List<List<SegmentGraphNode>>,List<List<SegmentGraphNode>>>(maxWeightPaths,longestPaths);
-		return maxWeightPaths;
+		return result;
 	}
 
+	public static Set<RelevantInformation> minCutAlg(Set<RelevantInformation> currentSemanticSubGraph,
+			SimpleWeightedGraph<RelevantInformation, DefaultWeightedEdge> g) {
+		//		System.out.println("nuova chiamata");
+
+		Set<RelevantInformation> transversalSet = currentSemanticSubGraph;
+
+		Tuple2<RelevantInformation,RelevantInformation> conflict = getConflict(transversalSet);
+
+		ConnectivityInspector<RelevantInformation, DefaultWeightedEdge> subInspector = new ConnectivityInspector<>(g);
+		List<Set<RelevantInformation>> newConnectedComponents = subInspector.connectedSets();
+		//		System.out.println("componenti connesse di partenza: "+newConnectedComponents.size());
+
+		//queste 2 variabili non so se vanno bene qui, ma ci proviamo
+
+		while (conflict != null) {
+			//			System.out.println("nuovo ciclo");
+			//taglio
+			//			System.out.println("dimensione transversal set "+transversalSet.size());
+			//**FORD-FULKERSON
+			MinimumSTCutAlgorithm<RelevantInformation, DefaultWeightedEdge> minCutAlg = 
+					new EdmondsKarpMFImpl<RelevantInformation, DefaultWeightedEdge>(g,	MaximumFlowAlgorithmBase.DEFAULT_EPSILON);
+
+			minCutAlg.calculateMinCut(conflict._1(), conflict._2());
+
+			//ora conosco il taglio
+			Set<DefaultWeightedEdge> cutEdges = minCutAlg.getCutEdges();
+
+			//rimuovo quegli archi
+			g.removeAllEdges(cutEdges);
+			//			System.out.println("il taglio è andato a buon fine?"+fatto);
+
+			//ora questo sottografo è composto da più componenti connesse, le individuo
+			subInspector = new ConnectivityInspector<>(g);
+			newConnectedComponents = subInspector.connectedSets();
+
+			//			System.out.println("nuove componenti connesse: "+newConnectedComponents.size());
+
+			//da qui funziona
+
+
+			//individuo le sole componenti connesse che mi interessano:
+			//quelle che contengono i nodi di currentSemanticSubGraph
+			List<Set<RelevantInformation>> connectedComponentsOfCurrentSemanticSubgraph = 
+					getOnlyCCOfCurrentSemanticSubgraph(currentSemanticSubGraph, newConnectedComponents);
+
+
+			//			System.out.println("insiemi che hanno i vecchi nodi: "+connectedComponentsOfCurrentSemanticSubgraph.size());
+
+			//ipotesi
+			//prendo la componente connessa più grande
+			transversalSet = getBiggestCC(connectedComponentsOfCurrentSemanticSubgraph);
+
+			//ripeto
+			conflict = getConflict(transversalSet);
+			//			return minCutRecAlg(biggestCC,gDirected);
+		}
+		//caso base: no conflitti
+		//		else {
+		//			return currentSemanticSubGraph;
+		//		}
+		//		System.out.println("SONO USCITO!");
+		return transversalSet;
+	}
 	
 	public static SimpleWeightedGraph<RelevantInformation, DefaultWeightedEdge> createGraph() throws Exception {
 
@@ -184,6 +343,60 @@ public class SegmentGraphGenerator {
 		return g;
 	}
 
+	public static Set<RelevantInformation> getBiggestCC(List<Set<RelevantInformation>> connectedComponents) {
+		Set<RelevantInformation> biggestCC = connectedComponents.get(0);
+		for (int i=1;i<connectedComponents.size();i++) {
+			Set<RelevantInformation> currentCC = connectedComponents.get(i);
+			if (currentCC.size() > biggestCC.size()) {
+				biggestCC = currentCC;
+			}
+		}
+		return biggestCC;
+	}
+
+	public static List<Set<RelevantInformation>> getOnlyCCOfCurrentSemanticSubgraph(Set<RelevantInformation> currentSemanticSubGraph,
+			List<Set<RelevantInformation>> newConnectedComponents) {
+		//filtro le componenti connesse che non contengono neanche un nodo del sottografo semantico
+		//scorro tutte le componenti connesse
+		List<Set<RelevantInformation>> connectedComponentOfCurrentSemanticSubgraph = new ArrayList<>();
+
+		for (int i=0;i<newConnectedComponents.size();i++) {
+			//componente connessa corrente
+			Set<RelevantInformation> currentCC = newConnectedComponents.get(i);
+			//se l'itersezione con il sottografo semantico è maggiore di zero, allora prendo la componente
+			Set<RelevantInformation> intersection = new HashSet<>(currentCC);
+			intersection.retainAll(currentSemanticSubGraph);
+			//			System.out.println("inters numero "+(i+1)+": "+intersection.size());
+			if (intersection.size() > 0) {
+				connectedComponentOfCurrentSemanticSubgraph.add(currentCC);
+			}
+		}
+		return connectedComponentOfCurrentSemanticSubgraph;
+	}
+
+	/* di tutti i cammini, prendo quello di lunghezza massima (numero di archi maggiore)
+	 * a parità di peso, prendo il cammino di peso massimo (somma del peso degli archi massima)
+	 * a parità, ne prendo uno qualsiasi*/
+	private static GraphPath<RelevantInformation,DefaultWeightedEdge> getLongestPath(
+			List<GraphPath<RelevantInformation,DefaultWeightedEdge>> allTransversalPaths,
+			SimpleWeightedGraph<RelevantInformation, DefaultWeightedEdge> g) {
+		//inizializziamo con il primo elemento
+		GraphPath<RelevantInformation,DefaultWeightedEdge> longestPath = allTransversalPaths.get(0);
+		for (int i=0;i<allTransversalPaths.size();i++) {
+			GraphPath<RelevantInformation,DefaultWeightedEdge> currentPath = allTransversalPaths.get(i);
+			if (currentPath.getLength() > longestPath.getLength()) {
+				longestPath = currentPath;
+			}
+			if (currentPath.getLength() == longestPath.getLength()) {
+				double currentPathWeight = getWeight(currentPath, g);
+				double currentLongestPathWeight = getWeight(longestPath, g);
+				if (currentPathWeight > currentLongestPathWeight) {
+					longestPath = currentPath;
+				}
+			}
+		}
+		return longestPath;
+	}
 
 	/* di tutti i cammini, prendo quello di peso massimo (somma del peso degli archi massima)
 	 * a parità di peso, prendo il cammino più lungo (numero di archi maggiore)
@@ -309,4 +522,32 @@ public class SegmentGraphGenerator {
 		return null;
 	}
 
+	public static RelevantInformation containsXpath(Set<RelevantInformation> currentSemanticSubGraph,String xpath) {
+		Iterator<RelevantInformation> it = currentSemanticSubGraph.iterator();
+		while(it.hasNext()) {
+			RelevantInformation n = it.next();
+			if (n.getXpath().getXpath().equals(xpath))
+				return n;
+		}
+		return null;
+	}
+
+	public static Tuple2<RelevantInformation,RelevantInformation> getConflict(Set<RelevantInformation> nodes) {
+
+		Map<Integer,RelevantInformation> domain2node = new HashMap<>();
+
+		Iterator<RelevantInformation> it = nodes.iterator();
+		while(it.hasNext()) {
+			RelevantInformation currentNode = it.next();
+			int currentDomain = currentNode.getDomain();
+			if (!domain2node.containsKey(currentDomain)) {
+				domain2node.put(currentDomain, currentNode);
+			}
+			else {
+				RelevantInformation conflictNode = domain2node.get(currentDomain);
+				return new Tuple2<RelevantInformation,RelevantInformation>(conflictNode,currentNode);
+			}
+		}
+		return null;
+	}
 }

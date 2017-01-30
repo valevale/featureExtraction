@@ -12,14 +12,16 @@ public class RelevantInformation {
 
 	private int domain;
 	private Xpath xpath;
+	private InformationsMatching matching;
+	//serve per la visualizzazione
 	private String content;
-//	private InformationsMatching matching;
 	
 	public RelevantInformation(int domain, Xpath xpath) {
 		this.domain = domain;
 		this.xpath = xpath;
 	}
 	
+	//serve per la visualizzazione
 	public RelevantInformation(int domain, Xpath xpath, WebPageDocument w) throws XPathExpressionException, IOException {
 		this.domain = domain;
 		this.xpath = xpath;
@@ -40,6 +42,14 @@ public class RelevantInformation {
 	
 	public Xpath getXpath() {
 		return this.xpath;
+	}
+	
+	public InformationsMatching getMatching() {
+		return this.matching;
+	}
+	
+	public void setMatching(InformationsMatching matching) {
+		this.matching=matching;
 	}
 
 	@Override

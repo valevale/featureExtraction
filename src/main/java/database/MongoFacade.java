@@ -41,7 +41,6 @@ public class MongoFacade {
 		return getDatastore().createQuery(QueryEntry.class).iterator();
 	}
 	
-	
 	/* iteratore per la collezione pages con un certo crawling_id */
 	public Iterator<PageEntry> pageEntryIterator(String crawling_id) {
 		return getDatastore().createQuery(PageEntry.class).field("crawling_id").equal(crawling_id).iterator();
@@ -61,6 +60,12 @@ public class MongoFacade {
 	/* iteratore per la collezione pages */
 	public PageEntry getPageWithUrl(String url) {
 		return getDatastore().createQuery(PageEntry.class).field("page.url").equal(url).get();
+	}
+	
+	/*dato un certo id, restituisce il dominio con quell'id */
+	public Source getSourceWithId(String id) {
+		ObjectId i = new ObjectId(id);
+		return getDatastore().get(Source.class, i);
 	}
 
 	//TODO per ora non storiamo niente nel db, ciò che dobbiamo capire è se per
