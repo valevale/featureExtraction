@@ -1,0 +1,942 @@
+V. GIACOMO MATTEOTTI. 80
+---
+-
+0.65986454
+ Via Giacomo Matteotti, 80
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
+-
+0.39176226
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+__________________
+93011
+---
+-
+0.5301321
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+93011
+---
+-
+0.5301321
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+93011
+---
+-
+0.5301321
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+93011
+---
+-
+0.5301321
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+93011
+---
+-
+0.5301321
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+93011
+---
+-
+0.5301321
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Mini Market Di Giuliana Antonio
+---
+-
+0.5243767
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.32402712
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.32402712
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.27497095
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+__________________
+Mini Market Di Giuliana Antonio
+---
+-
+0.5243767
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.32402712
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.32402712
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.27497095
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+__________________
+Mini Market Di Giuliana Antonio
+---
+-
+0.5243767
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.32402712
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.32402712
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.27497095
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+__________________
+Mini Market Di Giuliana Antonio
+---
+-
+0.5243767
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.32402712
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.32402712
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.27497095
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+__________________
+ Più informazioni su Mini Market Di Giuliana Antonio
+---
+-
+0.49014583
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+-
+0.4723065
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.29185146
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.29185146
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+__________________
+Mini Market Di Giuliana Antonio, Butera
+---
+-
+0.48479113
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.2995661
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.2995661
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.25421318
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+-
+0.16867949
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.16610752
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Mini Market Di Giuliana Antonio, Butera
+---
+-
+0.48479113
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.2995661
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.2995661
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.25421318
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+-
+0.16867949
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.16610752
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Mini Market Di Giuliana Antonio, Butera
+---
+-
+0.48479113
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.2995661
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.2995661
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.25421318
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+-
+0.16867949
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.16610752
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Mini Market Di Giuliana Antonio, Butera
+---
+-
+0.48479113
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.2995661
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.2995661
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.25421318
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+-
+0.16867949
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.16610752
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Mini Market Di Giuliana Antonio, Butera
+---
+-
+0.48479113
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.2995661
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.2995661
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.25421318
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+-
+0.16867949
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.16610752
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Mini Market Di Giuliana Antonio, Butera
+---
+-
+0.48479113
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.2995661
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.2995661
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.25421318
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+-
+0.16867949
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.16610752
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Mini Market Di Giuliana Antonio, Butera
+---
+-
+0.48479113
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.2995661
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.2995661
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.25421318
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+-
+0.16867949
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.16610752
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+E-mail a Mini Market Di Giuliana Antonio
+---
+-
+0.4492342
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.27759445
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.27759445
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.23556799
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+__________________
+
+          E-mail a Mini Market Di Giuliana Antonio✕
+         
+---
+-
+0.4492342
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.27759445
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.27759445
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.23556799
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+__________________
+Butera
+---
+-
+0.44254297
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.43579525
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Butera
+---
+-
+0.44254297
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.43579525
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Butera
+---
+-
+0.44254297
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.43579525
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Butera
+---
+-
+0.44254297
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.43579525
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Butera
+---
+-
+0.44254297
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.43579525
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Butera 
+---
+-
+0.44254297
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.43579525
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Recensioni Mini Market Di Giuliana Antonio, Butera
+---
+-
+0.42358863
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.26174733
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.26174733
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.22212003
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+-
+0.14738455
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.14513728
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Galleria Mini Market Di Giuliana Antonio, Butera
+---
+-
+0.42358863
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.26174733
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.26174733
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.22212003
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+-
+0.14738455
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.14513728
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Descrizione Mini Market Di Giuliana Antonio, Butera
+---
+-
+0.42358863
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.26174733
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.26174733
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.22212003
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+-
+0.14738455
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.14513728
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Via Luigi Sturzo, 80
+---
+-
+0.4069799
+ Via Giacomo Matteotti, 80
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
+-
+0.17181578
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+__________________
+ 
+     Mini Market Di Giuliana Antonio è iscritta nelle categorie:
+    
+---
+-
+0.39925024
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.24670796
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.24670796
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.20935754
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+__________________
+Ricerche simili Mini Market Di Giuliana Antonio, Butera
+---
+-
+0.38092375
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.23538351
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.23538351
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.19974756
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+-
+0.1325396
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.13051869
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Siti sociali Mini Market Di Giuliana Antonio, Butera
+---
+-
+0.38092375
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.23538351
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.23538351
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.19974756
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+-
+0.1325396
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.13051869
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+
+     Scrivi tu la prima recensione per Mini Market Di Giuliana Antonio!
+    
+---
+-
+0.3629323
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.22426608
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.22426608
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.19031326
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+__________________
+Aziende simili nelle vicinanze Mini Market Di Giuliana Antonio, Butera
+---
+-
+0.34900168
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.21565796
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.21565796
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.18300836
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+-
+0.12143255
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.11958099
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+VIA SAN ROCCO, 593011  Butera
+---
+-
+0.31707925
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.15038006
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+-
+0.14242436
+ Via Giacomo Matteotti, 80
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
+__________________
+Via Luigi Sturzo, 8093011  Butera
+---
+-
+0.31707925
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.15038006
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+-
+0.14242436
+ Via Giacomo Matteotti, 80
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
+__________________
+Supermercato 3g Di Giuliana Grazia
+---
+-
+0.29671904
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.29671904
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.16546224
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.09326689
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+__________________
+Supermercati Butera
+---
+-
+0.25003138
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.246219
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+
+        Supermercato 3g Di Giuliana Grazia
+        
+         0.76 km
+        
+        Dati
+       
+---
+-
+0.2145884
+ 
+               Giuliana  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.2145884
+Giuliana
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.11966296
+
+              Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.067450985
+
+              Informazioni aggiuntive su Giuliana Antonio  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+__________________
+Shopping e acquisti Butera
+---
+-
+0.19285813
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.1899175
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+VIA SAN ROCCO, 5
+---
+-
+0.1627022
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.15174502
+ Via Giacomo Matteotti, 80
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
+__________________
+V. MILANO. 393011  Butera
+---
+-
+0.1627022
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.16022137
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+V. LUIGI STURZO. 6193011  Butera
+---
+-
+0.14334705
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.14116135
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+V. Monte Grappa, 393011  Butera
+---
+-
+0.14334705
+Via Giacomo Matteotti Butera
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.14116135
+ 93011 Butera (CL)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________

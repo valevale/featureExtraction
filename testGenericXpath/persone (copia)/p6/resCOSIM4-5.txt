@@ -1,0 +1,1741 @@
+Pescara
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.4428084
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.34503797
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.329691
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.2691251
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.2637446
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+65121
+---
+-
+1.0
+65121
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.57750386
+65121 - 65129
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/span[2]
+-
+0.38951117
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.4428084
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.34503797
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.329691
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.2691251
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.2637446
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+Via Perugia, 9
+---
+-
+1.0
+Via Perugia 9
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.77179956
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.4428084
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.34503797
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.329691
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.2691251
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.2637446
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+
+          Pescara (PE)
+         
+---
+-
+1.0
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+1.0
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+1.0
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.7506388
+PE
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/span[2]
+-
+0.6607128
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.6607128
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.5264028
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.40930054
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.4010404
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.29256916
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.21783106
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+__________________
+65100
+---
+-
+1.0
+65100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[2]
+-
+0.55286914
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+__________________
+Via Perugia, 9
+---
+-
+1.0
+Via Perugia 9
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.77179956
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.4428084
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.34503797
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.329691
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.2691251
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.2637446
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+
+        Pescara
+       
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.4428084
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.34503797
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.329691
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.2691251
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.2637446
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+
+        Pescara
+       
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.4428084
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.34503797
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.329691
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.2691251
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.2637446
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.4428084
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.34503797
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.329691
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.2691251
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.2637446
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.4428084
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.34503797
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.329691
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.2691251
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.2637446
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+
+        Pescara
+       
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.4428084
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.34503797
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.329691
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.2691251
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.2637446
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+
+        Pescara
+       
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.4428084
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.34503797
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.329691
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.2691251
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.2637446
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+65121
+---
+-
+1.0
+65121
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.57750386
+65121 - 65129
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/span[2]
+-
+0.38951117
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.4428084
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.34503797
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.329691
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.2691251
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.2637446
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+65121
+---
+-
+1.0
+65121
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.57750386
+65121 - 65129
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/span[2]
+-
+0.38951117
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+__________________
+
+        Pescara
+       
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.4428084
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.34503797
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.329691
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.2691251
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.2637446
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+65121
+---
+-
+1.0
+65121
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.57750386
+65121 - 65129
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/span[2]
+-
+0.38951117
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.4428084
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.34503797
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.329691
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.2691251
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.2637446
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.64233804
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.4428084
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.34503797
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.329691
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.2691251
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.2637446
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+65121
+---
+-
+1.0
+65121
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.57750386
+65121 - 65129
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/span[2]
+-
+0.38951117
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+__________________
+Abruzzo
+---
+-
+1.0
+Abruzzo
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[1]/span[2]
+__________________
+
+            Via Perugia, 9 - 
+            65121 
+            Pescara
+           
+---
+-
+0.937365
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.8390296
+Via Perugia 9
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.4461191
+65121
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.31145957
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.31145957
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.25763553
+65121 - 65129
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/span[2]
+-
+0.20006235
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.20006235
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.20006235
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.13791692
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.10746539
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.10268543
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.08214578
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+Sargiacomo Ing. Silvio
+---
+-
+0.7701279
+SARGIACOMO SILVIO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+__________________
+Sargiacomo Ing. Silvio
+---
+-
+0.7701279
+SARGIACOMO SILVIO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+__________________
+085 4214339
+---
+-
+0.7425681
+tel: 085 4214339
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[2]/span[1]
+-
+0.6380404
+085
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[4]/span[2]
+-
+0.2511652
+085/8428251 - MEA S.R.L.
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/a[1]
+__________________
+Sargiacomo Ing. Silvio - Pescara
+---
+-
+0.7345403
+SARGIACOMO SILVIO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+-
+0.30047432
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.30047432
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.19300608
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.19300608
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.19300608
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.13305254
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.10367505
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.09906368
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.08086518
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.07924847
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+Risultati di ricerca per Sargiacomo Ing. Silvio
+---
+-
+0.5718307
+SARGIACOMO SILVIO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+__________________
+Scrivi la tua recensione di Sargiacomo Ing. Silvio
+---
+-
+0.5718307
+SARGIACOMO SILVIO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+__________________
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+---
+-
+0.5279298
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.38443404
+Via Perugia 9
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.34886268
+SARGIACOMO SILVIO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+-
+0.3102785
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.3102785
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.3102785
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.28541464
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.28541464
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.23789395
+tel: 085 4214339
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[2]/span[1]
+-
+0.20440681
+085
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[4]/span[2]
+-
+0.20440681
+65121
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.16333146
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.16213043
+PE
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/span[2]
+-
+0.126384
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.12443422
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.118045725
+65121 - 65129
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/span[2]
+-
+0.10905806
+GIUSEPPE GUIDUCCI STUDIO DENTISTICO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]
+-
+0.09409864
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.08046493
+085/8428251 - MEA S.R.L.
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/a[1]
+__________________
+Ingegneri a Pescara
+---
+-
+0.4428084
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.4428084
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.28443265
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.28443265
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.28443265
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.19607927
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.1527857
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.14598995
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.11917085
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.11678831
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+Avvocati Pescara
+---
+-
+0.4428084
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.4428084
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.28443265
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.28443265
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.28443265
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.19607927
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.1527857
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.14598995
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.11917085
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.11678831
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+Dentista Dott. Guiducci Giuseppe
+---
+-
+0.42156217
+GIUSEPPE GUIDUCCI STUDIO DENTISTICO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]
+__________________
+
+            Via Firenze, 4 - 
+            65121 
+            Pescara
+           
+---
+-
+0.41242632
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.38739687
+65121
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.27046245
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.27046245
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.22580071
+Via Perugia 9
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.2237232
+65121 - 65129
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/span[2]
+-
+0.17372833
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.17372833
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.17372833
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.119763054
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.09331982
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.08916905
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.07133302
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+Agenzie immobiliari Pescara
+---
+-
+0.39464173
+Agenzia delle Entrate
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[5]/ul[1]/li[5]/a[1]
+-
+0.3516243
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.3516243
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.22586167
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.22586167
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.22586167
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.1557022
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.12132374
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.11592738
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.094630934
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.092739016
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+Categorie correlate a Pescara
+---
+-
+0.329691
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.329691
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.21177307
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.21177307
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.21177307
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.14598995
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.11375592
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.10869617
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.08872812
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.08695422
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+Associazioni sindacali Pescara
+---
+-
+0.329691
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.329691
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.21177307
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.21177307
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.21177307
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.14598995
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.11375592
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.10869617
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.08872812
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.08695422
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+Dedo Ingegneria S.r.l.
+---
+-
+0.29073745
+HITECO S.R.L.
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[1]/a[1]
+-
+0.20558241
+085/8428251 - MEA S.R.L.
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/a[1]
+__________________
+Studio Tecnico
+---
+-
+0.2870444
+GIUSEPPE GUIDUCCI STUDIO DENTISTICO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]
+__________________
+
+            Studio D'ingegneria
+           
+---
+-
+0.2870444
+GIUSEPPE GUIDUCCI STUDIO DENTISTICO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]
+__________________
+
+            Studio Tecnico
+           
+---
+-
+0.2870444
+GIUSEPPE GUIDUCCI STUDIO DENTISTICO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]
+__________________
+Architetti, studi architettura Pescara
+---
+-
+0.2742049
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.2742049
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.17613225
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.17613225
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.17613225
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.12142024
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.09461111
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.09040289
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.07379543
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.07232006
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+Via Bologna, 8
+---
+-
+0.25619936
+Via Perugia 9
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.20338753
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+__________________
+Via Firenze, 4
+---
+-
+0.25619936
+Via Perugia 9
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.20338753
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+__________________
+Via Firenze, 51
+---
+-
+0.25619936
+Via Perugia 9
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.20338753
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+__________________
+Via Bologna, 1
+---
+-
+0.25619936
+Via Perugia 9
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.20338753
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+__________________
+
+            Studio di Ingegneria e Architettura
+           
+---
+-
+0.22847323
+GIUSEPPE GUIDUCCI STUDIO DENTISTICO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]
+__________________
+Commercialisti - studio commercialista Pescara
+---
+-
+0.22146912
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.22146912
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.16924843
+GIUSEPPE GUIDUCCI STUDIO DENTISTICO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]
+-
+0.14225803
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.14225803
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.14225803
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.09806838
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.076415256
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.073016375
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.059602894
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.058411278
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+
+            Corso Vittorio Emanuele Ii, 10 - 
+            65122 
+            Pescara
+           
+---
+-
+0.19764286
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.19764286
+Pescara
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.12695351
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.12695351
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.12695351
+Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.08751791
+
+           Comune di 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.06819429
+Scalo - 65100 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.06516108
+
+           Altre aziende a 
+           Pescara
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.053190652
+Via Perugia 9 - 65121 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.052127235
+Viale Della Riviera 97 - 65123 Pescara (PE)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+Studio di architettura Antonio Sabatino
+---
+-
+0.19545038
+GIUSEPPE GUIDUCCI STUDIO DENTISTICO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/ul[1]/li[3]/a[1]
+__________________

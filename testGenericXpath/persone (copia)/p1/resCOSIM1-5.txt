@@ -1,0 +1,1096 @@
+PO
+---
+-
+1.0
+PO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/span[2]
+-
+0.73710805
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.73710805
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.73710805
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.30053073
+Via Porta Al Serraglio 8 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.30053073
+Via Valentini Giuseppe 98 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.30053073
+Via Ezo Campolmi 5 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+Prato
+---
+-
+1.0
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.6429466
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.6429466
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.6429466
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.44460872
+
+           Comune di 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.33117813
+
+           Altre aziende a 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.26438805
+Via Porta Al Serraglio 8 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.26438805
+Via Valentini Giuseppe 98 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.26438805
+Via Ezo Campolmi 5 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+Toscana
+---
+-
+1.0
+Toscana
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[1]/span[2]
+__________________
+59100
+---
+-
+1.0
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/span[2]
+-
+1.0
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+-
+1.0
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[2]
+-
+1.0
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[2]
+-
+0.30053073
+Via Porta Al Serraglio 8 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.30053073
+Via Valentini Giuseppe 98 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.30053073
+Via Ezo Campolmi 5 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+ Via Porta Al Serraglio 8   59100 Prato  (PO) 
+---
+-
+1.0
+Via Porta Al Serraglio 8 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.84079516
+Via Porta Al Serraglio 8
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.43303126
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.43303126
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.43303126
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.38375852
+Via Valentini Giuseppe 98 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.38375852
+Via Ezo Campolmi 5 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.3248806
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/span[2]
+-
+0.3248806
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.3248806
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.3248806
+PO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/span[2]
+-
+0.3248806
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[2]
+-
+0.28630167
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.28630167
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.12729222
+
+           Comune di 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.1265438
+Via Valentini Giuseppe 98
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[1]
+-
+0.1265438
+Via Ezo Campolmi 5
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.09481685
+
+           Altre aziende a 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+__________________
+Prato
+---
+-
+1.0
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.6429466
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.6429466
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.6429466
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.44460872
+
+           Comune di 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.33117813
+
+           Altre aziende a 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.26438805
+Via Porta Al Serraglio 8 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.26438805
+Via Valentini Giuseppe 98 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.26438805
+Via Ezo Campolmi 5 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+Prato
+---
+-
+1.0
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+1.0
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.6429466
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.6429466
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.6429466
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.44460872
+
+           Comune di 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.33117813
+
+           Altre aziende a 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.26438805
+Via Porta Al Serraglio 8 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.26438805
+Via Valentini Giuseppe 98 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.26438805
+Via Ezo Campolmi 5 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+
+    > 
+   Toscana > 
+   Prato > 
+   Prato 
+  
+---
+-
+0.757934
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.757934
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.6523313
+Toscana
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[1]/span[2]
+-
+0.4873111
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.4873111
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.4873111
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.33698404
+
+           Comune di 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.25101116
+
+           Altre aziende a 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.20038868
+Via Porta Al Serraglio 8 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.20038868
+Via Valentini Giuseppe 98 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.20038868
+Via Ezo Campolmi 5 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+Dragoni Luciano Tvc Hi Fi
+---
+-
+0.59903014
+DRAGONI LUCIANO TVC H.I.F.I.
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+__________________
+Dragoni Luciano Tvc Hi Fi - Prato 
+---
+-
+0.58215886
+DRAGONI LUCIANO TVC H.I.F.I.
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+-
+0.23565933
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.23565933
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.15151636
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.15151636
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.15151636
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.10477619
+
+           Comune di 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.07804521
+
+           Altre aziende a 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.06230551
+Via Porta Al Serraglio 8 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.06230551
+Via Valentini Giuseppe 98 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.06230551
+Via Ezo Campolmi 5 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+
+     Scrivi la tua recensione per Dragoni Luciano Tvc Hi Fi - Prato:
+      
+      
+    
+---
+-
+0.48332182
+DRAGONI LUCIANO TVC H.I.F.I.
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+-
+0.19564985
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.19564985
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.1257924
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.1257924
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.1257924
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.08698762
+
+           Comune di 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.06479495
+
+           Altre aziende a 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.05172748
+Via Porta Al Serraglio 8 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.05172748
+Via Valentini Giuseppe 98 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.05172748
+Via Ezo Campolmi 5 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+ 
+     
+  
+  
+  
+    > 
+   Toscana > 
+   Prato > 
+   Prato 
+   
+   
+    
+    Dragoni Luciano Tvc Hi Fi - Prato  
+    
+    
+     
+     
+      
+       Dragoni Luciano Tvc Hi Fi  AGENTI RAPPRESENTANTI COMMERCIO   
+       
+        
+        Via Porta Al Serraglio 8   59100 Prato  (PO) 
+         
+        
+        057427097  
+         
+       Email
+        
+       Agenti E Rappresentanti Di Commercio a Prato
+        
+       
+      
+     
+     
+     
+     
+      Aziende Simili: 
+       
+      
+      Ecotex Di Zani Gianpietro Rappresentanze Tessili
+       Via Del Vergaio 7/b
+       59100 - Prato 
+      
+      
+      Emiltex Di Erbucci Emiliano
+       Via Ferrucci Francesco 71
+       59100 - Prato 
+      
+      
+      Emme-gi Di Monica Galetto
+       Piazza Della Vittoria 11
+       59100 - Prato 
+      
+      
+      Enne-elle Di Nesti Leopoldo E C. Sas
+       Via Saffi Aurelio 56
+       59100 - Prato 
+      
+      
+      Erre & Esse Trade Di Papini Renzo & C. Sas
+       Via Rucellai Bernardo 5
+       59100 - Prato 
+      
+     
+     
+     
+     
+    
+     Scrivi la tua recensione per Dragoni Luciano Tvc Hi Fi - Prato:
+      
+      
+     
+     
+      
+       
+    
+   
+   
+   
+            
+          
+       
+  >   
+
+---
+-
+0.44907194
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.44907194
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.4010729
+Via Porta Al Serraglio 8 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.33166292
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.33166292
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.33166292
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.3300774
+Via Ezo Campolmi 5 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.30255294
+DRAGONI LUCIANO TVC H.I.F.I.
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+-
+0.2970217
+Via Valentini Giuseppe 98 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.277955
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/span[2]
+-
+0.277955
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.277955
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.277955
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[2]
+-
+0.20126453
+
+           Altre aziende a 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.19966131
+
+           Comune di 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.19880031
+Via Porta Al Serraglio 8
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.12418963
+Via Ezo Campolmi 5
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.090221554
+Via Valentini Giuseppe 98
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[1]
+-
+0.07027326
+Toscana
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[1]/span[2]
+-
+0.04632583
+PO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/span[2]
+__________________
+Aziende Simili:
+---
+-
+0.39278868
+
+           Altre aziende a 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+__________________
+Agenti E Rappresentanti Di Commercio a Prato
+---
+-
+0.2754886
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.2754886
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.17712446
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.17712446
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.17712446
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.122484624
+
+           Comune di 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.091235794
+
+           Altre aziende a 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+-
+0.07283589
+Via Porta Al Serraglio 8 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.07283589
+Via Valentini Giuseppe 98 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.07283589
+Via Ezo Campolmi 5 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+ 
+      Erre & Esse Trade Di Papini Renzo & C. Sas
+       Via Rucellai Bernardo 5
+       59100 - Prato 
+     
+---
+-
+0.26812902
+Via Ezo Campolmi 5 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.19704098
+Via Ezo Campolmi 5
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.18269497
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/span[2]
+-
+0.18269497
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.18269497
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.18269497
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[2]
+-
+0.16100031
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.16100031
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.15941308
+Via Porta Al Serraglio 8 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.15941308
+Via Valentini Giuseppe 98 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.103514604
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.103514604
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.103514604
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.07158214
+
+           Comune di 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.07116128
+Via Valentini Giuseppe 98
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[1]
+-
+0.07116128
+Via Porta Al Serraglio 8
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.05331978
+
+           Altre aziende a 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+__________________
+ 
+      Emiltex Di Erbucci Emiliano
+       Via Ferrucci Francesco 71
+       59100 - Prato 
+     
+---
+-
+0.21422078
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/span[2]
+-
+0.21422078
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.21422078
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.21422078
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[2]
+-
+0.18878245
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.18878245
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.18692136
+Via Porta Al Serraglio 8 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.18692136
+Via Valentini Giuseppe 98 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.18692136
+Via Ezo Campolmi 5 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.12137704
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.12137704
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.12137704
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.08393433
+
+           Comune di 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.08344083
+Via Valentini Giuseppe 98
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[1]
+-
+0.08344083
+Via Ezo Campolmi 5
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.08344083
+Via Porta Al Serraglio 8
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.06252062
+
+           Altre aziende a 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+__________________
+ 
+      Emme-gi Di Monica Galetto
+       Piazza Della Vittoria 11
+       59100 - Prato 
+     
+---
+-
+0.2048038
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/span[2]
+-
+0.2048038
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.2048038
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.2048038
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[2]
+-
+0.18048373
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.18048373
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.11604141
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.11604141
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.11604141
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.10966669
+Via Porta Al Serraglio 8 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.10966669
+Via Valentini Giuseppe 98 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.10966669
+Via Ezo Campolmi 5 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.08024464
+
+           Comune di 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.059772264
+
+           Altre aziende a 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+__________________
+ 
+      Ecotex Di Zani Gianpietro Rappresentanze Tessili
+       Via Del Vergaio 7/b
+       59100 - Prato 
+     
+---
+-
+0.18866216
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/span[2]
+-
+0.18866216
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.18866216
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.18866216
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[2]
+-
+0.16625889
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.16625889
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.16461982
+Via Porta Al Serraglio 8 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.16461982
+Via Valentini Giuseppe 98 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.16461982
+Via Ezo Campolmi 5 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.10689558
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.10689558
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.10689558
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.073920146
+
+           Comune di 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.07348553
+Via Valentini Giuseppe 98
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[1]
+-
+0.07348553
+Via Ezo Campolmi 5
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.07348553
+Via Porta Al Serraglio 8
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.055061303
+
+           Altre aziende a 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+__________________
+ 
+      Enne-elle Di Nesti Leopoldo E C. Sas
+       Via Saffi Aurelio 56
+       59100 - Prato 
+     
+---
+-
+0.18866216
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/span[2]
+-
+0.18866216
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.18866216
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.18866216
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[2]
+-
+0.16625889
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.16625889
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.16461982
+Via Porta Al Serraglio 8 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.16461982
+Via Valentini Giuseppe 98 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.16461982
+Via Ezo Campolmi 5 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.10689558
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.10689558
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.10689558
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.073920146
+
+           Comune di 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.07348553
+Via Valentini Giuseppe 98
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[1]
+-
+0.07348553
+Via Ezo Campolmi 5
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.07348553
+Via Porta Al Serraglio 8
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.055061303
+
+           Altre aziende a 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+__________________

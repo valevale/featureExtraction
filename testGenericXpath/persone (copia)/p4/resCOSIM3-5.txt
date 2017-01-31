@@ -1,0 +1,191 @@
+ Via Becherini Giuseppe, 113
+---
+-
+1.0
+Via Becherini Giuseppe 113
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.8192375
+Via Becherini Giuseppe 113 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.37425345
+Via Valentini Giuseppe 98
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[1]
+-
+0.31299925
+Via Valentini Giuseppe 98 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.15625666
+Via Ezo Campolmi 5
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.13299881
+Via Ezo Campolmi 5 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+__________________
+ 59100 Prato (PO)
+---
+-
+0.79990494
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.79990494
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.79990494
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.6001267
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.6001267
+PO
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[2]/span[2]
+-
+0.6001267
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[2]
+-
+0.6001267
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[2]/div[3]/span[2]
+-
+0.6001267
+59100
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[2]
+-
+0.5288628
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.5288628
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.52203566
+Via Valentini Giuseppe 98 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.52203566
+Via Becherini Giuseppe 113 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.50457484
+Via Ezo Campolmi 5 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.235137
+
+           Comune di 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.1751478
+
+           Altre aziende a 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+__________________
+
+              Gori Emanuele  
+             
+---
+-
+0.7703932
+GORI EMANUELE RAPPRESENTANZE
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+__________________
+Via Becherini Giuseppe Prato
+---
+-
+0.74488944
+Via Becherini Giuseppe 113
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.729511
+Via Becherini Giuseppe 113 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+-
+0.45385626
+Via Valentini Giuseppe 98 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]
+-
+0.41208893
+Via Valentini Giuseppe 98
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[1]
+-
+0.38926616
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]/b[1]
+-
+0.38926616
+Prato
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]/b[1]
+-
+0.2503662
+Via Ezo Campolmi 5 - 59100 Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]
+-
+0.25027737
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.25027737
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[2]/div[1]/div[1]/span[1]/span[3]
+-
+0.25027737
+Prato (PO)
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[3]
+-
+0.17307112
+
+           Comune di 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[2]/div[1]
+-
+0.17205358
+Via Ezo Campolmi 5
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[4]/ul[1]/li[1]/div[1]/div[1]/span[1]/span[1]
+-
+0.12891644
+
+           Altre aziende a 
+           Prato
+          
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/div[3]/div[1]/div[1]
+__________________
+Gori
+---
+-
+0.5171143
+GORI EMANUELE RAPPRESENTANZE
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+__________________
+ 
+               Gori  
+             
+---
+-
+0.5171143
+GORI EMANUELE RAPPRESENTANZE
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+__________________
+
+              Informazioni aggiuntive su Gori Emanuele  
+             
+---
+-
+0.5004444
+GORI EMANUELE RAPPRESENTANZE
+//html[1]/body[1]/div[1]/div[1]/div[1]/div[4]/div[1]/div[1]/div[4]/div[1]/h1[1]
+__________________

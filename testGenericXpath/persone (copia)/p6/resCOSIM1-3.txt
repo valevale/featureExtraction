@@ -1,0 +1,478 @@
+ 0854214339 
+---
+-
+1.0
+ 0854214339
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[2]/td[1]
+__________________
+ Via Perugia 9   65121 Pescara  (PE) 
+---
+-
+0.72521895
+ 65121 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+-
+0.68851835
+ Via Perugia, 9
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
+-
+0.64974815
+Via Perugia Pescara
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+__________________
+ INGEGNERI STUDI 
+---
+-
+0.5649878
+ 
+               Ingegneri  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.5649878
+Ingegneri
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+__________________
+65121
+---
+-
+0.5301321
+ 65121 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+PE
+---
+-
+0.5301321
+ 65121 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Pescara
+---
+-
+0.51726764
+Via Perugia Pescara
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.43579525
+ 65121 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Pescara
+---
+-
+0.51726764
+Via Perugia Pescara
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.43579525
+ 65121 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Pescara
+---
+-
+0.51726764
+Via Perugia Pescara
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.43579525
+ 65121 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Ingegneri - Studi a Pescara
+---
+-
+0.49190572
+ 
+               Ingegneri  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.49190572
+Ingegneri
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.25444692
+Via Perugia Pescara
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.21437019
+ 65121 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Sargiacomo Ing. Silvio Studio Tecnico
+---
+-
+0.48800328
+
+              Sargiacomo Silvio 
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.27571592
+
+              Informazioni aggiuntive su Sargiacomo Silvio 
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+__________________
+Sargiacomo Ing. Silvio Studio Tecnico - Pescara 
+---
+-
+0.4613106
+
+              Sargiacomo Silvio 
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.26063484
+
+              Informazioni aggiuntive su Sargiacomo Silvio 
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+-
+0.16873056
+Via Perugia Pescara
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.1421546
+ 65121 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+ 
+     
+  
+  
+  
+    > 
+   Abruzzo > 
+   Pescara > 
+   Pescara 
+   
+   
+    
+    Sargiacomo Ing. Silvio Studio Tecnico - Pescara  
+    
+    
+     
+     
+      
+       Sargiacomo Ing. Silvio Studio Tecnico  INGEGNERI STUDI   
+       
+        
+        Via Perugia 9   65121 Pescara  (PE) 
+         
+        
+        0854214339  
+         
+       Ingegneri - Studi a Pescara
+        
+        
+         
+         Modifica Dati 
+          
+         Elimina Azienda 
+         
+        
+        
+       
+      
+     
+     
+     
+     
+      Aziende Simili: 
+       
+      
+      Cristini Ing. Stefano
+       Via Trento 114
+       65122 - Pescara 
+      
+      
+      Arrizza Ing. Fabio Studio D'ingegneria
+       Via Trento 122
+       65122 - Pescara 
+      
+      
+      Del Rosso Ing. Alessandro
+       Via Trento 122
+       65122 - Pescara 
+      
+      
+      Del Proposto Dr. Ing. Luisa Studio Di Ingegneria
+       Via Messina 20
+       65122 - Pescara 
+      
+      
+      Studio Di Ingegneria Ing. Carlo Galli
+       Via Milano 3
+       65122 - Pescara 
+      
+     
+     
+     
+     
+    
+     Scrivi la tua recensione per Sargiacomo Ing. Silvio Studio Tecnico - Pescara:
+      
+      
+     
+     
+      
+       
+    
+   
+   
+   
+            
+          
+       
+  >   
+
+---
+-
+0.42926574
+Via Perugia Pescara
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.29351762
+ 65121 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+-
+0.20653059
+ 
+               Ingegneri  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.20653059
+Ingegneri
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.18833943
+ Via Perugia, 9
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
+-
+0.17524701
+
+              Sargiacomo Silvio 
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.09901243
+
+              Informazioni aggiuntive su Sargiacomo Silvio 
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+-
+0.048324615
+ 0854214339
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[2]/td[1]
+__________________
+
+    > 
+   Abruzzo > 
+   Pescara > 
+   Pescara 
+  
+---
+-
+0.41775212
+Via Perugia Pescara
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.35195395
+ 65121 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+
+     Scrivi la tua recensione per Sargiacomo Ing. Silvio Studio Tecnico - Pescara:
+      
+      
+    
+---
+-
+0.3825888
+
+              Sargiacomo Silvio 
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[1]/td[1]/div[1]
+-
+0.216158
+
+              Informazioni aggiuntive su Sargiacomo Silvio 
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[8]/td[1]/div[1]
+-
+0.13993701
+Via Perugia Pescara
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.117896184
+ 65121 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+Arrizza Ing. Fabio Studio D'ingegneria
+---
+-
+0.32391667
+ 
+               Ingegneri  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.32391667
+Ingegneri
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+__________________
+Studio Di Ingegneria Ing. Carlo Galli
+---
+-
+0.32391667
+ 
+               Ingegneri  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.32391667
+Ingegneri
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+__________________
+Del Proposto Dr. Ing. Luisa Studio Di Ingegneria
+---
+-
+0.29280835
+ 
+               Ingegneri  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.29280835
+Ingegneri
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+__________________
+ 
+      Del Rosso Ing. Alessandro
+       Via Trento 122
+       65122 - Pescara 
+     
+---
+-
+0.28328386
+Via Perugia Pescara
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.122531615
+ Via Perugia, 9
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
+-
+0.11329362
+ 65121 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+ 
+      Cristini Ing. Stefano
+       Via Trento 114
+       65122 - Pescara 
+     
+---
+-
+0.28328386
+Via Perugia Pescara
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.122531615
+ Via Perugia, 9
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
+-
+0.11329362
+ 65121 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+ 
+      Arrizza Ing. Fabio Studio D'ingegneria
+       Via Trento 122
+       65122 - Pescara 
+     
+---
+-
+0.25734764
+Via Perugia Pescara
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.23616813
+ 
+               Ingegneri  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.23616813
+Ingegneri
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.11131315
+ Via Perugia, 9
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
+-
+0.10292095
+ 65121 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+ 
+      Studio Di Ingegneria Ing. Carlo Galli
+       Via Milano 3
+       65122 - Pescara 
+     
+---
+-
+0.25734764
+Via Perugia Pescara
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.23616813
+ 
+               Ingegneri  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.23616813
+Ingegneri
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.11131315
+ Via Perugia, 9
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
+-
+0.10292095
+ 65121 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________
+ 
+      Del Proposto Dr. Ing. Luisa Studio Di Ingegneria
+       Via Messina 20
+       65122 - Pescara 
+     
+---
+-
+0.24328434
+Via Perugia Pescara
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[10]/td[1]/div[1]/a[1]
+-
+0.22326225
+ 
+               Ingegneri  
+             
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[6]/td[1]/div[1]
+-
+0.22326225
+Ingegneri
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[11]/td[1]/div[1]/a[1]
+-
+0.10523022
+ Via Perugia, 9
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[3]/td[1]
+-
+0.097296625
+ 65121 Pescara (PE)
+//html[1]/body[1]/table[1]/tbody[1]/tr[6]/td[1]/table[1]/tbody[1]/tr[3]/td[4]/div[1]/table[1]/tbody[1]/tr[4]/td[1]
+__________________

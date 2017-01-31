@@ -1,0 +1,405 @@
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+Avvocati a Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[5]/div[2]/a[1]
+Sargiacomo Ing. Silvio
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+Viale Delle Medaglie D'oro, 266
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+Avvocato Simone Corini - Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]
+
+            Viale Delle Medaglie D'oro, 169 - 
+            00136 
+            Roma
+           
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[6]/div[1]/span[1]/h4[1]
+Scrivi la tua recensione di Avvocato Simone Corini
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[7]/div[2]/span[1]
+08464931008
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[4]/div[1]
+
+        Pescara
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/span[1]/a[1]
+Lazio
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[4]/div[1]
+
+        1131
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[1]/div[2]/a[1]
+Notai Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[7]/div[2]/a[1]
+Lupo Italo
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+
+            Viale Delle Medaglie D'oro, 266 - 
+            00136 
+            Roma
+           
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[3]/a[1]
+mostra email
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[1]/a[1]
+Areddu Aldo
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]
+
+           21 mt
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[1]
+
+        1483
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+Viale Delle Medaglie D'oro, 176
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[1]
+
+        Roma
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[3]
+
+           
+          mostra email  
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+00136
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[5]/div[1]
+
+        Pescara
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/span[1]/a[1]
+ Impresa Verificata   |   
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+
+            Viale Tito Livio, 59 - 
+            00136 
+            Roma
+           
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[4]/div[2]/a[1]
+Dentista Dott. Guiducci Giuseppe
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+00136
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[1]
+
+           296 mt
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/b[1]
+Descrizione attività
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[2]/div[2]/a[1]
+Associazioni sindacali Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[2]/div[2]/a[1]
+Avvocato Fabio Sarra
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[1]
+
+           199 mt
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+00136
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[1]/div[1]
+
+        1800
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[5]/div[2]/a[1]
+Ingegneri Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+Viale delle Medaglie d'Oro, 143
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[6]/a[1]
+ Chiama
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[3]/div[1]
+
+        1301
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+00136
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[3]/div[2]/a[1]
+Commercialisti - studio commercialista Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[7]/div[1]/b[1]
+N. Partita IVA:
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[3]/div[2]/a[1]
+Studio di architettura Antonio Sabatino
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[1]
+
+           209 mt
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[2]/span[2]
+0635 401167
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[3]/div[1]
+
+        Pescara
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[7]/div[1]
+
+        Pescara
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+00136
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+Studio Legale
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]/span[1]
+Lo Studio Legale Corini svolge attività di assistenza e consulenza legale specialistica in materia di diritto della musica e contratti discografici, nei diversi ambiti della tutela del diritto d'autore e dei diritti connessi, della proprietà intellettuale e del diritto dello spettacolo, in tema di privacy, di proprietà industriale e di contratti d'impresa, nonché nel settore dell'ICT e dei progetti di ricerca e sviluppo nazionali ed europei, attraverso la fomrulazione di pareri legali, l'analisi e l'elaborazione di contratti, la redazione di atti giudiziali e di atti stragiudiziali, l'assistenza nelle negoziazioni con i terzi, la partecipazione a progetti di ricerca e sviluppo (progetti R&D), la gestione dei rapporti con i vari enti ausiliari per la protezione delle opere dell'ingegno.
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[1]
+
+           268 mt
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[6]/div[2]/a[1]
+Ing. Perfetti Pierluigi
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[6]/div[1]
+
+        Pescara
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[4]/div[2]/a[1]
+Architetti, studi architettura Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+Piazza Friggeri Attilio, 18
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+
+          Roma (RM)
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[1]/a[1]
+Studio Legale Zanchetti Gramaccioni
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[11]/div[1]/a[1]
+Risultati di ricerca per Avvocato Simone Corini
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
+Avvocati
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[1]/a[1]
+Bergami Avv. Valentina
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/a[1]
+Tartaglia Angelo Fiore
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+00136
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[1]
+
+           225 mt
+         
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+Avvocato Simone Corini
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+
+            Studio Legale
+           
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+Viale Delle Medaglie D'oro, 169
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[1]
+
+        Roma
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+00136
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]
+
+            Studio Legale
+           
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+
+            Studio Legale
+           
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[4]/div[1]/div[1]/div[1]/div[1]
+
+        Descrizione attività: 
+        
+        Lo Studio Legale Corini svolge attività di assistenza e consulenza legale specialistica in materia di diritto della musica e contratti discografici, nei diversi ambiti della tutela del diritto d'autore e dei diritti connessi, della proprietà intellettuale e del diritto dello spettacolo, in tema di privacy, di proprietà industriale e di contratti d'impresa, nonché nel settore dell'ICT e dei progetti di ricerca e sviluppo nazionali ed europei, attraverso la fomrulazione di pareri legali, l'analisi e l'elaborazione di contratti, la redazione di atti giudiziali e di atti stragiudiziali, l'assistenza nelle negoziazioni con i terzi, la partecipazione a progetti di ricerca e sviluppo (progetti R&D), la gestione dei rapporti con i vari enti ausiliari per la protezione delle opere dell'ingegno.
+        
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]
+Cambi Costantini
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/a[1]
+Callari Avv. Claudia
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+Viale Tito Livio, 67
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[2]/div[1]/div[1]/div[2]/a[1]
+Avvocato Simone Corini
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+Viale Tito Livio, 59
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+
+       Avvocato Simone Corini
+       Studio Legale
+       
+        
+         
+          
+         
+         
+          Viale Tito Livio, 67
+         
+         
+          
+         
+         
+          00136
+         
+         
+          
+         
+         
+          Roma (RM)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          0635 401156
+         
+         
+           
+          0635 401167
+         
+         
+           
+          mostra email  
+         
+         
+           
+          www.studiolegalecorini.it
+         
+        
+        
+        
+          Chiama
+        
+        
+         
+          N. Partita IVA:
+         
+         
+          08464931008
+         
+         
+        
+        
+         
+          
+         
+         
+          Avvocati a Roma
+          
+         
+        
+         
+        
+       
+         
+          Impresa Verificata   |    
+        
+        
+        Opzioni 
+       
+      
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[2]/div[1]/div[5]/div[1]
+
+        679
+       
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[4]/div[1]/h4[1]
+Categorie correlate a Roma
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[1]/span[2]
+0635 401156
+________________________________________________________________________
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[4]/div[4]/a[1]
+www.studiolegalecorini.it
+________________________________________________________________________

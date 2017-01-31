@@ -1,0 +1,3975 @@
+65121
+---
+-
+1.0
+65121
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+65121
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+1.0
+65121
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+1.0
+65121
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+65121
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.4240216
+
+            Via Perugia, 9 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.39618796
+
+            Via Firenze, 4 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.19655974
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+Abruzzo
+---
+-
+1.0
+Abruzzo
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/span[1]/a[1]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+1.0
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]
+-
+1.0
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[1]
+-
+1.0
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[7]/div[1]
+-
+1.0
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[10]/div[1]
+-
+0.50046295
+Ingegneri a Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.43698522
+Avvocati Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.40606713
+
+          Pescara (PE)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.33210662
+Sargiacomo Ing. Silvio - Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.27427828
+
+            Via Perugia, 9 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.26442862
+Associazioni sindacali Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
+-
+0.26442862
+Agenzie immobiliari Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[2]/a[1]
+-
+0.26442862
+Categorie correlate a Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.25644565
+
+            Via Firenze, 4 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.25556448
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.23225464
+Architetti, studi architettura Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.18152341
+Commercialisti - studio commercialista Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.18089378
+
+            Corso Vittorio Emanuele Ii, 10 - 
+            65122 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+1.0
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]
+-
+1.0
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[1]
+-
+1.0
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[7]/div[1]
+-
+1.0
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[10]/div[1]
+-
+0.50046295
+Ingegneri a Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.43698522
+Avvocati Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.40606713
+
+          Pescara (PE)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.33210662
+Sargiacomo Ing. Silvio - Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.27427828
+
+            Via Perugia, 9 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.26442862
+Associazioni sindacali Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
+-
+0.26442862
+Agenzie immobiliari Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[2]/a[1]
+-
+0.26442862
+Categorie correlate a Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.25644565
+
+            Via Firenze, 4 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.25556448
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.23225464
+Architetti, studi architettura Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.18152341
+Commercialisti - studio commercialista Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.18089378
+
+            Corso Vittorio Emanuele Ii, 10 - 
+            65122 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]
+__________________
+Pescara
+---
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[1]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+1.0
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+1.0
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]
+-
+1.0
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[1]
+-
+1.0
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[7]/div[1]
+-
+1.0
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[10]/div[1]
+-
+0.50046295
+Ingegneri a Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.43698522
+Avvocati Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.40606713
+
+          Pescara (PE)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.33210662
+Sargiacomo Ing. Silvio - Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.27427828
+
+            Via Perugia, 9 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.26442862
+Associazioni sindacali Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
+-
+0.26442862
+Agenzie immobiliari Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[2]/a[1]
+-
+0.26442862
+Categorie correlate a Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.25644565
+
+            Via Firenze, 4 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.25556448
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.23225464
+Architetti, studi architettura Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.18152341
+Commercialisti - studio commercialista Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.18089378
+
+            Corso Vittorio Emanuele Ii, 10 - 
+            65122 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]
+__________________
+PE
+---
+-
+0.8964982
+
+          Pescara (PE)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.26451224
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+ Via Perugia 9   65121 Pescara  (PE) 
+---
+-
+0.8613171
+
+            Via Perugia, 9 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.73270893
+Via Perugia, 9
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.73270893
+Via Perugia, 9
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.56485313
+
+          Pescara (PE)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.55815977
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.3795768
+65121
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.3795768
+65121
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.3795768
+65121
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[4]/span[1]
+-
+0.3795768
+65121
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.3795768
+65121
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.35696244
+
+            Via Firenze, 4 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.24683245
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.24683245
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.24683245
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.24683245
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.24683245
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.24683245
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.24683245
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.24683245
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[1]
+-
+0.24683245
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.24683245
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.24683245
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]
+-
+0.24683245
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[1]
+-
+0.24683245
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[7]/div[1]
+-
+0.24683245
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[10]/div[1]
+-
+0.16102584
+Via Firenze, 4
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.15553229
+Via Bologna, 1
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.15096399
+Via Firenze, 51
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.14640932
+Via Bologna, 8
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.12353051
+Ingegneri a Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+__________________
+
+     Scrivi la tua recensione per Sargiacomo Ing. Silvio Studio Tecnico - Pescara:
+      
+      
+    
+---
+-
+0.8417377
+Scrivi la tua recensione di Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.58366823
+Sargiacomo Ing. Silvio - Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.54806453
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[2]/a[1]
+-
+0.54806453
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.5011824
+Studio Tecnico
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+-
+0.5011824
+
+            Studio Tecnico
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.40695444
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.32845083
+Risultati di ricerca per Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.21673608
+
+            Studio D'ingegneria
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.20073344
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.20073344
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.20073344
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.20073344
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.20073344
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.20073344
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.20073344
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.20073344
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[1]
+-
+0.20073344
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.20073344
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.20073344
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]
+-
+0.20073344
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[1]
+-
+0.20073344
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[7]/div[1]
+-
+0.20073344
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[10]/div[1]
+-
+0.16310017
+
+            Studio di Ingegneria e Architettura
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.12941322
+Commercialisti - studio commercialista Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.118546724
+Studio di architettura Antonio Sabatino
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
+-
+0.106599815
+Sorgentone Ing. Mario
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.10090996
+Bajocco Ing. Valerio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.10090996
+Ing. Perfetti Pierluigi
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[2]/a[1]
+-
+0.10090996
+Zazzara Ing. Paola
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/a[1]
+__________________
+Sargiacomo Ing. Silvio Studio Tecnico - Pescara 
+---
+-
+0.7586813
+Sargiacomo Ing. Silvio - Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.71240175
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[2]/a[1]
+-
+0.71240175
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.651462
+Studio Tecnico
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+-
+0.651462
+
+            Studio Tecnico
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.5289798
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.42693684
+Scrivi la tua recensione di Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.42693684
+Risultati di ricerca per Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.28172442
+
+            Studio D'ingegneria
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.26092336
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.26092336
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.26092336
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.26092336
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.26092336
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.26092336
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.26092336
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.26092336
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[1]
+-
+0.26092336
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.26092336
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.26092336
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]
+-
+0.26092336
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[1]
+-
+0.26092336
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[7]/div[1]
+-
+0.26092336
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[10]/div[1]
+-
+0.21200576
+
+            Studio di Ingegneria e Architettura
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.1682178
+Commercialisti - studio commercialista Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.15409297
+Studio di architettura Antonio Sabatino
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
+-
+0.13856378
+Sorgentone Ing. Mario
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.13116783
+Bajocco Ing. Valerio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.13116783
+Ing. Perfetti Pierluigi
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[2]/a[1]
+-
+0.13116783
+Zazzara Ing. Paola
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/a[1]
+__________________
+
+    > 
+   Abruzzo > 
+   Pescara > 
+   Pescara 
+  
+---
+-
+0.7474787
+Abruzzo
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/span[1]/a[1]
+-
+0.6642857
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.6642857
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.6642857
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.6642857
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.6642857
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.6642857
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.6642857
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.6642857
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[1]
+-
+0.6642857
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.6642857
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.6642857
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]
+-
+0.6642857
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[1]
+-
+0.6642857
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[7]/div[1]
+-
+0.6642857
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[10]/div[1]
+-
+0.3324504
+Ingegneri a Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.29028305
+Avvocati Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.2697446
+
+          Pescara (PE)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.22061372
+Sargiacomo Ing. Silvio - Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.18219917
+
+            Via Perugia, 9 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.17565617
+Associazioni sindacali Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
+-
+0.17565617
+Agenzie immobiliari Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[2]/a[1]
+-
+0.17565617
+Categorie correlate a Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.17035319
+
+            Via Firenze, 4 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.16976784
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.15428345
+Architetti, studi architettura Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.12058341
+Commercialisti - studio commercialista Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.12016516
+
+            Corso Vittorio Emanuele Ii, 10 - 
+            65122 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]
+__________________
+Sargiacomo Ing. Silvio Studio Tecnico
+---
+-
+0.73796517
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[2]/a[1]
+-
+0.73796517
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.6915292
+Sargiacomo Ing. Silvio - Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.6748388
+Studio Tecnico
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+-
+0.6748388
+
+            Studio Tecnico
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.47755164
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.4422568
+Scrivi la tua recensione di Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.4422568
+Risultati di ricerca per Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.29183367
+
+            Studio D'ingegneria
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.21961327
+
+            Studio di Ingegneria e Architettura
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.15962237
+Studio di architettura Antonio Sabatino
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
+-
+0.14353593
+Sorgentone Ing. Mario
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.1358746
+Bajocco Ing. Valerio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.1358746
+Ing. Perfetti Pierluigi
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[2]/a[1]
+-
+0.1358746
+Zazzara Ing. Paola
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.124951646
+Commercialisti - studio commercialista Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.08945694
+Costantini Ing. Rafael - Polacchi Arch. Gianni
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[1]/a[1]
+__________________
+Ingegneri - Studi a Pescara
+---
+-
+0.65201056
+Ingegneri a Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.558219
+Ingegneri
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
+-
+0.4962571
+Architetti, studi architettura Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.39472046
+
+            Studio D'ingegneria
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.3369113
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.3369113
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.3369113
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.3369113
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.3369113
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.3369113
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.3369113
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.3369113
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[1]
+-
+0.3369113
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.3369113
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.3369113
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]
+-
+0.3369113
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[1]
+-
+0.3369113
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[7]/div[1]
+-
+0.3369113
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[10]/div[1]
+-
+0.2965504
+
+            Studio di Ingegneria e Architettura
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.23088719
+Dedo Ingegneria S.r.l.
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.2047019
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.14722525
+Avvocati Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[1]/div[2]/a[1]
+-
+0.1368086
+
+          Pescara (PE)
+         
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]
+-
+0.11189047
+Sargiacomo Ing. Silvio - Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.09240746
+
+            Via Perugia, 9 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.08908899
+Associazioni sindacali Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[5]/div[2]/a[1]
+-
+0.08908899
+Agenzie immobiliari Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[2]/a[1]
+-
+0.08908899
+Categorie correlate a Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[1]/h4[1]
+-
+0.08639943
+
+            Via Firenze, 4 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.061157282
+Commercialisti - studio commercialista Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+__________________
+ INGEGNERI STUDI 
+---
+-
+0.59288096
+Ingegneri
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
+-
+0.50525594
+Ingegneri a Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.4397119
+Architetti, studi architettura Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[2]/div[2]/a[1]
+-
+0.41923016
+
+            Studio D'ingegneria
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.31496432
+
+            Studio di Ingegneria e Architettura
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.24522386
+Dedo Ingegneria S.r.l.
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.12563527
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+Arrizza Ing. Fabio Studio D'ingegneria
+---
+-
+0.527892
+
+            Studio D'ingegneria
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.39328197
+
+            Studio di Ingegneria e Architettura
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.38046986
+Ingegneri
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
+-
+0.32423815
+Ingegneri a Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.29118466
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[2]/a[1]
+-
+0.22402255
+Studio Tecnico
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+-
+0.22402255
+
+            Studio Tecnico
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.21345687
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.1599698
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[2]/a[1]
+-
+0.1599698
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.15736765
+Dedo Ingegneria S.r.l.
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.15047565
+Sargiacomo Ing. Silvio - Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.1356129
+Studio di architettura Antonio Sabatino
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
+-
+0.1219461
+Sorgentone Ing. Mario
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.115437135
+Bajocco Ing. Valerio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.115437135
+Ing. Perfetti Pierluigi
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[2]/a[1]
+-
+0.115437135
+Zazzara Ing. Paola
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.10615715
+Commercialisti - studio commercialista Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.0978397
+Scrivi la tua recensione di Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.0978397
+Risultati di ricerca per Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.07600135
+Costantini Ing. Rafael - Polacchi Arch. Gianni
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[1]/a[1]
+__________________
+ 
+     
+  
+  
+  
+    > 
+   Abruzzo > 
+   Pescara > 
+   Pescara 
+   
+   
+    
+    Sargiacomo Ing. Silvio Studio Tecnico - Pescara  
+    
+    
+     
+     
+      
+       Sargiacomo Ing. Silvio Studio Tecnico  INGEGNERI STUDI   
+       
+        
+        Via Perugia 9   65121 Pescara  (PE) 
+         
+        
+        0854214339  
+         
+       Ingegneri - Studi a Pescara
+        
+        
+         
+         Modifica Dati 
+          
+         Elimina Azienda 
+         
+        
+        
+       
+      
+     
+     
+     
+     
+      Aziende Simili: 
+       
+      
+      Cristini Ing. Stefano
+       Via Trento 114
+       65122 - Pescara 
+      
+      
+      Arrizza Ing. Fabio Studio D'ingegneria
+       Via Trento 122
+       65122 - Pescara 
+      
+      
+      Del Rosso Ing. Alessandro
+       Via Trento 122
+       65122 - Pescara 
+      
+      
+      Del Proposto Dr. Ing. Luisa Studio Di Ingegneria
+       Via Messina 20
+       65122 - Pescara 
+      
+      
+      Studio Di Ingegneria Ing. Carlo Galli
+       Via Milano 3
+       65122 - Pescara 
+      
+     
+     
+     
+     
+    
+     Scrivi la tua recensione per Sargiacomo Ing. Silvio Studio Tecnico - Pescara:
+      
+      
+     
+     
+      
+       
+    
+   
+   
+   
+            
+          
+       
+  >   
+
+---
+-
+0.51068103
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.47723716
+Sargiacomo Ing. Silvio - Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.41055375
+Ingegneri a Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.4048464
+
+            Studio D'ingegneria
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.37878036
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[2]/a[1]
+-
+0.37878036
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.3534643
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.3534643
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.3534643
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.3534643
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.3534643
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.3534643
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.3534643
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.3534643
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[1]
+-
+0.3534643
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.3534643
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.3534643
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]
+-
+0.3534643
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[1]
+-
+0.3534643
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[7]/div[1]
+-
+0.3534643
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[10]/div[1]
+-
+0.33873785
+Studio Tecnico
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+-
+0.33873785
+
+            Studio Tecnico
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.33070612
+65122
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.32424802
+Scrivi la tua recensione di Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.30614096
+
+            Via Perugia, 9 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.30161247
+
+            Studio di Ingegneria e Architettura
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.2662024
+Ingegneri
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
+-
+0.22700012
+Risultati di ricerca per Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.22197545
+
+            Via Firenze, 4 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.21520357
+Via Perugia, 9
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+__________________
+Studio Di Ingegneria Ing. Carlo Galli
+---
+-
+0.50711083
+
+            Studio D'ingegneria
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.37779993
+
+            Studio di Ingegneria e Architettura
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.3654922
+Ingegneri
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
+-
+0.3114741
+Ingegneri a Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.21520363
+Studio Tecnico
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+-
+0.21520363
+
+            Studio Tecnico
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.20505387
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.15367238
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[2]/a[1]
+-
+0.15367238
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.15117267
+Dedo Ingegneria S.r.l.
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.14455199
+Sargiacomo Ing. Silvio - Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.13027433
+Studio di architettura Antonio Sabatino
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
+-
+0.11714553
+Sorgentone Ing. Mario
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.110892795
+Bajocco Ing. Valerio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.110892795
+Ing. Perfetti Pierluigi
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[2]/a[1]
+-
+0.110892795
+Zazzara Ing. Paola
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.10197813
+Commercialisti - studio commercialista Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.09398811
+Scrivi la tua recensione di Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.09398811
+Risultati di ricerca per Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.07300946
+Costantini Ing. Rafael - Polacchi Arch. Gianni
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[1]/a[1]
+__________________
+Del Proposto Dr. Ing. Luisa Studio Di Ingegneria
+---
+-
+0.44077748
+
+            Studio D'ingegneria
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.32838127
+
+            Studio di Ingegneria e Architettura
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.31768346
+Ingegneri
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
+-
+0.2707313
+Ingegneri a Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.18705362
+Studio Tecnico
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+-
+0.18705362
+
+            Studio Tecnico
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.17823152
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.13357106
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[2]/a[1]
+-
+0.13357106
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.1313983
+Dedo Ingegneria S.r.l.
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.12564367
+Sargiacomo Ing. Silvio - Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.11323361
+Studio di architettura Antonio Sabatino
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[2]/a[1]
+-
+0.10182214
+Sorgentone Ing. Mario
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.09638731
+Bajocco Ing. Valerio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.09638731
+Ing. Perfetti Pierluigi
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[2]/a[1]
+-
+0.09638731
+Zazzara Ing. Paola
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.088638745
+Commercialisti - studio commercialista Pescara
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[3]/div[2]/a[1]
+-
+0.081693865
+Scrivi la tua recensione di Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.081693865
+Risultati di ricerca per Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.06345935
+Costantini Ing. Rafael - Polacchi Arch. Gianni
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[1]/a[1]
+__________________
+ 
+      Del Rosso Ing. Alessandro
+       Via Trento 122
+       65122 - Pescara 
+     
+---
+-
+0.38352612
+
+        122
+       
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[1]
+-
+0.35078448
+65122
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.1704202
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.1704202
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.1704202
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.1704202
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.1704202
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.1704202
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.1704202
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.1704202
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[1]
+-
+0.1704202
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.1704202
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.1704202
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]
+-
+0.1704202
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[1]
+-
+0.1704202
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[7]/div[1]
+-
+0.1704202
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[10]/div[1]
+-
+0.16885899
+Sargiacomo Ing. Silvio - Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.16367206
+
+            Corso Vittorio Emanuele Ii, 10 - 
+            65122 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.1510798
+
+            Via Perugia, 9 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.14115508
+
+            Via Firenze, 4 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.13482961
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.12174873
+Via Perugia, 9
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.12174873
+Via Perugia, 9
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.11872109
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[2]/a[1]
+-
+0.11872109
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.111176856
+Via Firenze, 4
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.10738394
+Via Bologna, 1
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.10422986
+Via Firenze, 51
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.10108518
+Via Bologna, 8
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.09050192
+Sorgentone Ing. Mario
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/a[1]
+__________________
+ 
+      Arrizza Ing. Fabio Studio D'ingegneria
+       Via Trento 122
+       65122 - Pescara 
+     
+---
+-
+0.37228778
+
+            Studio D'ingegneria
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.36445066
+
+        122
+       
+//html[1]/body[1]/div[3]/div[3]/div[2]/div[5]/div[2]/div[1]/div[4]/div[1]
+-
+0.33333755
+65122
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.31340358
+Ingegneri a Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.27735612
+
+            Studio di Ingegneria e Architettura
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.2683206
+Ingegneri
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
+-
+0.23861319
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.20535354
+Avvocato Fabio Sarra
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[5]/div[2]/a[1]
+-
+0.16194402
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.16194402
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.16194402
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.16194402
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.16194402
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.16194402
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.16194402
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.16194402
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[1]
+-
+0.16194402
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.16194402
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.16194402
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]
+-
+0.16194402
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[1]
+-
+0.16194402
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[7]/div[1]
+-
+0.16194402
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[10]/div[1]
+-
+0.16046046
+Sargiacomo Ing. Silvio - Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.15798849
+Studio Tecnico
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+-
+0.15798849
+
+            Studio Tecnico
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.15553151
+
+            Corso Vittorio Emanuele Ii, 10 - 
+            65122 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.14356555
+
+            Via Perugia, 9 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.13413446
+
+            Via Firenze, 4 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.11569331
+Via Perugia, 9
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.11569331
+Via Perugia, 9
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+__________________
+ 
+      Studio Di Ingegneria Ing. Carlo Galli
+       Via Milano 3
+       65122 - Pescara 
+     
+---
+-
+0.35770518
+
+            Studio D'ingegneria
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.32028064
+65122
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.3011275
+Ingegneri a Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.26649204
+
+            Studio di Ingegneria e Architettura
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.2578104
+Ingegneri
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
+-
+0.22926667
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.15560064
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.15560064
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.15560064
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.15560064
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.15560064
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.15560064
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.15560064
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.15560064
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[1]
+-
+0.15560064
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.15560064
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.15560064
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]
+-
+0.15560064
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[1]
+-
+0.15560064
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[7]/div[1]
+-
+0.15560064
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[10]/div[1]
+-
+0.15417518
+Sargiacomo Ing. Silvio - Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.15180007
+Studio Tecnico
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+-
+0.15180007
+
+            Studio Tecnico
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.14943932
+
+            Corso Vittorio Emanuele Ii, 10 - 
+            65122 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.13794208
+
+            Via Perugia, 9 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.12888038
+
+            Via Firenze, 4 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.11116158
+Via Perugia, 9
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.11116158
+Via Perugia, 9
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.10839724
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[2]/a[1]
+-
+0.10839724
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+__________________
+ 
+      Cristini Ing. Stefano
+       Via Trento 114
+       65122 - Pescara 
+     
+---
+-
+0.34297365
+65122
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.16662548
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.16662548
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.16662548
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.16662548
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.16662548
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.16662548
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.16662548
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.16662548
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[1]
+-
+0.16662548
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.16662548
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.16662548
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]
+-
+0.16662548
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[1]
+-
+0.16662548
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[7]/div[1]
+-
+0.16662548
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[10]/div[1]
+-
+0.16509904
+Sargiacomo Ing. Silvio - Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.16002761
+
+            Corso Vittorio Emanuele Ii, 10 - 
+            65122 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.14771575
+
+            Via Perugia, 9 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.13801202
+
+            Via Firenze, 4 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.13182738
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.11903777
+Via Perugia, 9
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.11903777
+Via Perugia, 9
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.11607756
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[2]/a[1]
+-
+0.11607756
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.108701296
+Via Firenze, 4
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.104992844
+Via Bologna, 1
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.101909
+Via Firenze, 51
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.098834336
+Via Bologna, 8
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[1]/span[1]
+-
+0.08848672
+Sorgentone Ing. Mario
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.08376368
+Bajocco Ing. Valerio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]
+__________________
+ 
+      Del Proposto Dr. Ing. Luisa Studio Di Ingegneria
+       Via Messina 20
+       65122 - Pescara 
+     
+---
+-
+0.3319742
+
+            Studio D'ingegneria
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.29724175
+65122
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.27946633
+Ingegneri a Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[8]/div[2]/a[1]
+-
+0.24732232
+
+            Studio di Ingegneria e Architettura
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.23926519
+Ingegneri
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[4]/span[1]/a[1]
+-
+0.21277472
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+-
+0.14440773
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[2]/span[1]/a[1]
+-
+0.14440773
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[6]/a[1]
+-
+0.14440773
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[3]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.14440773
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.14440773
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[6]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.14440773
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[2]/div[2]/span[2]
+-
+0.14440773
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.14440773
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[1]
+-
+0.14440773
+Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[3]
+-
+0.14440773
+Pescara
+//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[3]/span[1]/a[1]
+-
+0.14440773
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[6]/div[1]
+-
+0.14440773
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[1]
+-
+0.14440773
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[7]/div[1]
+-
+0.14440773
+
+        Pescara
+       
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[10]/div[1]
+-
+0.14308482
+Sargiacomo Ing. Silvio - Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.14088055
+Studio Tecnico
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h5[1]
+-
+0.14088055
+
+            Studio Tecnico
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[1]
+-
+0.1386896
+
+            Corso Vittorio Emanuele Ii, 10 - 
+            65122 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.12801942
+
+            Via Perugia, 9 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.11960957
+
+            Via Firenze, 4 - 
+            65121 
+            Pescara
+           
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[2]/div[2]
+-
+0.10316534
+Via Perugia, 9
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[2]/span[1]
+-
+0.10316534
+Via Perugia, 9
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[2]/div[2]/span[1]
+-
+0.10059984
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[2]/a[1]
+-
+0.10059984
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+__________________
+Del Rosso Ing. Alessandro
+---
+-
+0.17829888
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[2]/a[1]
+-
+0.17829888
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.1677169
+Sargiacomo Ing. Silvio - Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.13591848
+Sorgentone Ing. Mario
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.12866373
+Bajocco Ing. Valerio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.12866373
+Ing. Perfetti Pierluigi
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[2]/a[1]
+-
+0.12866373
+Zazzara Ing. Paola
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.109050006
+Scrivi la tua recensione di Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.109050006
+Risultati di ricerca per Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.08470946
+Costantini Ing. Rafael - Polacchi Arch. Gianni
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.06422552
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
+Cristini Ing. Stefano
+---
+-
+0.17829888
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[8]/div[2]/a[1]
+-
+0.17829888
+Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]/h2[1]/span[1]
+-
+0.1677169
+Sargiacomo Ing. Silvio - Pescara
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[1]/h1[1]
+-
+0.13591848
+Sorgentone Ing. Mario
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[2]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.12866373
+Bajocco Ing. Valerio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[1]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.12866373
+Ing. Perfetti Pierluigi
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[9]/div[2]/div[1]/div[9]/div[2]/a[1]
+-
+0.12866373
+Zazzara Ing. Paola
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[4]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.109050006
+Scrivi la tua recensione di Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[5]/div[1]/span[1]/h4[1]
+-
+0.109050006
+Risultati di ricerca per Sargiacomo Ing. Silvio
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[10]/div[1]/a[1]
+-
+0.08470946
+Costantini Ing. Rafael - Polacchi Arch. Gianni
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[8]/div[2]/div[1]/div[5]/div[1]/div[1]/div[3]/div[1]/a[1]
+-
+0.06422552
+
+       Sargiacomo Ing. Silvio
+       Studio Tecnico
+       
+        
+         
+          
+         
+         
+          Via Perugia, 9
+         
+         
+          
+         
+         
+          65121
+         
+         
+          
+         
+         
+          Pescara (PE)
+         
+        
+        
+        
+         
+         
+         
+         
+           
+          085 4214339
+         
+        
+        
+        
+          Chiama
+        
+        
+        
+         
+          
+         
+         
+          Ingegneri a Pescara
+          
+         
+        
+         
+        
+       
+         
+          
+        
+        
+        Opzioni 
+       
+      
+//html[1]/body[1]/div[3]/div[3]/div[1]/div[1]/div[2]/div[1]/div[1]
+__________________
