@@ -73,16 +73,16 @@ public class Profile {
 		List<String> contentInformations = new ArrayList<>();
 		for (int i=0;i<this.profileInformations.size();i++) {
 			RelevantInformation info = this.profileInformations.get(i);
-			System.out.println(info.getXpath().getXpath());
+//			System.out.println(info.getXpath().getXpath());
 			NodeList nl = xapplier.getNodes(info.getXpath().getXpath(), 
 					document_jsoup);
 			String currentContent;
 			if (nl.getLength() != 0) {
-				System.out.println("YEEEE");
+//				System.out.println("YEEEE");
 				currentContent = nl.item(0).getTextContent();
 			}
 			else	{ //l'xpath non ha restituito nessun segmento
-				System.out.println("nuuuuuu :<");
+//				System.out.println("nuuuuuu :<");
 				currentContent = "--";
 			}
 			contentInformations.add(currentContent);

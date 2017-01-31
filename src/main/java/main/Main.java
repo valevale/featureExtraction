@@ -31,8 +31,7 @@ public class Main {
 		//salvi in un json le info
 		//un json per dominio
 		Map<Integer,Profile> domains2profile = pr.getRepository();
-		//TODO cambia parametro!!
-		for (int i=1; i<=1; i++) {
+		for (int i=1; i<=5; i++) {
 			Profile currentProfile = domains2profile.get(i);
 			String id = currentProfile.getIdDbDomain();
 			//per ogni profilo  prendi il dominio
@@ -53,8 +52,9 @@ public class Main {
 					String currentContent=contents.get(c);
 					currentContent = currentContent.replaceAll("\"", "");
 					//assumiamo che la lista  dei pathId abbia stessa lunghezza
-					String pathCode=currentProfile.getMatchingInformation().get(c);
-					json = json + "xp"+pathCode+": \""+currentContent+"\", \n";
+//					String pathCode=currentProfile.getMatchingInformation().get(c);
+//					json = json + "xp"+pathCode+": \""+currentContent+"\", \n";
+					json = json + "xp"+(c+1)+": \""+currentContent+"\", \n";
 				}
 				json = json.substring(0, json.length()-2);
 				json = json + "}, \n";
