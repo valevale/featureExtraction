@@ -66,11 +66,14 @@ public class Profile {
 		String cleanedHTML = Jsoup.clean(page.getHtml(), Whitelist.relaxed()
 				.addAttributes(":all", "class", "id"));
 		Document document_jsoup = Jsoup.parse(cleanedHTML);
+		System.out.println(document_jsoup);
+		System.out.println("___________________________________******_____________________________");
 		clean(document_jsoup,path+"p1/",par);
-		document_jsoup.outputSettings().syntax(Document.OutputSettings.Syntax.xml);
+		System.out.println(document_jsoup);
 		List<String> contentInformations = new ArrayList<>();
 		for (int i=0;i<this.profileInformations.size();i++) {
 			RelevantInformation info = this.profileInformations.get(i);
+			System.out.println(info.getXpath().getXpath());
 			NodeList nl = xapplier.getNodes(info.getXpath().getXpath(), 
 					document_jsoup);
 			String currentContent;

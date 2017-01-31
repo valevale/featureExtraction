@@ -42,7 +42,7 @@ public class WebPageDocument {
 		this.xpaths = xpextractor.getXPathsFromDocument(this.document_jsoup,
 				parameter, folder, parameterTextFusion);
 		this.idDomain=parameter;
-		this.segments = extractSegments(this.xpaths, this.document_jsoup);
+		this.segments = extractSegments(this.xpaths);
 //		System.out.println(this.segments.size());
 //		this.xPaths = extractXPaths(this.xpaths);
 //		this.genericXpaths = null;
@@ -60,7 +60,7 @@ public class WebPageDocument {
 		this.xpaths = xpextractor.getXPathsFromDocument(this.document_jsoup,
 				parameter, folder, parameterTextFusion);
 		this.idDomain=parameter;
-		this.segments = extractSegments(this.xpaths, this.document_jsoup);
+		this.segments = extractSegments(this.xpaths);
 //		this.genericXpaths = null;
 		DomainsRepository domRep = DomainsRepository.getInstance();
 		this.source = domRep.createDomain(sourceParameter);
@@ -122,7 +122,7 @@ public class WebPageDocument {
 	 * restituisce un set di porzioni del documento (segmenti), ovvero insiemi di nodi
 	 * dell'albero html, corrispondenti a quegli xPath
 	 * */
-	private Set<Segment> extractSegments(Set<Xpath> xPaths, Document document) {
+	private Set<Segment> extractSegments(Set<Xpath> xPaths) {
 
 //		System.out.println("QUI "+xPaths_nodes.size());
 		
