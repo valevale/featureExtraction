@@ -5,6 +5,8 @@ package model;
 /**
  * Created by valerio on 1/19/16.
  */
+
+/*elemento html utile per la pulizia del template degli html*/
 public class BlacklistElement {
     private String value;
     private String tag;

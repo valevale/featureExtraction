@@ -3,6 +3,7 @@ package model;
 import java.util.ArrayList;
 import java.util.List;
 
+/*classe provvisoria che sostituisce il database delle sorgenti*/
 public class DomainsRepository {
 	
 	private static DomainsRepository instance = null;

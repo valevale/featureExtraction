@@ -25,6 +25,10 @@ public class Source {
     	return id;
     }
     
+    public List<WebPage> getPages() {
+    	return this.discoveredPages;
+    }
+    
     
     
 }

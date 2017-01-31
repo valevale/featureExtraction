@@ -1,13 +1,24 @@
 package model;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.List;
+
+import javax.xml.xpath.XPathExpressionException;
+
+import org.jsoup.Jsoup;
+import org.jsoup.nodes.Document;
+import org.jsoup.safety.Whitelist;
+import org.w3c.dom.NodeList;
+
+import xpath.utils.XpathApplier;
 
 public class Profile {
 
 	private int idDomain;
 	private String idDbDomain;
 	private List<RelevantInformation> profileInformations;
+	XpathApplier xapplier = XpathApplier.getInstance();
 
 	public Profile(int idDomain) {
 		this.idDomain=idDomain;
@@ -33,7 +44,7 @@ public class Profile {
 	public int getIdDomain() {
 		return this.idDomain;
 	}
-	
+
 	public String getIdDbDomain() {
 		return this.idDbDomain;
 	}
@@ -45,5 +56,37 @@ public class Profile {
 	//TODO anche identificativo
 	public void addInformation(RelevantInformation info) {
 		this.profileInformations.add(info);
+	}
+
+	public List<String> getContentInformation(WebPage page) throws XPathExpressionException, IOException {
+		String cleanedHTML = Jsoup.clean(page.getHtml(), Whitelist.relaxed()
+				.addAttributes(":all", "class", "id"));
+		Document document_jsoup = Jsoup.parse(cleanedHTML);
+		List<String> contentInformations = new ArrayList<>();
+		for (int i=0;i<this.profileInformations.size();i++) {
+			RelevantInformation info = this.profileInformations.get(i);
+			NodeList nl = xapplier.getNodes(info.getXpath().getXpath(), 
+					document_jsoup);
+			String currentContent;
+			if (nl.getLength() != 0) {
+				currentContent = nl.item(0).getTextContent();
+			}
+			else	{ //l'xpath non ha restituito nessun segmento
+				currentContent = "--";
+			}
+			contentInformations.add(currentContent);
+		}
+		//TODO identificativo del path!!
+		return contentInformations;
+	}
+	
+	/*mi fornisce i codici dei path*/
+	public List<String> getMatchingInformation() {
+		List<String> matchingInformations = new ArrayList<>();
+		for (int i=0;i<this.profileInformations.size();i++) {
+			RelevantInformation info = this.profileInformations.get(i);
+			matchingInformations.add(info.getMatching().getIdPath());
+		}
+		return matchingInformations;
 	}
 }

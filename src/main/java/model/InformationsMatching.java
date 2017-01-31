@@ -2,6 +2,7 @@ package model;
 
 import java.util.List;
 
+/*rappresentano le informazioni orizzontali, quei dati che sono uguali su più domini*/
 public class InformationsMatching {
 
 	private List<RelevantInformation> informations;

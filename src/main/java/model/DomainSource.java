@@ -3,14 +3,13 @@ package model;
 import java.util.HashSet;
 import java.util.Set;
 
+/*classe provvisoria che sostituisce 'sorce' del database*/
+//TODO nella classe source dovrai comunque allegare gli xpath generici, senza referenza o altro
 public class DomainSource {
 
 	private Set<Xpath> genericXpaths;
 	private int parameter;
 	
-	
-	
-
 	public DomainSource(int parameter) {
 		this.parameter=parameter;
 		this.genericXpaths = new HashSet<>();

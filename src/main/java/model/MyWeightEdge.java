@@ -2,6 +2,7 @@ package model;
 
 import org.jgrapht.graph.DefaultWeightedEdge;
 
+/*archi pesati, utilizzati per la visualizzazione del grafo*/
 public class MyWeightEdge extends DefaultWeightedEdge {
 		  /**
 	 * 

@@ -20,7 +20,6 @@ import org.w3c.dom.NodeList;
 import lib.utils.DocumentUtils;
 import lucene.SegmentSearcher;
 import model.DomainSource;
-import model.MatchingRepository;
 import model.Segment;
 import model.WebPageDocument;
 import model.Xpath;

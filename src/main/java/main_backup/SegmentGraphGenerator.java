@@ -30,11 +30,6 @@ import scala.Tuple2;
 public class SegmentGraphGenerator {
 
 	public static Map<Integer,List<Tuple2<Integer,List<RelevantInformation>>>> getInformations() throws Exception {
-
-
-		Timestamp timestamp = new Timestamp(System.currentTimeMillis());
-		System.out.println("preparazione: "+timestamp);
-		
 		
 		SimpleWeightedGraph<RelevantInformation, DefaultWeightedEdge> g = createGraph();
 
@@ -52,7 +47,7 @@ public class SegmentGraphGenerator {
 
 		Map<Integer,List<Tuple2<Integer,List<RelevantInformation>>>> result = new HashMap<>();
 
-		timestamp = new Timestamp(System.currentTimeMillis());
+		Timestamp timestamp = new Timestamp(System.currentTimeMillis());
 		System.out.println("creazione grafo: "+timestamp);
 		//per ogni sottografo
 		for (int i=0; i<semanticSubGraphList.size(); i++) {
@@ -279,6 +274,9 @@ public class SegmentGraphGenerator {
 
 		Map<Tuple2<Integer,Integer>,Set<PairMatching>> matchings = PairMatchingMaker.getMainMatchings();
 
+
+		Timestamp timestamp = new Timestamp(System.currentTimeMillis());
+		System.out.println("preparazione: "+timestamp);
 
 		PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
 		//creo il grafo

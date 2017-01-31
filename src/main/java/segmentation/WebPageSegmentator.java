@@ -253,7 +253,6 @@ public class WebPageSegmentator {
 	//		else return b-a;
 	//	}
 
-	//TODO magari migliorare con stemming, o le parole divise in due...
 	private int calculateTokens(String text) {
 		String trimmed = text.trim();
 		int words = trimmed.isEmpty() ? 0 : trimmed.split("\\s+").length;

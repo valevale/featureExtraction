@@ -20,7 +20,7 @@ import xpath.utils.XpathApplier;
 public class Main {
 
 	static double parameterTextFusion = -1;
-	static String path = "/home/valentina/workspace_nuovo/DataFusion/testGenericXpath/persone/";
+	static String path = "testGenericXpath/persone/";
 
 	public static void main(String[] args) throws Exception {
 

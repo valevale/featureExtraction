@@ -1,7 +1,10 @@
-package model;
+package other;
 
 import java.util.ArrayList;
 import java.util.List;
+
+import model.DomainSource;
+import model.Xpath;
 
 public class MatchingRepository {
 	private static MatchingRepository instance = null;

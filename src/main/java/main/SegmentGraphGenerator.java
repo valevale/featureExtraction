@@ -231,6 +231,7 @@ public class SegmentGraphGenerator {
 			DirectedGraph<RelevantInformation, DefaultWeightedEdge> gDirected) {
 		//TODO magari puoi dividere i passaggi in più metodi
 		//ottengo tutti i cammini di lunghezza massimo 4
+		//TODO poi non sai più la lunghezza massima..
 		AllDirectedPaths<RelevantInformation, DefaultWeightedEdge> directedPathsGenerator =
 				new AllDirectedPaths<RelevantInformation, DefaultWeightedEdge>(gDirected);
 

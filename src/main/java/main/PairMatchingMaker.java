@@ -24,7 +24,7 @@ import xpath.utils.XpathApplier;
 /* questo main serve per un task esplorativo in cui cerchiamo di capire se vogliamo dei Matching
  * numerosi o dei cluster di Matching (non avremo un singolo matching sdoppiato)*/
 public class PairMatchingMaker {
-	static String path = "/home/valentina/workspace_nuovo/DataFusion/testGenericXpath/persone/";
+	static String path = "testGenericXpath/persone/";
 	static int n1 = 1;
 	static int n2 = 2;
 	static int n3 = 3;
@@ -222,7 +222,7 @@ public class PairMatchingMaker {
 
 		} //fine scorrimento domini
 
-		//TODO PROVA
+		//PROVA
 //				Map<Tuple2<Integer,Integer>,Set<PairMatching>> finalMap = new HashMap<>();
 //				for(int k=1;k<=4;k++) {
 //					for (int k2=k+1;k2<=5;k2++) {

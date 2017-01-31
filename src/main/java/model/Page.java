@@ -2,6 +2,7 @@ package model;
 
 import org.mongodb.morphia.annotations.Embedded;
 
+/*per il database, rappresenta l'oggetto embedded di WebPage*/
 @Embedded
 public class Page {
 

@@ -1,7 +1,10 @@
-package model;
+package other;
 
 import java.util.HashMap;
 import java.util.Map;
+
+import model.DomainSource;
+import model.Xpath;
 
 public class Matching {
 

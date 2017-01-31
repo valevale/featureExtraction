@@ -120,7 +120,8 @@ public class ClavinFacade {
 
     /** data una lista di LocationOccurrence, se è indeciso su un luogo (es Worchester CA e Worchester TX) restituisce
      * qll che è geograficamente più vicino agli altri luoghi */
-    private List<ResolvedLocation> resolveWithHeuristics(final List<LocationOccurrence> locs, ClavinLocationResolver resolver) throws ClavinException {
+    @SuppressWarnings("unused")
+	private List<ResolvedLocation> resolveWithHeuristics(final List<LocationOccurrence> locs, ClavinLocationResolver resolver) throws ClavinException {
         List<ResolvedLocation> resolvedLocations = resolver.resolveLocations(locs, HEURISTICS_MAX_HIT_DEPTH, HEURISTICS_MAX_CONTEXT_WINDOW, false);
         if (resolvedLocations.size()<1)
             resolvedLocations = resolver.resolveLocations(locs, HEURISTICS_MAX_HIT_DEPTH, HEURISTICS_MAX_CONTEXT_WINDOW, true);
