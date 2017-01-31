@@ -51,6 +51,7 @@ public class WebPageDocument {
 	
 	public WebPageDocument(File html_document, int parameter, String folder,
 			double parameterTextFusion, int sourceParameter) throws Exception {
+		//prendo l'html
 		String htmlDocumentString = IOUtils.toString(new FileReader(html_document));
 		String cleanedHTML = Jsoup.clean(htmlDocumentString, Whitelist.relaxed()
 				.addAttributes(":all", "class", "id"));

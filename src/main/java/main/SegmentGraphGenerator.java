@@ -197,13 +197,13 @@ public class SegmentGraphGenerator {
 			GraphPath<RelevantInformation,DefaultWeightedEdge> currentPath = allTransversalPaths.get(i);
 			double currentPathWeight = getWeight(currentPath, g);
 			double currentMaxPathWeight = getWeight(maxWeightedPath, g);
-			System.out.println("current "+currentPath.getWeight()+" & max: "+maxWeightedPath.getWeight());
-			System.out.println("currentNEW "+currentPathWeight+" & maxNEW: "+currentMaxPathWeight);
+//			System.out.println("current "+currentPath.getWeight()+" & max: "+maxWeightedPath.getWeight());
+//			System.out.println("currentNEW "+currentPathWeight+" & maxNEW: "+currentMaxPathWeight);
 			if (currentPathWeight > currentMaxPathWeight) {
 				maxWeightedPath = currentPath;
 			}
 			if (currentPathWeight == currentMaxPathWeight) {
-				System.out.println("currentL "+currentPath.getLength()+" & maxL: "+maxWeightedPath.getLength());
+//				System.out.println("currentL "+currentPath.getLength()+" & maxL: "+maxWeightedPath.getLength());
 				if (currentPath.getLength() > maxWeightedPath.getLength()) {
 					maxWeightedPath = currentPath;
 				}

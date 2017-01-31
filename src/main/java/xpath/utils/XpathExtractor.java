@@ -88,7 +88,8 @@ public class XpathExtractor {
 	/* Prende come input un documento jsoup da pulire, assieme a una lista di documenti
 	 * che vengono usati per la pulizia
 	 * e restituisce un documento pulito del template comune alle pagine */
-	public static Document clean(Document docToClean, List<Document> usedPagesForCleaning) throws Exception {
+	//TODO mettilo da qualche altra parte
+	public Document clean(Document docToClean, List<Document> usedPagesForCleaning) throws Exception {
 
 		HashSet<BlacklistElement> blacklistedTxt = makeBlackList(docToClean, "txt", usedPagesForCleaning);
 		HashSet<BlacklistElement> blacklistedImg = makeBlackList(docToClean, "img", usedPagesForCleaning);

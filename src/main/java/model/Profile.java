@@ -1,17 +1,19 @@
 package model;
 
-import java.io.IOException;
+import java.io.File;
+import java.io.FileReader;
 import java.util.ArrayList;
 import java.util.List;
 
-import javax.xml.xpath.XPathExpressionException;
 
+import org.apache.commons.io.IOUtils;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.safety.Whitelist;
 import org.w3c.dom.NodeList;
 
 import xpath.utils.XpathApplier;
+import xpath.utils.XpathExtractor;
 
 public class Profile {
 
@@ -58,10 +60,14 @@ public class Profile {
 		this.profileInformations.add(info);
 	}
 
-	public List<String> getContentInformation(WebPage page) throws XPathExpressionException, IOException {
+	/*page: la pagina
+	 * path e par: parametri per pulire la pagina (andranno sostituiti con un processo di pulizia del db) TODO*/
+	public List<String> getContentInformation(WebPage page, String path, int par) throws Exception {
 		String cleanedHTML = Jsoup.clean(page.getHtml(), Whitelist.relaxed()
 				.addAttributes(":all", "class", "id"));
 		Document document_jsoup = Jsoup.parse(cleanedHTML);
+		clean(document_jsoup,path+"p1/",par);
+		document_jsoup.outputSettings().syntax(Document.OutputSettings.Syntax.xml);
 		List<String> contentInformations = new ArrayList<>();
 		for (int i=0;i<this.profileInformations.size();i++) {
 			RelevantInformation info = this.profileInformations.get(i);
@@ -69,15 +75,33 @@ public class Profile {
 					document_jsoup);
 			String currentContent;
 			if (nl.getLength() != 0) {
+				System.out.println("YEEEE");
 				currentContent = nl.item(0).getTextContent();
 			}
 			else	{ //l'xpath non ha restituito nessun segmento
+				System.out.println("nuuuuuu :<");
 				currentContent = "--";
 			}
 			contentInformations.add(currentContent);
 		}
-		//TODO identificativo del path!!
 		return contentInformations;
+	}
+	
+	private void clean(Document doc, String cartella, int par) throws Exception {
+		List<Document> usedPagesForCleaning = new ArrayList<>();
+
+//		System.out.println("Creazione lista di pagine da utilizzare per la pulizia del template");
+		for (int i=1; i<=5;i++) {
+			try {
+				usedPagesForCleaning.add(Jsoup.parse(IOUtils.toString(
+						new FileReader(new File(cartella+"pag"+par+"_"+i+".html")))));
+			}
+			catch (Exception e) {
+				System.out.println("Errore pagina "+i + ": " + e);
+			}
+		}
+		XpathExtractor xpextractor = XpathExtractor.getInstance();
+		xpextractor.clean(doc, usedPagesForCleaning);
 	}
 	
 	/*mi fornisce i codici dei path*/
