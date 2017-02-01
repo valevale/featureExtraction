@@ -78,11 +78,9 @@ public class Profile {
 					document_jsoup);
 			String currentContent;
 			if (nl.getLength() != 0) {
-//				System.out.println("YEEEE");
 				currentContent = nl.item(0).getTextContent();
 			}
 			else	{ //l'xpath non ha restituito nessun segmento
-//				System.out.println("nuuuuuu :<");
 				currentContent = "--";
 			}
 			contentInformations.add(currentContent);
@@ -94,9 +92,32 @@ public class Profile {
 		List<String> contentInformations = new ArrayList<>();
 		for (int i=0;i<this.profileInformations.size();i++) {
 			RelevantInformation info = this.profileInformations.get(i);
-//			System.out.println(info.getXpath().getXpath());
+			System.out.println(info.getDomain());
+			System.out.println(info.getMatching().getIdPath());
+			System.out.println(info.getXpath().getXpath());
 			NodeList nl = xapplier.getNodes(info.getXpath().getXpath(), 
 					document_jsoup);
+			String currentContent;
+			if (nl.getLength() != 0) {
+				currentContent = nl.item(0).getTextContent();
+				System.out.println(currentContent);
+			}
+			else	{ //l'xpath non ha restituito nessun segmento
+				currentContent = "--";
+				System.out.println(currentContent);
+			}
+			contentInformations.add(currentContent);
+		}
+		return contentInformations;
+	}
+	
+	public List<String> getContentInformation3(WebPageDocument w) throws Exception {
+		List<String> contentInformations = new ArrayList<>();
+		for (int i=0;i<this.profileInformations.size();i++) {
+			RelevantInformation info = this.profileInformations.get(i);
+//			System.out.println(info.getXpath().getXpath());
+			NodeList nl = xapplier.getNodes(info.getXpath().getXpath(), 
+					w.getDocument_jsoup());
 			String currentContent;
 			if (nl.getLength() != 0) {
 //				System.out.println("YEEEE");

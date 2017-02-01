@@ -49,14 +49,14 @@ public class SegmentGraphGenerator {
 		for (int i=0; i<semanticSubGraphList.size(); i++) {
 			Set<RelevantInformation> currentSemanticSubGraph = semanticSubGraphList.get(i);
 
-			System.out.println("dimensione sottografo "+(i+1)+": "+currentSemanticSubGraph.size());
+			System.out.println("NUOVO SOTTOGRAFO\ndimensione sottografo "+(i+1)+": "+currentSemanticSubGraph.size());
 
-			List<GraphPath<RelevantInformation,DefaultWeightedEdge>> transversalPaths = selectTransversalPaths(
-					currentSemanticSubGraph, gDirected);
+			//trovo i cammini trasversali
+			List<GraphPath<RelevantInformation,DefaultWeightedEdge>> transversalPaths = 
+					selectTransversalPaths(currentSemanticSubGraph, gDirected);
 
 			//**ALGORITMO PIU' PESANTE
 			//lista che contiene le due path più pesanti
-			//			List<GraphPath<SegmentGraphNode,DefaultWeightedEdge>> maxWeightPaths = new ArrayList<>();
 			//prima path
 			GraphPath<RelevantInformation,DefaultWeightedEdge> firstMaxWeightedPath = getMaxWeightedPath(
 					transversalPaths, g);
@@ -64,6 +64,8 @@ public class SegmentGraphGenerator {
 			InformationsMatching matching = new InformationsMatching(firstMaxWeightedPath.getVertexList(), i+"_1");
 //			maxWeightPaths.add(new Tuple2<Integer,List<RelevantInformation>>(1,firstMaxWeightedPath.getVertexList()));
 			maxWeightPaths.add(matching);
+			//TODO ispezioniamo qui
+			printAddedMatching(matching);
 			//individuo i nodi appartenenti al cammino
 			//possibilità:
 			//-creiamo un nuovo grafo senza quei nodi
@@ -87,6 +89,7 @@ public class SegmentGraphGenerator {
 					if (!vertexInCommon)
 						transversalPathsFiltered.add(currentPath);
 				}
+				System.out.println("i path trasversali attuali, filtrati");
 				//seleziono quello massimo, secondo cammino
 				if (!transversalPathsFiltered.isEmpty()) {
 					pathRaccolte++;
@@ -97,6 +100,9 @@ public class SegmentGraphGenerator {
 					InformationsMatching newMatching = new InformationsMatching(newMaxWeightedPath.getVertexList(),
 							i+"_"+pathRaccolte);
 					maxWeightPaths.add(newMatching);
+					//TODO anche qui
+					printAddedMatching(newMatching);
+					usedVertexForPaths.addAll(newMaxWeightedPath.getVertexList());
 				}
 				else {
 					ancoraAltriCammini = false;
@@ -308,6 +314,19 @@ public class SegmentGraphGenerator {
 				return currentNode;
 		}
 		return null;
+	}
+	
+	private static void printAddedMatching(InformationsMatching m) {
+		System.out.println("ispezioniamo il matching");
+		System.out.println("id path del matching "+m.getIdPath());
+		System.out.println("ora vediamo i suoi elementi");
+		for (int i=0; i<m.getInformations().size();i++) {
+			RelevantInformation info = m.getInformations().get(i);
+			System.out.println("dominio: "+info.getDomain());
+			System.out.println("xpath: "+info.getXpath().getXpath());
+			System.out.println("id path: "+info.getMatching().getIdPath());
+		}
+		System.out.println();
 	}
 
 }
