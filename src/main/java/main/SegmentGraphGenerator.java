@@ -49,7 +49,7 @@ public class SegmentGraphGenerator {
 		for (int i=0; i<semanticSubGraphList.size(); i++) {
 			Set<RelevantInformation> currentSemanticSubGraph = semanticSubGraphList.get(i);
 
-			System.out.println("NUOVO SOTTOGRAFO\ndimensione sottografo "+(i+1)+": "+currentSemanticSubGraph.size());
+//			System.out.println("NUOVO SOTTOGRAFO\ndimensione sottografo "+(i+1)+": "+currentSemanticSubGraph.size());
 
 			//trovo i cammini trasversali
 			List<GraphPath<RelevantInformation,DefaultWeightedEdge>> transversalPaths = 
@@ -65,7 +65,7 @@ public class SegmentGraphGenerator {
 //			maxWeightPaths.add(new Tuple2<Integer,List<RelevantInformation>>(1,firstMaxWeightedPath.getVertexList()));
 			maxWeightPaths.add(matching);
 			//TODO ispezioniamo qui
-			printAddedMatching(matching);
+//			printAddedMatching(matching);
 			//individuo i nodi appartenenti al cammino
 			//possibilità:
 			//-creiamo un nuovo grafo senza quei nodi
@@ -89,7 +89,7 @@ public class SegmentGraphGenerator {
 					if (!vertexInCommon)
 						transversalPathsFiltered.add(currentPath);
 				}
-				System.out.println("i path trasversali attuali, filtrati");
+//				System.out.println("i path trasversali attuali, filtrati");
 				//seleziono quello massimo, secondo cammino
 				if (!transversalPathsFiltered.isEmpty()) {
 					pathRaccolte++;
@@ -101,7 +101,7 @@ public class SegmentGraphGenerator {
 							i+"_"+pathRaccolte);
 					maxWeightPaths.add(newMatching);
 					//TODO anche qui
-					printAddedMatching(newMatching);
+//					printAddedMatching(newMatching);
 					usedVertexForPaths.addAll(newMaxWeightedPath.getVertexList());
 				}
 				else {
@@ -186,7 +186,7 @@ public class SegmentGraphGenerator {
 			}
 		}
 
-		System.out.println("dimensione grafo: "+g.vertexSet().size());
+//		System.out.println("dimensione grafo: "+g.vertexSet().size());
 		return g;
 	}
 
@@ -316,17 +316,17 @@ public class SegmentGraphGenerator {
 		return null;
 	}
 	
-	private static void printAddedMatching(InformationsMatching m) {
-		System.out.println("ispezioniamo il matching");
-		System.out.println("id path del matching "+m.getIdPath());
-		System.out.println("ora vediamo i suoi elementi");
-		for (int i=0; i<m.getInformations().size();i++) {
-			RelevantInformation info = m.getInformations().get(i);
-			System.out.println("dominio: "+info.getDomain());
-			System.out.println("xpath: "+info.getXpath().getXpath());
-			System.out.println("id path: "+info.getMatching().getIdPath());
-		}
-		System.out.println();
-	}
+//	private static void printAddedMatching(InformationsMatching m) {
+//		System.out.println("ispezioniamo il matching");
+//		System.out.println("id path del matching "+m.getIdPath());
+//		System.out.println("ora vediamo i suoi elementi");
+//		for (int i=0; i<m.getInformations().size();i++) {
+//			RelevantInformation info = m.getInformations().get(i);
+//			System.out.println("dominio: "+info.getDomain());
+//			System.out.println("xpath: "+info.getXpath().getXpath());
+//			System.out.println("id path: "+info.getMatching().getIdPath());
+//		}
+//		System.out.println();
+//	}
 
 }
