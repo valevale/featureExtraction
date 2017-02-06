@@ -15,8 +15,8 @@ import model.Source;
 public class SourcesParser {
 	public static void main(String[] args) throws IOException {
 		MongoFacade facade = new MongoFacade("web_search_pages");
-		String path = "/home/valentina/workspace_nuovo/DataFusion/";
-		File webPagesFile = new File(path + "crawler_db_sources.txt");
+//		String path = "/home/valentina/workspace_nuovo/DataFusion/";
+		File webPagesFile = new File("crawler_db_sources.txt");
 		String file = IOUtils.toString(new FileReader(webPagesFile));
 		String[] sources = file.split("\n\n");
 		PrintWriter textPrinter = new PrintWriter("sources.csv", "UTF-8");
