@@ -17,6 +17,7 @@ public class Source {
     private ObjectId id;
 	@Reference
 	private List<WebPage> discoveredPages;
+	private String host;
     
     public Source() {
     }
@@ -29,6 +30,8 @@ public class Source {
     	return this.discoveredPages;
     }
     
-    
+    public String getHost() {
+    	return host;
+    }
     
 }

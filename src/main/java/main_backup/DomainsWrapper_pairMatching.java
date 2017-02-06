@@ -490,12 +490,13 @@ public class DomainsWrapper_pairMatching {
 			while(specificityParameter <= 5 && !onlyOneSegmentFound) {
 				//					System.out.println("Parametro specificità "+specificityParameter);
 				Xpath currentXpath = (new Xpath(firstSegment.getJsoupNode(),firstSegment
-						.getXpathVersions().getPathBySpecificity(specificityParameter)));
+						.getXpathVersions().getPathBySpecificity(specificityParameter),
+						firstSegment.getDocument().getIdDomain(), specificityParameter));
 				//se corrisponde a 1 unico segmento RILEVANTE
 				if (isARelevantSegment(currentXpath.getXpath(), doc3, relevantSegments_thirdDocument)) {
 					onlyOneSegmentFound = true;
 					//sovrascrivo l'xpath assoluto
-					firstSegment.setXPath(currentXpath, specificityParameter);
+					firstSegment.setXPath(currentXpath);
 					firstSegment.getDocument().getSource().addGenericXpath(currentXpath);
 					genericXpath_firstSegment = currentXpath;
 				}
@@ -515,14 +516,15 @@ public class DomainsWrapper_pairMatching {
 			while(specificityParameter <= 5 && !onlyOneSegmentFound) {
 				//									System.out.println("Parametro specificità "+specificityParameter);
 				Xpath currentXpath = (new Xpath(secondSegment.getJsoupNode(),secondSegment
-						.getXpathVersions().getPathBySpecificity(specificityParameter)));
+						.getXpathVersions().getPathBySpecificity(specificityParameter), 
+						secondSegment.getDocument().getIdDomain(), specificityParameter));
 				//				System.out.println(currentXpath.getXpath());
 				//se corrisponde a 1 unico segmento RILEVANTE
 				if (isARelevantSegment(currentXpath.getXpath(), doc4, relevantSegments_fourthDocument)) {
 					//					System.out.println("è rilevante");
 					onlyOneSegmentFound = true;
 					//sovrascrivo l'xpath assoluto
-					secondSegment.setXPath(currentXpath, specificityParameter);
+					secondSegment.setXPath(currentXpath);
 					secondSegment.getDocument().getSource().addGenericXpath(currentXpath);
 					genericXpath_secondSegment = currentXpath;
 				}

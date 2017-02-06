@@ -5,18 +5,21 @@ import org.jsoup.nodes.Node;
 public class Xpath {
 
 	private String xpath;
+	//TODO a cosa serve? si può togliere?
 	private Node node;
 	private int idDomain;
+	private int specificity;
 	
-	public Xpath(Node node, String xpath){
-		this.node=node;
-		this.xpath=xpath;
-	}
+//	public Xpath(Node node, String xpath){
+//		this.node=node;
+//		this.xpath=xpath;
+//	}
 	
-	public Xpath(Node node, String xpath, int domain){
+	public Xpath(Node node, String xpath, int domain, int specificity){
 		this.node=node;
 		this.xpath=xpath;
 		this.idDomain=domain;
+		this.specificity=specificity;
 	}
 	
 	public Node getNode() {
@@ -29,6 +32,10 @@ public class Xpath {
 	
 	public String getXpath() {
 		return this.xpath;
+	}
+	
+	public int getSpecificity() {
+		return this.specificity;
 	}
 
 	@Override

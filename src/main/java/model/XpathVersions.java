@@ -14,6 +14,7 @@ import xpath.utils.XpathMaker;
 
 public class XpathVersions {
 
+	//TODO vedi se è necessario davvero memorizzarlo come oggetto
 	private Segment segment;
 	private String absoluteXpath;
 	private String xpath1;
@@ -26,7 +27,7 @@ public class XpathVersions {
 	public XpathVersions(Segment segment) throws XPathExpressionException, IOException, ParserConfigurationException {
 		this.xmaker=XpathMaker.getInstance();
 		this.segment=segment;
-		this.absoluteXpath=segment.getAbsoluteXPath();
+		this.absoluteXpath=segment.getAbsoluteXPath().getXpath();
 		this.xpath1=makeXpath(segment, 1);
 		this.xpath2=makeXpath(segment, 2);
 		this.xpath3=makeXpath(segment, 3);

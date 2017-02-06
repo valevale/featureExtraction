@@ -49,8 +49,8 @@ public class Main {
 		XpathApplier xapplier = XpathApplier.getInstance();
 
 		printThisList(informations.get(1),xapplier, "Weight", domain2document);
-		printThisList(informations.get(2),xapplier, "Length", domain2document);
-		printThisList(informations.get(3),xapplier, "MinCut", domain2document);
+//		printThisList(informations.get(2),xapplier, "Length", domain2document);
+//		printThisList(informations.get(3),xapplier, "MinCut", domain2document);
 	}
 
 	//	public static List<Integer> ordina(List<Integer> list) {
@@ -71,7 +71,7 @@ public class Main {
 	public static void printThisList(List<Tuple2<Integer,List<RelevantInformation>>> list, XpathApplier xapplier, String type,
 			Map<Integer,WebPageDocument> domain2document) throws XPathExpressionException, IOException {
 		
-		PrintWriter testPrinter = new PrintWriter(path+"schedaPersona"+type+".csv", "UTF-8");
+		PrintWriter testPrinter = new PrintWriter(path+"schedaPersonaPROVA"+type+".csv", "UTF-8");
 
 		testPrinter.println("Path numero;Dominio 1;Contenuto 1;Dominio 2;Contenuto 2;Dominio 3;Contenuto 3;Dominio 4;Contenuto 4;Dominio 5;Contenuto 5");
 

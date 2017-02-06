@@ -25,36 +25,39 @@ import xpath.utils.XpathApplier;
  * numerosi o dei cluster di Matching (non avremo un singolo matching sdoppiato)*/
 public class PairMatchingMaker {
 	static String path = "testGenericXpath/persone/";
+	//TODO refactoring, va parametrizzato. per ora individua a che servono
 	static int n1 = 1;
 	static int n2 = 2;
 	static int n3 = 3;
 	static int n4 = 4;
 	static int parN1 = 1;
 	static int parN2 = 2;
+	//TODO fai una classe di configurazione
 	static double parameterTextFusion = -1;
 
 	public static Map<Tuple2<Integer,Integer>,Set<PairMatching>> getMainMatchings() throws Exception {
 
 		//fase di raccolta dei matching
 		//TODO migliora qui!!
+		//TODO ho bisogno di un repository per le pagine pulite... o insomma un repository per questo oggetto
 		//per una questione di efficienza, memorizzo qui i web page documenti
-				Map<Tuple2<Integer,Integer>,WebPageDocument> personDomain2document = new HashMap<>();
-				for(int p=1;p<=7;p++){
-					for(int j=1;j<=5;j++) {
-						String currentFolder = path+"p"+p+"/";
-						String dPath = currentFolder+"orig"+j+".html";
-						File d = new File(dPath);
-						if (d.exists()) {
-							WebPageDocument w = new WebPageDocument(
-									new File(path+"p"+p+"/"+"orig"+j+".html"), 
-									j, path+"p"+p+"/", 
-									parameterTextFusion, j);
-							personDomain2document.put(new Tuple2<>(p,j), w);
-						}
-					}
+		Map<Tuple2<Integer,Integer>,WebPageDocument> personDomain2document = new HashMap<>();
+		for(int p=1;p<=7;p++){
+			for(int j=1;j<=5;j++) {
+				String currentFolder = path+"p"+p+"/";
+				String dPath = currentFolder+"orig"+j+".html";
+				File d = new File(dPath);
+				if (d.exists()) {
+					WebPageDocument w = new WebPageDocument(
+							new File(path+"p"+p+"/"+"orig"+j+".html"), 
+							j, path+"p"+p+"/", 
+							parameterTextFusion, j);
+					personDomain2document.put(new Tuple2<>(p,j), w);
 				}
-		
-		
+			}
+		}
+
+
 		//più efficienza con la creazione delle webpage
 		for(int k=1;k<=4;k++) {
 			for (int k2=k+1;k2<=5;k2++) {
@@ -142,12 +145,9 @@ public class PairMatchingMaker {
 			}
 		}
 
-		//stampiamo i collegamenti... T^T
+		//stampiamo i collegamenti
 		XpathApplier xapplier = XpathApplier.getInstance();
 		PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
-		//DA QUI MODIFICHI...
-
-		
 
 		//stampo il contenuto dei repository
 		//TODO cancellare questo pezzo di codice quando non serve più la stampa
@@ -158,7 +158,6 @@ public class PairMatchingMaker {
 				int domain2 = k2;
 				PrintWriter testPrinter = new PrintWriter(path+"pairMatchings"+domain1+"_"+domain2+".csv", "UTF-8");
 
-				//				PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
 				PairMatchingRepository currentRepository = pmr.getRepository(domain1, domain2);
 
 				//scorro le persone
@@ -209,10 +208,6 @@ public class PairMatchingMaker {
 							//**xpath2
 							testPrinter.println(currentPair.getXpath2().getXpath());
 
-							//coloriamo i due segmenti dei due documenti
-							//							xapplier.color_iter(currentPair.getXpath1(), matchings2votes.get(currentPair), w1.getDocument_w3c());
-							//							xapplier.color_iter(currentPair.getXpath2(), matchings2votes.get(currentPair), w2.getDocument_w3c());
-
 						} //fine while matchings
 					} //fine if d1 e d2 exist
 					testPrinter.println();
@@ -222,21 +217,6 @@ public class PairMatchingMaker {
 
 		} //fine scorrimento domini
 
-		//PROVA
-//				Map<Tuple2<Integer,Integer>,Set<PairMatching>> finalMap = new HashMap<>();
-//				for(int k=1;k<=4;k++) {
-//					for (int k2=k+1;k2<=5;k2++) {
-//		
-//						int domain1 = k;
-//						int domain2 = k2;
-//						PairMatchingRepository currentRepository = pmr.getRepository(domain1, domain2);
-//						Map<PairMatching,Float> matchings2votes = currentRepository.getMatchings2vote();
-//						//scorro gli elementi dei repository: le coppie
-//						Tuple2<Integer,Integer> domains = new Tuple2<>(domain1,domain2);
-//						finalMap.put(domains,matchings2votes.keySet());
-//		
-//					}
-//				}
 
 		//ora elimino dalle repository le coppie che
 		//-non hanno il voto massimo
@@ -247,8 +227,6 @@ public class PairMatchingMaker {
 			for (int k2=k+1;k2<=5;k2++) {
 				int domain1 = k;
 				int domain2 = k2;
-				
-				//				System.out.println("repository corrente: "+domain1+" "+domain2);
 
 				PairMatchingRepository currentRepository = pmr.getRepository(domain1, domain2);
 				Map<PairMatching,Float> matchings2votes = currentRepository.getMatchings2vote();
@@ -261,7 +239,6 @@ public class PairMatchingMaker {
 				//scorro gli elementi dei repository: le coppie
 				while (matchingIt.hasNext()) {
 					PairMatching currentPair = matchingIt.next();
-					//					Set<PairMatching> finalListCurrentPair1 = new HashSet<>();
 					PairMatching bestPair1 = null;
 					PairMatching bestPair2 = null;
 					if (!checkedElements1.contains(currentPair.getXpath1())) {
@@ -271,13 +248,7 @@ public class PairMatchingMaker {
 						checkedElements1.add(currentPair.getXpath1());
 					}
 
-//					Set<PairMatching> finalListCurrentPair2 = new HashSet<>();
-					//					if (domain2 == 2 &&
-					//							currentPair.getXpath2().getXpath().equals("//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]")) {
-					//						System.out.println("ECCOCI QUA");
-					//					}
 					if (!checkedElements2.contains(currentPair.getXpath2())) {
-						//						System.out.println("non è contenuto");
 						//stesso procedimento, ma con il secondo elemento della coppia
 						bestPair2 = createListWithMaxPairs(currentPair.getXpath2(),
 								currentRepository, true, domain2);
@@ -342,15 +313,11 @@ public class PairMatchingMaker {
 
 	public static PairMatching createListWithMaxPairs(Xpath currentPath, 
 			PairMatchingRepository currentRepository, boolean isElementRight, int domain) {
-		//		if (domain == 2 &&
-		//				currentPath.getXpath().equals("//html[1]/body[1]/div[5]/div[2]/div[1]/div[2]/div[1]/div[2]/div[1]/div[1]/div[2]/div[2]/div[1]/div[1]/div[1]/span[1]")) {
-		//			System.out.println("SEGMENTO CHE CI INTERESSA");
-		//		}
+
 		Map<PairMatching,Float> matchings2votes = currentRepository.getMatchings2vote();
 		//prendo tutte le coppie con quell'elemento
 		List<PairMatching> pairListWithCurrentPair = currentRepository
 				.getPairsWith(currentPath, isElementRight);
-		//		System.out.println("dimensione coppie con quell'elemento "+pairListWithCurrentPair.size());
 		float maxVoto = 0;
 		int maxReachability = 0;
 		//scorro le coppie e individuo il voto massimo
@@ -369,12 +336,7 @@ public class PairMatchingMaker {
 				}
 			}
 		}
-		//		System.out.println("voto massimo:" +maxVoto);
-		//		System.out.println("raggiungibilità massima:" +maxReachability);
 		int maxVotoApprossimato = (int) maxVoto;
-		//		System.out.println("voto approssimato:" +maxVotoApprossimato);
-		//lista finale con le coppie 
-		//		Set<PairMatching> finalList = new HashSet<>();
 		//prendo dalla lista gli elementi con voto (arrotondato all'unità)
 		//e la raggiungibilità massima
 		for (int i=0;i<pairListWithCurrentPair.size();i++) {
@@ -389,15 +351,12 @@ public class PairMatchingMaker {
 				}
 				else {
 					if(p.getDominiRaggiungibiliDaXpath1().size() == maxReachability) {
-						//						System.out.println("AGGIUNTO");
 						return p;
 					}
 				}
 			}
 		}
 		return null;
-		//		System.out.println("FINE");
-		//		return finalList;
 	}
 }
 

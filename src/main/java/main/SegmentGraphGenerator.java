@@ -315,18 +315,5 @@ public class SegmentGraphGenerator {
 		}
 		return null;
 	}
-	
-//	private static void printAddedMatching(InformationsMatching m) {
-//		System.out.println("ispezioniamo il matching");
-//		System.out.println("id path del matching "+m.getIdPath());
-//		System.out.println("ora vediamo i suoi elementi");
-//		for (int i=0; i<m.getInformations().size();i++) {
-//			RelevantInformation info = m.getInformations().get(i);
-//			System.out.println("dominio: "+info.getDomain());
-//			System.out.println("xpath: "+info.getXpath().getXpath());
-//			System.out.println("id path: "+info.getMatching().getIdPath());
-//		}
-//		System.out.println();
-//	}
 
 }

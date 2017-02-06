@@ -30,8 +30,7 @@ public class WebPageSegmentator {
 
 	private WebPageSegmentator() {
 	}
-
-	//	final static double parameterTextFusion = ConfigurationTestMatchings.getSegmentationGrainParameter();
+	
 	final static double parameterTreeFusion = 2;
 
 	public List<Node> segment(Document doc, double parameterTextFusion) throws FileNotFoundException, IOException, ParserConfigurationException, SAXException, TransformerException {
@@ -78,7 +77,6 @@ public class WebPageSegmentator {
 			block2node.put(i, t);
 		}
 
-
 		/*algoritmo di fusione dei blocchi*/
 		boolean loop = true;
 		while (loop) {
@@ -92,15 +90,9 @@ public class WebPageSegmentator {
 				Tuple2<Node,Integer> blockNode = block2node.get(i);
 				Tuple2<Node,Integer> blockNodeNext = block2node.get(i+1);
 
-				//				System.out.println((blockNodePrev.toString().length() < 200) ? blockNodePrev : blockNodePrev.toString().substring(0, 200)+", "+blockNodePrev._2());
-				//				System.out.println((blockNode.toString().length() < 200) ? blockNode : blockNode.toString().substring(0, 200)+", "+blockNode._2());
-				//				if (blockNodeNext!=null) System.out.println((blockNodeNext.toString().length() < 200) ? blockNodeNext : blockNodeNext.toString().substring(0, 200)+", "+blockNodeNext._2());
-
 				//fusione smooth
 				if (blockLinesNext != null && calculateDensity(blockLinesPrev) == calculateDensity(blockLinesNext)
 						&& calculateDensity(blockLines) < calculateDensity(blockLinesPrev)) {
-
-					//					System.out.println("SONO NELLA FUSIONE SMOOTH");
 
 					Tuple2<Node,Integer> ancestorTemp = findLowestCommonAncestor(blockNodePrev,blockNode);
 
@@ -113,12 +105,7 @@ public class WebPageSegmentator {
 
 					if ( blockNodeNext._2() > highest._2()) highest = blockNodeNext;
 
-					//					System.out.println("HIGHEST" + ((highest.toString().length() < 200) ? highest : highest.toString().substring(0, 200))+", "+highest._2());
-					//					System.out.println("ANCESTOR" + ((ancestor.toString().length() < 200) ? ancestor : ancestor.toString().substring(0, 200))+", "+ancestor._2());
-
 					if (highest._2() - ancestor._2() <= parameterTreeFusion) {
-
-						//						System.out.println("POSSO FONDERLI");
 
 						blockLinesPrev.addAll(blockLines);
 						blockLinesPrev.addAll(blockLinesNext);
@@ -138,14 +125,11 @@ public class WebPageSegmentator {
 					}
 				}
 				else {
-					//int delta = calculateDifference(calculateDensity(blockLinesPrev), calculateDensity(blockLines));
-					//					System.out.println("NO SMOOTH");
+					
 					int delta = Math.abs(calculateDensity(blockLinesPrev) - calculateDensity(blockLines));
 
 					//fusione standard
 					if (delta < parameterTextFusion) {
-
-						//						System.out.println("SONO ENTRATO NELLO STANDARD");
 
 						Tuple2<Node,Integer> ancestor = findLowestCommonAncestor(blockNodePrev,blockNode);
 
@@ -154,13 +138,7 @@ public class WebPageSegmentator {
 						if (blockNodePrev._2() > blockNode._2()) highest = blockNodePrev;
 						else highest = blockNode;
 
-
-						//						System.out.println("HIGHEST" + ((highest.toString().length() < 200) ? highest : highest.toString().substring(0, 200))+", "+highest._2());
-						//						System.out.println("ANCESTOR" + ((ancestor.toString().length() < 200) ? ancestor : ancestor.toString().substring(0, 200))+", "+ancestor._2());
-
 						if (highest._2() - ancestor._2() <= parameterTreeFusion) {
-
-							//							System.out.println("POSSO FONDERLI");
 
 							blockLinesPrev.addAll(blockLines);
 
@@ -175,27 +153,10 @@ public class WebPageSegmentator {
 					}
 
 				} // end else
-				//				System.out.println("-----");
-				//				System.out.println("");
 			} //end for
 			block2lines = removeGaps(block2lines, dimensioneOriginaria);
 			block2node = removeGapsNodes(block2node, dimensioneOriginaria);
 		}
-		//		System.out.println("**************************************************");
-
-		//stampiamo i risultati
-		//linee a console
-		//		for (int i=0; i<block2lines.size();i++) {
-		//			if (block2lines.get(i) != null) {
-		//				List<String> lines = block2lines.get(i);
-		//				System.out.println(i);
-		//				for(int j=0;j<lines.size();j++) {
-		//					String line = lines.get(j);
-		//					System.out.println(line);
-		//				}
-		//				System.out.println("_________________");
-		//			}
-		//		}
 
 		List<Node> segments = new ArrayList<>();
 		//nodi html nel file di testo
@@ -203,26 +164,11 @@ public class WebPageSegmentator {
 		for (int i=0; i<block2node.size();i++) {
 			if (block2node.get(i) != null) {
 				Tuple2<Node, Integer> node = block2node.get(i);
-				//				System.out.println(i);
-				//List<String> list = new ArrayList<>();
-				//				String xPath = calculateXPath(node._1());
-				//				printlist(list);
-				//				System.out.println(xPath);
-				//				System.out.println();
-				//				textPrinter.println(i);
-				//				textPrinter.println(node);
-				//				textPrinter.println("_________________");
 				if (!node._1().parent().nodeName().equals("body")) {
 					segments.add(node._1());
 				}
 			}
 		}
-
-
-		//		
-		//		textPrinter.println(doc);
-		//
-		//		textPrinter.close();
 
 		return segments;
 	}
@@ -246,12 +192,6 @@ public class WebPageSegmentator {
 			return (tokens / (lines.size()-1));
 		}
 	}
-
-	//piccola funzione di supporto per il calcolo del valore assoluto 
-	//	public static int calculateDifference(int a, int b) {
-	//		if (a-b > 0) return a-b;
-	//		else return b-a;
-	//	}
 
 	private int calculateTokens(String text) {
 		String trimmed = text.trim();
@@ -346,32 +286,5 @@ public class WebPageSegmentator {
 			return cercaAncestore(node.parent(), nodeName);
 		}
 	}
-
-	//	/*prende i segmenti, per ognuno dei quali è associata una lista di nodi, e assegna un
-	//	 * colore, modificando lo style */
-	//	public static void color(List<Node> segments) throws ParserConfigurationException, SAXException, IOException, TransformerException {
-	//		segments.forEach(seg -> {
-	//			if (seg.nodeName().equals("#text"))
-	//				seg = seg.parent();
-	//			seg.attr("style", "border:5px solid red");
-	////			seg.attr("border-color", "red");
-	//		});
-	//		//		W3CDom w3cHelper = new W3CDom();
-	//		//		org.w3c.dom.Document w3cDoc = w3cHelper.fromJsoup(doc);
-	//		//		
-	//		//		segments.forEach(segment -> {
-	//		//			NodeList nl = segment.getNodes();
-	//		//			for(int i=0; i<nl.getLength();i++) {
-	//		//				Element e = (Element) nl.item(i);
-	//		//				e.setAttribute("border-color", "red");
-	//		//			}
-	//		//		});
-	//		//		style="border:5px solid black"
-	//		//		TransformerFactory transformerFactory = TransformerFactory.newInstance();
-	//		//		Transformer transformer = transformerFactory.newTransformer();
-	//		//		DOMSource source = new DOMSource(w3cDoc);
-	//		//		StreamResult result = new StreamResult(new File("risultato.html"));
-	//		//		transformer.transform(source, result);
-	//	}
 
 }

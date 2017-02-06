@@ -48,7 +48,6 @@ public class SegmentSearcher {
 			throws IOException, ParseException{
 		String searchQuery = NodeUtils.getNodesContent(searchSegment.getW3cNodes());
 
-		//		System.out.println("Searching "+ searchQuery);
 		try {
 			query = queryParser.parse(QueryParser.escape(searchQuery));
 		}
@@ -61,18 +60,6 @@ public class SegmentSearcher {
 		//la ricerca basata sulla metrica della coseno similarità
 		CustomScoreQuery customQuery = new MyCustomScoreQuery(query);
 		TopDocs topDocs = indexSearcher.search(customQuery, 30);
-
-		//		TopDocs topDocs = indexSearcher.search(query, 10);
-		//		System.out.println(searchQuery);
-		//		for (int i = 0; i < topDocs.totalHits; i++) {
-		//		for(ScoreDoc scoreDoc : topDocs.scoreDocs) {
-		////			ScoreDoc match = scoreDoc;
-		////			Explanation explanation = indexSearcher.explain(query, match.doc);   
-		////			System.out.println("----------");
-		////			System.out.println(indexSearcher.doc(scoreDoc.doc).get("segmentContent"));
-		////			System.out.println(explanation.toString());
-		//		}
-		//		System.out.println("________");
 
 		return topDocs;
 	}

@@ -8,8 +8,8 @@ import javax.xml.xpath.XPathExpressionException;
 import org.jsoup.nodes.Node;
 import org.w3c.dom.NodeList;
 
-import scala.Tuple2;
 import xpath.utils.XpathApplier;
+import xpath.utils.XpathMaker;
 
 public class Segment {
 
@@ -17,22 +17,27 @@ public class Segment {
 	private Node jsoup_node;
 	private int relevance;
 	//xpath assoluto
-	private String absoluteXpath;
-	private Tuple2<Xpath,Integer> xpath_specificity;
+	private Xpath absoluteXpath;
+	//xpath generalizzato
+	private Xpath xpath;
 	private WebPageDocument document;
 	private XpathVersions xpathVersions = null;
 	
 	public Segment() {
 	}
+	
 
-	public Segment(String xPath, Node node, WebPageDocument document) throws XPathExpressionException, IOException, ParserConfigurationException {
-		this.absoluteXpath = xPath;
-		XpathApplier xpapplier = XpathApplier.getInstance();
-		this.w3c_node = xpapplier.getNodes(xPath, document.getDocument_jsoup());
-		if (this.w3c_node.getLength() == 0) System.out.println("RESTITUITO 0");
+	public Segment(Node node, WebPageDocument document) throws XPathExpressionException, IOException, ParserConfigurationException {
 		this.jsoup_node = node;
 		this.document = document;
-		this.xpath_specificity = new Tuple2<Xpath,Integer>(new Xpath(this.jsoup_node, this.absoluteXpath, this.document.getIdDomain()),0);
+		XpathMaker xpmaker = XpathMaker.getInstance();
+		this.absoluteXpath = new Xpath(node,
+				xpmaker.calculateAbsoluteXPath(node, document.getDocument_jsoup()),document.getIdDomain(),0);
+		this.xpath=this.absoluteXpath;
+		XpathApplier xpapplier = XpathApplier.getInstance();
+		//TODO a cosa serve? potremmo fare approccio lazy, cioè lo creiamo solo se serve
+		this.w3c_node = xpapplier.getNodes(this.absoluteXpath.getXpath(), document.getDocument_jsoup());
+//		this.xpath_specificity = new Tuple2<Xpath,Integer>(new Xpath(this.jsoup_node, this.absoluteXpath.getXpath(), this.document.getIdDomain()),0);
 	}
 	
 	public void makeXpathVersions() throws XPathExpressionException, IOException, ParserConfigurationException {
@@ -55,20 +60,20 @@ public class Segment {
 		this.relevance=relevance;
 	}
 	
-	public String getAbsoluteXPath() {
+	public Xpath getAbsoluteXPath() {
 		return this.absoluteXpath;
 	}
 	
-	public void setAbsoluteXPath(String xPath) {
+	public void setAbsoluteXPath(Xpath xPath) {
 		this.absoluteXpath=xPath;
 	}
 	
 	public Xpath getXPath() {
-		return this.xpath_specificity._1();
+		return this.xpath;
 	}
 	
-	public void setXPath(Xpath xPath, int specificity) {
-		this.xpath_specificity= new Tuple2<>(xPath,specificity);
+	public void setXPath(Xpath xPath) {
+		this.xpath=xPath;
 	}
 	
 	public WebPageDocument getDocument() {

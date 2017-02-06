@@ -12,8 +12,8 @@ import org.jsoup.nodes.Document;
 import org.jsoup.safety.Whitelist;
 import org.w3c.dom.NodeList;
 
+import segmentation.DocumentCleaner;
 import xpath.utils.XpathApplier;
-import xpath.utils.XpathExtractor;
 
 public class Profile {
 
@@ -145,8 +145,8 @@ public class Profile {
 				System.out.println("Errore pagina "+i + ": " + e);
 			}
 		}
-		XpathExtractor xpextractor = XpathExtractor.getInstance();
-		xpextractor.clean(doc, usedPagesForCleaning);
+		DocumentCleaner docCleaner = DocumentCleaner.getInstance();
+		docCleaner.clean(doc, usedPagesForCleaning);
 	}
 	
 	/*mi fornisce i codici dei path*/

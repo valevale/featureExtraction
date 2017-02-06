@@ -31,11 +31,11 @@ public class MyCustomScoreQuery extends CustomScoreQuery {
 
 	//oggetto che memorizza il vocabolario del corpus
 	private IndexVocabulary indexVocabulary;
-	
+
 	//il numero totale dei documenti del corpus (+ la query)
 	private static int N;
-	
-	
+
+
 	public MyCustomScoreQuery(Query subQuery) {
 		super(subQuery);
 	}
@@ -43,9 +43,7 @@ public class MyCustomScoreQuery extends CustomScoreQuery {
 	@Override
 	public CustomScoreProvider getCustomScoreProvider(final AtomicReaderContext atomicContext) throws IOException {
 		//atomicReaderContext permette l'esplorazione dell'indice.
-		//TODO pensa se è il caso di mettere qui il calcolo del vettore query e del vocabolario.
-		
-		//INIZIO MODIFICA
+
 		AtomicReader atomicReader;
 		atomicReader = atomicContext.reader();
 		//+1 per la query, è un documento in più
@@ -54,12 +52,11 @@ public class MyCustomScoreQuery extends CustomScoreQuery {
 		vocabulary = indexVocabulary.getVocabulary();
 		Map<String, Float> f2 = getQueryWeights(atomicReader, getSubQuery());
 		RealVector v2 = toRealVector(f2);
-		//FINE MODIFICA
-//		return new MyCustomScoreProvider(atomicContext, getSubQuery());
+
 		return new MyCustomScoreProvider(atomicContext, getSubQuery(), v2, vocabulary);
 	}
-	
-	
+
+
 	/*metodo che permette, analogamente, la costruzione di una mappa <termine,tf-idf>
 	 * per ogni termine della query*/
 	private Map<String, Float> getQueryWeights(IndexReader reader, Query query)
@@ -77,32 +74,13 @@ public class MyCustomScoreQuery extends CustomScoreQuery {
 		while (it.hasNext()) {
 			Term term = it.next();
 			String text = term.text();
-			//            int docFreq = termsEnum.docFreq();
-			
+
 			//metto nella mappa delle frequenze il termine e quante volte compare
 			//tra i documenti, in quel campo specifico
 
 			//problema: il termine non compare nel reader. quindi qui, se la frequenza è zero, sostituiscila con
 			//1, cioè l'unico documento in cui compare il termine: la query
 			if (reader.docFreq(term) == 0) {
-				//				System.out.println("metto dentro questo numero "+termFreqInDoc(text, query.toString("segmentContent")));
-				//				if (termFreqInDoc(text, query.toString("segmentContent")) == 0) {
-				////					System.out.println("query\n"+query.toString("segmentContent"));
-				////					
-				////					System.out.println("vettore");
-				////					vector.forEach(v -> {
-				////						System.out.print(v.text()+ " ");
-				////					});
-				//					termFreqInDoc(text, query.toString("segmentContent"));
-				//					System.out.println("STA INTRODUCENDO 0");
-				//					System.out.println("STA INTRODUCENDO 0");
-				//					System.out.println("STA INTRODUCENDO 0");
-				//					System.out.println("STA INTRODUCENDO 0");
-				//					System.out.println("STA INTRODUCENDO 0");
-				//					System.out.println("STA INTRODUCENDO 0");
-				//					System.out.println("STA INTRODUCENDO 0");
-				//				}
-				//				docFrequencies.put(text, termFreqInDoc(text, query.toString("segmentContent")));
 				docFrequencies.put(text, (float) 1);
 			}
 			else
@@ -143,28 +121,19 @@ public class MyCustomScoreQuery extends CustomScoreQuery {
 			float idf = (float) ( 1 + Math.log(N) - Math.log(df) );
 			float w = tf * idf;
 			tf_Idf_Weights.put(termin, w);
-			//			System.out.printf("Term: %s - tf: %f, df: %f, idf: %f, w: %f\n", termin, tf, df, idf, w);
 		}
-
-		//		System.out.println( "Printing docFrequencies:" );
-		//		printMap(docFrequencies);
-		//
-		//		System.out.println( "Printing termFrequencies:" );
-		//		printMap(termFrequencies);
-		//
-		//		System.out.println( "Printing if/idf weights:" );
-		//		printMapDouble(tf_Idf_Weights);
+		
 		return tf_Idf_Weights;
 	}
-	
+
 	/* a partire da una mappa <termine, tf-idf> costruisce un vettore */
 	public RealVector toRealVector(Map<String, Float> map) throws IOException {
 		//il vettore ha dimensione di tutti i termini
 		RealVector vector = new ArrayRealVector(vocabulary.size());
-		
+
 		int i = 0;
 		float value = 0;
-		
+
 		for (String term : vocabulary) { //di tutti i termini
 
 			if ( map.containsKey(term) ) { //se il documento corrente contiene il termine
@@ -177,25 +146,21 @@ public class MyCustomScoreQuery extends CustomScoreQuery {
 		}
 		return vector;
 	}
-	
+
 	/* dato un termine e il documento di cui fa parte, calola la frequenza (normalizzata)
 	 * di quel termine nel documento */
 	public static float termFreqInDoc(String term, String doc) {
-		//				System.out.println(term);
-		//				System.out.println(doc);
 		int count = 0;
-		//		String cleaned = doc.replaceAll("[^a-zA-Z0-9.' ]+", "");
+		
 		String cleaned = doc.replaceAll("[()]", " ");
-		//		System.out.println("cleaned\n"+cleaned);
+
 		String trimmed = cleaned.trim();
 		String[] words = trimmed.split("\\s+");
 		for(int i=0;i<words.length;i++) {
 			String w = words[i].toLowerCase();
 			if (w.equals(term)) count++;
 		}
-		//				System.out.println(count);
-		//				System.out.println(maxTermFreq(words));
-		//				System.out.println("freq: "+count / maxTermFreq(words));
+		
 		return count / maxTermFreq(words);
 	}
 

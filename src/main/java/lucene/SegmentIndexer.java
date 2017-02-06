@@ -30,7 +30,7 @@ public class SegmentIndexer {
 
 	/*costruttore che richied come input il path della cartella dove verrà creato l'indice*/
 	public SegmentIndexer(String indexDirectoryPath) throws IOException{
-//		System.out.println("CREATO INDICE A "+indexDirectoryPath);
+
 		Directory indexDirectory = 
 				FSDirectory.open(new File(indexDirectoryPath));
 		//utilizziamo un analyzer italiano
@@ -47,18 +47,6 @@ public class SegmentIndexer {
 	 * (metodo di supporto per la creazione dell'indice) */
 	private Document getDocument(Segment segment) throws IOException{
 		Document document = new Document();
-		//
-		//	      //index file contents
-		//	      Field contentField = new Field(LuceneConstants.CONTENTS, 
-		//	         new FileReader(file));
-		//	      //index file name
-		//	      Field fileNameField = new Field(LuceneConstants.FILE_NAME,
-		//	         file.getName(),
-		//	         Field.Store.YES,Field.Index.NOT_ANALYZED);
-		//	      //index file path
-		//	      Field filePathField = new Field(LuceneConstants.FILE_PATH,
-		//	         file.getCanonicalPath(),
-		//	         Field.Store.YES,Field.Index.NOT_ANALYZED);
 		
 		FieldType fieldType = new FieldType();
         fieldType.setIndexed(true);
@@ -70,7 +58,7 @@ public class SegmentIndexer {
 		String content = NodeUtils.getNodesContent(segment.getW3cNodes());
 
 		//si memorizza l'xPath e il contenuto del segmento
-		document.add(new Field("segmentPath", segment.getAbsoluteXPath(), StringField.TYPE_STORED));
+		document.add(new Field("segmentPath", segment.getAbsoluteXPath().getXpath(), StringField.TYPE_STORED));
 		document.add(new Field("segmentContent", content, fieldType));
 
 		return document;
@@ -79,7 +67,7 @@ public class SegmentIndexer {
 	/* Dato un segmento, si indicizza 
 	 * (matodo di supporto) */
 	private void indexSegment(Segment s) throws IOException{
-		//	      System.out.println("Indexing "+file.getCanonicalPath());
+
 		Document document = getDocument(s);
 		writer.addDocument(document);
 	}
