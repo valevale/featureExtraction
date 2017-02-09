@@ -75,11 +75,11 @@ public class Main {
 			for (int k2=k+1;k2<=5;k2++) {
 				int domain1 = k;
 				int domain2 = k2;
-//TODO rimetti 5!!
+				//TODO rimetti 5!!
 				if (domain1==4 
-//						|| domain1==5 
+						//						|| domain1==5 
 						|| domain2==4 
-//						|| domain2==5
+						//						|| domain2==5
 						) {
 					for (int p1=1;p1<=7;p1++) {
 						for (int p2=(p1+1);p2<=7;p2++) {
@@ -236,8 +236,9 @@ public class Main {
 		//TODO fare anche col dominio 5
 		Source currentSource = facade.getSourceWithId("5750678b3387e31f516fa1cd");
 		Map<Xpath,Map<String,Integer>> xpath2value2frequency = new HashMap<>();
-		for (int j=0;j<100;j++) {
-			System.out.println("*****pagina numero: "+(j+1)+"/100");
+		for (int j=0;j<currentSource.getPages().size();j++) {
+			if ((j+1)%100==0)
+				System.out.println("*****pagina numero: "+(j+1)+"/"+currentSource.getPages().size());
 			WebPage currentPage = currentSource.getPages().get(j);
 			String cleanedHTML = Jsoup.clean(currentPage.getHtml(), Whitelist.relaxed()
 					.addAttributes(":all", "class", "id"));
@@ -289,9 +290,9 @@ public class Main {
 			Xpath xpath = it.next();
 
 			System.out.println("Xpath numero "+c);
-			
+
 			testPrinterMap.println(c+","+xpath.getXpath());
-			
+
 			//mappa per un'altra stampa: frequenze aggregate2numeroValoriConQuellaFrequenza
 			Map<String,Integer> frequenza2valori = new HashMap<>();
 
@@ -313,7 +314,7 @@ public class Main {
 			}
 
 			testPrinter.close();
-			
+
 			//ora stampiamo le frequenze aggregate
 			System.out.println("Stampo frequenze di xpath numero "+c);
 			PrintWriter testPrinterAggr = new PrintWriter(currentPath+"frequenzeAggregate"+c+".csv", "UTF-8");
@@ -323,11 +324,11 @@ public class Main {
 				testPrinterAggr.println(freq+","+frequenza2valori.get(freq));
 			}
 			testPrinterAggr.close();
-			
+
 			c++;
 		}
 		testPrinterMap.close();
-		
+
 		System.out.println("fine");
 	}
 
