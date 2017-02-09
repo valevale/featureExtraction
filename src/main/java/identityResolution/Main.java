@@ -285,6 +285,7 @@ public class Main {
 		int c=1;
 		//questo documento tiene traccia della corrispondenza xpath_numero identificativo degli altri file csv
 		PrintWriter testPrinterMap = new PrintWriter(currentPath+"mappaId_Xpath.csv", "UTF-8");
+		PrintWriter testPrinterAggr = new PrintWriter(currentPath+"frequenzeAggregate.csv", "UTF-8");
 
 		while (it.hasNext()) {
 			Xpath xpath = it.next();
@@ -317,16 +318,15 @@ public class Main {
 
 			//ora stampiamo le frequenze aggregate
 			System.out.println("Stampo frequenze di xpath numero "+c);
-			PrintWriter testPrinterAggr = new PrintWriter(currentPath+"frequenzeAggregate"+c+".csv", "UTF-8");
 			Iterator<String> freqIt = frequenza2valori.keySet().iterator();
 			while (freqIt.hasNext()) {
 				String freq = freqIt.next();
-				testPrinterAggr.println(freq+","+frequenza2valori.get(freq));
+				testPrinterAggr.println(c+","+freq+","+frequenza2valori.get(freq));
 			}
-			testPrinterAggr.close();
 
 			c++;
 		}
+		testPrinterAggr.close();
 		testPrinterMap.close();
 
 		System.out.println("fine");
@@ -335,30 +335,30 @@ public class Main {
 	private static void riempiMappa(Map<String,Integer> frequenza2valori) {
 		//valori possibili (idea)
 		//1,2-10,11-100,101-500,501-1000,1001-5000,5001-10000,oltre 10000
-		frequenza2valori.put("1", 0);
-		frequenza2valori.put("2-10", 0);
-		frequenza2valori.put("11-100", 0);
-		frequenza2valori.put("101-1000", 0);
-		frequenza2valori.put("1001-5000", 0);
-		frequenza2valori.put("5001-10000", 0);
-		frequenza2valori.put("oltre 10000", 0);
+		frequenza2valori.put("A)1", 0);
+		frequenza2valori.put("B)2-10", 0);
+		frequenza2valori.put("C)11-100", 0);
+		frequenza2valori.put("D)101-1000", 0);
+		frequenza2valori.put("E)1001-5000", 0);
+		frequenza2valori.put("F)5001-10000", 0);
+		frequenza2valori.put("G)oltre 10000", 0);
 	}
 
 	private static void aggiornaMappa(Map<String,Integer> frequenza2valori, int frequenza) {
 		if (frequenza ==1)
-			frequenza2valori.replace("1", frequenza2valori.get("1")+1);
+			frequenza2valori.replace("A)1", frequenza2valori.get("A)1")+1);
 		if (frequenza >=2 && frequenza <=10)
-			frequenza2valori.replace("2-10", frequenza2valori.get("2-10")+1);
+			frequenza2valori.replace("B)2-10", frequenza2valori.get("B)2-10")+1);
 		if (frequenza >=11 && frequenza <=100)
-			frequenza2valori.replace("11-100", frequenza2valori.get("11-100")+1);
+			frequenza2valori.replace("C)11-100", frequenza2valori.get("C)11-100")+1);
 		if (frequenza >=101 && frequenza <=1000)
-			frequenza2valori.replace("101-1000", frequenza2valori.get("101-1000")+1);
+			frequenza2valori.replace("D)101-1000", frequenza2valori.get("D)101-1000")+1);
 		if (frequenza >=1001 && frequenza <=5000)
-			frequenza2valori.replace("1001-5000", frequenza2valori.get("1001-5000")+1);
+			frequenza2valori.replace("E)1001-5000", frequenza2valori.get("E)1001-5000")+1);
 		if (frequenza >=5001 && frequenza <=10000)
-			frequenza2valori.replace("5001-10000", frequenza2valori.get("5001-10000")+1);
+			frequenza2valori.replace("F)5001-10000", frequenza2valori.get("F)5001-10000")+1);
 		if (frequenza >=10001)
-			frequenza2valori.replace("oltre 10000", frequenza2valori.get("oltre 10000")+1);
+			frequenza2valori.replace("G)oltre 10000", frequenza2valori.get("G)oltre 10000")+1);
 	}
 
 	private static void clean(Document doc, String cartella, int par) throws Exception {
