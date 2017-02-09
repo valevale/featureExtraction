@@ -1,6 +1,5 @@
 package segmentation;
 
-import java.io.File;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.util.ArrayList;
@@ -191,5 +190,16 @@ public class TopSegmentsFinder {
 				}
 			}
 		}
+	}
+	
+	/*unione dei due metodi di sopra*/
+	public List<Tuple2<Segment, TopDocs>> findRelevantSegments(String cartella, 
+			WebPageDocument firstDocument, WebPageDocument secondDocument, int n1, int n2) 
+					throws Exception {
+		List<Tuple2<Segment, TopDocs>> segment2hits =
+				findTopSegments(cartella, firstDocument, secondDocument,
+						n1, n2);
+		setRelevances(segment2hits, secondDocument, cartella+"segmentIndex");
+		return segment2hits;
 	}
 }

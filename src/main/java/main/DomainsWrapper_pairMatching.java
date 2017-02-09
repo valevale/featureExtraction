@@ -43,7 +43,7 @@ public class DomainsWrapper_pairMatching {
 
 		String indexPathDominio1 = cartella_primaPersona+"segmentIndex";
 
-		//TODO andrebbe tolto
+		//TODO andrebbe tolto NO non va tolto e cerca di capire perché!
 		File indexFolder = new File(indexPathDominio1);
 		String[]entries = indexFolder.list();
 
@@ -235,6 +235,70 @@ public class DomainsWrapper_pairMatching {
 						genericXpath_secondSegment, secondSegment.getDocument().getSource().getParameter(), score);
 			}
 		}
+	}
+	
+	public static Tuple2<Xpath, Xpath> getXpaths(Segment firstSegment, Segment secondSegment,
+			WebPageDocument doc3, WebPageDocument doc4, float score,
+			List<Segment> relevantSegments_thirdDocument,
+			List<Segment> relevantSegments_fourthDocument, 
+			List<Tuple2<Segment, TopDocs>> segment2hits_secondaPersona,
+			String indexPath) throws XPathExpressionException, IOException, ParserConfigurationException {
+		//creazione degli xpath generici
+		//OTTIMIZZAZIONE: controllo che i due segmenti non abbiano già un xpath generico
+		Xpath genericXpath_firstSegment = getGenericXpath(firstSegment, firstSegment.getDocument());
+		if (genericXpath_firstSegment == null) {
+			//generi un xpath generico
+			firstSegment.makeXpathVersions();
+			int specificityParameter = 0;
+			boolean onlyOneSegmentFound = false;
+			while(specificityParameter <= 5 && !onlyOneSegmentFound) {
+				Xpath currentXpath = (new Xpath(firstSegment.getJsoupNode(),firstSegment
+						.getXpathVersions().getPathBySpecificity(specificityParameter),
+						firstSegment.getDocument().getIdDomain(),specificityParameter));
+				//se corrisponde a 1 unico segmento RILEVANTE
+				if (isARelevantSegment(currentXpath.getXpath(), doc3, relevantSegments_thirdDocument)) {
+					onlyOneSegmentFound = true;
+					
+					
+					genericXpath_firstSegment = currentXpath;
+				}
+				else
+					specificityParameter++;
+			}
+		}
+		Xpath genericXpath_secondSegment = getGenericXpath(secondSegment, secondSegment.getDocument());
+		if (genericXpath_secondSegment == null) {
+			//generi un xpath generico
+			secondSegment.makeXpathVersions();
+			int specificityParameter = 0;
+			boolean onlyOneSegmentFound = false;
+			while(specificityParameter <= 5 && !onlyOneSegmentFound) {
+				Xpath currentXpath = (new Xpath(secondSegment.getJsoupNode(),secondSegment
+						.getXpathVersions().getPathBySpecificity(specificityParameter)
+						,secondSegment.getDocument().getIdDomain(),specificityParameter));
+				//se corrisponde a 1 unico segmento RILEVANTE
+				if (isARelevantSegment(currentXpath.getXpath(), doc4, relevantSegments_fourthDocument)) {
+					onlyOneSegmentFound = true;
+					
+					
+					genericXpath_secondSegment = currentXpath;
+				}
+				else
+					specificityParameter++;
+			}
+		}
+		if (genericXpath_firstSegment != null && genericXpath_secondSegment != null) {
+			//CONTROLLO AGGIUNTIVO: i segmenti ottenuti da questi xpath generici sono stati matchati
+			//per alta coseno similarità nell'insieme segment2hits_secondaPersona
+			if (isARelevantMatching(genericXpath_firstSegment.getXpath(), doc3, 
+					genericXpath_secondSegment.getXpath(), doc4, 
+					segment2hits_secondaPersona, indexPath)) {
+				
+				//li restituisci
+				return new Tuple2<>(genericXpath_firstSegment,genericXpath_secondSegment);
+			}
+		}
+		return null;
 	}
 
 	//di tutti i segmenti rilevanti, ora devo eliminare quelli che, per il dominio, esistono già
