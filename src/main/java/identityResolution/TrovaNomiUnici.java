@@ -15,16 +15,59 @@ import java.util.TreeSet;
 import database.MongoFacade;
 import model.Source;
 import model.WebPage;
+import scala.Tuple2;
 
 public class TrovaNomiUnici {
 
+	static List<Tuple2<String,Map<String,Integer>>> listaHost2Intervalli;
+	static MongoFacade facade;
+
 	public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException {
+		listaHost2Intervalli = new ArrayList<>();
 		System.out.println("********INIZIO");
 		String path = "testGenericXpath/persone/";
-		MongoFacade facade = new MongoFacade("web_search_pages");
+		facade = new MongoFacade("web_search_pages");
 		//prendo un dominio
-		//questo è il 4
-		Source currentSource = facade.getSourceWithId("5750678b3387e31f516fa1cd");
+		Source currentSource = facade.getSourceWithId("5750678b3387e31f516fa1c7");
+		calcolaIntervalli(currentSource);
+		facade.getSourceWithId("5750678b3387e31f516fa1d0");
+		calcolaIntervalli(currentSource);
+		facade.getSourceWithId("575067b33387e31f516face0");
+		calcolaIntervalli(currentSource);
+		facade.getSourceWithId("5750678b3387e31f516fa1cd");
+		calcolaIntervalli(currentSource);
+		facade.getSourceWithId("5750678a3387e31f516fa185");
+		calcolaIntervalli(currentSource);
+		System.out.println("stampo la mappa degli intervalli");
+		//stampo questa mappa
+		//prima la ordino
+		File dir = new File(path+"analisi_dataset_ancore");
+		dir.mkdir();
+		String currentPath = path+"analisi_dataset_ancore/";
+		PrintWriter testPrinterMap = new PrintWriter(currentPath+"distribuzione_ancore_"+
+				"5750678b3387e31f516fa1cd"+".txt", "UTF-8");
+
+		for (int i=0; i<listaHost2Intervalli.size(); i++) {
+			testPrinterMap.println(listaHost2Intervalli.get(i)._1());
+			Map<String,Integer> intervalli = listaHost2Intervalli.get(i)._2();
+			testPrinterMap.println();
+			SortedSet<String> keys = new TreeSet<String>(intervalli.keySet());
+			Iterator<String> intervalliIt = keys.iterator();
+			while (intervalliIt.hasNext()) {
+				String intervalloCorrente = intervalliIt.next();
+				testPrinterMap.println(intervalloCorrente+","+intervalli.get(intervalloCorrente));
+			}
+			testPrinterMap.println();
+		}
+		testPrinterMap.close();
+		//poi, di quelli con 1 solo nome, vado a vedere nelle altre sorgenti (tutte? volendo...)
+		//la sua frequenza
+		//seleziono solo quelle con 1 sola frequenza (per esempio)
+
+	}
+
+	public static void calcolaIntervalli(Source currentSource) {
+		
 		System.out.println("********PRESO LA SORGENTE");
 		//mappa: ancora - id delle pagine con quell'ancora
 		Map<String,List<String>> ancora2pagine = new HashMap<>();
@@ -33,16 +76,16 @@ public class TrovaNomiUnici {
 			if ((j+1)%100==0)
 				System.out.println("*****pagina numero: "+(j+1)+"/"+currentSource.getPages().size());
 			WebPage currentPage = currentSource.getPages().get(j);
-//			if (facade.isValidated(currentPage)) {
-				String ancora = currentPage.getQuery().getQuery();
-				List<String> pagineConAncora = ancora2pagine.get(ancora);
-				if (pagineConAncora == null) {
-					//non è presente l'ancora nella mappa. creo
-					pagineConAncora = new ArrayList<>();
-				}
-				pagineConAncora.add(currentPage.getId().toString());
-				ancora2pagine.put(ancora, pagineConAncora);
-//			}
+			//			if (facade.isValidated(currentPage)) {
+			String ancora = currentPage.getQuery().getQuery();
+			List<String> pagineConAncora = ancora2pagine.get(ancora);
+			if (pagineConAncora == null) {
+				//non è presente l'ancora nella mappa. creo
+				pagineConAncora = new ArrayList<>();
+			}
+			pagineConAncora.add(currentPage.getId().toString());
+			ancora2pagine.put(ancora, pagineConAncora);
+			//			}
 		}
 		//da qui possiamo fare diverse cose
 		//una distribuzione
@@ -52,34 +95,16 @@ public class TrovaNomiUnici {
 		riempiMappa(intervalli);
 		//scorro la vecchia mappa e aggiorno questa nuova
 		Iterator<String> ancoreIt = ancora2pagine.keySet().iterator();
-		List<String> pagineConAncoraUnica = new ArrayList<>();
+		//		List<String> pagineConAncoraUnica = new ArrayList<>();
 		while (ancoreIt.hasNext()) {
 			String ancoraCorrente = ancoreIt.next();
 			int numeroPagineConAncora = ancora2pagine.get(ancoraCorrente).size();
 			aggiornaMappa(intervalli,numeroPagineConAncora);
-			if (numeroPagineConAncora == 1) {
-				pagineConAncoraUnica.add(ancora2pagine.get(ancoraCorrente).get(0));
-			}
+			//			if (numeroPagineConAncora == 1) {
+			//				pagineConAncoraUnica.add(ancora2pagine.get(ancoraCorrente).get(0));
+			//			}
 		}
-		System.out.println("stampo la mappa degli intervalli");
-		//stampo questa mappa
-		//prima la ordino
-		File dir = new File(path+"analisi_dataset_ancore");
-		dir.mkdir();
-		String currentPath = path+"analisi_dataset_ancore/";
-		PrintWriter testPrinterMap = new PrintWriter(currentPath+"distribuzione_ancore_"+
-				"5750678b3387e31f516fa1cd"+".csv", "UTF-8");
-		SortedSet<String> keys = new TreeSet<String>(intervalli.keySet());
-		Iterator<String> intervalliIt = keys.iterator();
-		while (intervalliIt.hasNext()) {
-			String intervalloCorrente = intervalliIt.next();
-			testPrinterMap.println(intervalloCorrente+","+intervalli.get(intervalloCorrente));
-		}
-		testPrinterMap.close();
-		//poi, di quelli con 1 solo nome, vado a vedere nelle altre sorgenti (tutte? volendo...)
-		//la sua frequenza
-		//seleziono solo quelle con 1 sola frequenza (per esempio)
-
+		listaHost2Intervalli.add(new Tuple2<>(currentSource.getHost(),intervalli));
 	}
 
 	public static void riempiMappa(Map<String,Integer> mappa) {

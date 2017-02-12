@@ -9,6 +9,8 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
+import java.util.SortedSet;
+import java.util.TreeSet;
 
 import org.apache.commons.io.IOUtils;
 import org.apache.lucene.search.ScoreDoc;
@@ -318,12 +320,14 @@ public class Main {
 
 			//ora stampiamo le frequenze aggregate
 			System.out.println("Stampo frequenze di xpath numero "+c);
-			Iterator<String> freqIt = frequenza2valori.keySet().iterator();
+			SortedSet<String> keys = new TreeSet<String>(frequenza2valori.keySet());
+			Iterator<String> freqIt = keys.iterator();
+//			Iterator<String> freqIt = frequenza2valori.keySet().iterator();
 			while (freqIt.hasNext()) {
 				String freq = freqIt.next();
 				testPrinterAggr.println(c+","+freq+","+frequenza2valori.get(freq));
 			}
-
+			testPrinterAggr.println();
 			c++;
 		}
 		testPrinterAggr.close();
