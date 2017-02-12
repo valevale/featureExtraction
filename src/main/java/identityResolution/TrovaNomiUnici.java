@@ -30,13 +30,13 @@ public class TrovaNomiUnici {
 		//prendo un dominio
 		Source currentSource = facade.getSourceWithId("5750678b3387e31f516fa1c7");
 		calcolaIntervalli(currentSource);
-		facade.getSourceWithId("5750678b3387e31f516fa1d0");
+		currentSource = facade.getSourceWithId("5750678b3387e31f516fa1d0");
 		calcolaIntervalli(currentSource);
-		facade.getSourceWithId("575067b33387e31f516face0");
+		currentSource = facade.getSourceWithId("575067b33387e31f516face0");
 		calcolaIntervalli(currentSource);
-		facade.getSourceWithId("5750678b3387e31f516fa1cd");
+		currentSource = facade.getSourceWithId("5750678b3387e31f516fa1cd");
 		calcolaIntervalli(currentSource);
-		facade.getSourceWithId("5750678a3387e31f516fa185");
+		currentSource = facade.getSourceWithId("5750678a3387e31f516fa185");
 		calcolaIntervalli(currentSource);
 		System.out.println("stampo la mappa degli intervalli");
 		//stampo questa mappa
