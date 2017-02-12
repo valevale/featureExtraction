@@ -31,7 +31,7 @@ public class TrovaNomiUnici {
 			if ((j+1)%100==0)
 				System.out.println("*****pagina numero: "+(j+1)+"/"+currentSource.getPages().size());
 			WebPage currentPage = currentSource.getPages().get(j);
-			if (facade.isValidated(currentPage)) {
+//			if (facade.isValidated(currentPage)) {
 				String ancora = currentPage.getQuery().getQuery();
 				List<String> pagineConAncora = ancora2pagine.get(ancora);
 				if (pagineConAncora == null) {
@@ -40,7 +40,7 @@ public class TrovaNomiUnici {
 				}
 				pagineConAncora.add(currentPage.getId().toString());
 				ancora2pagine.put(ancora, pagineConAncora);
-			}
+//			}
 		}
 		//da qui possiamo fare diverse cose
 		//una distribuzione
