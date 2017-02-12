@@ -43,7 +43,10 @@ public class TrovaNomiUnici {
 		int c=1;
 		while (sourceIt.hasNext() && c<=50) {
 			currentSource = sourceIt.next();
-			calcolaIntervalli(currentSource);
+			if (currentSource.getPages().size() > 0) {
+				calcolaIntervalli(currentSource);
+				c++;
+			}
 		}
 		//stampo questa mappa
 		//prima la ordino
@@ -71,7 +74,7 @@ public class TrovaNomiUnici {
 	}
 
 	public static void calcolaIntervalli(Source currentSource) {
-		
+
 		System.out.println("********PRESO LA SORGENTE");
 		//mappa: ancora - id delle pagine con quell'ancora
 		Map<String,List<String>> ancora2pagine = new HashMap<>();
