@@ -27,6 +27,7 @@ public class TrovaNomiUnici {
 		System.out.println("********INIZIO");
 		String path = "testGenericXpath/persone/";
 		facade = new MongoFacade("web_search_pages");
+		//TODO forse potrei prendere i top 40 per dimensione di pagine
 		//prendo un dominio
 		Source currentSource = facade.getSourceWithId("5750678b3387e31f516fa1c7");
 		calcolaIntervalli(currentSource);
@@ -41,9 +42,10 @@ public class TrovaNomiUnici {
 		System.out.println("stampo la mappa degli intervalli");
 		Iterator<Source> sourceIt = facade.sourceIterator();
 		int c=1;
-		while (sourceIt.hasNext() && c<=50) {
+		while (sourceIt.hasNext() && c<=40) {
+			System.out.println("----------------------"+c+"-----------------------");
 			currentSource = sourceIt.next();
-			if (currentSource.getPages().size() > 0) {
+			if (currentSource.getPages().size() >= 1500) {
 				calcolaIntervalli(currentSource);
 				c++;
 			}
