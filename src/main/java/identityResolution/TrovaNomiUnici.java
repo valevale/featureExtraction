@@ -9,6 +9,8 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
+import java.util.SortedSet;
+import java.util.TreeSet;
 
 import database.MongoFacade;
 import model.Source;
@@ -61,12 +63,14 @@ public class TrovaNomiUnici {
 		}
 		System.out.println("stampo la mappa degli intervalli");
 		//stampo questa mappa
+		//prima la ordino
 		File dir = new File(path+"analisi_dataset_ancore");
 		dir.mkdir();
 		String currentPath = path+"analisi_dataset_ancore/";
 		PrintWriter testPrinterMap = new PrintWriter(currentPath+"distribuzione_ancore_"+
 				"5750678b3387e31f516fa1cd"+".csv", "UTF-8");
-		Iterator<String> intervalliIt = intervalli.keySet().iterator();
+		SortedSet<String> keys = new TreeSet<String>(intervalli.keySet());
+		Iterator<String> intervalliIt = keys.iterator();
 		while (intervalliIt.hasNext()) {
 			String intervalloCorrente = intervalliIt.next();
 			testPrinterMap.println(intervalloCorrente+","+intervalli.get(intervalloCorrente));
