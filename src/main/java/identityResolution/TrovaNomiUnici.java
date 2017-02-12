@@ -17,11 +17,13 @@ import model.WebPage;
 public class TrovaNomiUnici {
 
 	public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException {
+		System.out.println("********INIZIO");
 		String path = "testGenericXpath/persone/";
 		MongoFacade facade = new MongoFacade("web_search_pages");
 		//prendo un dominio
 		//questo è il 4
 		Source currentSource = facade.getSourceWithId("5750678b3387e31f516fa1cd");
+		System.out.println("********PRESO LA SORGENTE");
 		//mappa: ancora - id delle pagine con quell'ancora
 		Map<String,List<String>> ancora2pagine = new HashMap<>();
 		//scorro le sue pagine
