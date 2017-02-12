@@ -37,6 +37,11 @@ public class MongoFacade {
 		return getDatastore().createQuery(PageEntry.class).iterator();
 	}
 	
+	/* iteratore per la collezione sources */
+	public Iterator<Source> sourceIterator() {
+		return getDatastore().createQuery(Source.class).iterator();
+	}
+	
 	public Iterator<QueryEntry> queryEntryIterator() {
 		return getDatastore().createQuery(QueryEntry.class).iterator();
 	}

@@ -39,18 +39,22 @@ public class TrovaNomiUnici {
 		currentSource = facade.getSourceWithId("5750678a3387e31f516fa185");
 		calcolaIntervalli(currentSource);
 		System.out.println("stampo la mappa degli intervalli");
+		Iterator<Source> sourceIt = facade.sourceIterator();
+		int c=1;
+		while (sourceIt.hasNext() && c<=50) {
+			currentSource = sourceIt.next();
+			calcolaIntervalli(currentSource);
+		}
 		//stampo questa mappa
 		//prima la ordino
 		File dir = new File(path+"analisi_dataset_ancore");
 		dir.mkdir();
 		String currentPath = path+"analisi_dataset_ancore/";
-		PrintWriter testPrinterMap = new PrintWriter(currentPath+"distribuzione_ancore_"+
-				"5750678b3387e31f516fa1cd"+".txt", "UTF-8");
+		PrintWriter testPrinterMap = new PrintWriter(currentPath+"distribuzione_ancore_.txt", "UTF-8");
 
 		for (int i=0; i<listaHost2Intervalli.size(); i++) {
 			testPrinterMap.println(listaHost2Intervalli.get(i)._1());
 			Map<String,Integer> intervalli = listaHost2Intervalli.get(i)._2();
-			testPrinterMap.println();
 			SortedSet<String> keys = new TreeSet<String>(intervalli.keySet());
 			Iterator<String> intervalliIt = keys.iterator();
 			while (intervalliIt.hasNext()) {
