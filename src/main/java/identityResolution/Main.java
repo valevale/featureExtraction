@@ -96,7 +96,7 @@ public class Main {
 
 							if (wfirstPerson_firstDomain != null && wfirstPerson_secondDomain != null && wsecondPerson_firstDomain != null && wsecondPerson_secondDomain != null) {
 								System.out.println("Persona1: "+p1+", Persona2: "+p2+"\nDominio1: "+domain1+", Dominio2: "+domain2);
-								//TODO cambia i cammini!!
+								
 								String path_folder1 = path+"p"+p1+"/";
 								String path_folder2 = path+"p"+p2+"/";
 								//segmenti rilevanti
