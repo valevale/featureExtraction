@@ -79,11 +79,11 @@ public class Main {
 				int domain2 = k2;
 				//TODO rimetti 5!!
 				if (
-//						domain1==4 
-//												|| 
+						domain1==4 
+						|| 
 						domain1==5 
-//						|| domain2==4 
-												|| domain2==5
+						|| domain2==4 
+						|| domain2==5
 						) {
 					for (int p1=1;p1<=7;p1++) {
 						for (int p2=(p1+1);p2<=7;p2++) {
@@ -100,7 +100,7 @@ public class Main {
 
 							if (wfirstPerson_firstDomain != null && wfirstPerson_secondDomain != null && wsecondPerson_firstDomain != null && wsecondPerson_secondDomain != null) {
 								System.out.println("Persona1: "+p1+", Persona2: "+p2+"\nDominio1: "+domain1+", Dominio2: "+domain2);
-								
+
 								String path_folder1 = path+"p"+p1+"/";
 								String path_folder2 = path+"p"+p2+"/";
 								//segmenti rilevanti
@@ -238,7 +238,9 @@ public class Main {
 		MongoFacade facade = new MongoFacade("web_search_pages");
 		XpathApplier xapplier = XpathApplier.getInstance();
 		//TODO qui si cambia il dominio
-		Source currentSource = facade.getSourceWithId("5750678a3387e31f516fa185");
+		//misterimprese -> 4_5750678b3387e31f516fa1cd
+		//paginebianche -> 5_5750678a3387e31f516fa185
+		Source currentSource = facade.getSourceWithId("5750678b3387e31f516fa1cd");
 		Map<Xpath,Map<String,Integer>> xpath2value2frequency = new HashMap<>();
 		for (int j=0;j<currentSource.getPages().size();j++) {
 			if ((j+1)%100==0)
@@ -287,9 +289,9 @@ public class Main {
 		//TODO per un altro dominio fanne un altro
 		String currentPath = path+"distribuzione_valori_dei_segmenti/";
 
-		dir = new File(currentPath+"dominio5");
+		dir = new File(currentPath+"dominio4");
 		dir.mkdir();
-		currentPath = path+"distribuzione_valori_dei_segmenti/dominio5/";
+		currentPath = path+"distribuzione_valori_dei_segmenti/dominio4/";
 		Iterator<Xpath> it = xpath2value2frequency.keySet().iterator();
 		int c=1;
 		//questo documento tiene traccia della corrispondenza xpath_numero identificativo degli altri file csv
@@ -329,7 +331,7 @@ public class Main {
 			System.out.println("Stampo frequenze di xpath numero "+c);
 			SortedSet<String> keys = new TreeSet<String>(frequenza2valori.keySet());
 			Iterator<String> freqIt = keys.iterator();
-//			Iterator<String> freqIt = frequenza2valori.keySet().iterator();
+			//			Iterator<String> freqIt = frequenza2valori.keySet().iterator();
 			while (freqIt.hasNext()) {
 				String freq = freqIt.next();
 				testPrinterAggr.println(c+","+freq+","+frequenza2valori.get(freq));
