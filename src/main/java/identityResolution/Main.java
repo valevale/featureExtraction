@@ -78,10 +78,12 @@ public class Main {
 				int domain1 = k;
 				int domain2 = k2;
 				//TODO rimetti 5!!
-				if (domain1==4 
-						//						|| domain1==5 
-						|| domain2==4 
-						//						|| domain2==5
+				if (
+//						domain1==4 
+//												|| 
+						domain1==5 
+//						|| domain2==4 
+												|| domain2==5
 						) {
 					for (int p1=1;p1<=7;p1++) {
 						for (int p2=(p1+1);p2<=7;p2++) {
@@ -281,8 +283,13 @@ public class Main {
 		//prima una cartella
 		File dir = new File(path+"distribuzione_valori_dei_segmenti");
 		dir.mkdir();
+
 		//TODO per un altro dominio fanne un altro
 		String currentPath = path+"distribuzione_valori_dei_segmenti/";
+
+		dir = new File(currentPath+"dominio4");
+		dir.mkdir();
+		currentPath = path+"distribuzione_valori_dei_segmenti/dominio4/";
 		Iterator<Xpath> it = xpath2value2frequency.keySet().iterator();
 		int c=1;
 		//questo documento tiene traccia della corrispondenza xpath_numero identificativo degli altri file csv
