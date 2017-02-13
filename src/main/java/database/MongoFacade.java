@@ -67,6 +67,12 @@ public class MongoFacade {
 		return getDatastore().createQuery(PageEntry.class).field("page.url").equal(url).get();
 	}
 	
+	/*dato un certo id, restituisce la pagina con quell'id */
+	public WebPage getWebPageWithId(String id) {
+		ObjectId i = new ObjectId(id);
+		return getDatastore().get(WebPage.class, i);
+	}
+	
 	/*dato un certo id, restituisce il dominio con quell'id */
 	public Source getSourceWithId(String id) {
 		ObjectId i = new ObjectId(id);

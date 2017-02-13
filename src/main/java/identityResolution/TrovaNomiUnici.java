@@ -13,6 +13,7 @@ import java.util.SortedSet;
 import java.util.TreeSet;
 
 import database.MongoFacade;
+import lib.utils.MapUtils;
 import model.Source;
 import model.WebPage;
 import scala.Tuple2;
@@ -21,13 +22,16 @@ public class TrovaNomiUnici {
 
 	static List<Tuple2<String,Map<String,Integer>>> listaHost2Intervalli;
 	static MongoFacade facade;
+	//	static Set<Tuple2<String,String>> ancora2paginaConAncoraUnicaNellaSorgente;
+	static Map<String,List<String>> sorgente2listaAncoreUniche;
 
 	public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException {
 		listaHost2Intervalli = new ArrayList<>();
+		//		ancora2paginaConAncoraUnicaNellaSorgente = new HashSet<>();
+		sorgente2listaAncoreUniche = new HashMap<>();
 		System.out.println("********INIZIO");
 		String path = "testGenericXpath/persone/";
 		facade = new MongoFacade("web_search_pages");
-		//TODO forse potrei prendere i top 40 per dimensione di pagine
 		//prendo un dominio
 		Source currentSource = facade.getSourceWithId("5750678b3387e31f516fa1c7");
 		calcolaIntervalli(currentSource);
@@ -72,11 +76,89 @@ public class TrovaNomiUnici {
 		//poi, di quelli con 1 solo nome, vado a vedere nelle altre sorgenti (tutte? volendo...)
 		//la sua frequenza
 		//seleziono solo quelle con 1 sola frequenza (per esempio)
+		//		Iterator<Tuple2<String,String>> paginaConUnicaAncoraIt = ancora2paginaConAncoraUnicaNellaSorgente.iterator();
+		//		//scorro queste pagine.
+		//		while (paginaConUnicaAncoraIt.hasNext()) {
+		//			Tuple2<String,String> tuplaCorrente = paginaConUnicaAncoraIt.next();
+		//			String ancora = tuplaCorrente._1();
+		//			String idPagina = tuplaCorrente._2();
+		//			//per ogni ancora unica noi vogliamo 
+		//		}
+		//ALLORA, PER OGNI SORGENTE SAI QUALI SONO QUELLE ANCORE UNICHE, HAI UNA LISTAPER SORGENTE
+		//PER OGNI LISTA, VEDI OGNI ANCORA IN QUANTE ALTRE LISTE SI TROVA
+		//devi scorrere i domini
+		//per ogni pagina di dominio, vedi la sua ancora.
+		//se è l'unica pagina con quell'ancora
+		//insomma per ogni soorgente hai la lista delle pag
+		//se si trova nelle mappe dei nomi unici,
+		//aggiungi lì un +1
+		Map<String,Integer> ancoraUnica2numeroDominiInCuiEUnica = new HashMap<>();
+		//per riempire questa mappa scorro tutte le liste (una lista per dominio visitato)
+		//di ancora unica
+		//per ogni ancora vedo nelle altre liste se esiste quell'ancora
+		//per ogni altra lista in cui la trovo, aggiungo +1 per il conteggio dei domini
+		//in cui l'ancora è unica
+		//notare che questo conteggio parte sempre da 1, perché l'ancora è unica almeno
+		//nella lista di partenza
+		//continuando a scorrere le liste, se trovo un'ancora già presente nella mappa, la ignoro
+		//l'ho già analizzata
 
+		//scorro le liste
+		Iterator<String> sorgentiConAncoraUnicaIt = sorgente2listaAncoreUniche.keySet().iterator();
+		while(sorgentiConAncoraUnicaIt.hasNext()) {
+			String idSorgenteConAncoraUnica = sorgentiConAncoraUnicaIt.next();
+			List<String> ancoreUnicheDellaSorgenteCorrente = sorgente2listaAncoreUniche.get(idSorgenteConAncoraUnica);
+			//scorro la lista corrente
+			for (int i=0; i<ancoreUnicheDellaSorgenteCorrente.size(); i++) {
+				String ancoraUnicaCorrente = ancoreUnicheDellaSorgenteCorrente.get(i);
+				//controllo che l'ancora non sia stata già analizzata
+				if (!ancoraUnica2numeroDominiInCuiEUnica.containsKey(ancoraUnicaCorrente)) {
+					//per ogni ancora vado a cercare nelle altre sorgente (gli altri elementi della lista)
+					//se è presente
+					//quindi, scorro le altre sorgenti
+					int domini = calcolaNumeroDiDominiInCuiEPresenteAncora(ancoraUnicaCorrente,
+							sorgente2listaAncoreUniche);
+					ancoraUnica2numeroDominiInCuiEUnica.put(ancoraUnicaCorrente, domini);
+				}
+			}
+		}
+
+		PrintWriter statPrinter = new PrintWriter(
+				currentPath+"statistiche_ancore_uniche.txt", "UTF-8");
+
+		statPrinter.println("NUMERO DI ANCORE UNICHE: "+ancoraUnica2numeroDominiInCuiEUnica.size());
+		statPrinter.println();
+
+		//ordina la mappa per valore
+		Map<String,Integer> ancora2domini_sorted = 
+				MapUtils.sortByValue(ancoraUnica2numeroDominiInCuiEUnica);
+
+		Iterator<String> ancoreIt = ancora2domini_sorted.keySet().iterator();
+		while(ancoreIt.hasNext()) {
+			String ancoraCorrente = ancoreIt.next();
+			statPrinter.println("\""+ancoraCorrente+"\" è un nome unico in "+
+					ancora2domini_sorted.get(ancoraCorrente)+" domini.");
+		}
+		statPrinter.close();
+	}
+
+	//dovrebbe restituire un numero almeno pari a 1
+	public static int calcolaNumeroDiDominiInCuiEPresenteAncora(String ancora, 
+			Map<String,List<String>> sorgente2listaAncoreUniche) {
+		int domini = 0;
+		Iterator<String> sorgentiConAncoraUnicaIt = sorgente2listaAncoreUniche.keySet().iterator();
+		while(sorgentiConAncoraUnicaIt.hasNext()) {
+			String idSorgenteConAncoraUnica = sorgentiConAncoraUnicaIt.next();
+			List<String> ancoreUnicheDellaSorgenteCorrente = sorgente2listaAncoreUniche.get(idSorgenteConAncoraUnica);
+			//per ogni lista cerco l'ancora
+			if (ancoreUnicheDellaSorgenteCorrente.contains(ancora)) {
+				domini++;
+			}
+		}
+		return domini;
 	}
 
 	public static void calcolaIntervalli(Source currentSource) {
-
 		System.out.println("********PRESO LA SORGENTE");
 		//mappa: ancora - id delle pagine con quell'ancora
 		Map<String,List<String>> ancora2pagine = new HashMap<>();
@@ -104,16 +186,19 @@ public class TrovaNomiUnici {
 		riempiMappa(intervalli);
 		//scorro la vecchia mappa e aggiorno questa nuova
 		Iterator<String> ancoreIt = ancora2pagine.keySet().iterator();
-		//		List<String> pagineConAncoraUnica = new ArrayList<>();
+		List<String> ancoreUnicheDellaSorgente = new ArrayList<>();
 		while (ancoreIt.hasNext()) {
 			String ancoraCorrente = ancoreIt.next();
 			int numeroPagineConAncora = ancora2pagine.get(ancoraCorrente).size();
 			aggiornaMappa(intervalli,numeroPagineConAncora);
-			//			if (numeroPagineConAncora == 1) {
-			//				pagineConAncoraUnica.add(ancora2pagine.get(ancoraCorrente).get(0));
-			//			}
+			if (numeroPagineConAncora == 1) {
+				//				ancora2paginaConAncoraUnicaNellaSorgente.add(
+				//						new Tuple2<>(ancoraCorrente,ancora2pagine.get(ancoraCorrente).get(0)));
+				ancoreUnicheDellaSorgente.add(ancoraCorrente);
+			}
 		}
 		listaHost2Intervalli.add(new Tuple2<>(currentSource.getHost(),intervalli));
+		sorgente2listaAncoreUniche.put(currentSource.getId().toString(), ancoreUnicheDellaSorgente);
 	}
 
 	public static void riempiMappa(Map<String,Integer> mappa) {
