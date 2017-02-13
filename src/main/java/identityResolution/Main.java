@@ -237,8 +237,8 @@ public class Main {
 		Set<Xpath> genXpaths = domain.getGenericXpaths();
 		MongoFacade facade = new MongoFacade("web_search_pages");
 		XpathApplier xapplier = XpathApplier.getInstance();
-		//TODO fare anche col dominio 5
-		Source currentSource = facade.getSourceWithId("5750678b3387e31f516fa1cd");
+		//TODO qui si cambia il dominio
+		Source currentSource = facade.getSourceWithId("5750678a3387e31f516fa185");
 		Map<Xpath,Map<String,Integer>> xpath2value2frequency = new HashMap<>();
 		for (int j=0;j<currentSource.getPages().size();j++) {
 			if ((j+1)%100==0)
@@ -287,9 +287,9 @@ public class Main {
 		//TODO per un altro dominio fanne un altro
 		String currentPath = path+"distribuzione_valori_dei_segmenti/";
 
-		dir = new File(currentPath+"dominio4");
+		dir = new File(currentPath+"dominio5");
 		dir.mkdir();
-		currentPath = path+"distribuzione_valori_dei_segmenti/dominio4/";
+		currentPath = path+"distribuzione_valori_dei_segmenti/dominio5/";
 		Iterator<Xpath> it = xpath2value2frequency.keySet().iterator();
 		int c=1;
 		//questo documento tiene traccia della corrispondenza xpath_numero identificativo degli altri file csv
