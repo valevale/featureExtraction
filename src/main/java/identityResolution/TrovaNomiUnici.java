@@ -23,12 +23,12 @@ public class TrovaNomiUnici {
 	static List<Tuple2<String,Map<String,Integer>>> listaHost2Intervalli;
 	static MongoFacade facade;
 	//	static Set<Tuple2<String,String>> ancora2paginaConAncoraUnicaNellaSorgente;
-	static Map<String,List<String>> sorgente2listaAncoreUniche;
+	static Map<Tuple2<String,String>,List<String>> sorgente_id_url2listaAncoreUniche;
 
 	public static void main(String[] args) throws FileNotFoundException, UnsupportedEncodingException {
 		listaHost2Intervalli = new ArrayList<>();
 		//		ancora2paginaConAncoraUnicaNellaSorgente = new HashSet<>();
-		sorgente2listaAncoreUniche = new HashMap<>();
+		sorgente_id_url2listaAncoreUniche = new HashMap<>();
 		System.out.println("********INIZIO");
 		String path = "testGenericXpath/persone/";
 		facade = new MongoFacade("web_search_pages");
@@ -93,6 +93,7 @@ public class TrovaNomiUnici {
 		//se si trova nelle mappe dei nomi unici,
 		//aggiungi lì un +1
 		Map<String,Integer> ancoraUnica2numeroDominiInCuiEUnica = new HashMap<>();
+		Map<String,List<String>> ancoraUnica2urlDominiInCuiEUnica = new HashMap<>();
 		//per riempire questa mappa scorro tutte le liste (una lista per dominio visitato)
 		//di ancora unica
 		//per ogni ancora vedo nelle altre liste se esiste quell'ancora
@@ -104,10 +105,12 @@ public class TrovaNomiUnici {
 		//l'ho già analizzata
 
 		//scorro le liste
-		Iterator<String> sorgentiConAncoraUnicaIt = sorgente2listaAncoreUniche.keySet().iterator();
+		Iterator<Tuple2<String,String>> sorgentiConAncoraUnicaIt = sorgente_id_url2listaAncoreUniche
+				.keySet().iterator();
 		while(sorgentiConAncoraUnicaIt.hasNext()) {
-			String idSorgenteConAncoraUnica = sorgentiConAncoraUnicaIt.next();
-			List<String> ancoreUnicheDellaSorgenteCorrente = sorgente2listaAncoreUniche.get(idSorgenteConAncoraUnica);
+			Tuple2<String,String> sorgenteConAncoraUnica = sorgentiConAncoraUnicaIt.next();
+			List<String> ancoreUnicheDellaSorgenteCorrente = sorgente_id_url2listaAncoreUniche.get(
+					sorgenteConAncoraUnica);
 			//scorro la lista corrente
 			for (int i=0; i<ancoreUnicheDellaSorgenteCorrente.size(); i++) {
 				String ancoraUnicaCorrente = ancoreUnicheDellaSorgenteCorrente.get(i);
@@ -116,18 +119,26 @@ public class TrovaNomiUnici {
 					//per ogni ancora vado a cercare nelle altre sorgente (gli altri elementi della lista)
 					//se è presente
 					//quindi, scorro le altre sorgenti
-					int domini = calcolaNumeroDiDominiInCuiEPresenteAncora(ancoraUnicaCorrente,
-							sorgente2listaAncoreUniche);
-					ancoraUnica2numeroDominiInCuiEUnica.put(ancoraUnicaCorrente, domini);
+					//					int domini = calcolaNumeroDiDominiInCuiEPresenteAncora(ancoraUnicaCorrente,
+					//							sorgente2listaAncoreUniche);
+					List<String> listaDomini = calcolaDominiInCuiEPresenteAncora(ancoraUnicaCorrente,
+							sorgente_id_url2listaAncoreUniche);
+					ancoraUnica2numeroDominiInCuiEUnica.put(ancoraUnicaCorrente, listaDomini.size());
+					ancoraUnica2urlDominiInCuiEUnica.put(ancoraUnicaCorrente, listaDomini);
 				}
 			}
 		}
 
 		PrintWriter statPrinter = new PrintWriter(
 				currentPath+"statistiche_ancore_uniche.txt", "UTF-8");
+		PrintWriter statPrinterDet = new PrintWriter(
+				currentPath+"statistiche_ancore_uniche_DETTAGLI.txt", "UTF-8");
 
 		statPrinter.println("NUMERO DI ANCORE UNICHE: "+ancoraUnica2numeroDominiInCuiEUnica.size());
 		statPrinter.println();
+
+		statPrinterDet.println("NUMERO DI ANCORE UNICHE: "+ancoraUnica2numeroDominiInCuiEUnica.size());
+		statPrinterDet.println();
 
 		//ordina la mappa per valore
 		Map<String,Integer> ancora2domini_sorted = 
@@ -138,21 +149,35 @@ public class TrovaNomiUnici {
 			String ancoraCorrente = ancoreIt.next();
 			statPrinter.println("\""+ancoraCorrente+"\" è un nome unico in "+
 					ancora2domini_sorted.get(ancoraCorrente)+" domini.");
+
+			statPrinterDet.println("\""+ancoraCorrente+"\" è un nome unico in "+
+					ancora2domini_sorted.get(ancoraCorrente)+" domini.");
+			//fai un altro file di analisi in cui mostri anche gli url dei domini
+			//è uguale, solo con questo dettaglio in più
+			//dettagli
+			List<String> listaDomini = ancoraUnica2urlDominiInCuiEUnica.get(ancoraCorrente);
+			for (int i=0;i<listaDomini.size();i++) {
+				statPrinterDet.println(listaDomini.get(i));
+			}
+			statPrinterDet.println();
 		}
+		statPrinterDet.close();
 		statPrinter.close();
 	}
 
-	//dovrebbe restituire un numero almeno pari a 1
-	public static int calcolaNumeroDiDominiInCuiEPresenteAncora(String ancora, 
-			Map<String,List<String>> sorgente2listaAncoreUniche) {
-		int domini = 0;
-		Iterator<String> sorgentiConAncoraUnicaIt = sorgente2listaAncoreUniche.keySet().iterator();
+	//dovrebbe restituire una lista di dimensione almeno pari a 1
+	public static List<String> calcolaDominiInCuiEPresenteAncora(String ancora, 
+			Map<Tuple2<String,String>,List<String>> sorgente2listaAncoreUniche) {
+		List<String> domini = new ArrayList<>();
+		Iterator<Tuple2<String,String>> sorgentiConAncoraUnicaIt = sorgente2listaAncoreUniche
+				.keySet().iterator();
 		while(sorgentiConAncoraUnicaIt.hasNext()) {
-			String idSorgenteConAncoraUnica = sorgentiConAncoraUnicaIt.next();
-			List<String> ancoreUnicheDellaSorgenteCorrente = sorgente2listaAncoreUniche.get(idSorgenteConAncoraUnica);
+			Tuple2<String,String> sorgenteConAncoraUnica = sorgentiConAncoraUnicaIt.next();
+			List<String> ancoreUnicheDellaSorgenteCorrente = sorgente2listaAncoreUniche.get(
+					sorgenteConAncoraUnica);
 			//per ogni lista cerco l'ancora
 			if (ancoreUnicheDellaSorgenteCorrente.contains(ancora)) {
-				domini++;
+				domini.add(sorgenteConAncoraUnica._2());
 			}
 		}
 		return domini;
@@ -198,7 +223,9 @@ public class TrovaNomiUnici {
 			}
 		}
 		listaHost2Intervalli.add(new Tuple2<>(currentSource.getHost(),intervalli));
-		sorgente2listaAncoreUniche.put(currentSource.getId().toString(), ancoreUnicheDellaSorgente);
+		sorgente_id_url2listaAncoreUniche.put(
+				new Tuple2<>(currentSource.getId().toString(),currentSource.getHost()),
+				ancoreUnicheDellaSorgente);
 	}
 
 	public static void riempiMappa(Map<String,Integer> mappa) {
