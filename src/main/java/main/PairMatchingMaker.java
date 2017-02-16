@@ -13,9 +13,13 @@ import java.util.Set;
 
 import org.w3c.dom.NodeList;
 
+import database.MongoFacade;
+import database.WebPageSelector;
 import model.PairMatching;
 import model.PairMatchingRepository;
 import model.PairMatchingRepositoryRepository;
+import model.Source;
+import model.WebPage;
 import model.WebPageDocument;
 import model.Xpath;
 import scala.Tuple2;
@@ -56,6 +60,40 @@ public class PairMatchingMaker {
 				}
 			}
 		}
+		
+		//al posto di questo, devi recuperare un insieme di pagine web dal dataset
+		//-scegli un insieme di domini (per ora i soliti 5)
+		//-trovi le persone con un'ancora unica e che sono presenti in almeno 2 domini
+		//-usi questo insieme di pagine, crei un repository di pagine web
+		
+		
+		MongoFacade facade = new MongoFacade("web_search_pages");
+		Map<String,List<WebPage>> domain2pages = new HashMap<>();
+		//seleziona i domini
+		//primo modulo: raccolta di pagine con ancore uniche dai domini scelti
+		//TODO prima togli l'id della source sfigata e mettici una sorgente decente
+		//magari poi puoi vedere se anche con la source sfigata ci sono abbastanza pagine
+		Source currentSource = facade.getSourceWithId("5750678b3387e31f516fa1c7");
+		List<WebPage> pagesOfCurrentSource = WebPageSelector.getPageWithUniqueName(currentSource);
+		domain2pages.put("5750678b3387e31f516fa1c7", pagesOfCurrentSource);
+		currentSource = facade.getSourceWithId("5750678b3387e31f516fa1d0");
+		pagesOfCurrentSource = WebPageSelector.getPageWithUniqueName(currentSource);
+		domain2pages.put("5750678b3387e31f516fa1d0", pagesOfCurrentSource);
+		currentSource = facade.getSourceWithId("575067b33387e31f516face0");
+		pagesOfCurrentSource = WebPageSelector.getPageWithUniqueName(currentSource);
+		domain2pages.put("575067b33387e31f516face0", pagesOfCurrentSource);
+		currentSource = facade.getSourceWithId("5750678b3387e31f516fa1cd");
+		pagesOfCurrentSource = WebPageSelector.getPageWithUniqueName(currentSource);
+		domain2pages.put("5750678b3387e31f516fa1cd", pagesOfCurrentSource);
+		currentSource = facade.getSourceWithId("5750678a3387e31f516fa185");
+		pagesOfCurrentSource = WebPageSelector.getPageWithUniqueName(currentSource);
+		domain2pages.put("5750678a3387e31f516fa185", pagesOfCurrentSource);
+		//secondo modulo: filtri e selezioni le pagine di persone che compaiono in almeno 2 domini
+		//WUNIMTOS = WithUniqueNamesInMoreThanOneSource
+		Map<String,Set<WebPage>> domains2pagesWUNIMTOS = WebPageSelector.getPagesWUNIMTOS(domain2pages);
+		//terzo modulo: crei le webpagedocument
+		//TODO prima testa la raccolta di queste pagine
+		
 
 
 		//più efficienza con la creazione delle webpage
