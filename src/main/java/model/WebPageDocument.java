@@ -44,11 +44,11 @@ public class WebPageDocument {
 	public WebPageDocument(WebPage webpage, Source source) throws Exception {
 		this.document_jsoup = prepareDocument_server(webpage.getHtml(), source);
 		this.document_w3c = new W3CDom().fromJsoup(this.document_jsoup);
-		SegmentExtractor xpextractor = SegmentExtractor.getInstance();
-		this.segments = xpextractor.extractSegments(this, Configurator.getSegmentationParameter());
 		DomainsRepository domRep = DomainsRepository.getInstance();
 		this.dSource = domRep.createDomain(source.getId().toString());
 		this.idWebPage = webpage.getId().toString();
+		SegmentExtractor xpextractor = SegmentExtractor.getInstance();
+		this.segments = xpextractor.extractSegments(this, Configurator.getSegmentationParameter());
 	}
 	
 	//solo per prove
