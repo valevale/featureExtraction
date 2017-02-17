@@ -76,7 +76,7 @@ public class PairMatchingMaker {
 
 		//secondo modulo: filtri e selezioni le pagine di persone che compaiono in almeno 2 domini
 		//WUNIMTOS = WithUniqueNamesInMoreThanOneSource
-		Map<String,Set<WebPageDocument>> ancore2pagesWUNIMTOS = WebPageSelector.getPagesWUNIMTOS(domain2pages);
+//		Map<String,Set<WebPageDocument>> ancore2pagesWUNIMTOS = WebPageSelector.getPagesWUNIMTOS(domain2pages);
 		//TODO prima testa la raccolta di queste pagine
 
 		//TODO il prossimo passo funziona solo se ci sono almeno 2 persone per dominio.
@@ -84,33 +84,33 @@ public class PairMatchingMaker {
 
 		//devo iterare in qualche modo...
 		//candidati: due persone con gli stessi domini
-		for (int i=0;i<idSorgenti.size();i++) {
-			for (int j=i+1;j<idSorgenti.size();j++) {
-				String domain1 = idSorgenti.get(i);
-				String domain2 = idSorgenti.get(j);
-				//scorro le ancore
-				List<String> setAncore = new ArrayList<>(ancore2pagesWUNIMTOS.keySet());
-				for (int p1=0;p1<setAncore.size();p1++) {
-					for(int p2=p1+1;p2<setAncore.size();p2++) {
-						String first_person = setAncore.get(p1);
-						String second_person = setAncore.get(p2);
-						Set<WebPageDocument> documentsP1 = ancore2pagesWUNIMTOS.get(first_person);
-						Set<WebPageDocument> documentsP2 = ancore2pagesWUNIMTOS.get(second_person);
-						//voglio i documenti con le sorgenti domain1 e domain2
-						WebPageDocument wpd_p1_d1 = getWPD(documentsP1, domain1);
-						WebPageDocument wpd_p1_d2 = getWPD(documentsP1, domain2);
-						WebPageDocument wpd_p2_d1 = getWPD(documentsP2, domain1);
-						WebPageDocument wpd_p2_d2 = getWPD(documentsP2, domain2);
-						if (wpd_p1_d1!=null && wpd_p1_d2!=null
-								&& wpd_p2_d1!=null && wpd_p2_d2!=null) {
-							DomainsWrapper_pairMatching.getSegmentsFrom_server(
-									wpd_p1_d1, wpd_p1_d2, first_person,
-									wpd_p2_d1, wpd_p2_d2, second_person);
-						}
-					}
-				}
-			}
-		}
+//		for (int i=0;i<idSorgenti.size();i++) {
+//			for (int j=i+1;j<idSorgenti.size();j++) {
+//				String domain1 = idSorgenti.get(i);
+//				String domain2 = idSorgenti.get(j);
+//				//scorro le ancore
+//				List<String> setAncore = new ArrayList<>(ancore2pagesWUNIMTOS.keySet());
+//				for (int p1=0;p1<setAncore.size();p1++) {
+//					for(int p2=p1+1;p2<setAncore.size();p2++) {
+//						String first_person = setAncore.get(p1);
+//						String second_person = setAncore.get(p2);
+//						Set<WebPageDocument> documentsP1 = ancore2pagesWUNIMTOS.get(first_person);
+//						Set<WebPageDocument> documentsP2 = ancore2pagesWUNIMTOS.get(second_person);
+//						//voglio i documenti con le sorgenti domain1 e domain2
+//						WebPageDocument wpd_p1_d1 = getWPD(documentsP1, domain1);
+//						WebPageDocument wpd_p1_d2 = getWPD(documentsP1, domain2);
+//						WebPageDocument wpd_p2_d1 = getWPD(documentsP2, domain1);
+//						WebPageDocument wpd_p2_d2 = getWPD(documentsP2, domain2);
+//						if (wpd_p1_d1!=null && wpd_p1_d2!=null
+//								&& wpd_p2_d1!=null && wpd_p2_d2!=null) {
+//							DomainsWrapper_pairMatching.getSegmentsFrom_server(
+//									wpd_p1_d1, wpd_p1_d2, first_person,
+//									wpd_p2_d1, wpd_p2_d2, second_person);
+//						}
+//					}
+//				}
+//			}
+//		}
 
 		//più efficienza con la creazione delle webpage
 //		for(int k=1;k<=4;k++) {

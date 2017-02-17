@@ -10,6 +10,7 @@ import java.util.Set;
 
 import database.MongoFacade;
 import database.WebPageSelector;
+import model.DomRepToClean;
 import model.Source;
 import model.WebPage;
 import model.WebPageDocument;
@@ -20,21 +21,27 @@ public class TestPagineUniche {
 		List<String> idSorgenti = new ArrayList<>();
 		idSorgenti.add("5750678b3387e31f516fa1c7");
 		idSorgenti.add("5750678b3387e31f516fa1d0");
-		idSorgenti.add("5750678b3387e31f516fa1ca");
-		idSorgenti.add("5750678b3387e31f516fa1cd");
-		idSorgenti.add("5750678a3387e31f516fa185");
+//		idSorgenti.add("5750678b3387e31f516fa1ca");
+//		idSorgenti.add("5750678b3387e31f516fa1cd");
+//		idSorgenti.add("5750678a3387e31f516fa185");
 		MongoFacade facade = new MongoFacade("web_search_pages");
-		Map<Source,List<WebPage>> domain2pages = new HashMap<>();
+		//repository che, per ogni dominio, mette da parte delle pagine che servono per la pulizia
+		DomRepToClean drtc = DomRepToClean.getInstance();
+		//qui non ci piace che sia la sorgente, occupa troppo
+		//TODO se continua a essere lento, prova anche a non usare le webpage ma solo l'id
+		//e poi le prenderai facendo query al db, pazienza
+		Map<String,List<WebPage>> idDomain2pages = new HashMap<>();
 		for (int i=0;i<idSorgenti.size();i++) {
 			Source currentSource = facade.getSourceWithId(idSorgenti.get(i));
+			drtc.addDomain(currentSource);
 			List<WebPage> pagesOfCurrentSource = WebPageSelector.getPageWithUniqueName(currentSource);
-			domain2pages.put(currentSource, pagesOfCurrentSource);
+			idDomain2pages.put(currentSource.getId().toString(), pagesOfCurrentSource);
 		}
 
 		System.out.println("FINE PRIMO MODULO");
 		
 		//secondo modulo: filtri e selezioni le pagine di persone che compaiono in almeno 2 domini
-		Map<String,Set<WebPageDocument>> ancore2pagesWUNIMTOS = WebPageSelector.getPagesWUNIMTOS(domain2pages);
+		Map<String,Set<WebPageDocument>> ancore2pagesWUNIMTOS = WebPageSelector.getPagesWUNIMTOS(idDomain2pages);
 		
 		PrintWriter testPrinterMap = new PrintWriter("testPagineUniche.txt", "UTF-8");
 		Iterator<String> it = ancore2pagesWUNIMTOS.keySet().iterator();
