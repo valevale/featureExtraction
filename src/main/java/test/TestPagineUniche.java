@@ -21,9 +21,9 @@ public class TestPagineUniche {
 		List<String> idSorgenti = new ArrayList<>();
 		idSorgenti.add("5750678b3387e31f516fa1c7");
 		idSorgenti.add("5750678b3387e31f516fa1d0");
-//		idSorgenti.add("5750678b3387e31f516fa1ca");
-//		idSorgenti.add("5750678b3387e31f516fa1cd");
-//		idSorgenti.add("5750678a3387e31f516fa185");
+		idSorgenti.add("5750678b3387e31f516fa1ca");
+		idSorgenti.add("5750678b3387e31f516fa1cd");
+		idSorgenti.add("5750678a3387e31f516fa185");
 		MongoFacade facade = new MongoFacade("web_search_pages");
 		//repository che, per ogni dominio, mette da parte delle pagine che servono per la pulizia
 		DomRepToClean drtc = DomRepToClean.getInstance();
@@ -53,7 +53,7 @@ public class TestPagineUniche {
 			Iterator<WebPage> wpit = set.iterator();
 			while (wpit.hasNext()) {
 				WebPage w = wpit.next();
-				System.out.println(w.getId().toString()+"||||");
+				testPrinterMap.println(w.getId().toString()+"||||");
 			}
 			testPrinterMap.println(");");
 			testPrinterMap.println();
