@@ -85,16 +85,23 @@ public class WebPageSelector {
 							//cerco l'ancora
 							Set<WebPageDocument> setOfCurrentAncora = 
 									ancora2pagesWUNIMTOS.get(currentAncora);
+							System.out.println("ho preso il set con l'ancora corrente");
 							if (setOfCurrentAncora == null) {
 								setOfCurrentAncora = new HashSet<>();
 							}
+							System.out.println("creo le pagine web");
 							WebPageDocument wpdOfCurrentPage = new WebPageDocument(currentPage,currentSource);
+							System.out.println("creata la prima");
 							WebPageDocument wpdOfOtherPage = new WebPageDocument(otherPageWithSameAncora,
 									currentOtherSource);
+							System.out.println("creata la seconda");
 
 							setOfCurrentAncora.add(wpdOfCurrentPage);
 							setOfCurrentAncora.add(wpdOfOtherPage);
+
+							System.out.println("aggiunte alla lista");
 							ancora2pagesWUNIMTOS.put(currentAncora, setOfCurrentAncora);
+							System.out.println("aggiunto alla mappa");
 						}
 					}
 				}
@@ -161,10 +168,10 @@ public class WebPageSelector {
 	public static WebPage searchPageWith(String ancora, List<WebPage> otherPagesList) {
 		//scorro la lista
 		for (int i=0;i<otherPagesList.size();i++) {
-			System.out.println("ricerca interna: "+(i+1)+"/"+otherPagesList.size());
+//			System.out.println("ricerca interna: "+(i+1)+"/"+otherPagesList.size());
 			WebPage currentPage = otherPagesList.get(i);
 			if (currentPage.getQuery().getQuery().equals(ancora)) {
-				System.out.println("TROVATA!");
+//				System.out.println("TROVATA!");
 				return currentPage;
 			}
 		}
