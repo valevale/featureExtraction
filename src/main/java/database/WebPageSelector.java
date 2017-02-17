@@ -98,13 +98,13 @@ public class WebPageSelector {
 							ancora2pagesWUNIMTOS.put(currentAncora, setOfCurrentAncora);
 							System.out.println("aggiunto alla mappa");
 							//rimuovo l'elemento "other", in modo da snellire le mappe
-							otherPagesList.remove(otherPageWithSameAncora);
+//							otherPagesList.remove(otherPageWithSameAncora);
 						}
 					}
 				}
 			}
 			//rimuovo la sorgente corrente
-			domain2pages.remove(currentSource);
+//			domain2pages.remove(currentSource);
 			c++;
 		}
 		return ancora2pagesWUNIMTOS;
