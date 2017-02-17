@@ -12,6 +12,7 @@ import java.util.Set;
 import org.apache.lucene.search.ScoreDoc;
 import org.apache.lucene.search.TopDocs;
 
+import configurations.Configurator;
 import lib.utils.DocumentUtils;
 import lib.utils.MapUtils;
 import lib.utils.NodeUtils;
@@ -34,6 +35,10 @@ public class TopSegmentsFinder {
 
 	private TopSegmentsFinder() {
 	}
+	
+//	public List<Tuple2<Segment, TopDocs>> findTopSegments() {
+//		
+//	}
 
 	/* cartella: l'ambiente su cui operare
 	 * n1: numero identificativo di una delle due pagine da confrontare (la prima)
@@ -45,37 +50,12 @@ public class TopSegmentsFinder {
 	//TODO il parametro di segmentazione, così come la threshold della coseno similarità, vanno messe in una
 	//classe a parte!
 	//e anche le cartelle degli indici!
-	public List<Tuple2<Segment, TopDocs>> findTopSegments(String cartella, 
-			WebPageDocument firstDocument, WebPageDocument secondDocument, int n1, int n2) 
-					throws Exception {
+	public List<Tuple2<Segment, TopDocs>> findTopSegments(String indexPath, 
+			WebPageDocument firstDocument, WebPageDocument secondDocument) throws Exception {
 
-		String indexPath = cartella+"segmentIndex";
-//		File indexFolder = new File(indexPath);
-//		String[]entries = indexFolder.list();
-//
-//		//eliminazione dell'indice
-//		if (entries != null) {
-//			for(String s: entries){
-//				File currentFile = new File(indexFolder.getPath(),s);
-//				currentFile.delete();
-//			}
-//		}
 		//troviamo i segmenti corrispondenti
 		Set<Segment> firstPageSegments = firstDocument.getSegments();
 		Set<Segment> secondPageSegments = secondDocument.getSegments();
-
-		XpathApplier xpapplier = XpathApplier.getInstance();
-
-		//colorazione segmenti. da rimuovere
-		org.w3c.dom.Document segmentedFirstPage = xpapplier.color(firstDocument.getXPaths(), firstDocument.getDocument_jsoup());
-		PrintWriter testPrinter = new PrintWriter(cartella+"orig"+n1+"Segmented.html", "UTF-8");
-		testPrinter.println(DocumentUtils.getStringFromDocument(segmentedFirstPage));
-		testPrinter.close();
-
-		org.w3c.dom.Document segmentedPage = xpapplier.color(secondDocument.getXPaths(), secondDocument.getDocument_jsoup());
-		testPrinter = new PrintWriter(cartella+"orig"+n2+"Segmented.html", "UTF-8");
-		testPrinter.println(DocumentUtils.getStringFromDocument(segmentedPage));
-		testPrinter.close();
 
 		//**confrontare i segmenti con coseno similarità
 		//indicizza la seconda pagina
@@ -86,91 +66,29 @@ public class TopSegmentsFinder {
 
 		SegmentSearcher searcher = new SegmentSearcher(indexPath);
 
-		PrintWriter resPrinter = new PrintWriter(cartella+"resCOSIM"+n1+"-"+n2+".txt", "UTF-8");
-
-		//per ogni segmento della prima pagina, trovi i primi 10 segmenti simili
 		Iterator<Segment> segmentIterator = firstPageSegments.iterator();
 
-		//permette di ordinare i risultati in base allo score ottenuto
-		//ci serve solo per una stampa ordinata! poi si può togliere.. teoricamente anche ora
-		Map<Segment, Float> seg2maxSim = new HashMap<>();
-		while (segmentIterator.hasNext()) {
-			Segment	firstPageSeg = segmentIterator.next();
-			TopDocs hits = null;
-			try {
-				hits = searcher.search(firstPageSeg);
-			} catch (Exception e) {
-				e.printStackTrace();
-			}
-			if (hits.totalHits > 0) {
-				seg2maxSim.put(firstPageSeg, hits.scoreDocs[0].score);
-			}
-		}
-
 		List<Tuple2<Segment,TopDocs>> segment2hits = new ArrayList<>();
-
-		//ordina la mappa in base alla similarità, poi si può togliere
-		seg2maxSim = MapUtils.sortByValue(seg2maxSim);
-		Set<Segment> keySet = seg2maxSim.keySet();
-		segmentIterator = keySet.iterator();
-
-		//questa seconda ricerca ci permette di avere i risultati in ordine di score decrescente
-		//TODO quando non servirà controllare in dettaglio, andrà tolta questa doppia ricerca
-		segmentIterator = keySet.iterator();
 		while (segmentIterator.hasNext()) {
 			Segment	firstPageSeg = segmentIterator.next();
 			TopDocs hits = null;
 			try {
 				hits = searcher.search(firstPageSeg);
-				segment2hits.add(new Tuple2<Segment,TopDocs>(firstPageSeg,hits));
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
 			if (hits.totalHits > 0) {
-				resPrinter.println(NodeUtils.getNodesContent(firstPageSeg.getW3cNodes()));
-				resPrinter.println("---");
-				for(ScoreDoc scoreDoc : hits.scoreDocs) {
-					org.apache.lucene.document.Document lucDoc = null;
-					try {
-						lucDoc = searcher.getDocument(scoreDoc);
-					} catch (Exception e) {
-						e.printStackTrace();
-					}
-					resPrinter.println("-");
-					resPrinter.println(scoreDoc.score);
-					resPrinter.println(lucDoc.get("segmentContent"));
-					resPrinter.println(lucDoc.get("segmentPath"));
-				}
+				segment2hits.add(new Tuple2<Segment,TopDocs>(firstPageSeg,hits));
 			}
-			resPrinter.println("__________________");
 		}
 
-		resPrinter.close();
-
-		//ora stampiamo i segmenti delle due pagine
-		testPrinter = new PrintWriter(cartella+"Segments"+n1+".txt", "UTF-8");
-		for(Segment seg : firstPageSegments){
-			testPrinter.println(seg.getAbsoluteXPath());
-			testPrinter.println(NodeUtils.getNodesContent(seg.getW3cNodes()));
-			testPrinter.println("________________________________________________________________________");
-		};
-		testPrinter.close();
-
-		testPrinter = new PrintWriter(cartella+"Segments"+n2+".txt", "UTF-8");
-		for(Segment seg : secondPageSegments){
-			testPrinter.println(seg.getAbsoluteXPath());
-			testPrinter.println(NodeUtils.getNodesContent(seg.getW3cNodes()));
-			testPrinter.println("________________________________________________________________________");
-		};
-		testPrinter.close();
-		
 		return segment2hits;
 	}
 
 	public void setRelevances(List<Tuple2<Segment, TopDocs>> segment2hits,
 			WebPageDocument wpd_second, String indexPath) throws IOException {
 		//TODO in un file di configurazione
-		double threshold = 0.6;
+		double threshold = Configurator.getCosSimThreshold();
 		SegmentSearcher searcher = new SegmentSearcher(indexPath);
 		for (int j=0; j<segment2hits.size(); j++) {
 			Segment seg = segment2hits.get(j)._1();
@@ -191,15 +109,14 @@ public class TopSegmentsFinder {
 			}
 		}
 	}
-	
+
 	/*unione dei due metodi di sopra*/
 	public List<Tuple2<Segment, TopDocs>> findRelevantSegments(String cartella, 
-			WebPageDocument firstDocument, WebPageDocument secondDocument, int n1, int n2) 
+			WebPageDocument firstDocument, WebPageDocument secondDocument) 
 					throws Exception {
 		List<Tuple2<Segment, TopDocs>> segment2hits =
-				findTopSegments(cartella, firstDocument, secondDocument,
-						n1, n2);
-		setRelevances(segment2hits, secondDocument, cartella+"segmentIndex");
+				findTopSegments(cartella, firstDocument, secondDocument);
+		setRelevances(segment2hits, secondDocument, cartella);
 		return segment2hits;
 	}
 }

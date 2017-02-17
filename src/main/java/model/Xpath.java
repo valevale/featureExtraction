@@ -7,7 +7,8 @@ public class Xpath {
 	private String xpath;
 	//TODO a cosa serve? si può togliere?
 	private Node node;
-	private int idDomain;
+//	private int idDomain;
+	private String idDomain;
 	private int specificity;
 	
 //	public Xpath(Node node, String xpath){
@@ -15,10 +16,17 @@ public class Xpath {
 //		this.xpath=xpath;
 //	}
 	
-	public Xpath(Node node, String xpath, int domain, int specificity){
+//	public Xpath(Node node, String xpath, int domain, int specificity){
+//		this.node=node;
+//		this.xpath=xpath;
+//		this.idDomain=domain;
+//		this.specificity=specificity;
+//	}
+	
+	public Xpath(Node node, String xpath, String idDomain, int specificity){
 		this.node=node;
 		this.xpath=xpath;
-		this.idDomain=domain;
+		this.idDomain=idDomain;
 		this.specificity=specificity;
 	}
 	
@@ -26,7 +34,7 @@ public class Xpath {
 		return this.node;
 	}
 	
-	public int getIdDomain() {
+	public String getIdDomain() {
 		return this.idDomain;
 	}
 	

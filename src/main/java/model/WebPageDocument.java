@@ -12,6 +12,7 @@ import org.jsoup.helper.W3CDom;
 import org.jsoup.nodes.Document;
 import org.jsoup.safety.Whitelist;
 
+import configurations.Configurator;
 import segmentation.DocumentCleaner;
 import segmentation.SegmentExtractor;
 
@@ -19,23 +20,40 @@ public class WebPageDocument {
 
 	private Set<Segment> segments;
 	private Document document_jsoup;
-	//TODO serve?? mi sa di no
-	private DomainSource source;
+	private DomainSource dSource;
 	private org.w3c.dom.Document document_w3c;
-	//TODO non serve, accorpa
-	private int idDomain;
+//	private int idDomain;
+//	private String idDomain;
+	//TODO vedi se puoi metterla da qualche parte
+//	private Source source;
+	private String idWebPage;
 	
 	public WebPageDocument(File html_document, int cleaningSourceParameter, String folder,
 			double parameterTextFusion, int sourceParameter) throws Exception {
-		this.idDomain=sourceParameter;
+//		this.idDomain=""+sourceParameter;
 		this.document_jsoup = prepareDocument(html_document, cleaningSourceParameter, folder);
 		this.document_w3c = new W3CDom().fromJsoup(this.document_jsoup);
 		SegmentExtractor xpextractor = SegmentExtractor.getInstance();
 		this.segments = xpextractor.extractSegments(this, parameterTextFusion);
 		
-		//TODO ci serve? andrebbe rimodellato
 		DomainsRepository domRep = DomainsRepository.getInstance();
-		this.source = domRep.createDomain(sourceParameter);
+		this.dSource = domRep.createDomain(""+sourceParameter);
+	}
+	
+	//TODO metti in una configurazione questi parametri
+	public WebPageDocument(WebPage webpage, Source source) throws Exception {
+		this.document_jsoup = prepareDocument_server(webpage.getHtml(), source);
+		this.document_w3c = new W3CDom().fromJsoup(this.document_jsoup);
+		SegmentExtractor xpextractor = SegmentExtractor.getInstance();
+		this.segments = xpextractor.extractSegments(this, Configurator.getSegmentationParameter());
+		DomainsRepository domRep = DomainsRepository.getInstance();
+		this.dSource = domRep.createDomain(source.getId().toString());
+		this.idWebPage = webpage.getId().toString();
+	}
+	
+	//solo per prove
+	public String getIdPage() {
+		return this.idWebPage;
 	}
 	
 	public Segment getSegmentByXpath(String xpath) {
@@ -52,8 +70,9 @@ public class WebPageDocument {
 		return this.segments;
 	}
 	
-	public int getIdDomain() {
-		return this.idDomain;
+	public String getIdDomain() {
+//		return this.idDomain;
+		return this.dSource.getParameter();
 	}
 	
 	public void setSegments(Set<Segment> segments) {
@@ -79,7 +98,7 @@ public class WebPageDocument {
 	}
 	
 	public DomainSource getSource() {
-		return this.source;
+		return this.dSource;
 	}
 	
 	/*pulisce la pagina*/
@@ -92,6 +111,17 @@ public class WebPageDocument {
 		DocumentCleaner docCleaner = DocumentCleaner.getInstance();
 		Document documentCleaned = docCleaner.removeTemplate(document,
 				sourceParameter, folder);
+		return documentCleaned;
+	}
+	
+	/*pulisce la pagina*/
+	private Document prepareDocument_server(String html_document, Source source) throws Exception {
+		String htmlDocumentString = html_document;
+		String cleanedHTML = Jsoup.clean(htmlDocumentString, Whitelist.relaxed()
+				.addAttributes(":all", "class", "id"));
+		Document document = Jsoup.parse(cleanedHTML);
+		DocumentCleaner docCleaner = DocumentCleaner.getInstance();
+		Document documentCleaned = docCleaner.removeTemplate_server(document, source);
 		return documentCleaned;
 	}
 	

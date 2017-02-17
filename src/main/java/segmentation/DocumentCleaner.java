@@ -12,6 +12,7 @@ import org.jsoup.nodes.Document;
 
 import lib.utils.CleanHTMLTree;
 import model.BlacklistElement;
+import model.Source;
 
 public class DocumentCleaner {
 	private static DocumentCleaner instance = null;
@@ -43,6 +44,25 @@ public class DocumentCleaner {
 		}
 		return clean(document, usedPagesForCleaning);
 		
+	}
+	
+	/* dato un documento, lo pulisce dal template
+	 * richiede anche un massimo di 5 pagine per la pulizia del template */
+	public Document removeTemplate_server(Document document, Source source) throws Exception {
+		List<Document> usedPagesForCleaning = new ArrayList<>();
+
+//		System.out.println("Creazione lista di pagine da utilizzare per la pulizia del template");
+		for (int i=0; i<=4;i++) {
+			try {
+//				usedPagesForCleaning.add(Jsoup.parse(IOUtils.toString(
+//						new FileReader(new File(cartella+"pag"+sourcePar+"_"+i+".html")))));
+				usedPagesForCleaning.add(Jsoup.parse(source.getPages().get(i).getHtml()));
+			}
+			catch (Exception e) {
+				System.out.println("Errore pagina non trovata"+i + ": " + e);
+			}
+		}
+		return clean(document, usedPagesForCleaning);
 	}
 	
 	/* Prende come input un documento jsoup da pulire, assieme a una lista di documenti

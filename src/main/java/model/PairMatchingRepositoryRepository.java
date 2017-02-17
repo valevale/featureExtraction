@@ -8,7 +8,7 @@ import scala.Tuple2;
 
 public class PairMatchingRepositoryRepository {
 	private static PairMatchingRepositoryRepository instance = null;
-	private Map<Tuple2<Integer,Integer>,PairMatchingRepository> domains2repository;
+	private Map<Tuple2<String,String>,PairMatchingRepository> domains2repository;
 
 	public static PairMatchingRepositoryRepository getInstance() {
 		if (instance == null)
@@ -30,8 +30,8 @@ public class PairMatchingRepositoryRepository {
 	}
 
 	
-	public void addMatching(Xpath xpath1, int ds1, Xpath xpath2, int ds2, float score) {
-		Tuple2<Integer,Integer> domains = new Tuple2<>(ds1,ds2);
+	public void addMatching(Xpath xpath1, String ds1, Xpath xpath2, String ds2, float score) {
+		Tuple2<String,String> domains = new Tuple2<>(ds1,ds2);
 		//check anche sugli inversi
 		//se non esiste ancora un repository per quei domini
 		if (!this.domains2repository.containsKey(domains) && 

@@ -24,9 +24,9 @@ public class DomainsRepository {
 	}
 	
 	//NOTA SULL'INTERFACCIA: crea un dominio. se esiste già nel repository lo restituisce, altrimenti lo crea
-	public DomainSource createDomain(int parameter) {
+	public DomainSource createDomain(String parameter) {
 		for (int i=0;i<this.domains.size();i++) {
-			if (this.domains.get(i).getParameter()==parameter)
+			if (this.domains.get(i).getParameter().equals(parameter))
 				return this.domains.get(i);
 		}
 		DomainSource newDomain = new DomainSource(parameter);
@@ -34,9 +34,9 @@ public class DomainsRepository {
 		return newDomain;
 	}
 	
-	public DomainSource getDomain(int parameter) {
+	public DomainSource getDomain(String parameter) {
 		for (int i=0;i<this.domains.size();i++) {
-			if (this.domains.get(i).getParameter()==parameter)
+			if (this.domains.get(i).getParameter().equals(parameter))
 				return this.domains.get(i);
 		}
 		return null;

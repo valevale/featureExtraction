@@ -2,7 +2,7 @@ package main;
 
 import java.io.File;
 import java.io.IOException;
-import java.io.PrintWriter;
+//import java.io.PrintWriter;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -16,7 +16,8 @@ import org.apache.lucene.search.TopDocs;
 import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 
-import lib.utils.DocumentUtils;
+import configurations.Configurator;
+//import lib.utils.DocumentUtils;
 import lib.utils.NodeW3cUtils;
 import lucene.SegmentSearcher;
 import model.DomainSource;
@@ -34,16 +35,19 @@ import xpath.utils.XpathApplier;
  * le coppie vengono messe in un repository e si calcola il loro voto, basato sulla coseno smilarità */
 public class DomainsWrapper_pairMatching {
 
-	public static void getSegmentsFrom(WebPageDocument firstDocument,
-			WebPageDocument secondDocument, WebPageDocument thirdDocument,
-			WebPageDocument fourthDocument, String cartella_primaPersona, String cartella_secondaPersona,
-			int n1, int n2, int n3, int n4) throws Exception {
+	public static void getSegmentsFrom_server(WebPageDocument firstDocument,
+			WebPageDocument secondDocument, String ancora_p1,
+			WebPageDocument thirdDocument, WebPageDocument fourthDocument, String ancora_p2)
+					throws Exception {
 
 		TopSegmentsFinder finder = TopSegmentsFinder.getInstance();
 
-		String indexPathDominio1 = cartella_primaPersona+"segmentIndex";
+		String path = Configurator.getIndexesPath();
 
-		//TODO andrebbe tolto NO non va tolto e cerca di capire perché!
+		String indexPathDominio1 = path+ancora_p1+"/segmentIndex";
+
+		File dir = new File(indexPathDominio1);
+		dir.mkdirs();
 		File indexFolder = new File(indexPathDominio1);
 		String[]entries = indexFolder.list();
 
@@ -58,22 +62,17 @@ public class DomainsWrapper_pairMatching {
 		//passo 1: prendere la pagina da segmentare
 
 		List<Tuple2<Segment, TopDocs>> segment2hits_primaPersona =
-				finder.findTopSegments(cartella_primaPersona, firstDocument, secondDocument,
-						n1, n2);
+				finder.findRelevantSegments(indexPathDominio1, firstDocument, secondDocument);
 
-		//TODO questo set relevance dovrebbe essere a un livello di astrazione più basso, cioè incorporato
-		//in finder
-		finder.setRelevances(segment2hits_primaPersona, secondDocument, indexPathDominio1);
-
-		//TODO anche questo
 		//gli index sono stati messi ARBITRARIAMENTE nelle due cartelle, una vale l'altra
-		String indexPathDominio2 = cartella_secondaPersona+"segmentIndex";
+		String indexPathDominio2 = path+ancora_p2+"/segmentIndex";
 
 		//stesso procedimento, con un'altra coppia di pagine degli stessi domini
 		//eliminazione dell'indice
+		dir = new File(indexPathDominio2);
+		dir.mkdirs();
 		indexFolder = new File(indexPathDominio2);
 		entries = indexFolder.list();
-
 
 		if (entries != null) {
 			for(String s: entries){
@@ -83,11 +82,7 @@ public class DomainsWrapper_pairMatching {
 		}
 
 		List<Tuple2<Segment, TopDocs>> segment2hits_secondaPersona =
-				finder.findTopSegments(cartella_secondaPersona, thirdDocument, fourthDocument,
-						n3, n4);
-
-		finder.setRelevances(segment2hits_secondaPersona, fourthDocument, indexPathDominio2);
-
+				finder.findRelevantSegments(indexPathDominio2, thirdDocument, fourthDocument);
 
 		List<Segment> relevantSegments_thirdDocument = new ArrayList<>();
 		for (int i=0; i<segment2hits_secondaPersona.size(); i++) {
@@ -106,8 +101,7 @@ public class DomainsWrapper_pairMatching {
 			}
 		}
 
-		//TODO in un file di configurazione
-		double threshold = 0.6;
+		double threshold = Configurator.getCosSimThreshold();
 
 		SegmentSearcher searcher = new SegmentSearcher(indexPathDominio1);
 		for (int j=0; j<segment2hits_primaPersona.size(); j++) {
@@ -128,43 +122,140 @@ public class DomainsWrapper_pairMatching {
 				}
 			}
 		}
-
-		//poi coloriamo la prima pagina con i matching rilevanti
-		XpathApplier xapplier = XpathApplier.getInstance();
-
-		org.w3c.dom.Document firstDocumentWithRelevance = xapplier
-				.colorRelevance(firstDocument.getSegments(), firstDocument.getDocument_jsoup());
-		if (firstDocumentWithRelevance != null) {
-			PrintWriter testPrinter = new PrintWriter(cartella_primaPersona+"Relevance"+n1+".html", "UTF-8");
-			testPrinter.println(DocumentUtils.getStringFromDocument(firstDocumentWithRelevance));
-			testPrinter.close();
-		}
-
-		org.w3c.dom.Document thirdDocumentWithRelevance = xapplier
-				.colorRelevance(thirdDocument.getSegments(), thirdDocument.getDocument_jsoup());
-		if (thirdDocumentWithRelevance != null) {
-			PrintWriter testPrinter = new PrintWriter(cartella_secondaPersona+"Relevance"+n3+".html", "UTF-8");
-			testPrinter.println(DocumentUtils.getStringFromDocument(thirdDocumentWithRelevance));
-			testPrinter.close();
-		}
-
-		//ora proviamo a fare la stessa cosa per il dominio 2
-		org.w3c.dom.Document secondDocumentWithRelevance = xapplier
-				.colorRelevance(secondDocument.getSegments(), secondDocument.getDocument_jsoup());
-		if (secondDocumentWithRelevance != null) {
-			PrintWriter testPrinter = new PrintWriter(cartella_primaPersona+"Relevance"+n2+".html", "UTF-8");
-			testPrinter.println(DocumentUtils.getStringFromDocument(secondDocumentWithRelevance));
-			testPrinter.close();
-		}
-
-		org.w3c.dom.Document fourthDocumentWithRelevance = xapplier
-				.colorRelevance(fourthDocument.getSegments(), fourthDocument.getDocument_jsoup());
-		if (fourthDocumentWithRelevance != null) {
-			PrintWriter testPrinter = new PrintWriter(cartella_secondaPersona+"Relevance"+n4+".html", "UTF-8");
-			testPrinter.println(DocumentUtils.getStringFromDocument(fourthDocumentWithRelevance));
-			testPrinter.close();
-		}
 	} //fine main
+
+
+//	public static void getSegmentsFrom(WebPageDocument firstDocument,
+//			WebPageDocument secondDocument, WebPageDocument thirdDocument,
+//			WebPageDocument fourthDocument, String cartella_primaPersona, String cartella_secondaPersona,
+//			int n1, int n2, int n3, int n4) throws Exception {
+//
+//		TopSegmentsFinder finder = TopSegmentsFinder.getInstance();
+//
+//		String indexPathDominio1 = cartella_primaPersona+"segmentIndex";
+//
+//		// andrebbe tolto NO non va tolto e cerca di capire perché!
+//		File indexFolder = new File(indexPathDominio1);
+//		String[]entries = indexFolder.list();
+//
+//		//eliminazione dell'indice
+//		if (entries != null) {
+//			for(String s: entries){
+//				File currentFile = new File(indexFolder.getPath(),s);
+//				currentFile.delete();
+//			}
+//		}
+//
+//		//passo 1: prendere la pagina da segmentare
+//
+//		List<Tuple2<Segment, TopDocs>> segment2hits_primaPersona =
+//				finder.findTopSegments(cartella_primaPersona, firstDocument, secondDocument,
+//						n1, n2);
+//
+//		// questo set relevance dovrebbe essere a un livello di astrazione più basso, cioè incorporato
+//		//in finder
+//		finder.setRelevances(segment2hits_primaPersona, secondDocument, indexPathDominio1);
+//
+//		// anche questo
+//		//gli index sono stati messi ARBITRARIAMENTE nelle due cartelle, una vale l'altra
+//		String indexPathDominio2 = cartella_secondaPersona+"segmentIndex";
+//
+//		//stesso procedimento, con un'altra coppia di pagine degli stessi domini
+//		//eliminazione dell'indice
+//		indexFolder = new File(indexPathDominio2);
+//		entries = indexFolder.list();
+//
+//
+//		if (entries != null) {
+//			for(String s: entries){
+//				File currentFile = new File(indexFolder.getPath(),s);
+//				currentFile.delete();
+//			}
+//		}
+//
+//		List<Tuple2<Segment, TopDocs>> segment2hits_secondaPersona =
+//				finder.findTopSegments(cartella_secondaPersona, thirdDocument, fourthDocument,
+//						n3, n4);
+//
+//		finder.setRelevances(segment2hits_secondaPersona, fourthDocument, indexPathDominio2);
+//
+//
+//		List<Segment> relevantSegments_thirdDocument = new ArrayList<>();
+//		for (int i=0; i<segment2hits_secondaPersona.size(); i++) {
+//			Segment currentSegment = segment2hits_secondaPersona.get(i)._1();
+//			if (currentSegment.getRelevance() > 0) {
+//				relevantSegments_thirdDocument.add(currentSegment);
+//			}
+//		}
+//
+//		List<Segment> relevantSegments_fourthDocument = new ArrayList<>();
+//		Iterator<Segment> fourthDocumentSegmentsIt = fourthDocument.getSegments().iterator();
+//		while (fourthDocumentSegmentsIt.hasNext()) {
+//			Segment currentSegment = fourthDocumentSegmentsIt.next();
+//			if (currentSegment.getRelevance() > 0) {
+//				relevantSegments_fourthDocument.add(currentSegment);
+//			}
+//		}
+//
+//		// in un file di configurazione
+//		double threshold = 0.6;
+//
+//		SegmentSearcher searcher = new SegmentSearcher(indexPathDominio1);
+//		for (int j=0; j<segment2hits_primaPersona.size(); j++) {
+//			Segment seg = segment2hits_primaPersona.get(j)._1();
+//			TopDocs hits = segment2hits_primaPersona.get(j)._2();
+//			for(ScoreDoc scoreDoc : hits.scoreDocs) {
+//				if (scoreDoc.score >= threshold) {
+//					org.apache.lucene.document.Document lucDoc = null;
+//					try {
+//						lucDoc = searcher.getDocument(scoreDoc);
+//					} catch (Exception e) {
+//						e.printStackTrace();
+//					}
+//					Segment seg_secondDocument = secondDocument.getSegmentByXpath(lucDoc.get("segmentPath"));
+//					addLink(seg, seg_secondDocument, thirdDocument, fourthDocument, scoreDoc.score,
+//							relevantSegments_thirdDocument, relevantSegments_fourthDocument,
+//							segment2hits_secondaPersona, indexPathDominio2);
+//				}
+//			}
+//		}
+//
+//		//poi coloriamo la prima pagina con i matching rilevanti
+//		XpathApplier xapplier = XpathApplier.getInstance();
+//
+//		org.w3c.dom.Document firstDocumentWithRelevance = xapplier
+//				.colorRelevance(firstDocument.getSegments(), firstDocument.getDocument_jsoup());
+//		if (firstDocumentWithRelevance != null) {
+//			PrintWriter testPrinter = new PrintWriter(cartella_primaPersona+"Relevance"+n1+".html", "UTF-8");
+//			testPrinter.println(DocumentUtils.getStringFromDocument(firstDocumentWithRelevance));
+//			testPrinter.close();
+//		}
+//
+//		org.w3c.dom.Document thirdDocumentWithRelevance = xapplier
+//				.colorRelevance(thirdDocument.getSegments(), thirdDocument.getDocument_jsoup());
+//		if (thirdDocumentWithRelevance != null) {
+//			PrintWriter testPrinter = new PrintWriter(cartella_secondaPersona+"Relevance"+n3+".html", "UTF-8");
+//			testPrinter.println(DocumentUtils.getStringFromDocument(thirdDocumentWithRelevance));
+//			testPrinter.close();
+//		}
+//
+//		//ora proviamo a fare la stessa cosa per il dominio 2
+//		org.w3c.dom.Document secondDocumentWithRelevance = xapplier
+//				.colorRelevance(secondDocument.getSegments(), secondDocument.getDocument_jsoup());
+//		if (secondDocumentWithRelevance != null) {
+//			PrintWriter testPrinter = new PrintWriter(cartella_primaPersona+"Relevance"+n2+".html", "UTF-8");
+//			testPrinter.println(DocumentUtils.getStringFromDocument(secondDocumentWithRelevance));
+//			testPrinter.close();
+//		}
+//
+//		org.w3c.dom.Document fourthDocumentWithRelevance = xapplier
+//				.colorRelevance(fourthDocument.getSegments(), fourthDocument.getDocument_jsoup());
+//		if (fourthDocumentWithRelevance != null) {
+//			PrintWriter testPrinter = new PrintWriter(cartella_secondaPersona+"Relevance"+n4+".html", "UTF-8");
+//			testPrinter.println(DocumentUtils.getStringFromDocument(fourthDocumentWithRelevance));
+//			testPrinter.close();
+//		}
+//	} //fine main
 
 	//ogni volta che supera la soglia,
 	//PRIMA controlli che per quel segmento non sia già stato generato un xpath generico
@@ -193,8 +284,7 @@ public class DomainsWrapper_pairMatching {
 					onlyOneSegmentFound = true;
 					//sovrascrivo l'xpath assoluto
 					firstSegment.setXPath(currentXpath);
-					//TODO lo aggiungo qui, quindi PRIMA del controllo finale. dovresti farlo dopo
-					firstSegment.getDocument().getSource().addGenericXpath(currentXpath);
+//					firstSegment.getDocument().getSource().addGenericXpath(currentXpath);
 					genericXpath_firstSegment = currentXpath;
 				}
 				else
@@ -216,7 +306,7 @@ public class DomainsWrapper_pairMatching {
 					onlyOneSegmentFound = true;
 					//sovrascrivo l'xpath assoluto
 					secondSegment.setXPath(currentXpath);
-					secondSegment.getDocument().getSource().addGenericXpath(currentXpath);
+//					secondSegment.getDocument().getSource().addGenericXpath(currentXpath);
 					genericXpath_secondSegment = currentXpath;
 				}
 				else
@@ -229,6 +319,10 @@ public class DomainsWrapper_pairMatching {
 			if (isARelevantMatching(genericXpath_firstSegment.getXpath(), doc3, 
 					genericXpath_secondSegment.getXpath(), doc4, 
 					segment2hits_secondaPersona, indexPath)) {
+				//TODO è qui che devi vedere se aggiungere il matching. lo fai solo se almeno una delle coppie è
+				//identificativa in almeno uno dei domini
+				firstSegment.getDocument().getSource().addGenericXpath(genericXpath_firstSegment);
+				secondSegment.getDocument().getSource().addGenericXpath(genericXpath_secondSegment);
 				//una volta che hai i generici di entrambi, crei collegamento
 				PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
 				pmr.addMatching(genericXpath_firstSegment, firstSegment.getDocument().getSource().getParameter(),
@@ -237,6 +331,8 @@ public class DomainsWrapper_pairMatching {
 		}
 	}
 	
+	
+
 	public static Tuple2<Xpath, Xpath> getXpaths(Segment firstSegment, Segment secondSegment,
 			WebPageDocument doc3, WebPageDocument doc4, float score,
 			List<Segment> relevantSegments_thirdDocument,
@@ -258,8 +354,8 @@ public class DomainsWrapper_pairMatching {
 				//se corrisponde a 1 unico segmento RILEVANTE
 				if (isARelevantSegment(currentXpath.getXpath(), doc3, relevantSegments_thirdDocument)) {
 					onlyOneSegmentFound = true;
-					
-					
+
+
 					genericXpath_firstSegment = currentXpath;
 				}
 				else
@@ -279,8 +375,8 @@ public class DomainsWrapper_pairMatching {
 				//se corrisponde a 1 unico segmento RILEVANTE
 				if (isARelevantSegment(currentXpath.getXpath(), doc4, relevantSegments_fourthDocument)) {
 					onlyOneSegmentFound = true;
-					
-					
+
+
 					genericXpath_secondSegment = currentXpath;
 				}
 				else
@@ -293,7 +389,7 @@ public class DomainsWrapper_pairMatching {
 			if (isARelevantMatching(genericXpath_firstSegment.getXpath(), doc3, 
 					genericXpath_secondSegment.getXpath(), doc4, 
 					segment2hits_secondaPersona, indexPath)) {
-				
+
 				//li restituisci
 				return new Tuple2<>(genericXpath_firstSegment,genericXpath_secondSegment);
 			}

@@ -1,45 +1,54 @@
 package test;
 
+import java.io.PrintWriter;
+import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 
 import database.MongoFacade;
 import database.WebPageSelector;
 import model.Source;
 import model.WebPage;
+import model.WebPageDocument;
 
 public class TestPagineUniche {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) throws Exception {
+		List<String> idSorgenti = new ArrayList<>();
+		idSorgenti.add("5750678b3387e31f516fa1c7");
+		idSorgenti.add("5750678b3387e31f516fa1d0");
+		idSorgenti.add("575067b33387e31f516face0");
+		idSorgenti.add("5750678b3387e31f516fa1cd");
+		idSorgenti.add("5750678a3387e31f516fa185");
 		MongoFacade facade = new MongoFacade("web_search_pages");
-		Map<String,List<WebPage>> domain2pages = new HashMap<>();
-		//seleziona i domini
-		//primo modulo: raccolta di pagine con ancore uniche dai domini scelti
-		//magari poi puoi vedere se anche con la source sfigata ci sono abbastanza pagine
-		Source currentSource = facade.getSourceWithId("5750678b3387e31f516fa1c7");
-		List<WebPage> pagesOfCurrentSource = WebPageSelector.getPageWithUniqueName(currentSource);
-		System.out.println("dimensione1: "+pagesOfCurrentSource);
-		domain2pages.put("5750678b3387e31f516fa1c7", pagesOfCurrentSource);
-		currentSource = facade.getSourceWithId("5750678b3387e31f516fa1d0");
-		pagesOfCurrentSource = WebPageSelector.getPageWithUniqueName(currentSource);
-		System.out.println("dimensione2: "+pagesOfCurrentSource);
-		domain2pages.put("5750678b3387e31f516fa1d0", pagesOfCurrentSource);
-		currentSource = facade.getSourceWithId("5750678b3387e31f516fa1ca");
-		pagesOfCurrentSource = WebPageSelector.getPageWithUniqueName(currentSource);
-		System.out.println("dimensione2: "+pagesOfCurrentSource);
-		domain2pages.put("5750678b3387e31f516fa1ca", pagesOfCurrentSource);
-		currentSource = facade.getSourceWithId("5750678b3387e31f516fa1cd");
-		pagesOfCurrentSource = WebPageSelector.getPageWithUniqueName(currentSource);
-		System.out.println("dimensione4: "+pagesOfCurrentSource);
-		domain2pages.put("5750678b3387e31f516fa1cd", pagesOfCurrentSource);
-		currentSource = facade.getSourceWithId("5750678a3387e31f516fa185");
-		pagesOfCurrentSource = WebPageSelector.getPageWithUniqueName(currentSource);
-		System.out.println("dimensione5: "+pagesOfCurrentSource);
-		domain2pages.put("5750678a3387e31f516fa185", pagesOfCurrentSource);
+		Map<Source,List<WebPage>> domain2pages = new HashMap<>();
+		for (int i=0;i<idSorgenti.size();i++) {
+			Source currentSource = facade.getSourceWithId(idSorgenti.get(i));
+			List<WebPage> pagesOfCurrentSource = WebPageSelector.getPageWithUniqueName(currentSource);
+			domain2pages.put(currentSource, pagesOfCurrentSource);
+		}
+
 		//secondo modulo: filtri e selezioni le pagine di persone che compaiono in almeno 2 domini
-		//WUNIMTOS = WithUniqueNamesInMoreThanOneSource
-//		Map<String,Set<WebPage>> domains2pagesWUNIMTOS = WebPageSelector.getPagesWUNIMTOS(domain2pages);
+		Map<String,Set<WebPageDocument>> ancore2pagesWUNIMTOS = WebPageSelector.getPagesWUNIMTOS(domain2pages);
+		
+		PrintWriter testPrinterMap = new PrintWriter("testPagineUniche.txt", "UTF-8");
+		Iterator<String> it = ancore2pagesWUNIMTOS.keySet().iterator();
+		while (it.hasNext()) {
+			String ancora = it.next();
+			Set<WebPageDocument> set = ancore2pagesWUNIMTOS.get(ancora);
+			testPrinterMap.print(ancora+" -> "+set.size()+" (");
+			Iterator<WebPageDocument> wpdit = set.iterator();
+			while (wpdit.hasNext()) {
+				WebPageDocument w = wpdit.next();
+				System.out.println(w.getIdPage()+"||||");
+			}
+			testPrinterMap.println(");");
+			testPrinterMap.println();
+		}
+		testPrinterMap.close();
 	}
-	
+
 }

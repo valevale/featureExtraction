@@ -10,6 +10,8 @@ import java.util.Set;
 
 import model.Source;
 import model.WebPage;
+import model.WebPageDocument;
+//import scala.Tuple2;
 //import scala.Tuple2;
 
 /*classe che serve per prendere certi tipi di pagine
@@ -52,14 +54,14 @@ public class WebPageSelector {
 	//dato una lista di domini (o insomma la lista delle liste delle pagine con ancore uniche di quei domini)
 	//restituisci una lista delle pagine (o delle sole ancore) presenti in almeno 2 domini
 	//WUNIMTOS = WithUniqueNamesInMoreThanOneSource
-	public static Map<String,Set<WebPage>> getPagesWUNIMTOS(
-			Map<String,List<WebPage>> domain2pages) {
-		Map<String,Set<WebPage>> domain2pagesWUNIMTOS = new HashMap<>();
+	public static Map<String,Set<WebPageDocument>> getPagesWUNIMTOS(Map<Source,List<WebPage>> domain2pages) throws Exception {
+		Map<String,Set<WebPageDocument>> ancora2pagesWUNIMTOS = new HashMap<>();
 		//scorro le liste
-		Iterator<String> domainIt = domain2pages.keySet().iterator();
+		Iterator<Source> domainIt = domain2pages.keySet().iterator();
 		while (domainIt.hasNext()) {
-			String currentDomain = domainIt.next();
-			List<WebPage> currentPagesList = domain2pages.get(currentDomain);
+			Source currentSource = domainIt.next();
+			String currentDomain = domainIt.next().getId().toString();
+			List<WebPage> currentPagesList = domain2pages.get(currentSource);
 			//scorro la lista
 			for (int j=0;j<currentPagesList.size();j++) {
 				//per ogni pagina della lista corrente
@@ -67,30 +69,80 @@ public class WebPageSelector {
 				String currentAncora = currentPage.getQuery().getQuery();
 				//controllo se l'ancora è presente nelle altre liste
 				//devo scorrere le altre liste
-				Iterator<String> otherDomainIt = domain2pages.keySet().iterator();
+				Iterator<Source> otherDomainIt = domain2pages.keySet().iterator();
 				while (otherDomainIt.hasNext()) {
-					String currentOtherDomain = otherDomainIt.next();
+					Source currentOtherSource = otherDomainIt.next();
+					String currentOtherDomain = otherDomainIt.next().getId().toString();
 					//se è la stessa lista non li comparo
 					if (!currentDomain.equals(currentOtherDomain)) {
-						List<WebPage> otherPagesList = domain2pages.get(currentOtherDomain);
+						List<WebPage> otherPagesList = domain2pages.get(currentOtherSource);
+						WebPage otherPageWithSameAncora = searchPageWith(currentAncora,otherPagesList);
+						if (otherPageWithSameAncora != null) {
+							//cerco l'ancora
+							Set<WebPageDocument> setOfCurrentAncora = 
+									ancora2pagesWUNIMTOS.get(currentAncora);
+							if (setOfCurrentAncora == null) {
+								setOfCurrentAncora = new HashSet<>();
+							}
+							WebPageDocument wpdOfCurrentPage = new WebPageDocument(currentPage,currentSource);
+							WebPageDocument wpdOfOtherPage = new WebPageDocument(otherPageWithSameAncora,
+									currentOtherSource);
+							
+							setOfCurrentAncora.add(wpdOfCurrentPage);
+							setOfCurrentAncora.add(wpdOfOtherPage);
+							ancora2pagesWUNIMTOS.put(currentAncora, setOfCurrentAncora);
+						}
+					}
+				}
+			}
+		}
+		return ancora2pagesWUNIMTOS;
+	}
+
+
+	//dato una lista di domini (o insomma la lista delle liste delle pagine con ancore uniche di quei domini)
+	//restituisci una lista delle pagine (o delle sole ancore) presenti in almeno 2 domini
+	//WUNIMTOS = WithUniqueNamesInMoreThanOneSource
+	public static Map<Source,Set<WebPage>> getPagesWUNIMTOS_old(Map<Source,List<WebPage>> domain2pages) {
+		Map<Source,Set<WebPage>> domain2pagesWUNIMTOS = new HashMap<>();
+		//scorro le liste
+		Iterator<Source> domainIt = domain2pages.keySet().iterator();
+		while (domainIt.hasNext()) {
+			Source currentSource = domainIt.next();
+			String currentDomain = domainIt.next().getId().toString();
+			List<WebPage> currentPagesList = domain2pages.get(currentSource);
+			//scorro la lista
+			for (int j=0;j<currentPagesList.size();j++) {
+				//per ogni pagina della lista corrente
+				WebPage currentPage = currentPagesList.get(j);
+				String currentAncora = currentPage.getQuery().getQuery();
+				//controllo se l'ancora è presente nelle altre liste
+				//devo scorrere le altre liste
+				Iterator<Source> otherDomainIt = domain2pages.keySet().iterator();
+				while (otherDomainIt.hasNext()) {
+					Source currentOtherSource = otherDomainIt.next();
+					String currentOtherDomain = otherDomainIt.next().getId().toString();
+					//se è la stessa lista non li comparo
+					if (!currentDomain.equals(currentOtherDomain)) {
+						List<WebPage> otherPagesList = domain2pages.get(currentOtherSource);
 						WebPage otherPageWithSameAncora = searchPageWith(currentAncora,otherPagesList);
 						if (otherPageWithSameAncora != null) {
 							//posso aggiungere quest'ancora ai set di ciascun dominio
-							Set<WebPage> pagesWUNIMTOSOfCurrentDomain = domain2pagesWUNIMTOS.get(currentDomain);
+							Set<WebPage> pagesWUNIMTOSOfCurrentDomain = domain2pagesWUNIMTOS.get(currentSource);
 							if (pagesWUNIMTOSOfCurrentDomain == null) {
 								//creo il set
 								pagesWUNIMTOSOfCurrentDomain = new HashSet<>();
 							}
 							pagesWUNIMTOSOfCurrentDomain.add(currentPage);
-							domain2pagesWUNIMTOS.put(currentDomain, pagesWUNIMTOSOfCurrentDomain);
+							domain2pagesWUNIMTOS.put(currentSource, pagesWUNIMTOSOfCurrentDomain);
 							//l'altro dominio
-							Set<WebPage> pagesWUNIMTOSOfOtherDomain = domain2pagesWUNIMTOS.get(currentOtherDomain);
+							Set<WebPage> pagesWUNIMTOSOfOtherDomain = domain2pagesWUNIMTOS.get(currentOtherSource);
 							if (pagesWUNIMTOSOfOtherDomain == null) {
 								//creo il set
 								pagesWUNIMTOSOfOtherDomain = new HashSet<>();
 							}
 							pagesWUNIMTOSOfOtherDomain.add(otherPageWithSameAncora);
-							domain2pagesWUNIMTOS.put(currentOtherDomain, pagesWUNIMTOSOfOtherDomain);
+							domain2pagesWUNIMTOS.put(currentOtherSource, pagesWUNIMTOSOfOtherDomain);
 						}
 					}
 				}
