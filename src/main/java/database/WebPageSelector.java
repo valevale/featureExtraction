@@ -65,7 +65,6 @@ public class WebPageSelector {
 		while (domainIt.hasNext()) {
 			System.out.println("dominio numero "+(c));
 			Source currentSource = domainIt.next();
-			String currentDomain = currentSource.getId().toString();
 			List<WebPage> currentPagesList = domain2pages.get(currentSource);
 			//scorro la lista
 			for (int j=0;j<currentPagesList.size();j++) {
@@ -78,9 +77,8 @@ public class WebPageSelector {
 				Iterator<Source> otherDomainIt = domain2pages.keySet().iterator();
 				while (otherDomainIt.hasNext()) {
 					Source currentOtherSource = otherDomainIt.next();
-					String currentOtherDomain = currentOtherSource.getId().toString();
 					//se è la stessa lista non li comparo
-					if (!currentDomain.equals(currentOtherDomain)) {
+					if (!currentSource.getId().toString().equals(currentOtherSource.getId().toString())) {
 						List<WebPage> otherPagesList = domain2pages.get(currentOtherSource);
 						WebPage otherPageWithSameAncora = searchPageWith(currentAncora,otherPagesList);
 						if (otherPageWithSameAncora != null) {
@@ -163,8 +161,10 @@ public class WebPageSelector {
 	public static WebPage searchPageWith(String ancora, List<WebPage> otherPagesList) {
 		//scorro la lista
 		for (int i=0;i<otherPagesList.size();i++) {
+			System.out.println("ricerca interna: "+(i+1)+"/"+otherPagesList.size());
 			WebPage currentPage = otherPagesList.get(i);
 			if (currentPage.getQuery().getQuery().equals(ancora)) {
+				System.out.println("TROVATA!");
 				return currentPage;
 			}
 		}
