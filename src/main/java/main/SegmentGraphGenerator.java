@@ -1,6 +1,6 @@
 package main;
 
-import java.sql.Timestamp;
+//import java.sql.Timestamp;
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.List;
@@ -27,8 +27,8 @@ public class SegmentGraphGenerator {
 
 	public static List<InformationsMatching> getInformations() throws Exception {
 
-		Timestamp timestamp = new Timestamp(System.currentTimeMillis());
-		System.out.println("preparazione: "+timestamp);
+//		Timestamp timestamp = new Timestamp(System.currentTimeMillis());
+//		System.out.println("preparazione: "+timestamp);
 		
 		SimpleWeightedGraph<RelevantInformation, DefaultWeightedEdge> g = createGraph();
 
@@ -43,8 +43,8 @@ public class SegmentGraphGenerator {
 
 		List<InformationsMatching> maxWeightPaths = new ArrayList<>();
 
-		timestamp = new Timestamp(System.currentTimeMillis());
-		System.out.println("creazione grafo: "+timestamp);
+//		timestamp = new Timestamp(System.currentTimeMillis());
+//		System.out.println("creazione grafo: "+timestamp);
 		//per ogni sottografo
 		for (int i=0; i<semanticSubGraphList.size(); i++) {
 			Set<RelevantInformation> currentSemanticSubGraph = semanticSubGraphList.get(i);
@@ -112,8 +112,8 @@ public class SegmentGraphGenerator {
 			
 		}
 
-		timestamp = new Timestamp(System.currentTimeMillis());
-		System.out.println("weight: "+timestamp);
+//		timestamp = new Timestamp(System.currentTimeMillis());
+//		System.out.println("weight: "+timestamp);
 
 		//cosa facciamo ritornare?
 		//i soli vertici
@@ -124,6 +124,7 @@ public class SegmentGraphGenerator {
 	
 	public static SimpleWeightedGraph<RelevantInformation, DefaultWeightedEdge> createGraph() throws Exception {
 
+		//la tupla sono i domini, va tenuta
 		Map<Tuple2<Integer,Integer>,Set<PairMatching>> matchings = PairMatchingMaker.getMainMatchings();
 
 
