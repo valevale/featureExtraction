@@ -107,6 +107,7 @@ public class PairMatchingMaker {
 //									wpd_p1_d1, wpd_p1_d2, first_person,
 //									wpd_p2_d1, wpd_p2_d2, second_person);
 //						}
+		//TODO dopo aver creato i matching, puoi liberare dalla memoria questi documenti
 //					}
 //				}
 //			}
@@ -450,7 +451,7 @@ public class PairMatchingMaker {
 		idSorgenti.add("5750678a3387e31f516fa185");
 	}
 
-	//restiituisce il documento con il dominio richiesto, o null se non presente
+	//restituisce il documento con il dominio richiesto, o null se non presente
 	public static WebPageDocument getWPD(Set<WebPageDocument> documents, String idDomain) {
 		Iterator<WebPageDocument> docIt = documents.iterator();
 		while (docIt.hasNext()) {

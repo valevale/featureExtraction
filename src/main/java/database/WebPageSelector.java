@@ -56,6 +56,63 @@ public class WebPageSelector {
 	//dato una lista di domini (o insomma la lista delle liste delle pagine con ancore uniche di quei domini)
 	//restituisci una lista delle pagine (o delle sole ancore) presenti in almeno 2 domini
 	//WUNIMTOS = WithUniqueNamesInMoreThanOneSource
+	public static Map<String,Set<WebPage>> getPagesWUNIMTOS_new(
+			Map<String,List<WebPage>> domain2pages) throws Exception {
+		Map<String,Set<WebPage>> ancora2pagesWUNIMTOS = new HashMap<>();
+		//scorro le liste
+		Iterator<String> domainIt = domain2pages.keySet().iterator();
+		int c=1;
+		while (domainIt.hasNext()) {
+			System.out.println("dominio numero "+(c));
+			String currentSource = domainIt.next();
+			List<WebPage> currentPagesList = domain2pages.get(currentSource);
+			//scorro la lista
+			for (int j=0;j<currentPagesList.size();j++) {
+				System.out.println("pagina "+(j+1)+"/"+currentPagesList.size());
+				//per ogni pagina della lista corrente
+				WebPage currentPage = currentPagesList.get(j);
+				String currentAncora = currentPage.getQuery().getQuery();
+				//controllo se l'ancora è presente nelle altre liste
+				//devo scorrere le altre liste
+				Iterator<String> otherDomainIt = domain2pages.keySet().iterator();
+				while (otherDomainIt.hasNext()) {
+					String currentOtherSource = otherDomainIt.next();
+					//se è la stessa lista non li comparo
+					if (!currentSource.equals(currentOtherSource)) {
+						List<WebPage> otherPagesList = domain2pages.get(currentOtherSource);
+						WebPage otherPageWithSameAncora = searchPageWith(currentAncora,otherPagesList);
+						if (otherPageWithSameAncora != null) {
+							//cerco l'ancora
+							Set<WebPage> setOfCurrentAncora = 
+									ancora2pagesWUNIMTOS.get(currentAncora);
+							System.out.println("ho preso il set con l'ancora corrente");
+							if (setOfCurrentAncora == null) {
+								setOfCurrentAncora = new HashSet<>();
+							}
+							//TODO forse questo gli dà fastidio, in questa fase. magari rimanda la creazione a dopo
+
+							setOfCurrentAncora.add(currentPage);
+							setOfCurrentAncora.add(otherPageWithSameAncora);
+
+							System.out.println("aggiunte alla lista");
+							ancora2pagesWUNIMTOS.put(currentAncora, setOfCurrentAncora);
+							System.out.println("aggiunto alla mappa");
+							//rimuovo l'elemento "other", in modo da snellire le mappe
+							otherPagesList.remove(otherPageWithSameAncora);
+						}
+					}
+				}
+			}
+			//rimuovo la sorgente corrente
+			domain2pages.remove(currentSource);
+			c++;
+		}
+		return ancora2pagesWUNIMTOS;
+	}
+
+	//dato una lista di domini (o insomma la lista delle liste delle pagine con ancore uniche di quei domini)
+	//restituisci una lista delle pagine (o delle sole ancore) presenti in almeno 2 domini
+	//WUNIMTOS = WithUniqueNamesInMoreThanOneSource
 	public static Map<String,Set<WebPageDocument>> getPagesWUNIMTOS(
 			Map<String,List<WebPage>> domain2pages) throws Exception {
 		Map<String,Set<WebPageDocument>> ancora2pagesWUNIMTOS = new HashMap<>();
@@ -89,6 +146,7 @@ public class WebPageSelector {
 							if (setOfCurrentAncora == null) {
 								setOfCurrentAncora = new HashSet<>();
 							}
+							//TODO forse questo gli dà fastidio, in questa fase. magari rimanda la creazione a dopo
 							System.out.println("creo le pagine web");
 							WebPageDocument wpdOfCurrentPage = new WebPageDocument(currentPage,currentSource);
 							System.out.println("creata la prima");
@@ -102,10 +160,14 @@ public class WebPageSelector {
 							System.out.println("aggiunte alla lista");
 							ancora2pagesWUNIMTOS.put(currentAncora, setOfCurrentAncora);
 							System.out.println("aggiunto alla mappa");
+							//rimuovo l'elemento "other", in modo da snellire le mappe
+							otherPagesList.remove(otherPageWithSameAncora);
 						}
 					}
 				}
 			}
+			//rimuovo la sorgente corrente
+			domain2pages.remove(currentSource);
 			c++;
 		}
 		return ancora2pagesWUNIMTOS;
