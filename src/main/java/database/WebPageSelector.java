@@ -19,12 +19,15 @@ import model.WebPageDocument;
 public class WebPageSelector {
 
 	//raccolta di pagine con ancore uniche, del dominio specificato
+	//mvn -e exec:java -D exec.mainClass=test.TestPagineUniche
 	public static List<WebPage> getPageWithUniqueName(Source source) {
 		System.out.println("******ELABORO UNA NUOVA SORGENTE");
 		List<WebPage> pages = new ArrayList<>();
 		Map<String,List<WebPage>> ancora2pagine = new HashMap<>();
 		//scorro le sue pagine
 		for (int j=0;j<source.getPages().size();j++) {
+			if ((j+1)%100==0)
+				System.out.println("*****pagina numero: "+(j+1)+"/"+source.getPages().size());
 			WebPage currentPage = source.getPages().get(j);
 			String ancora = currentPage.getQuery().getQuery();
 			List<WebPage> pagineConAncora = ancora2pagine.get(ancora);
@@ -87,7 +90,7 @@ public class WebPageSelector {
 							WebPageDocument wpdOfCurrentPage = new WebPageDocument(currentPage,currentSource);
 							WebPageDocument wpdOfOtherPage = new WebPageDocument(otherPageWithSameAncora,
 									currentOtherSource);
-							
+
 							setOfCurrentAncora.add(wpdOfCurrentPage);
 							setOfCurrentAncora.add(wpdOfOtherPage);
 							ancora2pagesWUNIMTOS.put(currentAncora, setOfCurrentAncora);
