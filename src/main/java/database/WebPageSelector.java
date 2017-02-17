@@ -61,12 +61,15 @@ public class WebPageSelector {
 		Map<String,Set<WebPageDocument>> ancora2pagesWUNIMTOS = new HashMap<>();
 		//scorro le liste
 		Iterator<Source> domainIt = domain2pages.keySet().iterator();
+		int c=1;
 		while (domainIt.hasNext()) {
+			System.out.println("dominio numero "+(c));
 			Source currentSource = domainIt.next();
 			String currentDomain = currentSource.getId().toString();
 			List<WebPage> currentPagesList = domain2pages.get(currentSource);
 			//scorro la lista
 			for (int j=0;j<currentPagesList.size();j++) {
+				System.out.println("pagina "+(j+1)+"/"+currentPagesList.size());
 				//per ogni pagina della lista corrente
 				WebPage currentPage = currentPagesList.get(j);
 				String currentAncora = currentPage.getQuery().getQuery();
@@ -98,6 +101,7 @@ public class WebPageSelector {
 					}
 				}
 			}
+			c++;
 		}
 		return ancora2pagesWUNIMTOS;
 	}
