@@ -31,6 +31,8 @@ public class TestPagineUniche {
 			domain2pages.put(currentSource, pagesOfCurrentSource);
 		}
 
+		System.out.println("FINE PRIMO MODULO");
+		
 		//secondo modulo: filtri e selezioni le pagine di persone che compaiono in almeno 2 domini
 		Map<String,Set<WebPageDocument>> ancore2pagesWUNIMTOS = WebPageSelector.getPagesWUNIMTOS(domain2pages);
 		
