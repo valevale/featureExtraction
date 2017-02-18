@@ -1,5 +1,6 @@
 package main;
 
+import java.util.HashMap;
 import java.util.Map;
 
 import database.MongoFacade;
@@ -7,7 +8,7 @@ import model.Source;
 
 public class SourceRep {
 
-	static Map<String,Source> id2source;
+	static Map<String,Source> id2source = new HashMap<>();
 
 	public static void addSource(String id) {
 		MongoFacade facade = new MongoFacade("web_search_pages");
