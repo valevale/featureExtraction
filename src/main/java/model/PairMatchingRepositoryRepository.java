@@ -33,6 +33,8 @@ public class PairMatchingRepositoryRepository {
 	}
 
 	public PairMatchingRepository getTempRepository() {
+		if (this.temp_repository == null)
+			this.temp_repository = new PairMatchingRepository();
 		return this.temp_repository;
 	}
 

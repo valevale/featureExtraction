@@ -122,27 +122,29 @@ public class DomainsWrapper_pairMatching {
 
 		double threshold = Configurator.getCosSimThreshold();
 
-		//prendo i segmenti rilevanti della prima persona
-		//per ogni matching che supera la soglia, provo a aggiungere il matching al repository
-		//TODO teoricamente tutto questo metodo è molto inefficiente. per ora lascialo così, ma va migliorato
-		//parlo di getSegmentsFrom_server
-		//per esempio puoi salvarti la mappa dei matching, invece di fare sto segments2hits, ovunque
-		SegmentSearcher searcher = new SegmentSearcher(indexPathDominio1);
-		for (int j=0; j<segment2hits_primaPersona.size(); j++) {
-			Segment seg = segment2hits_primaPersona.get(j)._1();
-			TopDocs hits = segment2hits_primaPersona.get(j)._2();
-			for(ScoreDoc scoreDoc : hits.scoreDocs) {
-				if (scoreDoc.score >= threshold) {
-					org.apache.lucene.document.Document lucDoc = null;
-					try {
-						lucDoc = searcher.getDocument(scoreDoc);
-					} catch (Exception e) {
-						e.printStackTrace();
+		if (segment2hits_primaPersona.size() != 0 && segment2hits_secondaPersona.size() != 0) {
+			//prendo i segmenti rilevanti della prima persona
+			//per ogni matching che supera la soglia, provo a aggiungere il matching al repository
+			//TODO teoricamente tutto questo metodo è molto inefficiente. per ora lascialo così, ma va migliorato
+			//parlo di getSegmentsFrom_server
+			//per esempio puoi salvarti la mappa dei matching, invece di fare sto segments2hits, ovunque
+			SegmentSearcher searcher = new SegmentSearcher(indexPathDominio1);
+			for (int j=0; j<segment2hits_primaPersona.size(); j++) {
+				Segment seg = segment2hits_primaPersona.get(j)._1();
+				TopDocs hits = segment2hits_primaPersona.get(j)._2();
+				for(ScoreDoc scoreDoc : hits.scoreDocs) {
+					if (scoreDoc.score >= threshold) {
+						org.apache.lucene.document.Document lucDoc = null;
+						try {
+							lucDoc = searcher.getDocument(scoreDoc);
+						} catch (Exception e) {
+							e.printStackTrace();
+						}
+						Segment seg_secondDocument = secondDocument.getSegmentByXpath(lucDoc.get("segmentPath"));
+						id_found = addLink_new(seg, seg_secondDocument, thirdDocument, fourthDocument, scoreDoc.score,
+								relevantSegments_thirdDocument, relevantSegments_fourthDocument,
+								segment2hits_secondaPersona, indexPathDominio2, id_found);
 					}
-					Segment seg_secondDocument = secondDocument.getSegmentByXpath(lucDoc.get("segmentPath"));
-					id_found = addLink_new(seg, seg_secondDocument, thirdDocument, fourthDocument, scoreDoc.score,
-							relevantSegments_thirdDocument, relevantSegments_fourthDocument,
-							segment2hits_secondaPersona, indexPathDominio2, id_found);
 				}
 			}
 		}
@@ -405,13 +407,13 @@ public class DomainsWrapper_pairMatching {
 		System.out.println("CONTROLLO CHE XPATH SIA SIGNIFICATIVO");
 		String idSource = genericXpath.getIdDomain();
 		//TODO qui è meglio un repository
-//		MongoFacade facade = new MongoFacade("web_search_pages");
-//		Source source = facade.getSourceWithId(idSource);
+		//		MongoFacade facade = new MongoFacade("web_search_pages");
+		//		Source source = facade.getSourceWithId(idSource);
 		Source source = SourceRep.getSource(idSource);
 		Map<String,Integer> contenuto2volte = new HashMap<>();
 		int numeroPagineSenzaContenuto = 0;
 		//sarebbe bello analizzarle tutte, ma ci vuole troppo tempo, quindi farò le primo 100 :/
-//		for (int j=0;j<source.getPages().size();j++) {
+		//		for (int j=0;j<source.getPages().size();j++) {
 		for (int j=0;j<100;j++) {
 			if ((j+1)%10==0)
 				System.out.println("*****pagina numero: "+(j+1)+"/100");
