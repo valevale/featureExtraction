@@ -444,11 +444,11 @@ public class DomainsWrapper_pairMatching {
 		}
 		//ora valutiamo
 		//se il numero di pagine senza contenuto è minore del 50%
+		System.out.println("numeroPagineSenzaContenuto "+numeroPagineSenzaContenuto);
+		System.out.println("contenuto "+contenuto2volte.size());
 		if (numeroPagineSenzaContenuto < (100/2)) {
-			System.out.println("numeroPagineSenzaContenuto "+numeroPagineSenzaContenuto);
 			//se il numero di valori unici è maggiore del 80%
 			if (contenuto2volte.size() >= (80)) {
-				System.out.println("contenuto "+contenuto2volte.size());
 				System.out.println("significativo!!");
 				return true;
 			}
