@@ -410,9 +410,11 @@ public class DomainsWrapper_pairMatching {
 		Source source = SourceRep.getSource(idSource);
 		Map<String,Integer> contenuto2volte = new HashMap<>();
 		int numeroPagineSenzaContenuto = 0;
-		for (int j=0;j<source.getPages().size();j++) {
-			if ((j+1)%1000==0)
-				System.out.println("*****pagina numero: "+(j+1)+"/"+source.getPages().size());
+		//sarebbe bello analizzarle tutte, ma ci vuole troppo tempo, quindi farò le primo 100 :/
+//		for (int j=0;j<source.getPages().size();j++) {
+		for (int j=0;j<100;j++) {
+			if ((j+1)%10==0)
+				System.out.println("*****pagina numero: "+(j+1)+"/100");
 			//per ogni pagina, applico la xpath
 			WebPage currentPage = source.getPages().get(j);
 			Document doc = DocumentUtils.prepareDocument(currentPage.getHtml(), idSource);
