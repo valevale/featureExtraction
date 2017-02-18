@@ -57,7 +57,8 @@ public class Test {
 					//controllo che la prima persona presa non sia in blacklist
 					if (!mapContains(blacklist_persone,first_person,domain1,domain2)) {
 						System.out.println("prima persona non in bl");
-						for(int p2=p1+1;p2<listAncore.size();p2++) {
+						boolean firstPersonBanned = false;
+						for(int p2=p1+1;p2<listAncore.size() && !firstPersonBanned;p2++) {
 							String second_person = listAncore.get(p2);
 							System.out.println("p1: "+first_person);
 							System.out.println("p2: "+second_person);
@@ -98,6 +99,7 @@ public class Test {
 										}
 										listBannedDomainPairs.add(bannedDomainPairs);
 										blacklist_persone.put(first_person, listBannedDomainPairs);
+										firstPersonBanned = true;
 									}
 									if (esito ==2) {
 										//devo blacklistare la seconda persona
