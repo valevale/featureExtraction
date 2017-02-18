@@ -9,6 +9,7 @@ import java.util.Set;
 
 import database.MongoFacade;
 import database.WebPageSelector;
+import model.DomRepToClean;
 import model.Source;
 import model.WebPage;
 import model.WebPageDocument;
@@ -123,8 +124,11 @@ public class Test {
 	public static Map<String,List<WebPage>> selectDomainsAndGetPagesWithUniqueName() {
 		MongoFacade facade = new MongoFacade("web_search_pages");
 		Map<String,List<WebPage>> domain2pages = new HashMap<>();
+		DomRepToClean drtc = DomRepToClean.getInstance();
 		for (int i=0;i<idSorgenti.size();i++) {
 			Source currentSource = facade.getSourceWithId(idSorgenti.get(i));
+			drtc.addDomain(currentSource);
+			SourceRep.addSource(currentSource.getId().toString());
 			List<WebPage> pagesOfCurrentSource = WebPageSelector.getPageWithUniqueName(currentSource);
 			domain2pages.put(currentSource.getId().toString(), pagesOfCurrentSource);
 		}

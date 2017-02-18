@@ -8,7 +8,13 @@ import model.Source;
 public class SourceRep {
 
 	static Map<String,Source> id2source;
-	
+
+	public static void addSource(String id) {
+		MongoFacade facade = new MongoFacade("web_search_pages");
+		Source s = facade.getSourceWithId(id);
+		id2source.put(id, s);
+	}
+
 	public static Source getSource(String id) {
 		Source s = id2source.get(id);
 		if (s == null) {
@@ -18,5 +24,5 @@ public class SourceRep {
 		}
 		return s;
 	}
-	
+
 }
