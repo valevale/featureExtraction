@@ -448,6 +448,7 @@ public class DomainsWrapper_pairMatching {
 			System.out.println("numeroPagineSenzaContenuto "+numeroPagineSenzaContenuto);
 			//se il numero di valori unici è maggiore del 80%
 			if (contenuto2volte.size() >= (80)) {
+				System.out.println("contenuto "+contenuto2volte.size());
 				System.out.println("significativo!!");
 				return true;
 			}
