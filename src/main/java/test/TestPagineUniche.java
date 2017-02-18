@@ -41,24 +41,24 @@ public class TestPagineUniche {
 		System.out.println("FINE PRIMO MODULO");
 		
 		//secondo modulo: filtri e selezioni le pagine di persone che compaiono in almeno 2 domini
-		Map<String,Set<WebPage>> ancore2pagesWUNIMTOS = WebPageSelector.getPagesWUNIMTOS_new(
-				idDomain2pages);
-		
-		PrintWriter testPrinterMap = new PrintWriter("testPagineUniche.txt", "UTF-8");
-		Iterator<String> it = ancore2pagesWUNIMTOS.keySet().iterator();
-		while (it.hasNext()) {
-			String ancora = it.next();
-			Set<WebPage> set = ancore2pagesWUNIMTOS.get(ancora);
-			testPrinterMap.print(ancora+" -> "+set.size()+" (");
-			Iterator<WebPage> wpit = set.iterator();
-			while (wpit.hasNext()) {
-				WebPage w = wpit.next();
-				testPrinterMap.println(w.getId().toString()+"||||");
-			}
-			testPrinterMap.println(");");
-			testPrinterMap.println();
-		}
-		testPrinterMap.close();
+//		Map<String,Set<WebPage>> ancore2pagesWUNIMTOS = WebPageSelector.getPagesWUNIMTOS_new(
+//				idDomain2pages);
+//		
+//		PrintWriter testPrinterMap = new PrintWriter("testPagineUniche.txt", "UTF-8");
+//		Iterator<String> it = ancore2pagesWUNIMTOS.keySet().iterator();
+//		while (it.hasNext()) {
+//			String ancora = it.next();
+//			Set<WebPage> set = ancore2pagesWUNIMTOS.get(ancora);
+//			testPrinterMap.print(ancora+" -> "+set.size()+" (");
+//			Iterator<WebPage> wpit = set.iterator();
+//			while (wpit.hasNext()) {
+//				WebPage w = wpit.next();
+//				testPrinterMap.println(w.getId().toString()+"||||");
+//			}
+//			testPrinterMap.println(");");
+//			testPrinterMap.println();
+//		}
+//		testPrinterMap.close();
 	}
 
 }

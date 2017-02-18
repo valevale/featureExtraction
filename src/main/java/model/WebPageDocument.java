@@ -13,6 +13,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.safety.Whitelist;
 
 import configurations.Configurator;
+import lib.utils.DocumentUtils;
 import segmentation.DocumentCleaner;
 import segmentation.SegmentExtractor;
 
@@ -52,7 +53,7 @@ public class WebPageDocument {
 
 	//TODO metti in una configurazione questi parametri
 	public WebPageDocument(WebPage webpage, String source) throws Exception {
-		this.document_jsoup = prepareDocument_server(webpage.getHtml(), source);
+		this.document_jsoup = DocumentUtils.prepareDocument(webpage.getHtml(), source);
 		this.document_w3c = new W3CDom().fromJsoup(this.document_jsoup);
 		DomainsRepository domRep = DomainsRepository.getInstance();
 		this.dSource = domRep.createDomain(source);
@@ -135,15 +136,6 @@ public class WebPageDocument {
 		return documentCleaned;
 	}
 
-	/*pulisce la pagina*/
-	private Document prepareDocument_server(String html_document, String source) throws Exception {
-		String htmlDocumentString = html_document;
-		String cleanedHTML = Jsoup.clean(htmlDocumentString, Whitelist.relaxed()
-				.addAttributes(":all", "class", "id"));
-		Document document = Jsoup.parse(cleanedHTML);
-		DocumentCleaner docCleaner = DocumentCleaner.getInstance();
-		Document documentCleaned = docCleaner.removeTemplate_server(document, source);
-		return documentCleaned;
-	}
+	
 
 }

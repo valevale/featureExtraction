@@ -9,8 +9,8 @@ import javax.xml.xpath.XPathExpressionException;
 import org.jsoup.nodes.Node;
 import org.w3c.dom.NodeList;
 
-import xpath.utils.XpathApplier;
-import xpath.utils.XpathMaker;
+import lib.utils.XpathApplier;
+import lib.utils.XpathMaker;
 
 public class XpathVersions {
 

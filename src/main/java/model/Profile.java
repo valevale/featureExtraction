@@ -12,8 +12,8 @@ import org.jsoup.nodes.Document;
 import org.jsoup.safety.Whitelist;
 import org.w3c.dom.NodeList;
 
+import lib.utils.XpathApplier;
 import segmentation.DocumentCleaner;
-import xpath.utils.XpathApplier;
 
 public class Profile {
 

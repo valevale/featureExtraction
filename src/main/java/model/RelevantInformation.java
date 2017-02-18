@@ -6,7 +6,7 @@ import javax.xml.xpath.XPathExpressionException;
 
 import org.w3c.dom.NodeList;
 
-import xpath.utils.XpathApplier;
+import lib.utils.XpathApplier;
 
 public class RelevantInformation {
 

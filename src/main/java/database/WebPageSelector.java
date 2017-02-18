@@ -13,6 +13,7 @@ import model.WebPage;
 import model.WebPageDocument;
 //import scala.Tuple2;
 //import scala.Tuple2;
+import scala.Tuple2;
 
 /*classe che serve per prendere certi tipi di pagine
  * */
@@ -56,9 +57,9 @@ public class WebPageSelector {
 	//dato una lista di domini (o insomma la lista delle liste delle pagine con ancore uniche di quei domini)
 	//restituisci una lista delle pagine (o delle sole ancore) presenti in almeno 2 domini
 	//WUNIMTOS = WithUniqueNamesInMoreThanOneSource
-	public static Map<String,Set<WebPage>> getPagesWUNIMTOS_new(
+	public static Map<String,Set<Tuple2<String,WebPage>>> getPagesWUNIMTOS_new(
 			Map<String,List<WebPage>> domain2pages) throws Exception {
-		Map<String,Set<WebPage>> ancora2pagesWUNIMTOS = new HashMap<>();
+		Map<String,Set<Tuple2<String,WebPage>>> ancora2pagesWUNIMTOS = new HashMap<>();
 		//scorro le liste
 		Iterator<String> domainIt = domain2pages.keySet().iterator();
 		int c=1;
@@ -83,28 +84,19 @@ public class WebPageSelector {
 						WebPage otherPageWithSameAncora = searchPageWith(currentAncora,otherPagesList);
 						if (otherPageWithSameAncora != null) {
 							//cerco l'ancora
-							Set<WebPage> setOfCurrentAncora = 
+							Set<Tuple2<String,WebPage>> setOfCurrentAncora = 
 									ancora2pagesWUNIMTOS.get(currentAncora);
-							System.out.println("ho preso il set con l'ancora corrente");
 							if (setOfCurrentAncora == null) {
 								setOfCurrentAncora = new HashSet<>();
 							}
-							//TODO forse questo gli dà fastidio, in questa fase. magari rimanda la creazione a dopo
+							setOfCurrentAncora.add(new Tuple2<>(currentSource, currentPage));
+							setOfCurrentAncora.add(new Tuple2<>(currentOtherSource,otherPageWithSameAncora));
 
-							setOfCurrentAncora.add(currentPage);
-							setOfCurrentAncora.add(otherPageWithSameAncora);
-
-							System.out.println("aggiunte alla lista");
 							ancora2pagesWUNIMTOS.put(currentAncora, setOfCurrentAncora);
-							System.out.println("aggiunto alla mappa");
-							//rimuovo l'elemento "other", in modo da snellire le mappe
-//							otherPagesList.remove(otherPageWithSameAncora);
 						}
 					}
 				}
 			}
-			//rimuovo la sorgente corrente
-//			domain2pages.remove(currentSource);
 			c++;
 		}
 		return ancora2pagesWUNIMTOS;
@@ -146,7 +138,6 @@ public class WebPageSelector {
 							if (setOfCurrentAncora == null) {
 								setOfCurrentAncora = new HashSet<>();
 							}
-							//TODO forse questo gli dà fastidio, in questa fase. magari rimanda la creazione a dopo
 							System.out.println("creo le pagine web");
 							WebPageDocument wpdOfCurrentPage = new WebPageDocument(currentPage,currentSource);
 							System.out.println("creata la prima");

@@ -1,6 +1,6 @@
 package main;
 
-import java.io.File;
+
 import java.io.PrintWriter;
 import java.text.DecimalFormat;
 import java.util.ArrayList;
@@ -15,6 +15,7 @@ import org.w3c.dom.NodeList;
 
 import database.MongoFacade;
 import database.WebPageSelector;
+import lib.utils.XpathApplier;
 import model.PairMatching;
 import model.PairMatchingRepository;
 import model.PairMatchingRepositoryRepository;
@@ -23,45 +24,14 @@ import model.WebPage;
 import model.WebPageDocument;
 import model.Xpath;
 import scala.Tuple2;
-import xpath.utils.XpathApplier;
 
 /* questo main serve per un task esplorativo in cui cerchiamo di capire se vogliamo dei Matching
  * numerosi o dei cluster di Matching (non avremo un singolo matching sdoppiato)*/
 public class PairMatchingMaker {
-//	static String path = "testGenericXpath/persone/";
-	// refactoring, va parametrizzato. per ora individua a che servono
-//	static int n1 = 1;
-//	static int n2 = 2;
-//	static int n3 = 3;
-//	static int n4 = 4;
-//	static int parN1 = 1;
-//	static int parN2 = 2;
-	// fai una classe di configurazione
-	//	static double parameterTextFusion = -1;
 	static List<String> idSorgenti = new ArrayList<>();
 
 	public static Map<Tuple2<Integer,Integer>,Set<PairMatching>> getMainMatchings() throws Exception {
-
-		//fase di raccolta dei matching
-		// migliora qui!!
-		// ho bisogno di un repository per le pagine pulite... o insomma un repository per questo oggetto
-		//per una questione di efficienza, memorizzo qui i web page documenti
-		//		Map<Tuple2<Integer,Integer>,WebPageDocument> personDomain2document = new HashMap<>();
-		//		for(int p=1;p<=7;p++){
-		//			for(int j=1;j<=5;j++) {
-		//				String currentFolder = path+"p"+p+"/";
-		//				String dPath = currentFolder+"orig"+j+".html";
-		//				File d = new File(dPath);
-		//				if (d.exists()) {
-		//					WebPageDocument w = new WebPageDocument(
-		//							new File(path+"p"+p+"/"+"orig"+j+".html"), 
-		//							j, path+"p"+p+"/", 
-		//							parameterTextFusion, j);
-		//					personDomain2document.put(new Tuple2<>(p,j), w);
-		//				}
-		//			}
-		//		}
-
+		//	public static void getMainMatchings() throws Exception {
 		//al posto di questo, devi recuperare un insieme di pagine web dal dataset
 		//-scegli un insieme di domini (per ora i soliti 5)
 		//-trovi le persone con un'ancora unica e che sono presenti in almeno 2 domini
@@ -72,100 +42,84 @@ public class PairMatchingMaker {
 		inizializzaLista();
 		//primo modulo: raccolta di pagine con ancore uniche dai domini scelti
 		//magari poi puoi vedere se anche con la source sfigata ci sono abbastanza pagine
-		Map<Source,List<WebPage>> domain2pages = selectDomainsAndGetPagesWithUniqueName();
+		Map<String,List<WebPage>> domain2pages = selectDomainsAndGetPagesWithUniqueName();
 
 		//secondo modulo: filtri e selezioni le pagine di persone che compaiono in almeno 2 domini
 		//WUNIMTOS = WithUniqueNamesInMoreThanOneSource
-//		Map<String,Set<WebPageDocument>> ancore2pagesWUNIMTOS = WebPageSelector.getPagesWUNIMTOS(domain2pages);
-		//TODO prima testa la raccolta di queste pagine
+		Map<String,Set<Tuple2<String,WebPage>>> ancore2pagesWUNIMTOS = 
+				WebPageSelector.getPagesWUNIMTOS_new(domain2pages);
 
-		//TODO il prossimo passo funziona solo se ci sono almeno 2 persone per dominio.
-		//durante il test assicurati che sia così
+		//contiene la lista di persone da blacklistare
+		//ancora_dominio1_dominio2
+		Map<String,List<Tuple2<String,String>>> blacklist_persone = new HashMap<>();
 
-		//devo iterare in qualche modo...
-		//candidati: due persone con gli stessi domini
-//		for (int i=0;i<idSorgenti.size();i++) {
-//			for (int j=i+1;j<idSorgenti.size();j++) {
-//				String domain1 = idSorgenti.get(i);
-//				String domain2 = idSorgenti.get(j);
-//				//scorro le ancore
-//				List<String> setAncore = new ArrayList<>(ancore2pagesWUNIMTOS.keySet());
-//				for (int p1=0;p1<setAncore.size();p1++) {
-//					for(int p2=p1+1;p2<setAncore.size();p2++) {
-//						String first_person = setAncore.get(p1);
-//						String second_person = setAncore.get(p2);
-//						Set<WebPageDocument> documentsP1 = ancore2pagesWUNIMTOS.get(first_person);
-//						Set<WebPageDocument> documentsP2 = ancore2pagesWUNIMTOS.get(second_person);
-//						//voglio i documenti con le sorgenti domain1 e domain2
-//						WebPageDocument wpd_p1_d1 = getWPD(documentsP1, domain1);
-//						WebPageDocument wpd_p1_d2 = getWPD(documentsP1, domain2);
-//						WebPageDocument wpd_p2_d1 = getWPD(documentsP2, domain1);
-//						WebPageDocument wpd_p2_d2 = getWPD(documentsP2, domain2);
-//						if (wpd_p1_d1!=null && wpd_p1_d2!=null
-//								&& wpd_p2_d1!=null && wpd_p2_d2!=null) {
-//							DomainsWrapper_pairMatching.getSegmentsFrom_server(
-//									wpd_p1_d1, wpd_p1_d2, first_person,
-//									wpd_p2_d1, wpd_p2_d2, second_person);
-//						}
-		//TODO dopo aver creato i matching, puoi liberare dalla memoria questi documenti
-//					}
-//				}
-//			}
-//		}
+		//il prossimo passo funziona solo se ci sono almeno 2 persone per dominio.
+		for (int i=0;i<idSorgenti.size();i++) {
+			for (int j=i+1;j<idSorgenti.size();j++) {
+				String domain1 = idSorgenti.get(i);
+				String domain2 = idSorgenti.get(j);
+				//scorro le ancore
+				List<String> listAncore = new ArrayList<>(ancore2pagesWUNIMTOS.keySet());
+				for (int p1=0;p1<listAncore.size();p1++) {
+					for(int p2=p1+1;p2<listAncore.size();p2++) {
+						String first_person = listAncore.get(p1);
+						String second_person = listAncore.get(p2);
+						//controllo che la seconda persona presa non sia in blacklist
+						if (mapContains(blacklist_persone,second_person,domain1,domain2)) {
+							Set<Tuple2<String,WebPage>> documentsP1 = ancore2pagesWUNIMTOS.get(first_person);
+							Set<Tuple2<String,WebPage>> documentsP2 = ancore2pagesWUNIMTOS.get(second_person);
+							//voglio i documenti con le sorgenti domain1 e domain2
+							WebPage wp_p1_d1 = getWP(documentsP1, domain1);
+							WebPage wp_p1_d2 = getWP(documentsP1, domain2);
+							WebPage wp_p2_d1 = getWP(documentsP2, domain1);
+							WebPage wp_p2_d2 = getWP(documentsP2, domain2);
+							if (wp_p1_d1!=null && wp_p1_d2!=null
+									&& wp_p2_d1!=null && wp_p2_d2!=null) {
+								//creo i documenti
+								WebPageDocument wpd_p1_d1 = new WebPageDocument(wp_p1_d1, domain1);
+								WebPageDocument wpd_p1_d2 = new WebPageDocument(wp_p1_d2, domain2);
+								WebPageDocument wpd_p2_d1 = new WebPageDocument(wp_p2_d1, domain1);
+								WebPageDocument wpd_p2_d2 = new WebPageDocument(wp_p2_d2, domain2);
+								//nota: il booleano finale si tratta di id_found, che dice se
+								//all'interno del processo è stata identificata una coppia di
+								//xpath identificative, permettendoci di capire se
+								//stiamo usando 2 coppie di pagine che parlano ciascuna della stessa persona, o no
+								int esito = DomainsWrapper_pairMatching.getSegmentsFrom_server(
+										wpd_p1_d1, wpd_p1_d2, first_person,
+										wpd_p2_d1, wpd_p2_d2, second_person, false);
 
-		//più efficienza con la creazione delle webpage
-//		for(int k=1;k<=4;k++) {
-//			for (int k2=k+1;k2<=5;k2++) {
-//				int domain1 = k;
-//				int domain2 = k2;
-//
-//				for (int i=1;i<=7;i++) {
-//					for (int j=(i+1);j<=7;j++) {
-//
-//						System.out.println("***"+i+" "+j);
-//
-//						String d1Folder = path+"p"+i+"/";
-//						String d2Folder = path+"p"+i+"/";
-//						String d3Folder = path+"p"+j+"/";
-//						String d4Folder = path+"p"+j+"/";
-//
-//						String d1Path = d1Folder+"orig"+domain1+".html";
-//						String d2Path = d2Folder+"orig"+domain2+".html";
-//
-//						String d3Path = d3Folder+"orig"+domain1+".html";
-//						String d4Path = d4Folder+"orig"+domain2+".html";
-//
-//						System.out.println("d1: "+d1Path);
-//						System.out.println("d2: "+d2Path);
-//						System.out.println("d3: "+d3Path);
-//						System.out.println("d4: "+d4Path);
-//
-//
-//						File d1 = new File(d1Path);
-//						File d2 = new File(d2Path);
-//
-//						File d3 = new File(d3Path);
-//						File d4 = new File(d4Path);
-//
-//						if (d1.exists() && d2.exists() && d3.exists() && d4.exists()) {
-//							System.out.println("Trovati documenti");
-//
-//							WebPageDocument firstDocument = new WebPageDocument(d1, domain1, d1Folder, 
-//									parameterTextFusion, domain1);
-//							WebPageDocument secondDocument = new WebPageDocument(d2, domain2, d2Folder, 
-//									parameterTextFusion, domain2);
-//							WebPageDocument thirdDocument = new WebPageDocument(d3, domain1, d3Folder, 
-//									parameterTextFusion, domain1);
-//							WebPageDocument fourthDocument = new WebPageDocument(d4, domain2, d4Folder, 
-//									parameterTextFusion, domain2);
-//
-//							DomainsWrapper_pairMatching.getSegmentsFrom(firstDocument, secondDocument, 
-//									thirdDocument, fourthDocument, d1Folder, d3Folder, domain1, domain2, domain1, domain2);
-//						}
-//					}
-//				}
-//			}
-//		}
+								if (esito ==1) {
+									//devo blacklistare la prima persona
+									Tuple2<String,String> bannedDomainPairs = new Tuple2<>(domain1,domain2);
+									List<Tuple2<String,String>> listBannedDomainPairs =
+											blacklist_persone.get(first_person);
+									if (listBannedDomainPairs == null) {
+										listBannedDomainPairs = new ArrayList<>();
+									}
+									listBannedDomainPairs.add(bannedDomainPairs);
+									blacklist_persone.put(first_person, listBannedDomainPairs);
+								}
+								if (esito ==2) {
+									//devo blacklistare la seconda persona
+									Tuple2<String,String> bannedDomainPairs = new Tuple2<>(domain1,domain2);
+									List<Tuple2<String,String>> listBannedDomainPairs =
+											blacklist_persone.get(second_person);
+									if (listBannedDomainPairs == null) {
+										listBannedDomainPairs = new ArrayList<>();
+									}
+									listBannedDomainPairs.add(bannedDomainPairs);
+									blacklist_persone.put(second_person, listBannedDomainPairs);
+								}
+								//TODO dopo aver creato i matching, puoi liberare dalla memoria questi documenti
+								//se serve
+							}
+						}
+					}
+				}
+			}
+		}
+
+		//TODO riaggiungi il pezzo di codice delle stampe
 
 		//calcolo, per ogni xpath di ogni coppia, quanti domini riesce a raggiungere
 		for (int i=1;i<=4;i++) {
@@ -200,22 +154,26 @@ public class PairMatchingMaker {
 			}
 		}
 
-		//stampiamo i collegamenti
-//		XpathApplier xapplier = XpathApplier.getInstance();
+//		stampiamo i collegamenti
+		XpathApplier xapplier = XpathApplier.getInstance();
 		PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
 
 		//stampo il contenuto dei repository
 		// cancellare questo pezzo di codice quando non serve più la stampa
 		//scorro i domini
-//		for(int k=1;k<=4;k++) {
-//			for (int k2=k+1;k2<=5;k2++) {
-//				int domain1 = k;
-//				int domain2 = k2;
-//				PrintWriter testPrinter = new PrintWriter(path+"pairMatchings"+domain1+"_"+domain2+".csv", "UTF-8");
-//
-//				PairMatchingRepository currentRepository = pmr.getRepository(domain1, domain2);
-//
-//				//scorro le persone
+		//stampo il contenuto dei repository
+		// cancellare questo pezzo di codice quando non serve più la stampa
+		//scorro i domini
+		for(int k=1;k<=4;k++) {
+			for (int k2=k+1;k2<=5;k2++) {
+				int domain1 = k;
+				int domain2 = k2;
+				//TODO il path
+				PrintWriter testPrinter = new PrintWriter("pairMatchings"+domain1+"_"+domain2+".csv", "UTF-8");
+
+				PairMatchingRepository currentRepository = pmr.getRepository(domain1, domain2);
+
+				//scorro le persone
 //				for (int p=1;p<=7;p++) {
 //
 //					WebPageDocument w1 = personDomain2document.get(new Tuple2<>(p,domain1));
@@ -267,10 +225,11 @@ public class PairMatchingMaker {
 //					} //fine if d1 e d2 exist
 //					testPrinter.println();
 //				} //fine for persone
-//				testPrinter.close();
-//			}
-//
-//		} //fine scorrimento domini
+				testPrinter.close();
+			}
+
+		} //fine scorrimento domini/		
+
 
 
 		//ora elimino dalle repository le coppie che
@@ -417,13 +376,13 @@ public class PairMatchingMaker {
 		return null;
 	}
 
-	public static Map<Source,List<WebPage>> selectDomainsAndGetPagesWithUniqueName() {
+	public static Map<String,List<WebPage>> selectDomainsAndGetPagesWithUniqueName() {
 		MongoFacade facade = new MongoFacade("web_search_pages");
-		Map<Source,List<WebPage>> domain2pages = new HashMap<>();
+		Map<String,List<WebPage>> domain2pages = new HashMap<>();
 		for (int i=0;i<idSorgenti.size();i++) {
 			Source currentSource = facade.getSourceWithId(idSorgenti.get(i));
 			List<WebPage> pagesOfCurrentSource = WebPageSelector.getPageWithUniqueName(currentSource);
-			domain2pages.put(currentSource, pagesOfCurrentSource);
+			domain2pages.put(currentSource.getId().toString(), pagesOfCurrentSource);
 		}
 		//		Source currentSource = facade.getSourceWithId("5750678b3387e31f516fa1c7");
 		//		List<WebPage> pagesOfCurrentSource = WebPageSelector.getPageWithUniqueName(currentSource);
@@ -452,15 +411,30 @@ public class PairMatchingMaker {
 	}
 
 	//restituisce il documento con il dominio richiesto, o null se non presente
-	public static WebPageDocument getWPD(Set<WebPageDocument> documents, String idDomain) {
-		Iterator<WebPageDocument> docIt = documents.iterator();
-		while (docIt.hasNext()) {
-			WebPageDocument currentDoc = docIt.next();
-			if (currentDoc.getIdDomain().equals(idDomain)) {
-				return currentDoc;
+	public static WebPage getWP(Set<Tuple2<String,WebPage>> documents, String idDomain) {
+		Iterator<Tuple2<String,WebPage>> pagesIt = documents.iterator();
+		while (pagesIt.hasNext()) {
+			Tuple2<String,WebPage> currentTuple = pagesIt.next();
+			if (currentTuple._1().equals(idDomain)) {
+				return currentTuple._2();
 			}
 		}
 		return null;
+	}
+
+	public static boolean mapContains(Map<String,List<Tuple2<String,String>>> blacklist_persone,
+			String second_person, String domain1, String domain2) {
+		List<Tuple2<String,String>> domains = blacklist_persone.get(second_person);
+		if (domains != null) {
+			for (int i=0;i<domains.size();i++) {
+				Tuple2<String,String> currentDomainPair = domains.get(i);
+				if (currentDomainPair._1().equals(domain1) && currentDomainPair._2().equals(domain2))
+					return true;
+				if (currentDomainPair._1().equals(domain2) && currentDomainPair._2().equals(domain1))
+					return true;
+			}
+		}
+		return false;
 	}
 }
 

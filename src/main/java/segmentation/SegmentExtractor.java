@@ -13,10 +13,10 @@ import org.jsoup.nodes.Node;
 import org.xml.sax.SAXException;
 
 import lib.utils.NodeUtils;
+import lib.utils.XpathApplier;
+import lib.utils.XpathMaker;
 import model.Segment;
 import model.WebPageDocument;
-import xpath.utils.XpathApplier;
-import xpath.utils.XpathMaker;
 
 public class SegmentExtractor {
 
