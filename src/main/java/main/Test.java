@@ -47,21 +47,21 @@ public class Test {
 			for (int j=i+1;j<idSorgenti.size();j++) {
 				String domain1 = idSorgenti.get(i);
 				String domain2 = idSorgenti.get(j);
+				System.out.println("d1: "+domain1.substring(domain1.length()-4, domain1.length()));
+				System.out.println("d2: "+domain2.substring(domain2.length()-4, domain2.length()));
 				//scorro le ancore
 				List<String> listAncore = new ArrayList<>(ancore2pagesWUNIMTOS.keySet());
 				for (int p1=0;p1<listAncore.size();p1++) {
 					String first_person = listAncore.get(p1);
 					//controllo che la prima persona presa non sia in blacklist
-					if (mapContains(blacklist_persone,first_person,domain1,domain2)) {
+					if (!mapContains(blacklist_persone,first_person,domain1,domain2)) {
 						System.out.println("prima persona non in bl");
 						for(int p2=p1+1;p2<listAncore.size();p2++) {
 							String second_person = listAncore.get(p2);
-							System.out.println("d1: "+domain1.substring(domain1.length()-4, domain1.length()));
-							System.out.println("d2: "+domain2.substring(domain2.length()-4, domain2.length()));
 							System.out.println("p1: "+first_person);
 							System.out.println("p2: "+second_person);
 							//controllo che la seconda persona presa non sia in blacklist
-							if (mapContains(blacklist_persone,second_person,domain1,domain2)) {
+							if (!mapContains(blacklist_persone,second_person,domain1,domain2)) {
 								System.out.println("seconda persona non in bl");
 								Set<Tuple2<String,WebPage>> documentsP1 = ancore2pagesWUNIMTOS.get(first_person);
 								Set<Tuple2<String,WebPage>> documentsP2 = ancore2pagesWUNIMTOS.get(second_person);
