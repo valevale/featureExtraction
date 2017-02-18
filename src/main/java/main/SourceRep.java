@@ -10,10 +10,8 @@ public class SourceRep {
 
 	static Map<String,Source> id2source = new HashMap<>();
 
-	public static void addSource(String id) {
-		MongoFacade facade = new MongoFacade("web_search_pages");
-		Source s = facade.getSourceWithId(id);
-		id2source.put(id, s);
+	public static void addSource(Source s) {
+		id2source.put(s.getId().toString(), s);
 	}
 
 	public static Source getSource(String id) {

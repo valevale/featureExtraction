@@ -427,7 +427,9 @@ public class DomainsWrapper_pairMatching {
 			//se il numero di volte incontrato supera 3, tolgo l'elemento dalla mappa
 			if (nl.getLength() != 0) {
 				String currentContent = nl.item(0).getTextContent();
-				int volte = contenuto2volte.get(currentContent);
+				Integer volte = contenuto2volte.get(currentContent);
+				if (volte == null)
+					volte = 0;
 				volte++;
 				if (volte <= 3)
 					contenuto2volte.put(currentContent, volte);

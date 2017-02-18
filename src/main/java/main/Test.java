@@ -128,7 +128,7 @@ public class Test {
 		for (int i=0;i<idSorgenti.size();i++) {
 			Source currentSource = facade.getSourceWithId(idSorgenti.get(i));
 			drtc.addDomain(currentSource);
-			SourceRep.addSource(currentSource.getId().toString());
+			SourceRep.addSource(currentSource);
 			List<WebPage> pagesOfCurrentSource = WebPageSelector.getPageWithUniqueName(currentSource);
 			domain2pages.put(currentSource.getId().toString(), pagesOfCurrentSource);
 		}
