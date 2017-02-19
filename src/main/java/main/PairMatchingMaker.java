@@ -143,6 +143,7 @@ public class PairMatchingMaker {
 											//tipo quando hai avuto 10 successi con questa persona,
 											//"blacklista" anche lei
 											if (successiPrimaPersona >= 3) {
+												System.out.println("sufficienti successi con p1");
 												//devo blacklistare la prima persona
 												Tuple2<String,String> bannedDomainPairs = new Tuple2<>(domain1,domain2);
 												List<Tuple2<String,String>> listBannedDomainPairs =
@@ -156,6 +157,7 @@ public class PairMatchingMaker {
 											}
 
 											if (successiSecondaPersona >= 3) {
+												System.out.println("sufficienti successi con p2");
 												//devo blacklistare la seconda persona
 												Tuple2<String,String> bannedDomainPairs = new Tuple2<>(domain1,domain2);
 												List<Tuple2<String,String>> listBannedDomainPairs =
@@ -516,11 +518,15 @@ public class PairMatchingMaker {
 	public static boolean sufficientiSuccessi(Map<String,Integer> dominio2successi,
 			String dom1, String dom2) {
 		int successi1 = dominio2successi.get(dom1);
-		if (successi1 >= 5)
+		if (successi1 >= 5) {
+			System.out.println("sufficienti successi con d1");
 			return true;
+		}
 		int successi2 = dominio2successi.get(dom2);
-		if (successi2 >= 5)
+		if (successi2 >= 5) {
+			System.out.println("sufficienti successi con d2");
 			return true;
+		}
 		return false;
 	}
 }
