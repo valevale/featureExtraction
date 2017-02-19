@@ -31,6 +31,7 @@ public class PairMatchingMaker {
 	static int successiPersona = 5;
 	static int successiDominio = 10;
 	static int sufficientiSuccessi = 10;
+	static int sufficientiSuccessi_pb = 5;
 	//	static List<String> idSorgenti = new ArrayList<>();
 	static PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
 
@@ -524,6 +525,11 @@ public class PairMatchingMaker {
 		while (domIt.hasNext()) {
 			String curDom = domIt.next();
 			int successi = dominio2successi.get(curDom);
+			//TODO stringa speciale per pagine bianche perché è poco gestibile
+			if (curDom.equals("5750678a3387e31f516fa185")) {
+				if (successi < sufficientiSuccessi_pb)
+					return false;
+			}
 			if (successi < sufficientiSuccessi)
 				return false;
 		}
