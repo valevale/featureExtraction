@@ -79,8 +79,6 @@ public class PairMatchingMaker {
 									&& !fine_apprendimento;p2++) {
 								String second_person = listAncore.get(p2);
 								int successiSecondaPersona = 0;
-								System.out.println("p1: "+first_person);
-								System.out.println("p2: "+second_person);
 								//controllo che la seconda persona presa non sia in blacklist
 								if (!mapContains(blacklist_persone,second_person,domain1,domain2)) {
 									Set<Tuple2<String,WebPage>> documentsP1 = ancore2pagesWUNIMTOS.get(first_person);
@@ -92,6 +90,8 @@ public class PairMatchingMaker {
 									WebPage wp_p2_d2 = getWP(documentsP2, domain2);
 									if (wp_p1_d1!=null && wp_p1_d2!=null
 											&& wp_p2_d1!=null && wp_p2_d2!=null) {
+										System.out.println("p1: "+first_person);
+										System.out.println("p2: "+second_person);
 										//creo i documenti
 										WebPageDocument wpd_p1_d1 = new WebPageDocument(wp_p1_d1, domain1);
 										WebPageDocument wpd_p1_d2 = new WebPageDocument(wp_p1_d2, domain2);
@@ -522,12 +522,8 @@ public class PairMatchingMaker {
 	public static boolean sufficientiSuccessi(Map<String,Integer> dominio2successi,
 			String dom1, String dom2) {
 		int successi1 = dominio2successi.get(dom1);
-		if (successi1 >= 5) {
-			System.out.println("sufficienti successi con d1");
-			return true;
-		}
 		int successi2 = dominio2successi.get(dom2);
-		if (successi2 >= 5) {
+		if (successi2 >= 5 && successi1 >= 5) {
 			System.out.println("sufficienti successi con d2");
 			return true;
 		}

@@ -449,7 +449,7 @@ public class DomainsWrapper_pairMatching {
 		System.out.println("contenuto "+contenuto2volte.size());
 		if (numeroPagineSenzaContenuto < (100/2)) {
 			//se il numero di valori unici è maggiore del 80%
-			if (contenuto2volte.size() >= (70)) {
+			if (contenuto2volte.size() >= (65)) {
 //				System.out.println("significativo!!");
 				return true;
 			}
