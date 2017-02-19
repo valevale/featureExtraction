@@ -25,6 +25,10 @@ import scala.Tuple2;
 /* questo main serve per un task esplorativo in cui cerchiamo di capire se vogliamo dei Matching
  * numerosi o dei cluster di Matching (non avremo un singolo matching sdoppiato)*/
 public class PairMatchingMaker {
+	
+	static int successiPersona = 10;
+	static int successiDominio = 25;
+	static int sufficientiSuccessi = 10;
 	//	static List<String> idSorgenti = new ArrayList<>();
 	static PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
 
@@ -148,7 +152,7 @@ public class PairMatchingMaker {
 											//una certa persona
 											//tipo quando hai avuto 10 successi con questa persona,
 											//"blacklista" anche lei
-											if (successiPrimaPersona >= 3) {
+											if (successiPrimaPersona >= successiPersona) {
 												System.out.println("sufficienti successi con p1");
 												//devo blacklistare la prima persona
 												Tuple2<String,String> bannedDomainPairs = new Tuple2<>(domain1,domain2);
@@ -162,7 +166,7 @@ public class PairMatchingMaker {
 												firstPersonBanned = true;
 											}
 
-											if (successiSecondaPersona >= 3) {
+											if (successiSecondaPersona >= successiPersona) {
 												System.out.println("sufficienti successi con p2");
 												//devo blacklistare la seconda persona
 												Tuple2<String,String> bannedDomainPairs = new Tuple2<>(domain1,domain2);
@@ -514,7 +518,7 @@ public class PairMatchingMaker {
 		while (domIt.hasNext()) {
 			String curDom = domIt.next();
 			int successi = dominio2successi.get(curDom);
-			if (successi < 3)
+			if (successi < sufficientiSuccessi)
 				return false;
 		}
 		return true;
@@ -525,7 +529,7 @@ public class PairMatchingMaker {
 			String dom1, String dom2) {
 		int successi1 = dominio2successi.get(dom1);
 		int successi2 = dominio2successi.get(dom2);
-		if (successi2 >= 5 && successi1 >= 5) {
+		if (successi2 >= successiDominio && successi1 >= successiDominio) {
 			System.out.println("sufficienti successi con d1 e d2");
 			return true;
 		}
