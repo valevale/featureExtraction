@@ -20,7 +20,7 @@ import model.WebPage;
 public class Main {
 
 	static double parameterTextFusion = -1;
-	static String path = "outputFinale2/";
+	static String path = "outputFinale3/";
 
 	public static void main(String[] args) throws Exception {
 
