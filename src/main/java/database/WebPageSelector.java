@@ -27,8 +27,8 @@ public class WebPageSelector {
 		Map<String,List<WebPage>> ancora2pagine = new HashMap<>();
 		//scorro le sue pagine
 		for (int j=0;j<source.getPages().size();j++) {
-			if ((j+1)%100==0)
-				System.out.println("*****pagina numero: "+(j+1)+"/"+source.getPages().size());
+//			if ((j+1)%100==0)
+//				System.out.println("*****pagina numero: "+(j+1)+"/"+source.getPages().size());
 			WebPage currentPage = source.getPages().get(j);
 			String ancora = currentPage.getQuery().getQuery();
 			List<WebPage> pagineConAncora = ancora2pagine.get(ancora);

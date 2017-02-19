@@ -65,7 +65,7 @@ public class PairMatchingMaker {
 				System.out.println("d1:" + domain1);
 				System.out.println("d2:" + domain2);
 				//controllo: se quella coppia ha già 5 successi, passa a un'altra
-				if (sufficientiSuccessi(dominio2successi,domain1,domain2)) {
+				if (!sufficientiSuccessi(dominio2successi,domain1,domain2)) {
 					System.out.println("non ho sufficienti successi per d1 e d2");
 					//scorro le ancore
 					List<String> listAncore = new ArrayList<>(ancore2pagesWUNIMTOS.keySet());
