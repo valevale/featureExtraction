@@ -61,86 +61,123 @@ public class PairMatchingMaker {
 			for (int j=i+1;j<SourceInput.getSorgenti().size() && !fine_apprendimento;j++) {
 				String domain1 = SourceInput.getSorgenti().get(i);
 				String domain2 = SourceInput.getSorgenti().get(j);
-				//scorro le ancore
-				List<String> listAncore = new ArrayList<>(ancore2pagesWUNIMTOS.keySet());
-				for (int p1=0;p1<listAncore.size() && !fine_apprendimento;p1++) {
-					String first_person = listAncore.get(p1);
-					//controllo che la prima persona presa non sia in blacklist
-					if (!mapContains(blacklist_persone,first_person,domain1,domain2)) {
-						boolean firstPersonBanned = false;
-						for(int p2=p1+1;p2<listAncore.size() && !firstPersonBanned
-								&& !fine_apprendimento;p2++) {
-							String second_person = listAncore.get(p2);
-							System.out.println("p1: "+first_person);
-							System.out.println("p2: "+second_person);
-							//controllo che la seconda persona presa non sia in blacklist
-							if (!mapContains(blacklist_persone,second_person,domain1,domain2)) {
-								Set<Tuple2<String,WebPage>> documentsP1 = ancore2pagesWUNIMTOS.get(first_person);
-								Set<Tuple2<String,WebPage>> documentsP2 = ancore2pagesWUNIMTOS.get(second_person);
-								//voglio i documenti con le sorgenti domain1 e domain2
-								WebPage wp_p1_d1 = getWP(documentsP1, domain1);
-								WebPage wp_p1_d2 = getWP(documentsP1, domain2);
-								WebPage wp_p2_d1 = getWP(documentsP2, domain1);
-								WebPage wp_p2_d2 = getWP(documentsP2, domain2);
-								if (wp_p1_d1!=null && wp_p1_d2!=null
-										&& wp_p2_d1!=null && wp_p2_d2!=null) {
-									//creo i documenti
-									WebPageDocument wpd_p1_d1 = new WebPageDocument(wp_p1_d1, domain1);
-									WebPageDocument wpd_p1_d2 = new WebPageDocument(wp_p1_d2, domain2);
-									WebPageDocument wpd_p2_d1 = new WebPageDocument(wp_p2_d1, domain1);
-									WebPageDocument wpd_p2_d2 = new WebPageDocument(wp_p2_d2, domain2);
-									//nota: il booleano finale si tratta di id_found, che dice se
-									//all'interno del processo è stata identificata una coppia di
-									//xpath identificative, permettendoci di capire se
-									//stiamo usando 2 coppie di pagine che parlano ciascuna della stessa persona, o no
-									int esito = DomainsWrapper_pairMatching.getSegmentsFrom_server(
-											wpd_p1_d1, wpd_p1_d2, first_person,
-											wpd_p2_d1, wpd_p2_d2, second_person, false);
-									System.out.println("esito: "+esito);
-									if (esito ==1) {
-										//devo blacklistare la prima persona
-										Tuple2<String,String> bannedDomainPairs = new Tuple2<>(domain1,domain2);
-										List<Tuple2<String,String>> listBannedDomainPairs =
-												blacklist_persone.get(first_person);
-										if (listBannedDomainPairs == null) {
-											listBannedDomainPairs = new ArrayList<>();
+				//controllo: se quella coppia ha già 5 successi, passa a un'altra
+				if (sufficientiSuccessi(dominio2successi,domain1,domain2)) {
+					//scorro le ancore
+					List<String> listAncore = new ArrayList<>(ancore2pagesWUNIMTOS.keySet());
+					for (int p1=0;p1<listAncore.size() && !fine_apprendimento;p1++) {
+						String first_person = listAncore.get(p1);
+						int successiPrimaPersona = 0;
+						//controllo che la prima persona presa non sia in blacklist
+						if (!mapContains(blacklist_persone,first_person,domain1,domain2)) {
+							boolean firstPersonBanned = false;
+							for(int p2=p1+1;p2<listAncore.size() && !firstPersonBanned
+									&& !fine_apprendimento;p2++) {
+								String second_person = listAncore.get(p2);
+								int successiSecondaPersona = 0;
+								System.out.println("p1: "+first_person);
+								System.out.println("p2: "+second_person);
+								//controllo che la seconda persona presa non sia in blacklist
+								if (!mapContains(blacklist_persone,second_person,domain1,domain2)) {
+									Set<Tuple2<String,WebPage>> documentsP1 = ancore2pagesWUNIMTOS.get(first_person);
+									Set<Tuple2<String,WebPage>> documentsP2 = ancore2pagesWUNIMTOS.get(second_person);
+									//voglio i documenti con le sorgenti domain1 e domain2
+									WebPage wp_p1_d1 = getWP(documentsP1, domain1);
+									WebPage wp_p1_d2 = getWP(documentsP1, domain2);
+									WebPage wp_p2_d1 = getWP(documentsP2, domain1);
+									WebPage wp_p2_d2 = getWP(documentsP2, domain2);
+									if (wp_p1_d1!=null && wp_p1_d2!=null
+											&& wp_p2_d1!=null && wp_p2_d2!=null) {
+										//creo i documenti
+										WebPageDocument wpd_p1_d1 = new WebPageDocument(wp_p1_d1, domain1);
+										WebPageDocument wpd_p1_d2 = new WebPageDocument(wp_p1_d2, domain2);
+										WebPageDocument wpd_p2_d1 = new WebPageDocument(wp_p2_d1, domain1);
+										WebPageDocument wpd_p2_d2 = new WebPageDocument(wp_p2_d2, domain2);
+										//nota: il booleano finale si tratta di id_found, che dice se
+										//all'interno del processo è stata identificata una coppia di
+										//xpath identificative, permettendoci di capire se
+										//stiamo usando 2 coppie di pagine che parlano ciascuna della stessa persona, o no
+										int esito = DomainsWrapper_pairMatching.getSegmentsFrom_server(
+												wpd_p1_d1, wpd_p1_d2, first_person,
+												wpd_p2_d1, wpd_p2_d2, second_person, false);
+										System.out.println("esito: "+esito);
+										if (esito ==1) {
+											//devo blacklistare la prima persona
+											Tuple2<String,String> bannedDomainPairs = new Tuple2<>(domain1,domain2);
+											List<Tuple2<String,String>> listBannedDomainPairs =
+													blacklist_persone.get(first_person);
+											if (listBannedDomainPairs == null) {
+												listBannedDomainPairs = new ArrayList<>();
+											}
+											listBannedDomainPairs.add(bannedDomainPairs);
+											blacklist_persone.put(first_person, listBannedDomainPairs);
+											firstPersonBanned = true;
+											//do successo alla seconda persona
+											successiSecondaPersona++;
 										}
-										listBannedDomainPairs.add(bannedDomainPairs);
-										blacklist_persone.put(first_person, listBannedDomainPairs);
-										firstPersonBanned = true;
-									}
-									if (esito ==2) {
-										//devo blacklistare la seconda persona
-										Tuple2<String,String> bannedDomainPairs = new Tuple2<>(domain1,domain2);
-										List<Tuple2<String,String>> listBannedDomainPairs =
-												blacklist_persone.get(second_person);
-										if (listBannedDomainPairs == null) {
-											listBannedDomainPairs = new ArrayList<>();
+										if (esito ==2) {
+											//devo blacklistare la seconda persona
+											Tuple2<String,String> bannedDomainPairs = new Tuple2<>(domain1,domain2);
+											List<Tuple2<String,String>> listBannedDomainPairs =
+													blacklist_persone.get(second_person);
+											if (listBannedDomainPairs == null) {
+												listBannedDomainPairs = new ArrayList<>();
+											}
+											listBannedDomainPairs.add(bannedDomainPairs);
+											blacklist_persone.put(second_person, listBannedDomainPairs);
+											//do successo alla prima persona
+											successiPrimaPersona++;
 										}
-										listBannedDomainPairs.add(bannedDomainPairs);
-										blacklist_persone.put(second_person, listBannedDomainPairs);
-									}
 
-									if (esito == 0) {
-										//un buon quadrato è stato trovato.
-										// segnarsi un +1 per ogni dominio
-										int successiDom1 = dominio2successi.get(domain1);
-										successiDom1++;
-										dominio2successi.put(domain1, successiDom1);
-										int successiDom2 = dominio2successi.get(domain2);
-										successiDom2++;
-										dominio2successi.put(domain2, successiDom2);
-										//quando per ogni dominio si arriva a 3
-										//puoi uscire dall'apprendimento
-										if (sufficientiSuccessi(dominio2successi))
-											fine_apprendimento = true;
-									}
+										if (esito == 0) {
+											//un buon quadrato è stato trovato.
+											// segnarsi un +1 per ogni dominio
+											int successiDom1 = dominio2successi.get(domain1);
+											successiDom1++;
+											dominio2successi.put(domain1, successiDom1);
+											int successiDom2 = dominio2successi.get(domain2);
+											successiDom2++;
+											dominio2successi.put(domain2, successiDom2);
+											// magari limita l'apprendimento con una pagina di
+											//una certa persona
+											//tipo quando hai avuto 10 successi con questa persona,
+											//"blacklista" anche lei
+											if (successiPrimaPersona >= 3) {
+												//devo blacklistare la prima persona
+												Tuple2<String,String> bannedDomainPairs = new Tuple2<>(domain1,domain2);
+												List<Tuple2<String,String>> listBannedDomainPairs =
+														blacklist_persone.get(first_person);
+												if (listBannedDomainPairs == null) {
+													listBannedDomainPairs = new ArrayList<>();
+												}
+												listBannedDomainPairs.add(bannedDomainPairs);
+												blacklist_persone.put(first_person, listBannedDomainPairs);
+												firstPersonBanned = true;
+											}
 
-								} //fine if documenti esistono
-							} //fineif controllo blacklist per seconda persona
-						} //fine for per seconda persona
-					}//fine  if controllo blacklist per prima persona
-				}//fine for per prima persona
+											if (successiSecondaPersona >= 3) {
+												//devo blacklistare la seconda persona
+												Tuple2<String,String> bannedDomainPairs = new Tuple2<>(domain1,domain2);
+												List<Tuple2<String,String>> listBannedDomainPairs =
+														blacklist_persone.get(second_person);
+												if (listBannedDomainPairs == null) {
+													listBannedDomainPairs = new ArrayList<>();
+												}
+												listBannedDomainPairs.add(bannedDomainPairs);
+												blacklist_persone.put(second_person, listBannedDomainPairs);
+											}
+											//quando per ogni dominio si arriva a 3
+											//puoi uscire dall'apprendimento
+											if (sufficientiSuccessi(dominio2successi))
+												fine_apprendimento = true;
+										}
+
+									} //fine if documenti esistono
+								} //fineif controllo blacklist per seconda persona
+							} //fine for per seconda persona
+						}//fine  if controllo blacklist per prima persona
+					}//fine for per prima persona
+				}
 			}
 		} //fine scorrimento domini
 
@@ -455,13 +492,13 @@ public class PairMatchingMaker {
 		}
 		return false;
 	}
-	
+
 	public static void inizializzaMappaSuccessi(Map<String,Integer> dominio2successi) {
 		for (int i=0;i<SourceInput.getSorgenti().size();i++) {
 			dominio2successi.put(SourceInput.getSorgenti().get(i), 0);
 		}
 	}
-	
+
 	public static boolean sufficientiSuccessi(Map<String,Integer> dominio2successi) {
 		//quando per ogni dominio si arriva a 3
 		//puoi uscire dall'apprendimento
@@ -473,6 +510,18 @@ public class PairMatchingMaker {
 				return false;
 		}
 		return true;
+	}
+
+	//controllo se i domini specificati hanno già abbastanza successi (5)
+	public static boolean sufficientiSuccessi(Map<String,Integer> dominio2successi,
+			String dom1, String dom2) {
+		int successi1 = dominio2successi.get(dom1);
+		if (successi1 >= 5)
+			return true;
+		int successi2 = dominio2successi.get(dom2);
+		if (successi2 >= 5)
+			return true;
+		return false;
 	}
 }
 
