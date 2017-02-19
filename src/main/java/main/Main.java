@@ -54,7 +54,7 @@ public class Main {
 				//TODO cambia
 				//			for (int j=0;j<currentSource.getPages().size();j++) {
 				for (int j=0;j<100;j++) {
-					System.out.println("*****pagina numero: "+(j+1)+"/"+currentSource.getPages().size());
+//					System.out.println("*****pagina numero: "+(j+1)+"/"+currentSource.getPages().size());
 					//per ogni pagina applichi le xpath del profilo
 					WebPage currentPage = currentSource.getPages().get(j);
 					List<String> contents = currentProfile.getContentInformation(currentPage, currentSource.getId().toString());
