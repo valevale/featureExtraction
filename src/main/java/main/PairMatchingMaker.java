@@ -26,7 +26,7 @@ import scala.Tuple2;
  * numerosi o dei cluster di Matching (non avremo un singolo matching sdoppiato)*/
 public class PairMatchingMaker {
 	
-	static int successiPersona = 10;
+	static int successiPersona = 5;
 	static int successiDominio = 25;
 	static int sufficientiSuccessi = 25;
 	//	static List<String> idSorgenti = new ArrayList<>();
