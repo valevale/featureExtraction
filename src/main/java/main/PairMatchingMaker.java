@@ -526,7 +526,7 @@ public class PairMatchingMaker {
 		int successi1 = dominio2successi.get(dom1);
 		int successi2 = dominio2successi.get(dom2);
 		if (successi2 >= 5 && successi1 >= 5) {
-			System.out.println("sufficienti successi con d2");
+			System.out.println("sufficienti successi con d1 e d2");
 			return true;
 		}
 		return false;
