@@ -47,21 +47,29 @@ public class SegmentSearcher {
 	public TopDocs search(Segment searchSegment) 
 			throws IOException, ParseException{
 		String searchQuery = NodeUtils.getNodesContent(searchSegment.getW3cNodes());
+		if (searchQuery != null) {
+			try {
+				query = queryParser.parse(QueryParser.escape(searchQuery));
+			}
+			catch (Exception e) {
+				try {
+					searchQuery = searchQuery.substring(0,1000);
+					query = queryParser.parse(QueryParser.escape(searchQuery));
+				}
+				catch (Exception ee) {
+					searchQuery = searchQuery.substring(0,searchQuery.length());
+					query = queryParser.parse(QueryParser.escape(searchQuery));
+				}
+			}
 
-		try {
-			query = queryParser.parse(QueryParser.escape(searchQuery));
+			//Viene utilizzata una query costumizzata per permettere
+			//la ricerca basata sulla metrica della coseno similarità
+			CustomScoreQuery customQuery = new MyCustomScoreQuery(query);
+			TopDocs topDocs = indexSearcher.search(customQuery, 30);
+
+			return topDocs;
 		}
-		catch (Exception e) {
-			searchQuery = searchQuery.substring(0,1000);
-			query = queryParser.parse(QueryParser.escape(searchQuery));
-		}
-
-		//Viene utilizzata una query costumizzata per permettere
-		//la ricerca basata sulla metrica della coseno similarità
-		CustomScoreQuery customQuery = new MyCustomScoreQuery(query);
-		TopDocs topDocs = indexSearcher.search(customQuery, 30);
-
-		return topDocs;
+		return null;
 	}
 
 	/* Dato un oggetto 'risultato', rstituisce il documento di lucene corrispondente

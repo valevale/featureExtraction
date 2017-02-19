@@ -29,8 +29,8 @@ public class PairMatchingMaker {
 	//TODO prossimo: 5 persona; 10 dominio; 10 successi
 	//e 5 domini (o 6 se vuoi metterci quello piccolino)
 	static int successiPersona = 5;
-	static int successiDominio = 25;
-	static int sufficientiSuccessi = 25;
+	static int successiDominio = 10;
+	static int sufficientiSuccessi = 10;
 	//	static List<String> idSorgenti = new ArrayList<>();
 	static PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
 
@@ -68,8 +68,6 @@ public class PairMatchingMaker {
 			for (int j=i+1;j<SourceInput.getSorgenti().size() && !fine_apprendimento;j++) {
 				String domain1 = SourceInput.getSorgenti().get(i);
 				String domain2 = SourceInput.getSorgenti().get(j);
-				System.out.println("d1:" + domain1);
-				System.out.println("d2:" + domain2);
 				//controllo: se quella coppia ha già 5 successi, passa a un'altra
 				if (!sufficientiSuccessi(dominio2successi,domain1,domain2)) {
 					System.out.println("non ho sufficienti successi per d1 e d2");
@@ -79,7 +77,7 @@ public class PairMatchingMaker {
 							&& !fine_apprendimento;p1++) {
 						String first_person = listAncore.get(p1);
 						int successiPrimaPersona = 0;
-						int cont = 0;
+						int cont = 1;
 						//controllo che la prima persona presa non sia in blacklist
 						if (!mapContains(blacklist_persone,first_person,domain1,domain2)) {
 							boolean firstPersonBanned = false;
@@ -99,6 +97,8 @@ public class PairMatchingMaker {
 									WebPage wp_p2_d2 = getWP(documentsP2, domain2);
 									if (wp_p1_d1!=null && wp_p1_d2!=null
 											&& wp_p2_d1!=null && wp_p2_d2!=null) {
+										System.out.println("d1:" + domain1);
+										System.out.println("d2:" + domain2);
 										System.out.println("p1: "+first_person);
 										System.out.println("p2: "+second_person);
 										//creo i documenti
@@ -113,6 +113,7 @@ public class PairMatchingMaker {
 										int esito = DomainsWrapper_pairMatching.getSegmentsFrom_server(
 												wpd_p1_d1, wpd_p1_d2, first_person,
 												wpd_p2_d1, wpd_p2_d2, second_person, false);
+										cont++;
 										System.out.println("ESITO: "+esito);
 										if (esito ==1 || cont>=10) {
 											//devo blacklistare la prima persona
@@ -189,7 +190,6 @@ public class PairMatchingMaker {
 										
 										// potremmo fare un contatore per la prima persona,
 										//tale che dopo, boh, 10 prove, comunque va via?
-										cont++;
 									} //fine if documenti esistono
 								} //fineif controllo blacklist per seconda persona
 							} //fine for per seconda persona

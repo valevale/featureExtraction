@@ -59,7 +59,7 @@ public class TopSegmentsFinder {
 			} catch (Exception e) {
 				e.printStackTrace();
 			}
-			if (hits.totalHits > 0) {
+			if (hits != null && hits.totalHits > 0) {
 				//salvo i risultati
 				segment2hits.add(new Tuple2<Segment,TopDocs>(firstPageSeg,hits));
 			}
