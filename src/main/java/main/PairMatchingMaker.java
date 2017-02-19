@@ -69,13 +69,15 @@ public class PairMatchingMaker {
 					System.out.println("non ho sufficienti successi per d1 e d2");
 					//scorro le ancore
 					List<String> listAncore = new ArrayList<>(ancore2pagesWUNIMTOS.keySet());
-					for (int p1=0;p1<listAncore.size() && !fine_apprendimento;p1++) {
+					for (int p1=0;p1<listAncore.size() && !sufficientiSuccessi(dominio2successi,domain1,domain2)
+							&& !fine_apprendimento;p1++) {
 						String first_person = listAncore.get(p1);
 						int successiPrimaPersona = 0;
 						//controllo che la prima persona presa non sia in blacklist
 						if (!mapContains(blacklist_persone,first_person,domain1,domain2)) {
 							boolean firstPersonBanned = false;
 							for(int p2=p1+1;p2<listAncore.size() && !firstPersonBanned
+									&& !sufficientiSuccessi(dominio2successi,domain1,domain2) 
 									&& !fine_apprendimento;p2++) {
 								String second_person = listAncore.get(p2);
 								int successiSecondaPersona = 0;
@@ -104,7 +106,7 @@ public class PairMatchingMaker {
 										int esito = DomainsWrapper_pairMatching.getSegmentsFrom_server(
 												wpd_p1_d1, wpd_p1_d2, first_person,
 												wpd_p2_d1, wpd_p2_d2, second_person, false);
-										System.out.println("esito: "+esito);
+										System.out.println("ESITO: "+esito);
 										if (esito ==1) {
 											//devo blacklistare la prima persona
 											Tuple2<String,String> bannedDomainPairs = new Tuple2<>(domain1,domain2);
