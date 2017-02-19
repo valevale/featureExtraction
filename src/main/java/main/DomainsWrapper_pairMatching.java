@@ -415,7 +415,7 @@ public class DomainsWrapper_pairMatching {
 		//		for (int j=0;j<source.getPages().size();j++) {
 		for (int j=0;j<100;j++) {
 			if ((j+1)%10==0)
-				System.out.println("*****pagina numero: "+(j+1)+"/100");
+				System.out.print("*****pagina numero: "+(j+1)+"/100");
 			//per ogni pagina, applico la xpath
 			WebPage currentPage = source.getPages().get(j);
 			Document doc = DocumentUtils.prepareDocument(currentPage.getHtml(), idSource);
@@ -449,7 +449,7 @@ public class DomainsWrapper_pairMatching {
 		System.out.println("contenuto "+contenuto2volte.size());
 		if (numeroPagineSenzaContenuto < (100/2)) {
 			//se il numero di valori unici è maggiore del 80%
-			if (contenuto2volte.size() >= (80)) {
+			if (contenuto2volte.size() >= (70)) {
 //				System.out.println("significativo!!");
 				return true;
 			}

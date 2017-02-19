@@ -71,6 +71,8 @@ public class PairMatchingMaker {
 						for(int p2=p1+1;p2<listAncore.size() && !firstPersonBanned
 								&& !fine_apprendimento;p2++) {
 							String second_person = listAncore.get(p2);
+							System.out.println("p1: "+first_person);
+							System.out.println("p2: "+second_person);
 							//controllo che la seconda persona presa non sia in blacklist
 							if (!mapContains(blacklist_persone,second_person,domain1,domain2)) {
 								Set<Tuple2<String,WebPage>> documentsP1 = ancore2pagesWUNIMTOS.get(first_person);
