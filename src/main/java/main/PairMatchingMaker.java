@@ -57,10 +57,13 @@ public class PairMatchingMaker {
 		boolean fine_apprendimento = false;
 		Map<String,Integer> dominio2successi = new HashMap<>();
 		inizializzaMappaSuccessi(dominio2successi);
+		System.out.println("mappa dei successi inizializzata");
 		for (int i=0;i<SourceInput.getSorgenti().size() && !fine_apprendimento;i++) {
 			for (int j=i+1;j<SourceInput.getSorgenti().size() && !fine_apprendimento;j++) {
 				String domain1 = SourceInput.getSorgenti().get(i);
 				String domain2 = SourceInput.getSorgenti().get(j);
+				System.out.println("d1:" + domain1);
+				System.out.println("d2:" + domain2);
 				//controllo: se quella coppia ha già 5 successi, passa a un'altra
 				if (sufficientiSuccessi(dominio2successi,domain1,domain2)) {
 					System.out.println("non ho sufficienti successi per d1 e d2");
