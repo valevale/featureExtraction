@@ -1,5 +1,6 @@
 package main;
 
+import java.io.File;
 import java.io.PrintWriter;
 //import java.io.PrintWriter;
 import java.util.List;
@@ -19,7 +20,7 @@ import model.WebPage;
 public class Main {
 
 	static double parameterTextFusion = -1;
-	static String path = "outputFinale/";
+	static String path = "outputFinale2/";
 
 	public static void main(String[] args) throws Exception {
 
@@ -76,6 +77,8 @@ public class Main {
 				json = json + "]";
 				//salvi in un json le info
 				//un json per dominio
+				File dir = new File(path);
+				dir.mkdirs();
 				PrintWriter testPrinter = new PrintWriter(path+"profiliDominio_"+
 						domain.substring(domain.length()-4, domain.length())
 				+".json", "UTF-8");

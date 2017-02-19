@@ -26,6 +26,8 @@ import scala.Tuple2;
  * numerosi o dei cluster di Matching (non avremo un singolo matching sdoppiato)*/
 public class PairMatchingMaker {
 	
+	//TODO prossimo: 5 persona; 10 dominio; 10 successi
+	//e 5 domini (o 6 se vuoi metterci quello piccolino)
 	static int successiPersona = 5;
 	static int successiDominio = 25;
 	static int sufficientiSuccessi = 25;
@@ -77,6 +79,7 @@ public class PairMatchingMaker {
 							&& !fine_apprendimento;p1++) {
 						String first_person = listAncore.get(p1);
 						int successiPrimaPersona = 0;
+						int cont = 0;
 						//controllo che la prima persona presa non sia in blacklist
 						if (!mapContains(blacklist_persone,first_person,domain1,domain2)) {
 							boolean firstPersonBanned = false;
@@ -111,7 +114,7 @@ public class PairMatchingMaker {
 												wpd_p1_d1, wpd_p1_d2, first_person,
 												wpd_p2_d1, wpd_p2_d2, second_person, false);
 										System.out.println("ESITO: "+esito);
-										if (esito ==1) {
+										if (esito ==1 || cont>=10) {
 											//devo blacklistare la prima persona
 											Tuple2<String,String> bannedDomainPairs = new Tuple2<>(domain1,domain2);
 											List<Tuple2<String,String>> listBannedDomainPairs =
@@ -183,7 +186,10 @@ public class PairMatchingMaker {
 											if (sufficientiSuccessi(dominio2successi))
 												fine_apprendimento = true;
 										}
-
+										
+										// potremmo fare un contatore per la prima persona,
+										//tale che dopo, boh, 10 prove, comunque va via?
+										cont++;
 									} //fine if documenti esistono
 								} //fineif controllo blacklist per seconda persona
 							} //fine for per seconda persona
