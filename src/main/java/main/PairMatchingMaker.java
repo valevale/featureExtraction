@@ -1,8 +1,6 @@
 package main;
 
 
-import java.io.PrintWriter;
-import java.text.DecimalFormat;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -11,11 +9,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
-import org.w3c.dom.NodeList;
 
 import database.MongoFacade;
 import database.WebPageSelector;
-import lib.utils.XpathApplier;
 import model.DomRepToClean;
 import model.PairMatching;
 import model.PairMatchingRepository;
@@ -59,6 +55,8 @@ public class PairMatchingMaker {
 
 		//il prossimo passo funziona solo se ci sono almeno 2 persone per dominio.
 		boolean fine_apprendimento = false;
+		Map<String,Integer> dominio2successi = new HashMap<>();
+		inizializzaMappaSuccessi(dominio2successi);
 		for (int i=0;i<SourceInput.getSorgenti().size() && !fine_apprendimento;i++) {
 			for (int j=i+1;j<SourceInput.getSorgenti().size() && !fine_apprendimento;j++) {
 				String domain1 = SourceInput.getSorgenti().get(i);
@@ -123,11 +121,17 @@ public class PairMatchingMaker {
 
 									if (esito == 0) {
 										//un buon quadrato è stato trovato.
-										//TODO segnarsi un +1 per ogni dominio
-										//quando per ogni dominio si arriva a 5
+										// segnarsi un +1 per ogni dominio
+										int successiDom1 = dominio2successi.get(domain1);
+										successiDom1++;
+										dominio2successi.put(domain1, successiDom1);
+										int successiDom2 = dominio2successi.get(domain2);
+										successiDom2++;
+										dominio2successi.put(domain2, successiDom2);
+										//quando per ogni dominio si arriva a 3
 										//puoi uscire dall'apprendimento
-										//PER ORA, ce ne basta 1
-										fine_apprendimento = true;
+										if (sufficientiSuccessi(dominio2successi))
+											fine_apprendimento = true;
 									}
 
 								} //fine if documenti esistono
@@ -448,6 +452,25 @@ public class PairMatchingMaker {
 			}
 		}
 		return false;
+	}
+	
+	public static void inizializzaMappaSuccessi(Map<String,Integer> dominio2successi) {
+		for (int i=0;i<SourceInput.getSorgenti().size();i++) {
+			dominio2successi.put(SourceInput.getSorgenti().get(i), 0);
+		}
+	}
+	
+	public static boolean sufficientiSuccessi(Map<String,Integer> dominio2successi) {
+		//quando per ogni dominio si arriva a 3
+		//puoi uscire dall'apprendimento
+		Iterator<String> domIt = dominio2successi.keySet().iterator();
+		while (domIt.hasNext()) {
+			String curDom = domIt.next();
+			int successi = dominio2successi.get(curDom);
+			if (successi < 3)
+				return false;
+		}
+		return true;
 	}
 }
 
