@@ -237,7 +237,6 @@ public class DomainsWrapper_pairMatching {
 					genericXpath_secondSegment.getXpath(), doc4, 
 					segment2hits_secondaPersona, indexPath)) {
 				if (id_found) {
-					System.out.println("il quadrato va bene");
 					PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
 					//aggiungo le xpath al dominio
 					firstSegment.getDocument().getSource().addGenericXpath(genericXpath_firstSegment);
@@ -250,7 +249,7 @@ public class DomainsWrapper_pairMatching {
 					// qui controllo id
 					if (isXpathIdentificativo(genericXpath_firstSegment)
 							|| isXpathIdentificativo(genericXpath_secondSegment)){
-						System.out.println("ALLELUJA");
+//						System.out.println("ALLELUJA");
 						PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
 						//setto che ho trovato l'identificativo
 						id_found = true;
@@ -406,7 +405,7 @@ public class DomainsWrapper_pairMatching {
 	public static boolean isXpathIdentificativo(Xpath genericXpath) throws Exception {
 		System.out.println("CONTROLLO CHE XPATH SIA SIGNIFICATIVO");
 		String idSource = genericXpath.getIdDomain();
-		//TODO qui è meglio un repository
+		// qui è meglio un repository
 		//		MongoFacade facade = new MongoFacade("web_search_pages");
 		//		Source source = facade.getSourceWithId(idSource);
 		Source source = SourceRep.getSource(idSource);
@@ -451,11 +450,11 @@ public class DomainsWrapper_pairMatching {
 		if (numeroPagineSenzaContenuto < (100/2)) {
 			//se il numero di valori unici è maggiore del 80%
 			if (contenuto2volte.size() >= (80)) {
-				System.out.println("significativo!!");
+//				System.out.println("significativo!!");
 				return true;
 			}
 		}
-		System.out.println("non significativo");
+//		System.out.println("non significativo");
 		return false;
 	}
 

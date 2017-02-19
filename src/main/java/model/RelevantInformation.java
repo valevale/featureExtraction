@@ -10,19 +10,19 @@ import lib.utils.XpathApplier;
 
 public class RelevantInformation {
 
-	private int domain;
+	private String domain;
 	private Xpath xpath;
 	private InformationsMatching matching;
 	//serve per la visualizzazione
 	private String content;
 	
-	public RelevantInformation(int domain, Xpath xpath) {
+	public RelevantInformation(String domain, Xpath xpath) {
 		this.domain = domain;
 		this.xpath = xpath;
 	}
 	
 	//serve per la visualizzazione
-	public RelevantInformation(int domain, Xpath xpath, WebPageDocument w) throws XPathExpressionException, IOException {
+	public RelevantInformation(String domain, Xpath xpath, WebPageDocument w) throws XPathExpressionException, IOException {
 		this.domain = domain;
 		this.xpath = xpath;
 		XpathApplier xapplier = XpathApplier.getInstance();
@@ -36,7 +36,7 @@ public class RelevantInformation {
 		}
 	}
 	
-	public int getDomain() {
+	public String getDomain() {
 		return this.domain;
 	}
 	
@@ -52,11 +52,13 @@ public class RelevantInformation {
 		this.matching=matching;
 	}
 
+	
+	
 	@Override
 	public int hashCode() {
 		final int prime = 31;
 		int result = 1;
-		result = prime * result + domain;
+		result = prime * result + ((domain == null) ? 0 : domain.hashCode());
 		result = prime * result + ((xpath == null) ? 0 : xpath.hashCode());
 		return result;
 	}
@@ -70,7 +72,10 @@ public class RelevantInformation {
 		if (getClass() != obj.getClass())
 			return false;
 		RelevantInformation other = (RelevantInformation) obj;
-		if (domain != other.domain)
+		if (domain == null) {
+			if (other.domain != null)
+				return false;
+		} else if (!domain.equals(other.domain))
 			return false;
 		if (xpath == null) {
 			if (other.xpath != null)
@@ -79,7 +84,7 @@ public class RelevantInformation {
 			return false;
 		return true;
 	}
-	
+
 	@Override
 	  public String toString() {
 	    return this.domain+"_"+this.content;

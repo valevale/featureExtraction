@@ -23,8 +23,8 @@ public class PairMatchingRepositoryRepository {
 		this.temp_repository = new PairMatchingRepository();
 	}
 
-	public PairMatchingRepository getRepository(int ds1, int ds2) {
-		Tuple2<Integer,Integer> domains = new Tuple2<>(ds1,ds2);
+	public PairMatchingRepository getRepository(String ds1, String ds2) {
+		Tuple2<String,String> domains = new Tuple2<>(ds1,ds2);
 		PairMatchingRepository pr = this.domains2repository.get(domains);
 		if (pr == null) {
 			pr = this.domains2repository.get(domains.swap());

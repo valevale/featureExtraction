@@ -79,7 +79,7 @@ public class MongoFacade {
 		return getDatastore().get(Source.class, i);
 	}
 
-	//TODO per ora non storiamo niente nel db, ciò che dobbiamo capire è se per
+	// per ora non storiamo niente nel db, ciò che dobbiamo capire è se per
 	//ogni pagina dobbiamo memorizzare la lista? credo di sì, ma riflettici
 //	/* aggiorna entrambe le liste
 //	 * */

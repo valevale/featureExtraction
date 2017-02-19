@@ -27,10 +27,11 @@ public class SegmentGraphGenerator {
 
 	public static List<InformationsMatching> getInformations() throws Exception {
 
-//		Timestamp timestamp = new Timestamp(System.currentTimeMillis());
-//		System.out.println("preparazione: "+timestamp);
-		
+		//		Timestamp timestamp = new Timestamp(System.currentTimeMillis());
+		//		System.out.println("preparazione: "+timestamp);
+
 		SimpleWeightedGraph<RelevantInformation, DefaultWeightedEdge> g = createGraph();
+		System.out.println("grafo creato");
 
 		//ho creato il grafo
 		//ora mi prendo i sottografi connessi. sono un insieme di set di vertici
@@ -39,17 +40,18 @@ public class SegmentGraphGenerator {
 
 		//		System.out.println("Componenti connesse: "+semanticSubGraphList.size());
 
-		DirectedGraph<RelevantInformation, DefaultWeightedEdge> gDirected = convertUndirectedGraph(g);
+		DirectedGraph<RelevantInformation, DefaultWeightedEdge> gDirected = convertToDirectedGraph(g);
 
 		List<InformationsMatching> maxWeightPaths = new ArrayList<>();
 
-//		timestamp = new Timestamp(System.currentTimeMillis());
-//		System.out.println("creazione grafo: "+timestamp);
+		//		timestamp = new Timestamp(System.currentTimeMillis());
+		//		System.out.println("creazione grafo: "+timestamp);
+		
 		//per ogni sottografo
 		for (int i=0; i<semanticSubGraphList.size(); i++) {
 			Set<RelevantInformation> currentSemanticSubGraph = semanticSubGraphList.get(i);
 
-//			System.out.println("NUOVO SOTTOGRAFO\ndimensione sottografo "+(i+1)+": "+currentSemanticSubGraph.size());
+			//			System.out.println("NUOVO SOTTOGRAFO\ndimensione sottografo "+(i+1)+": "+currentSemanticSubGraph.size());
 
 			//trovo i cammini trasversali
 			List<GraphPath<RelevantInformation,DefaultWeightedEdge>> transversalPaths = 
@@ -62,19 +64,11 @@ public class SegmentGraphGenerator {
 					transversalPaths, g);
 			List<RelevantInformation> usedVertexForPaths = firstMaxWeightedPath.getVertexList();
 			InformationsMatching matching = new InformationsMatching(firstMaxWeightedPath.getVertexList(), i+"_1");
-//			maxWeightPaths.add(new Tuple2<Integer,List<RelevantInformation>>(1,firstMaxWeightedPath.getVertexList()));
 			maxWeightPaths.add(matching);
-			//TODO ispezioniamo qui
-//			printAddedMatching(matching);
-			//individuo i nodi appartenenti al cammino
-			//possibilità:
-			//-creiamo un nuovo grafo senza quei nodi
-			//-rigeneriamo i cammini (o meglio li riprendo, non li ricalcolo, spezzando il codice)
-			//e NON prendo i cammini che contengono anche un solo nodo di quelli
-			//proviamo con questa seconda strada
-			//cerchiamo altre 5 paths
+			//cerchiamo 5 paths
 			int pathRaccolte = 1;
 			boolean ancoraAltriCammini = true;
+			//TODO qui puoi pure non limitare il numero di path raccolte
 			while (pathRaccolte <=5 && ancoraAltriCammini){
 				List<GraphPath<RelevantInformation,DefaultWeightedEdge>> transversalPathsFiltered = new ArrayList<>();
 				for (int j=0;j<transversalPaths.size();j++) {
@@ -89,31 +83,31 @@ public class SegmentGraphGenerator {
 					if (!vertexInCommon)
 						transversalPathsFiltered.add(currentPath);
 				}
-//				System.out.println("i path trasversali attuali, filtrati");
+				//				System.out.println("i path trasversali attuali, filtrati");
 				//seleziono quello massimo, secondo cammino
 				if (!transversalPathsFiltered.isEmpty()) {
 					pathRaccolte++;
 					GraphPath<RelevantInformation,DefaultWeightedEdge> newMaxWeightedPath = getMaxWeightedPath(
 							transversalPathsFiltered, g);
-//					maxWeightPaths.add(new Tuple2<Integer,List<RelevantInformation>>((pathRaccolte),vertexOfNewMaxWeightedPath));
-//					usedVertexForPaths.addAll(vertexOfNewMaxWeightedPath);
+					//					maxWeightPaths.add(new Tuple2<Integer,List<RelevantInformation>>((pathRaccolte),vertexOfNewMaxWeightedPath));
+					//					usedVertexForPaths.addAll(vertexOfNewMaxWeightedPath);
 					InformationsMatching newMatching = new InformationsMatching(newMaxWeightedPath.getVertexList(),
 							i+"_"+pathRaccolte);
 					maxWeightPaths.add(newMatching);
-					//TODO anche qui
-//					printAddedMatching(newMatching);
+					// anche qui
+					//					printAddedMatching(newMatching);
 					usedVertexForPaths.addAll(newMaxWeightedPath.getVertexList());
 				}
 				else {
 					ancoraAltriCammini = false;
 				}
 			}
-			
-			
+
+
 		}
 
-//		timestamp = new Timestamp(System.currentTimeMillis());
-//		System.out.println("weight: "+timestamp);
+		//		timestamp = new Timestamp(System.currentTimeMillis());
+		//		System.out.println("weight: "+timestamp);
 
 		//cosa facciamo ritornare?
 		//i soli vertici
@@ -121,73 +115,60 @@ public class SegmentGraphGenerator {
 		return maxWeightPaths;
 	}
 
-	
+
 	public static SimpleWeightedGraph<RelevantInformation, DefaultWeightedEdge> createGraph() throws Exception {
 
 		//la tupla sono i domini, va tenuta
-		Map<Tuple2<Integer,Integer>,Set<PairMatching>> matchings = PairMatchingMaker.getMainMatchings();
+		Map<Tuple2<String,String>,Set<PairMatching>> matchings = PairMatchingMaker.getMainMatchings();
 
-
+		System.out.println("coppie di matching raccolte");
+		
 		PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
 		//creo il grafo
 		SimpleWeightedGraph<RelevantInformation, DefaultWeightedEdge> g = 
 				new SimpleWeightedGraph<RelevantInformation, DefaultWeightedEdge>(DefaultWeightedEdge.class);
 
 		//faccio un repository alla volta
-		for(int k=1;k<=4;k++) {
-			for (int k2=k+1;k2<=5;k2++) {
-				int domain1 = k;
-				int domain2 = k2;
+		for (int i=0;i<SourceInput.getSorgenti().size();i++) {
+			for (int j=i+1;j<SourceInput.getSorgenti().size();j++) {
+				String domain1 = SourceInput.getSorgenti().get(i);
+				String domain2 = SourceInput.getSorgenti().get(j);
 
 				PairMatchingRepository currentRepository = pmr.getRepository(domain1, domain2);
-				Map<PairMatching,Float> matchings2votes = currentRepository.getMatchings2vote();
+				if (currentRepository != null) {
+					Map<PairMatching,Float> matchings2votes = currentRepository.getMatchings2vote();
+					Set<PairMatching> currentSet = matchings.get(new Tuple2<>(domain1,domain2));
+					Iterator<PairMatching> matchIt = currentSet.iterator();
+					while(matchIt.hasNext()) {
+						PairMatching currentPair = matchIt.next();
+						//creo i nodi
+						RelevantInformation node1 = new RelevantInformation(domain1, currentPair.getXpath1());
+						RelevantInformation node2 = new RelevantInformation(domain2, currentPair.getXpath2());
 
-				Set<PairMatching> currentSet = matchings.get(new Tuple2<>(domain1,domain2));
-				Iterator<PairMatching> matchIt = currentSet.iterator();
-				while(matchIt.hasNext()) {
-					PairMatching currentPair = matchIt.next();
-					//					if (currentPair.getXpath1().getXpath().equals(
-					//							"//html[1]/body[1]/div[1]/div[3]/div[1]/a[2]")
-					//							&& domain1==1) {
-					//						System.out.println("1 ECCOLO!");
-					//						System.out.println("Sta con "+domain2+" "+currentPair.getXpath2().getXpath());
-					//						
-					//					}
-					//					if (currentPair.getXpath1().getXpath().equals(
-					//							"//html[1]/body[1]/div[3]/div[2]/div[1]/div[1]/ul[1]/li[1]/span[1]/a[1]")
-					//							&& domain1==4) {
-					//						System.out.println("4 ECCOLO!");
-					//						System.out.println("Sta con "+domain2+" "+currentPair.getXpath2().getXpath());
-					//						
-					//					}
-					//creo i nodi
-					RelevantInformation node1 = new RelevantInformation(domain1, currentPair.getXpath1());
-					RelevantInformation node2 = new RelevantInformation(domain2, currentPair.getXpath2());
+						//controllo che il vertice non esista già
+						//se non esiste lo metto nel grafo
+						if (g.containsVertex(node1))
+							node1 = getVertex(g, node1);
+						else
+							g.addVertex(node1);
 
-					//controllo che il vertice non esista già
-					//se non esiste lo metto nel grafo
-					if (g.containsVertex(node1))
-						node1 = getVertex(g, node1);
-					else
-						g.addVertex(node1);
+						if (g.containsVertex(node2))
+							node2 = getVertex(g, node2);
+						else
+							g.addVertex(node2);
 
-					if (g.containsVertex(node2))
-						node2 = getVertex(g, node2);
-					else
-						g.addVertex(node2);
+						DefaultWeightedEdge e = g.addEdge(node1, node2); 
 
-					DefaultWeightedEdge e = g.addEdge(node1, node2); 
+						float voto = matchings2votes.get(currentPair);
 
-					float voto = matchings2votes.get(currentPair);
+						g.setEdgeWeight(e, voto);
 
-					g.setEdgeWeight(e, voto);
-
-
+					}
 				}
 			}
 		}
 
-//		System.out.println("dimensione grafo: "+g.vertexSet().size());
+		//		System.out.println("dimensione grafo: "+g.vertexSet().size());
 		return g;
 	}
 
@@ -202,15 +183,16 @@ public class SegmentGraphGenerator {
 		GraphPath<RelevantInformation,DefaultWeightedEdge> maxWeightedPath = allTransversalPaths.get(0);
 		for (int i=1;i<allTransversalPaths.size();i++) {
 			GraphPath<RelevantInformation,DefaultWeightedEdge> currentPath = allTransversalPaths.get(i);
+			//TODO qui puoi migliorare storando il valore del maxwpath
 			double currentPathWeight = getWeight(currentPath, g);
 			double currentMaxPathWeight = getWeight(maxWeightedPath, g);
-//			System.out.println("current "+currentPath.getWeight()+" & max: "+maxWeightedPath.getWeight());
-//			System.out.println("currentNEW "+currentPathWeight+" & maxNEW: "+currentMaxPathWeight);
+			//			System.out.println("current "+currentPath.getWeight()+" & max: "+maxWeightedPath.getWeight());
+			//			System.out.println("currentNEW "+currentPathWeight+" & maxNEW: "+currentMaxPathWeight);
 			if (currentPathWeight > currentMaxPathWeight) {
 				maxWeightedPath = currentPath;
 			}
 			if (currentPathWeight == currentMaxPathWeight) {
-//				System.out.println("currentL "+currentPath.getLength()+" & maxL: "+maxWeightedPath.getLength());
+				//				System.out.println("currentL "+currentPath.getLength()+" & maxL: "+maxWeightedPath.getLength());
 				if (currentPath.getLength() > maxWeightedPath.getLength()) {
 					maxWeightedPath = currentPath;
 				}
@@ -218,27 +200,25 @@ public class SegmentGraphGenerator {
 		}
 		return maxWeightedPath;
 	}
-	
+
 	public static double getWeight(GraphPath<RelevantInformation,DefaultWeightedEdge> path,
 			SimpleWeightedGraph<RelevantInformation, DefaultWeightedEdge> g) {
 		double w = 0;
-		
+
 		List<DefaultWeightedEdge> edges = path.getEdgeList();
-		
+
 		for (int i=0;i<edges.size();i++) {
 			DefaultWeightedEdge currentEdge = edges.get(i);
 			w = w + g.getEdgeWeight(currentEdge);
 		}
-		
+
 		return w;
 	}
 
 	private static List<GraphPath<RelevantInformation,DefaultWeightedEdge>> selectTransversalPaths(
 			Set<RelevantInformation> currentSemanticSubGraph, 
 			DirectedGraph<RelevantInformation, DefaultWeightedEdge> gDirected) {
-		//TODO magari puoi dividere i passaggi in più metodi
-		//ottengo tutti i cammini di lunghezza massimo 4
-		//TODO poi non sai più la lunghezza massima..
+		
 		AllDirectedPaths<RelevantInformation, DefaultWeightedEdge> directedPathsGenerator =
 				new AllDirectedPaths<RelevantInformation, DefaultWeightedEdge>(gDirected);
 
@@ -246,12 +226,11 @@ public class SegmentGraphGenerator {
 		//all'insieme di partenza e arrivo
 		//tuttavia ciò che gli forniamo è una componente connessa massimale, quindi
 		//non verranno inclusi nodi al di fuori di loro
+		//prendo tutti i cammini
 		List<GraphPath<RelevantInformation,DefaultWeightedEdge>> allPaths = directedPathsGenerator.getAllPaths(
-				currentSemanticSubGraph, currentSemanticSubGraph, true, 4);
+				currentSemanticSubGraph, currentSemanticSubGraph, true, SourceInput.getSorgenti().size()-1);
 
 		//da questi inizio a togliere quelli che contengono due vertici con la stessa etichetta dominio
-		//TODO forse è meglio se per ora fai una mappa co ste liste e poi, fuori dal for, fai sto lavoro
-		//meno oneroso?
 
 		List<GraphPath<RelevantInformation,DefaultWeightedEdge>> transversalPaths =
 				new ArrayList<>();
@@ -259,11 +238,11 @@ public class SegmentGraphGenerator {
 		for (int j=0;j<allPaths.size();j++) {
 			GraphPath<RelevantInformation,DefaultWeightedEdge> currentPath = allPaths.get(j);
 			List<RelevantInformation> vertexList = currentPath.getVertexList();
-			List<Integer> visitedDomains = new ArrayList<>();
+			List<String> visitedDomains = new ArrayList<>();
 			boolean isTransversal = true;
 			for (int k=0;k<vertexList.size() && isTransversal;k++) {
 				RelevantInformation currentVertex = vertexList.get(k);
-				int currentDomain = currentVertex.getDomain();
+				String currentDomain = currentVertex.getDomain();
 				if (visitedDomains.contains(currentDomain)) {
 					isTransversal = false;
 				}
@@ -273,11 +252,10 @@ public class SegmentGraphGenerator {
 				transversalPaths.add(currentPath);
 		}
 
-		//ora selezioni
 		return transversalPaths;
 	}
 
-	private static DirectedGraph<RelevantInformation, DefaultWeightedEdge> convertUndirectedGraph(
+	private static DirectedGraph<RelevantInformation, DefaultWeightedEdge> convertToDirectedGraph(
 			SimpleWeightedGraph<RelevantInformation, DefaultWeightedEdge> g) {
 		DirectedMultigraph<RelevantInformation, DefaultWeightedEdge> gDirected = 
 				new DirectedMultigraph<RelevantInformation, DefaultWeightedEdge>(DefaultWeightedEdge.class);

@@ -25,7 +25,7 @@ public class WebPageDocument {
 	private org.w3c.dom.Document document_w3c;
 	//	private int idDomain;
 	//	private String idDomain;
-	//TODO vedi se puoi metterla da qualche parte
+	// vedi se puoi metterla da qualche parte
 	//	private Source source;
 	private String idWebPage;
 
@@ -51,7 +51,7 @@ public class WebPageDocument {
 		this.segments = xpextractor.extractSegments(this, Configurator.getSegmentationParameter());
 	}
 
-	//TODO metti in una configurazione questi parametri
+	// metti in una configurazione questi parametri
 	public WebPageDocument(WebPage webpage, String source) throws Exception {
 		this.document_jsoup = DocumentUtils.prepareDocument(webpage.getHtml(), source);
 		this.document_w3c = new W3CDom().fromJsoup(this.document_jsoup);

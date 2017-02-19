@@ -7,8 +7,8 @@ public class PairMatching {
 
 	private Xpath xpath1;
 	private Xpath xpath2;
-	private List<Integer> dominiRaggiungibili1;
-	private List<Integer> dominiRaggiungibili2;
+	private List<String> dominiRaggiungibili1;
+	private List<String> dominiRaggiungibili2;
 	
 	public PairMatching(Xpath xpath1, Xpath xpath2) {
 		this.xpath1 = xpath1;
@@ -26,15 +26,15 @@ public class PairMatching {
 		return this.xpath2;
 	}
 	
-	public List<Integer> getDominiRaggiungibiliDaXpath1() {
+	public List<String> getDominiRaggiungibiliDaXpath1() {
 		return this.dominiRaggiungibili1;
 	}
 	
-	public List<Integer> getDominiRaggiungibiliDaXpath2() {
+	public List<String> getDominiRaggiungibiliDaXpath2() {
 		return this.dominiRaggiungibili2;
 	}
 	
-	public void setDominiRaggiungibili(Xpath xpath, List<Integer> dominiRaggiungibili) {
+	public void setDominiRaggiungibili(Xpath xpath, List<String> dominiRaggiungibili) {
 		if (xpath.equals(this.xpath1))
 			this.dominiRaggiungibili1 = dominiRaggiungibili;
 		else if (xpath.equals(this.xpath2))

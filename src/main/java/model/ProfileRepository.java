@@ -5,11 +5,11 @@ import java.util.Iterator;
 import java.util.List;
 import java.util.Map;
 
-//TODO dovrebbero essere informazioni da attaccare al dominio
+// dovrebbero essere informazioni da attaccare al dominio
 public class ProfileRepository {
 
 	private static ProfileRepository instance = null;
-	private Map<Integer,Profile> domain2profile;
+	private Map<String,Profile> domain2profile;
 
 	public static ProfileRepository getInstance() {
 		if (instance == null)
@@ -21,7 +21,7 @@ public class ProfileRepository {
 		this.domain2profile=new HashMap<>();
 	}
 	
-	public Map<Integer,Profile> getRepository() {
+	public Map<String,Profile> getRepository() {
 		return this.domain2profile;
 	}
 	
@@ -43,7 +43,7 @@ public class ProfileRepository {
 			for (int j=0; j<infosOfCurrentMatching.size(); j++) {
 //				System.out.println("Nuova info:");
 				RelevantInformation info = infosOfCurrentMatching.get(j);
-				int infoIdDomain = info.getDomain();
+				String infoIdDomain = info.getDomain();
 //				System.out.println("dominio dell'info: "+infoIdDomain);
 //				System.out.println("valore dell'info: "+info.getXpath().getXpath());
 //				System.out.println("id path: "+info.getMatching().getIdPath());
@@ -65,23 +65,23 @@ public class ProfileRepository {
 //			System.out.println();
 		}
 //		System.out.println("Alla fine ecco cosa abbiamo");
-		Iterator<Integer> it = this.domain2profile.keySet().iterator();
-		while (it.hasNext()) {
-			Integer currentDomain = it.next();
-			Profile p=this.domain2profile.get(currentDomain);
-//			System.out.println("Dominio: "+currentDomain);
-//			System.out.println("Dimensione delle info del profilo: "+p.getProfileInformations().size());
-			for (int i=0; i<p.getProfileInformations().size(); i++) {
-//				System.out.println("dominio info: "+p.getProfileInformations().get(i).getDomain());
-//				System.out.println("xpath info: "+p.getProfileInformations().get(i).getXpath().getXpath());
-//				System.out.println("path info: "+p.getProfileInformations().get(i).getMatching().getIdPath());
-			}
-//			System.out.println();
-		}
+//		Iterator<String> it = this.domain2profile.keySet().iterator();
+//		while (it.hasNext()) {
+//			String currentDomain = it.next();
+//			Profile p=this.domain2profile.get(currentDomain);
+////			System.out.println("Dominio: "+currentDomain);
+////			System.out.println("Dimensione delle info del profilo: "+p.getProfileInformations().size());
+//			for (int i=0; i<p.getProfileInformations().size(); i++) {
+////				System.out.println("dominio info: "+p.getProfileInformations().get(i).getDomain());
+////				System.out.println("xpath info: "+p.getProfileInformations().get(i).getXpath().getXpath());
+////				System.out.println("path info: "+p.getProfileInformations().get(i).getMatching().getIdPath());
+//			}
+////			System.out.println();
+//		}
 	}
 
 	/* aggiunta di nuove informazioni a un profilo di un certo dominio */
-	public void updateProfile(int idDomain, List<InformationsMatching> matchings) {
+	public void updateProfile(String idDomain, List<InformationsMatching> matchings) {
 		for (int i=0; i<matchings.size(); i++) {
 			InformationsMatching currentMatching = matchings.get(i);
 			RelevantInformation info = currentMatching.getInformationOfDomain(idDomain);

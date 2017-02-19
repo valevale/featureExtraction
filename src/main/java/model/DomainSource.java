@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /*classe provvisoria che sostituisce 'sorce' del database*/
-//TODO nella classe source dovrai comunque allegare gli xpath generici, senza referenza o altro
+// nella classe source dovrai comunque allegare gli xpath generici, senza referenza o altro
 public class DomainSource {
 
 	private Set<Xpath> genericXpaths;
@@ -16,7 +16,7 @@ public class DomainSource {
 //		this.genericXpaths = new HashSet<>();
 //	}
 	
-	//TODO devi incluedere 'source' nel costruttore
+	// devi incluedere 'source' nel costruttore
 	public DomainSource(String parameter) {
 		this.parameter=parameter;
 		this.genericXpaths = new HashSet<>();

@@ -27,9 +27,9 @@ public class InformationsMatching {
 	
 	/* dato un dominio restituisce l'informazione del matching con quel dominio.
 	 * se non è presente restituisce null*/
-	public RelevantInformation getInformationOfDomain(int idDomain) {
+	public RelevantInformation getInformationOfDomain(String idDomain) {
 		for (int i=0; i<this.informations.size(); i++) {
-			if (this.informations.get(i).getDomain() == idDomain)
+			if (this.informations.get(i).getDomain().equals(idDomain))
 				return this.informations.get(i);
 		}
 		return null;
