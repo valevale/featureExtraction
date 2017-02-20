@@ -141,9 +141,15 @@ public class DomainsWrapper_pairMatching {
 							e.printStackTrace();
 						}
 						Segment seg_secondDocument = secondDocument.getSegmentByXpath(lucDoc.get("segmentPath"));
-						id_found = addLink_new(seg, seg_secondDocument, thirdDocument, fourthDocument, scoreDoc.score,
+						//id_found = addLink_new(seg, seg_secondDocument, thirdDocument, fourthDocument, scoreDoc.score,
+						//		relevantSegments_thirdDocument, relevantSegments_fourthDocument,
+						//		segment2hits_secondaPersona, indexPathDominio2, id_found);
+						//TODO cambia!!!
+						addLink(seg, seg_secondDocument, thirdDocument, fourthDocument, scoreDoc.score,
 								relevantSegments_thirdDocument, relevantSegments_fourthDocument,
-								segment2hits_secondaPersona, indexPathDominio2, id_found);
+								segment2hits_secondaPersona, indexPathDominio2);
+						id_found = true;
+						//fine cambiamento
 					}
 				}
 			}
@@ -249,7 +255,7 @@ public class DomainsWrapper_pairMatching {
 					// qui controllo id
 					if (isXpathIdentificativo(genericXpath_firstSegment)
 							|| isXpathIdentificativo(genericXpath_secondSegment)){
-//						System.out.println("ALLELUJA");
+						//						System.out.println("ALLELUJA");
 						PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
 						//setto che ho trovato l'identificativo
 						id_found = true;
@@ -286,6 +292,86 @@ public class DomainsWrapper_pairMatching {
 			}
 		}
 		return id_found;
+	}
+
+	private static void addLink(Segment firstSegment, Segment secondSegment,
+			WebPageDocument doc3, WebPageDocument doc4, float score,
+			List<Segment> relevantSegments_thirdDocument,
+			List<Segment> relevantSegments_fourthDocument, 
+			List<Tuple2<Segment, TopDocs>> segment2hits_secondaPersona,
+			String indexPath) throws XPathExpressionException, IOException, ParserConfigurationException {
+		//creazione degli xpath generici
+		//OTTIMIZZAZIONE: controllo che i due segmenti non abbiano già un xpath generico
+		//PRIMA controlli che per quel segmento non sia già stato generato un xpath generico
+		//SE SÌ allora metti quello nella coppia collegamento
+		//SE NO generi un xpath generico
+		//prima persona - primo dominio
+		Xpath genericXpath_firstSegment = getGenericXpath(firstSegment, firstSegment.getDocument());
+		if (genericXpath_firstSegment == null) {
+			//generi un xpath generico
+			firstSegment.makeXpathVersions();
+			int specificityParameter = 0;
+			boolean onlyOneSegmentFound = false;
+			while(specificityParameter <= 5 && !onlyOneSegmentFound) {
+				Xpath currentXpath = new Xpath(firstSegment.getJsoupNode(),
+						firstSegment.getXpathVersions().getPathBySpecificity(specificityParameter),
+						firstSegment.getDocument().getIdDomain(),
+						specificityParameter);
+				//se corrisponde a 1 unico segmento RILEVANTE nel terzo documento
+				//(sarebbe seconda persona - primo dominio)
+				if (isARelevantSegment(currentXpath.getXpath(), doc3, relevantSegments_thirdDocument)) {
+					onlyOneSegmentFound = true;
+					//sovrascrivo l'xpath assoluto
+					firstSegment.setXPath(currentXpath);
+					//					firstSegment.getDocument().getSource().addGenericXpath(currentXpath);
+					genericXpath_firstSegment = currentXpath;
+				}
+				else
+					specificityParameter++;
+			}
+		}
+		//stesso procedimento per seconda persona - primo dominio
+		Xpath genericXpath_secondSegment = getGenericXpath(secondSegment, secondSegment.getDocument());
+		if (genericXpath_secondSegment == null) {
+			//generi un xpath generico
+			secondSegment.makeXpathVersions();
+			int specificityParameter = 0;
+			boolean onlyOneSegmentFound = false;
+			while(specificityParameter <= 5 && !onlyOneSegmentFound) {
+				Xpath currentXpath = new Xpath(secondSegment.getJsoupNode(),
+						secondSegment.getXpathVersions().getPathBySpecificity(specificityParameter),
+						secondSegment.getDocument().getIdDomain(),
+						specificityParameter);
+				//se corrisponde a 1 unico segmento RILEVANTE
+				if (isARelevantSegment(currentXpath.getXpath(), doc4, relevantSegments_fourthDocument)) {
+					onlyOneSegmentFound = true;
+					//sovrascrivo l'xpath assoluto
+					secondSegment.setXPath(currentXpath);
+					//					secondSegment.getDocument().getSource().addGenericXpath(currentXpath);
+					genericXpath_secondSegment = currentXpath;
+				}
+				else
+					specificityParameter++;
+			}
+		}
+		if (genericXpath_firstSegment != null && genericXpath_secondSegment != null) {
+			//CONTROLLO AGGIUNTIVO: i segmenti ottenuti da questi xpath generici sono stati matchati
+			//per alta coseno similarità nell'insieme segment2hits_secondaPersona
+			if (isARelevantMatching(genericXpath_firstSegment.getXpath(), doc3, 
+					genericXpath_secondSegment.getXpath(), doc4, 
+					segment2hits_secondaPersona, indexPath)) {
+				// è qui che devi vedere se aggiungere il matching. lo fai solo se almeno una delle coppie è
+				//identificativa in almeno uno dei domini
+				//devo vedere se almeno uno. se almeno uno allora aggiungi tutti, altrimenti non aggiungi nessuno
+				//mi serve un repository temporaneo
+				firstSegment.getDocument().getSource().addGenericXpath(genericXpath_firstSegment);
+				secondSegment.getDocument().getSource().addGenericXpath(genericXpath_secondSegment);
+				//una volta che hai i generici di entrambi, crei collegamento
+				PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
+				pmr.addMatching(genericXpath_firstSegment, firstSegment.getDocument().getSource().getParameter(),
+						genericXpath_secondSegment, secondSegment.getDocument().getSource().getParameter(), score);
+			}
+		}
 	}
 
 
@@ -450,95 +536,17 @@ public class DomainsWrapper_pairMatching {
 		if (numeroPagineSenzaContenuto < (100/2)) {
 			//se il numero di valori unici è maggiore del 65%
 			if (contenuto2volte.size() >= (65)) {
-//				System.out.println("significativo!!");
+				//				System.out.println("significativo!!");
 				return true;
 			}
 		}
-//		System.out.println("non significativo");
+		//		System.out.println("non significativo");
 		return false;
 	}
 
 }
 
-//private static void addLink(Segment firstSegment, Segment secondSegment,
-//WebPageDocument doc3, WebPageDocument doc4, float score,
-//List<Segment> relevantSegments_thirdDocument,
-//List<Segment> relevantSegments_fourthDocument, 
-//List<Tuple2<Segment, TopDocs>> segment2hits_secondaPersona,
-//String indexPath) throws XPathExpressionException, IOException, ParserConfigurationException {
-////creazione degli xpath generici
-////OTTIMIZZAZIONE: controllo che i due segmenti non abbiano già un xpath generico
-////PRIMA controlli che per quel segmento non sia già stato generato un xpath generico
-////SE SÌ allora metti quello nella coppia collegamento
-////SE NO generi un xpath generico
-////prima persona - primo dominio
-//Xpath genericXpath_firstSegment = getGenericXpath(firstSegment, firstSegment.getDocument());
-//if (genericXpath_firstSegment == null) {
-////generi un xpath generico
-//firstSegment.makeXpathVersions();
-//int specificityParameter = 0;
-//boolean onlyOneSegmentFound = false;
-//while(specificityParameter <= 5 && !onlyOneSegmentFound) {
-//	Xpath currentXpath = new Xpath(firstSegment.getJsoupNode(),
-//			firstSegment.getXpathVersions().getPathBySpecificity(specificityParameter),
-//			firstSegment.getDocument().getIdDomain(),
-//			specificityParameter);
-//	//se corrisponde a 1 unico segmento RILEVANTE nel terzo documento
-//	//(sarebbe seconda persona - primo dominio)
-//	if (isARelevantSegment(currentXpath.getXpath(), doc3, relevantSegments_thirdDocument)) {
-//		onlyOneSegmentFound = true;
-//		//sovrascrivo l'xpath assoluto
-//		firstSegment.setXPath(currentXpath);
-//		//					firstSegment.getDocument().getSource().addGenericXpath(currentXpath);
-//		genericXpath_firstSegment = currentXpath;
-//	}
-//	else
-//		specificityParameter++;
-//}
-//}
-////stesso procedimento per seconda persona - primo dominio
-//Xpath genericXpath_secondSegment = getGenericXpath(secondSegment, secondSegment.getDocument());
-//if (genericXpath_secondSegment == null) {
-////generi un xpath generico
-//secondSegment.makeXpathVersions();
-//int specificityParameter = 0;
-//boolean onlyOneSegmentFound = false;
-//while(specificityParameter <= 5 && !onlyOneSegmentFound) {
-//	Xpath currentXpath = new Xpath(secondSegment.getJsoupNode(),
-//			secondSegment.getXpathVersions().getPathBySpecificity(specificityParameter),
-//			secondSegment.getDocument().getIdDomain(),
-//			specificityParameter);
-//	//se corrisponde a 1 unico segmento RILEVANTE
-//	if (isARelevantSegment(currentXpath.getXpath(), doc4, relevantSegments_fourthDocument)) {
-//		onlyOneSegmentFound = true;
-//		//sovrascrivo l'xpath assoluto
-//		secondSegment.setXPath(currentXpath);
-//		//					secondSegment.getDocument().getSource().addGenericXpath(currentXpath);
-//		genericXpath_secondSegment = currentXpath;
-//	}
-//	else
-//		specificityParameter++;
-//}
-//}
-//if (genericXpath_firstSegment != null && genericXpath_secondSegment != null) {
-////CONTROLLO AGGIUNTIVO: i segmenti ottenuti da questi xpath generici sono stati matchati
-////per alta coseno similarità nell'insieme segment2hits_secondaPersona
-//if (isARelevantMatching(genericXpath_firstSegment.getXpath(), doc3, 
-//		genericXpath_secondSegment.getXpath(), doc4, 
-//		segment2hits_secondaPersona, indexPath)) {
-//	// è qui che devi vedere se aggiungere il matching. lo fai solo se almeno una delle coppie è
-//	//identificativa in almeno uno dei domini
-//	//devo vedere se almeno uno. se almeno uno allora aggiungi tutti, altrimenti non aggiungi nessuno
-//	//mi serve un repository temporaneo
-//	firstSegment.getDocument().getSource().addGenericXpath(genericXpath_firstSegment);
-//	secondSegment.getDocument().getSource().addGenericXpath(genericXpath_secondSegment);
-//	//una volta che hai i generici di entrambi, crei collegamento
-//	PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
-//	pmr.addMatching(genericXpath_firstSegment, firstSegment.getDocument().getSource().getParameter(),
-//			genericXpath_secondSegment, secondSegment.getDocument().getSource().getParameter(), score);
-//}
-//}
-//}
+
 
 //public static Tuple2<Xpath, Xpath> getXpaths(Segment firstSegment, Segment secondSegment,
 //WebPageDocument doc3, WebPageDocument doc4, float score,
