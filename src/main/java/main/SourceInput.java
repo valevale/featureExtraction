@@ -10,7 +10,7 @@ public class SourceInput {
 	public static void inizializzaLista() {
 		idSorgenti.add("5750678b3387e31f516fa1c7");
 		idSorgenti.add("5750678b3387e31f516fa1d0");
-		idSorgenti.add("5750678b3387e31f516fa1ca");
+//		idSorgenti.add("5750678b3387e31f516fa1ca");
 		idSorgenti.add("575067b33387e31f516face0");
 		idSorgenti.add("5750678b3387e31f516fa1cd");
 		idSorgenti.add("5750678a3387e31f516fa185");
