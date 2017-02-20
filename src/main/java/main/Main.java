@@ -20,7 +20,7 @@ import model.WebPage;
 public class Main {
 
 	static double parameterTextFusion = -1;
-	static String path = "outputFinale3/";
+	static String path = "outputFinale/outputFinale4";
 
 	public static void main(String[] args) throws Exception {
 
@@ -52,10 +52,10 @@ public class Main {
 				Source currentSource = facade.getSourceWithId(id);
 				String json = "[";
 				//per ogni dominio prendi le pagine web
-				//TODO cambia
-				//			for (int j=0;j<currentSource.getPages().size();j++) {
-				for (int j=0;j<100;j++) {
-//					System.out.println("*****pagina numero: "+(j+1)+"/"+currentSource.getPages().size());
+				// cambia
+				for (int j=0;j<currentSource.getPages().size();j++) {
+					//				for (int j=0;j<100;j++) {
+					//					System.out.println("*****pagina numero: "+(j+1)+"/"+currentSource.getPages().size());
 					//per ogni pagina applichi le xpath del profilo
 					WebPage currentPage = currentSource.getPages().get(j);
 					List<String> contents = currentProfile.getContentInformation(currentPage, currentSource.getId().toString());
@@ -65,6 +65,7 @@ public class Main {
 					for (int c=0; c<contents.size();c++) {
 						String currentContent=contents.get(c);
 						currentContent = currentContent.replaceAll("\"", "");
+						currentContent = currentContent.replaceAll("\n", "");
 						String pathCode=currentProfile.getMatchingInformation().get(c);
 						//					json = json + "xp"+pathCode+": \""+currentContent+"\", \n";
 						json = json + "xp"+pathCode+": \""+currentContent+"\", \n";
