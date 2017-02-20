@@ -15,10 +15,15 @@ public class UtilsTest {
 
 	public static void main(String[] args) throws IOException {
 
-		String path = "ciao/come/va/spero/bene";
-		File dir = new File(path);
-		dir.mkdirs();
-		SegmentSearcher searcher = new SegmentSearcher(path);
+		String currentContent="ci\"\nao";
+		currentContent = currentContent.replaceAll("\"", "");
+		currentContent = currentContent.replaceAll("\n", "");
+		System.out.println(currentContent);
+		
+//		String path = "ciao/come/va/spero/bene";
+//		File dir = new File(path);
+//		dir.mkdirs();
+//		SegmentSearcher searcher = new SegmentSearcher(path);
 
 		//		Map<Integer,String> a = new HashMap<>();
 		//		
