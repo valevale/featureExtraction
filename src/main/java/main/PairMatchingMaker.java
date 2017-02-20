@@ -28,7 +28,7 @@ public class PairMatchingMaker {
 	
 	//TODO prossimo: 5 persona; 10 dominio; 10 successi
 	//e 5 domini (o 6 se vuoi metterci quello piccolino)
-	static int successiPersona = 1000;
+	static int successiPersona = 10;
 	static int successiDominio = 1000;
 	static int sufficientiSuccessi = 1000;
 	static int sufficientiSuccessi_pb = 5000;
