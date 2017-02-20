@@ -30,7 +30,8 @@ public class PairMatchingMaker {
 	//e 5 domini (o 6 se vuoi metterci quello piccolino)
 	static int successiPersona = 5;
 	static int successiDominio = 10;
-	//	static int sufficientiSuccessi = 10;
+	//TODO
+	static int sufficientiSuccessi = 10;
 	static int sufficientiSuccessi_pb = 5;
 	//	static List<String> idSorgenti = new ArrayList<>();
 	static PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
@@ -151,18 +152,19 @@ public class PairMatchingMaker {
 										if (esito == 0) {
 											//un buon quadrato è stato trovato.
 											// segnarsi un +1 per ogni dominio
-//											int successiDom1 = dominio2successi.get(domain1);
-//											successiDom1++;
-//											dominio2successi.put(domain1, successiDom1);
-//											int successiDom2 = dominio2successi.get(domain2);
-//											successiDom2++;
-//											dominio2successi.put(domain2, successiDom2);
-											
+											//TODO
+											int successiDom1 = dominio2successi.get(domain1);
+											successiDom1++;
+											dominio2successi.put(domain1, successiDom1);
+											int successiDom2 = dominio2successi.get(domain2);
+											successiDom2++;
+											dominio2successi.put(domain2, successiDom2);
 
-											int successiDoms = dominio2successi.get(domain1+"_"+domain2);
-											successiDoms++;
-											dominio2successi.put(domain1+"_"+domain2, successiDoms);
-											
+
+											//											int successiDoms = dominio2successi.get(domain1+"_"+domain2);
+											//											successiDoms++;
+											//											dominio2successi.put(domain1+"_"+domain2, successiDoms);
+
 											// magari limita l'apprendimento con una pagina di
 											//una certa persona
 											//tipo quando hai avuto 10 successi con questa persona,
@@ -210,7 +212,6 @@ public class PairMatchingMaker {
 			}
 		} //fine scorrimento domini
 
-		//TODO riaggiungi il pezzo di codice delle stampe
 
 		//calcolo, per ogni xpath di ogni coppia, quanti domini riesce a raggiungere
 		for (int i=0;i<SourceInput.getSorgenti().size();i++) {
@@ -528,10 +529,10 @@ public class PairMatchingMaker {
 				dominio2successi.put(SourceInput.getSorgenti().get(i)+"_"+SourceInput.getSorgenti().get(j), 0);
 			}
 		}
-		
-//		for (int i=0;i<SourceInput.getSorgenti().size();i++) {
-//				dominio2successi.put(SourceInput.getSorgenti().get(i), 0);
-//		}
+
+		//		for (int i=0;i<SourceInput.getSorgenti().size();i++) {
+		//				dominio2successi.put(SourceInput.getSorgenti().get(i), 0);
+		//		}
 	}
 
 	//	public static boolean sufficientiSuccessi(Map<String,Integer> dominio2successi) {
@@ -557,17 +558,18 @@ public class PairMatchingMaker {
 			String dom1, String dom2) {
 		int successi = dominio2successi.get(dom1+"_"+dom2);
 		//TODO modificato controllo
-//		int successi1 = dominio2successi.get(dom1);
-//		int successi2 = dominio2successi.get(dom2);
-//		if (successi2 >= successiDominio && successi1 >= successiDominio) {
+				int successi1 = dominio2successi.get(dom1);
+				int successi2 = dominio2successi.get(dom2);
+				if (successi2 >= successiDominio && successi1 >= successiDominio) {
+					System.out.println("sufficienti successi con "+dom1+" e "+dom2);
+					return true;
+				}
+
+//		if (successi >= successiDominio) {
 //			System.out.println("sufficienti successi con "+dom1+" e "+dom2);
 //			return true;
 //		}
 		
-		if (successi >= successiDominio) {
-			System.out.println("sufficienti successi con "+dom1+" e "+dom2);
-			return true;
-		}
 		return false;
 	}
 }
