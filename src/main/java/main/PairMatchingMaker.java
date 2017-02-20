@@ -31,7 +31,7 @@ public class PairMatchingMaker {
 	static int successiPersona = 5;
 	static int successiDominio = 10;
 	//TODO
-	static int sufficientiSuccessi = 10;
+//	static int sufficientiSuccessi = 10;
 	static int sufficientiSuccessi_pb = 5;
 	//	static List<String> idSorgenti = new ArrayList<>();
 	static PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
@@ -153,17 +153,17 @@ public class PairMatchingMaker {
 											//un buon quadrato è stato trovato.
 											// segnarsi un +1 per ogni dominio
 											//TODO
-											int successiDom1 = dominio2successi.get(domain1);
-											successiDom1++;
-											dominio2successi.put(domain1, successiDom1);
-											int successiDom2 = dominio2successi.get(domain2);
-											successiDom2++;
-											dominio2successi.put(domain2, successiDom2);
+//											int successiDom1 = dominio2successi.get(domain1);
+//											successiDom1++;
+//											dominio2successi.put(domain1, successiDom1);
+//											int successiDom2 = dominio2successi.get(domain2);
+//											successiDom2++;
+//											dominio2successi.put(domain2, successiDom2);
 
 
-											//											int successiDoms = dominio2successi.get(domain1+"_"+domain2);
-											//											successiDoms++;
-											//											dominio2successi.put(domain1+"_"+domain2, successiDoms);
+											int successiDoms = dominio2successi.get(domain1+"_"+domain2);
+											successiDoms++;
+											dominio2successi.put(domain1+"_"+domain2, successiDoms);
 
 											// magari limita l'apprendimento con una pagina di
 											//una certa persona
@@ -525,15 +525,15 @@ public class PairMatchingMaker {
 
 	public static void inizializzaMappaSuccessi(Map<String,Integer> dominio2successi) {
 		//TODO
-//		for (int i=0;i<SourceInput.getSorgenti().size();i++) {
-//			for (int j=i+1;j<SourceInput.getSorgenti().size();j++) {
-//				dominio2successi.put(SourceInput.getSorgenti().get(i)+"_"+SourceInput.getSorgenti().get(j), 0);
-//			}
-//		}
+		for (int i=0;i<SourceInput.getSorgenti().size();i++) {
+			for (int j=i+1;j<SourceInput.getSorgenti().size();j++) {
+				dominio2successi.put(SourceInput.getSorgenti().get(i)+"_"+SourceInput.getSorgenti().get(j), 0);
+			}
+		}
 
-				for (int i=0;i<SourceInput.getSorgenti().size();i++) {
-						dominio2successi.put(SourceInput.getSorgenti().get(i), 0);
-				}
+		//				for (int i=0;i<SourceInput.getSorgenti().size();i++) {
+		//						dominio2successi.put(SourceInput.getSorgenti().get(i), 0);
+		//				}
 	}
 
 	//	public static boolean sufficientiSuccessi(Map<String,Integer> dominio2successi) {
@@ -543,7 +543,7 @@ public class PairMatchingMaker {
 	//		while (domIt.hasNext()) {
 	//			String curDom = domIt.next();
 	//			int successi = dominio2successi.get(curDom);
-	//			//TODO stringa speciale per pagine bianche perché è poco gestibile
+	//			// stringa speciale per pagine bianche perché è poco gestibile
 	//			if (curDom.equals("5750678a3387e31f516fa185")) {
 	//				if (successi < sufficientiSuccessi_pb)
 	//					return false;
@@ -557,19 +557,19 @@ public class PairMatchingMaker {
 	//controllo se i domini specificati hanno già abbastanza successi (5)
 	public static boolean sufficientiSuccessi(Map<String,Integer> dominio2successi,
 			String dom1, String dom2) {
-		//		int successi = dominio2successi.get(dom1+"_"+dom2);
 		//TODO modificato controllo
-		int successi1 = dominio2successi.get(dom1);
-		int successi2 = dominio2successi.get(dom2);
-		if (successi2 >= successiDominio && successi1 >= successiDominio) {
-			System.out.println("sufficienti successi con "+dom1+" e "+dom2);
-			return true;
-		}
-
-		//		if (successi >= successiDominio) {
+		//		int successi1 = dominio2successi.get(dom1);
+		//		int successi2 = dominio2successi.get(dom2);
+		//		if (successi2 >= successiDominio && successi1 >= successiDominio) {
 		//			System.out.println("sufficienti successi con "+dom1+" e "+dom2);
 		//			return true;
 		//		}
+
+		int successi = dominio2successi.get(dom1+"_"+dom2);
+		if (successi >= successiDominio) {
+			System.out.println("sufficienti successi con "+dom1+" e "+dom2);
+			return true;
+		}
 
 		return false;
 	}
