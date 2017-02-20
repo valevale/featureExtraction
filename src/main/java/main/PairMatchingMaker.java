@@ -189,8 +189,8 @@ public class PairMatchingMaker {
 											}
 											//quando per ogni dominio si arriva a 3
 											//puoi uscire dall'apprendimento
-											if (sufficientiSuccessi(dominio2successi))
-												fine_apprendimento = true;
+//											if (sufficientiSuccessi(dominio2successi))
+//												fine_apprendimento = true;
 										}
 										
 										// potremmo fare un contatore per la prima persona,
