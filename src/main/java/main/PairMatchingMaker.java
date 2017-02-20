@@ -69,6 +69,8 @@ public class PairMatchingMaker {
 			for (int j=i+1;j<SourceInput.getSorgenti().size() && !fine_apprendimento;j++) {
 				String domain1 = SourceInput.getSorgenti().get(i);
 				String domain2 = SourceInput.getSorgenti().get(j);
+				System.out.println("NUOVO d1:" + domain1);
+				System.out.println("NUOVO d2:" + domain2);
 				//controllo: se quella coppia ha già 5 successi, passa a un'altra
 				if (!sufficientiSuccessi(dominio2successi,domain1,domain2)) {
 					System.out.println("non ho sufficienti successi per d1 e d2");
@@ -542,7 +544,7 @@ public class PairMatchingMaker {
 		int successi1 = dominio2successi.get(dom1);
 		int successi2 = dominio2successi.get(dom2);
 		if (successi2 >= successiDominio && successi1 >= successiDominio) {
-			System.out.println("sufficienti successi con d1 e d2");
+			System.out.println("sufficienti successi con "+dom1+" e "+dom2);
 			return true;
 		}
 		return false;

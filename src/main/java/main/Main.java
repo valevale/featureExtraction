@@ -20,7 +20,7 @@ import model.WebPage;
 public class Main {
 
 	static double parameterTextFusion = -1;
-	static String path = "outputFinale/outputFinale4";
+	static String path = "outputFinale/outputFinale4/";
 
 	public static void main(String[] args) throws Exception {
 
@@ -52,10 +52,13 @@ public class Main {
 				Source currentSource = facade.getSourceWithId(id);
 				String json = "[";
 				//per ogni dominio prendi le pagine web
-				// cambia
-				for (int j=0;j<currentSource.getPages().size();j++) {
+				// cambias
+				
+//				for (int j=0;j<currentSource.getPages().size();j++) {
+				for (int j=0;j<1000;j++) {
 					//				for (int j=0;j<100;j++) {
-					//					System.out.println("*****pagina numero: "+(j+1)+"/"+currentSource.getPages().size());
+					if ((j+1)%100==0) 
+						System.out.println("*****pagina numero: "+(j+1)+"/"+currentSource.getPages().size());
 					//per ogni pagina applichi le xpath del profilo
 					WebPage currentPage = currentSource.getPages().get(j);
 					List<String> contents = currentProfile.getContentInformation(currentPage, currentSource.getId().toString());
