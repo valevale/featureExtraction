@@ -524,15 +524,16 @@ public class PairMatchingMaker {
 	}
 
 	public static void inizializzaMappaSuccessi(Map<String,Integer> dominio2successi) {
-		for (int i=0;i<SourceInput.getSorgenti().size();i++) {
-			for (int j=i+1;j<SourceInput.getSorgenti().size();j++) {
-				dominio2successi.put(SourceInput.getSorgenti().get(i)+"_"+SourceInput.getSorgenti().get(j), 0);
-			}
-		}
+		//TODO
+//		for (int i=0;i<SourceInput.getSorgenti().size();i++) {
+//			for (int j=i+1;j<SourceInput.getSorgenti().size();j++) {
+//				dominio2successi.put(SourceInput.getSorgenti().get(i)+"_"+SourceInput.getSorgenti().get(j), 0);
+//			}
+//		}
 
-		//		for (int i=0;i<SourceInput.getSorgenti().size();i++) {
-		//				dominio2successi.put(SourceInput.getSorgenti().get(i), 0);
-		//		}
+				for (int i=0;i<SourceInput.getSorgenti().size();i++) {
+						dominio2successi.put(SourceInput.getSorgenti().get(i), 0);
+				}
 	}
 
 	//	public static boolean sufficientiSuccessi(Map<String,Integer> dominio2successi) {
@@ -556,20 +557,20 @@ public class PairMatchingMaker {
 	//controllo se i domini specificati hanno già abbastanza successi (5)
 	public static boolean sufficientiSuccessi(Map<String,Integer> dominio2successi,
 			String dom1, String dom2) {
-		int successi = dominio2successi.get(dom1+"_"+dom2);
+		//		int successi = dominio2successi.get(dom1+"_"+dom2);
 		//TODO modificato controllo
-				int successi1 = dominio2successi.get(dom1);
-				int successi2 = dominio2successi.get(dom2);
-				if (successi2 >= successiDominio && successi1 >= successiDominio) {
-					System.out.println("sufficienti successi con "+dom1+" e "+dom2);
-					return true;
-				}
+		int successi1 = dominio2successi.get(dom1);
+		int successi2 = dominio2successi.get(dom2);
+		if (successi2 >= successiDominio && successi1 >= successiDominio) {
+			System.out.println("sufficienti successi con "+dom1+" e "+dom2);
+			return true;
+		}
 
-//		if (successi >= successiDominio) {
-//			System.out.println("sufficienti successi con "+dom1+" e "+dom2);
-//			return true;
-//		}
-		
+		//		if (successi >= successiDominio) {
+		//			System.out.println("sufficienti successi con "+dom1+" e "+dom2);
+		//			return true;
+		//		}
+
 		return false;
 	}
 }
