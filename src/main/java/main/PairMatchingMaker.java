@@ -151,12 +151,18 @@ public class PairMatchingMaker {
 										if (esito == 0) {
 											//un buon quadrato è stato trovato.
 											// segnarsi un +1 per ogni dominio
-											int successiDom1 = dominio2successi.get(domain1);
-											successiDom1++;
-											dominio2successi.put(domain1, successiDom1);
-											int successiDom2 = dominio2successi.get(domain2);
-											successiDom2++;
-											dominio2successi.put(domain2, successiDom2);
+//											int successiDom1 = dominio2successi.get(domain1);
+//											successiDom1++;
+//											dominio2successi.put(domain1, successiDom1);
+//											int successiDom2 = dominio2successi.get(domain2);
+//											successiDom2++;
+//											dominio2successi.put(domain2, successiDom2);
+											
+
+											int successiDoms = dominio2successi.get(domain1+"_"+domain2);
+											successiDoms++;
+											dominio2successi.put(domain1+"_"+domain2, successiDoms);
+											
 											// magari limita l'apprendimento con una pagina di
 											//una certa persona
 											//tipo quando hai avuto 10 successi con questa persona,
