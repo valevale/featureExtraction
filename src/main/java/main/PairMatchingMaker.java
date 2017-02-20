@@ -25,12 +25,12 @@ import scala.Tuple2;
 /* questo main serve per un task esplorativo in cui cerchiamo di capire se vogliamo dei Matching
  * numerosi o dei cluster di Matching (non avremo un singolo matching sdoppiato)*/
 public class PairMatchingMaker {
-	
+
 	//TODO prossimo: 5 persona; 10 dominio; 10 successi
 	//e 5 domini (o 6 se vuoi metterci quello piccolino)
 	static int successiPersona = 5;
 	static int successiDominio = 10;
-	static int sufficientiSuccessi = 10;
+	//	static int sufficientiSuccessi = 10;
 	static int sufficientiSuccessi_pb = 5;
 	//	static List<String> idSorgenti = new ArrayList<>();
 	static PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
@@ -85,7 +85,7 @@ public class PairMatchingMaker {
 						//controllo che la prima persona presa non sia in blacklist
 						if (!mapContains(blacklist_persone,first_person,domain1,domain2)) {
 							boolean firstPersonBanned = false;
-							
+
 							for(int p2=p1+1;p2<listAncore.size() && !firstPersonBanned
 									&& !sufficientiSuccessi(dominio2successi,domain1,domain2) 
 									&& !fine_apprendimento;p2++) {
@@ -189,10 +189,10 @@ public class PairMatchingMaker {
 											}
 											//quando per ogni dominio si arriva a 3
 											//puoi uscire dall'apprendimento
-//											if (sufficientiSuccessi(dominio2successi))
-//												fine_apprendimento = true;
+											//											if (sufficientiSuccessi(dominio2successi))
+											//												fine_apprendimento = true;
 										}
-										
+
 										// potremmo fare un contatore per la prima persona,
 										//tale che dopo, boh, 10 prove, comunque va via?
 									} //fine if documenti esistono
@@ -518,34 +518,47 @@ public class PairMatchingMaker {
 
 	public static void inizializzaMappaSuccessi(Map<String,Integer> dominio2successi) {
 		for (int i=0;i<SourceInput.getSorgenti().size();i++) {
-			dominio2successi.put(SourceInput.getSorgenti().get(i), 0);
+			for (int j=i+1;j<SourceInput.getSorgenti().size();j++) {
+				dominio2successi.put(SourceInput.getSorgenti().get(i)+"_"+SourceInput.getSorgenti().get(j), 0);
+			}
 		}
+		
+//		for (int i=0;i<SourceInput.getSorgenti().size();i++) {
+//				dominio2successi.put(SourceInput.getSorgenti().get(i), 0);
+//		}
 	}
 
-	public static boolean sufficientiSuccessi(Map<String,Integer> dominio2successi) {
-		//quando per ogni dominio si arriva a 3
-		//puoi uscire dall'apprendimento
-		Iterator<String> domIt = dominio2successi.keySet().iterator();
-		while (domIt.hasNext()) {
-			String curDom = domIt.next();
-			int successi = dominio2successi.get(curDom);
-			//TODO stringa speciale per pagine bianche perché è poco gestibile
-			if (curDom.equals("5750678a3387e31f516fa185")) {
-				if (successi < sufficientiSuccessi_pb)
-					return false;
-			}
-			if (successi < sufficientiSuccessi)
-				return false;
-		}
-		return true;
-	}
+	//	public static boolean sufficientiSuccessi(Map<String,Integer> dominio2successi) {
+	//		//quando per ogni dominio si arriva a 3
+	//		//puoi uscire dall'apprendimento
+	//		Iterator<String> domIt = dominio2successi.keySet().iterator();
+	//		while (domIt.hasNext()) {
+	//			String curDom = domIt.next();
+	//			int successi = dominio2successi.get(curDom);
+	//			//TODO stringa speciale per pagine bianche perché è poco gestibile
+	//			if (curDom.equals("5750678a3387e31f516fa185")) {
+	//				if (successi < sufficientiSuccessi_pb)
+	//					return false;
+	//			}
+	//			if (successi < sufficientiSuccessi)
+	//				return false;
+	//		}
+	//		return true;
+	//	}
 
 	//controllo se i domini specificati hanno già abbastanza successi (5)
 	public static boolean sufficientiSuccessi(Map<String,Integer> dominio2successi,
 			String dom1, String dom2) {
-		int successi1 = dominio2successi.get(dom1);
-		int successi2 = dominio2successi.get(dom2);
-		if (successi2 >= successiDominio && successi1 >= successiDominio) {
+		int successi = dominio2successi.get(dom1+"_"+dom2);
+		//TODO modificato controllo
+//		int successi1 = dominio2successi.get(dom1);
+//		int successi2 = dominio2successi.get(dom2);
+//		if (successi2 >= successiDominio && successi1 >= successiDominio) {
+//			System.out.println("sufficienti successi con "+dom1+" e "+dom2);
+//			return true;
+//		}
+		
+		if (successi >= successiDominio) {
 			System.out.println("sufficienti successi con "+dom1+" e "+dom2);
 			return true;
 		}
