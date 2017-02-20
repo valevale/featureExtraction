@@ -55,7 +55,7 @@ public class Main {
 				// cambias
 				
 //				for (int j=0;j<currentSource.getPages().size();j++) {
-				for (int j=0;j<1000;j++) {
+				for (int j=0;j<1000 && j<currentSource.getPages().size();j++) {
 					//				for (int j=0;j<100;j++) {
 					if ((j+1)%100==0) 
 						System.out.println("*****pagina numero: "+(j+1)+"/"+currentSource.getPages().size());

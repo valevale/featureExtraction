@@ -76,7 +76,8 @@ public class PairMatchingMaker {
 					System.out.println("non ho sufficienti successi per d1 e d2");
 					//scorro le ancore
 					List<String> listAncore = new ArrayList<>(ancore2pagesWUNIMTOS.keySet());
-					for (int p1=0;p1<listAncore.size() && !sufficientiSuccessi(dominio2successi,domain1,domain2)
+					for (int p1=0;p1<listAncore.size() && 
+							!sufficientiSuccessi(dominio2successi,domain1,domain2)
 							&& !fine_apprendimento;p1++) {
 						String first_person = listAncore.get(p1);
 						int successiPrimaPersona = 0;
@@ -84,6 +85,7 @@ public class PairMatchingMaker {
 						//controllo che la prima persona presa non sia in blacklist
 						if (!mapContains(blacklist_persone,first_person,domain1,domain2)) {
 							boolean firstPersonBanned = false;
+							
 							for(int p2=p1+1;p2<listAncore.size() && !firstPersonBanned
 									&& !sufficientiSuccessi(dominio2successi,domain1,domain2) 
 									&& !fine_apprendimento;p2++) {
