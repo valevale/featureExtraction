@@ -1,5 +1,6 @@
 package main;
 
+import java.io.BufferedWriter;
 import java.io.File;
 import java.io.FileWriter;
 import java.io.IOException;
@@ -31,7 +32,8 @@ public class CronologiaStampe {
 			File dir = new File(path);
 			dir.mkdirs();
 			Timestamp timestamp = new Timestamp(System.currentTimeMillis());
-			testPrinter = new PrintWriter(new FileWriter("logger"+timestamp+".txt", true));
+//			testPrinter = new PrintWriter(new FileWriter("logger"+timestamp+".txt", true));
+			testPrinter = new PrintWriter(new BufferedWriter(new FileWriter(path+"logger"+timestamp+".txt",true)));
 		}
 		return testPrinter;
 	}
