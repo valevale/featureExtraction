@@ -26,8 +26,7 @@ public class Main {
 
 	public static void main(String[] args) throws Exception {
 
-		Timestamp timestamp = new Timestamp(System.currentTimeMillis());
-		CronologiaStampe.println("inizio: "+timestamp);
+		Timestamp timestamp_inizio = new Timestamp(System.currentTimeMillis());
 		
 		SourceInput.inizializzaLista();
 		System.out.println("lista inizializzata");
@@ -42,6 +41,11 @@ public class Main {
 		pr.updateProfiles(informations);
 		System.out.println("profili generati");
 		CronologiaStampe.println("profili generati");
+		
+
+		Timestamp timestamp_fine = new Timestamp(System.currentTimeMillis());
+		CronologiaStampe.println("inizio: "+timestamp_inizio);
+		CronologiaStampe.println("fine: "+timestamp_fine);
 		
 		CronologiaStampe.close();
 
