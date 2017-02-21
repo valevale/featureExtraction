@@ -31,10 +31,10 @@ public class PairMatchingMaker {
 	//prima era 10 e 5 per pb
 	//ora devi fare full mesh aenza controllo
 	static int successiPersona = 5;
-	static int successiDominio = 15;
+	static int successiDominio = 30;
 	//TODO
 //	static int sufficientiSuccessi = 10;
-	static int sufficientiSuccessi_pb = 10;
+	static int sufficientiSuccessi_pb = 20;
 	//	static List<String> idSorgenti = new ArrayList<>();
 	static PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
 
