@@ -685,17 +685,18 @@ public class DomainsWrapper_pairMatching {
 	public static boolean isXpathIdentificativo_conCache(Xpath genericXpath,
 			Map<String,Boolean> xpath2isIdentificativa) throws Exception {
 		System.out.println("CONTROLLO CHE XPATH SIA SIGNIFICATIVO");
-		String idSource = genericXpath.getIdDomain();
-		
+
+		System.out.println("Dimensione cache: "+xpath2isIdentificativa.size());
 		//NOVITÀ: controllo se è già presente in cache
 		if (xpath2isIdentificativa.containsKey(genericXpath.getXpath())) {
-			System.out.println("Contiene: "+xpath2isIdentificativa.get(genericXpath.getXpath()));
+			System.out.println(genericXpath.getXpath()+" Contiene: "+xpath2isIdentificativa.get(genericXpath.getXpath()));
 			return xpath2isIdentificativa.get(genericXpath.getXpath());
 		}
 		
 		// qui è meglio un repository
 		//		MongoFacade facade = new MongoFacade("web_search_pages");
 		//		Source source = facade.getSourceWithId(idSource);
+		String idSource = genericXpath.getIdDomain();
 		Source source = SourceRep.getSource(idSource);
 		Map<String,Integer> contenuto2volte = new HashMap<>();
 		int numeroPagineSenzaContenuto = 0;
