@@ -197,7 +197,7 @@ public class DomainsWrapper_pairMatching {
 			List<Tuple2<Segment, TopDocs>> segment2hits_secondaPersona,
 			String indexPath, boolean id_found, Map<String,Boolean> xpath2isIdentificativa_d1,
 			Map<String,Boolean> xpath2isIdentificativa_d2) throws Exception {
-		System.out.println("NUOVO ADDLINK");
+//		System.out.println("NUOVO ADDLINK");
 		//creazione degli xpath generici
 		//OTTIMIZZAZIONE: controllo che i due segmenti non abbiano già un xpath generico
 		//PRIMA controlli che per quel segmento non sia già stato generato un xpath generico
