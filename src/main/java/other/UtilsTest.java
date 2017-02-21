@@ -16,9 +16,18 @@ public class UtilsTest {
 
 	public static void main(String[] args) throws IOException {
 
-		CronologiaStampe.println("ciao");
-		CronologiaStampe.close();
-		CronologiaStampe.println("ok");
+		
+		Map<Integer,List<String>> a = new HashMap<>();
+		List<String> b = new ArrayList<>();
+		b.add("lol");
+		a.put(1, b);
+		System.out.println(a.get(1));
+		b.add("ehm");
+		System.out.println(a.get(1));
+		
+//		CronologiaStampe.println("ciao");
+//		CronologiaStampe.close();
+//		CronologiaStampe.println("ok");
 		
 		
 //		String currentContent="ci\"\nao";

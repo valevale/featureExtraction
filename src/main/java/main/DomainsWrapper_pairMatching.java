@@ -50,14 +50,15 @@ public class DomainsWrapper_pairMatching {
 	 * 2 se va blacklistata la seconda persona
 	 * */
 	public static int getSegmentsFrom_server(WebPageDocument firstDocument,
-			WebPageDocument secondDocument, String ancora_p1,
+			WebPageDocument secondDocument, String ancora_p1, Map<String,Boolean> xpath2isIdentificativa_d1,
 			WebPageDocument thirdDocument, WebPageDocument fourthDocument, String ancora_p2,
+			Map<String,Boolean> xpath2isIdentificativa_d2,
 			boolean id_found)
 					throws Exception {
 		
 		//TODO togli quando è senza cache!
 		//creo la cache
-		Map<String,Boolean> xpath2isIdentificativa = new HashMap<>();
+//		Map<String,Boolean> xpath2isIdentificativa = new HashMap<>();
 
 		TopSegmentsFinder finder = TopSegmentsFinder.getInstance();
 
@@ -155,7 +156,7 @@ public class DomainsWrapper_pairMatching {
 						id_found = addLink_CCconCache(seg, seg_secondDocument, thirdDocument, fourthDocument, scoreDoc.score,
 								relevantSegments_thirdDocument, relevantSegments_fourthDocument,
 								segment2hits_secondaPersona, indexPathDominio2, id_found,
-								xpath2isIdentificativa);
+								xpath2isIdentificativa_d1,xpath2isIdentificativa_d2);
 
 						//TODO 3 senza controllo
 						//						addLink_SC(seg, seg_secondDocument, thirdDocument, fourthDocument, scoreDoc.score,
@@ -194,7 +195,8 @@ public class DomainsWrapper_pairMatching {
 			List<Segment> relevantSegments_thirdDocument,
 			List<Segment> relevantSegments_fourthDocument, 
 			List<Tuple2<Segment, TopDocs>> segment2hits_secondaPersona,
-			String indexPath, boolean id_found, Map<String,Boolean> xpath2isIdentificativa) throws Exception {
+			String indexPath, boolean id_found, Map<String,Boolean> xpath2isIdentificativa_d1,
+			Map<String,Boolean> xpath2isIdentificativa_d2) throws Exception {
 		System.out.println("NUOVO ADDLINK");
 		//creazione degli xpath generici
 		//OTTIMIZZAZIONE: controllo che i due segmenti non abbiano già un xpath generico
@@ -269,8 +271,8 @@ public class DomainsWrapper_pairMatching {
 					// qui controllo id
 					// qui modifichi
 					
-					if (isXpathIdentificativo_conCache(genericXpath_firstSegment, xpath2isIdentificativa)
-							|| isXpathIdentificativo_conCache(genericXpath_secondSegment, xpath2isIdentificativa)){
+					if (isXpathIdentificativo_conCache(genericXpath_firstSegment, xpath2isIdentificativa_d1)
+							|| isXpathIdentificativo_conCache(genericXpath_secondSegment, xpath2isIdentificativa_d2)){
 						
 						
 						//						System.out.println("ALLELUJA");

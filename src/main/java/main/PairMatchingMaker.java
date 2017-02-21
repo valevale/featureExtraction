@@ -69,6 +69,9 @@ public class PairMatchingMaker {
 		boolean fine_apprendimento = false;
 		Map<String,Integer> dominio2successi = new HashMap<>();
 		inizializzaMappaSuccessi(dominio2successi);
+		
+		Map<String,Map<String,Boolean>> domain2xpathsCache = new HashMap<>();
+		
 		System.out.println("mappa dei successi inizializzata");
 		for (int i=0;i<SourceInput.getSorgenti().size() && !fine_apprendimento;i++) {
 			for (int j=i+1;j<SourceInput.getSorgenti().size() && !fine_apprendimento;j++) {
@@ -78,6 +81,16 @@ public class PairMatchingMaker {
 				System.out.println("NUOVO d2:" + domain2);
 				CronologiaStampe.println("NUOVO d1:" + domain1);
 				CronologiaStampe.println("NUOVO d2:" + domain2);
+				Map<String,Boolean> xpath2isIdentificativa_d1 = domain2xpathsCache.get(domain1);
+				if (xpath2isIdentificativa_d1 == null) {
+					xpath2isIdentificativa_d1 = new HashMap<>();
+					domain2xpathsCache.put(domain1, xpath2isIdentificativa_d1);
+				}
+				Map<String,Boolean> xpath2isIdentificativa_d2 = domain2xpathsCache.get(domain2);
+				if (xpath2isIdentificativa_d2 == null) {
+					xpath2isIdentificativa_d2 = new HashMap<>();
+					domain2xpathsCache.put(domain2, xpath2isIdentificativa_d2);
+				}
 				//controllo: se quella coppia ha già 5 successi, passa a un'altra
 				if (!sufficientiSuccessi(dominio2successi,domain1,domain2)) {
 					System.out.println("non ho sufficienti successi per d1 e d2");
@@ -135,8 +148,9 @@ public class PairMatchingMaker {
 										//xpath identificative, permettendoci di capire se
 										//stiamo usando 2 coppie di pagine che parlano ciascuna della stessa persona, o no
 										int esito = DomainsWrapper_pairMatching.getSegmentsFrom_server(
-												wpd_p1_d1, wpd_p1_d2, first_person,
-												wpd_p2_d1, wpd_p2_d2, second_person, false);
+												wpd_p1_d1, wpd_p1_d2, first_person,xpath2isIdentificativa_d1,
+												wpd_p2_d1, wpd_p2_d2, second_person, xpath2isIdentificativa_d2,
+												false);
 										cont++;
 										System.out.println("ESITO: "+esito);
 										CronologiaStampe.println("ESITO: "+esito);
