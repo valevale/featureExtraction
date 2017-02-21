@@ -26,13 +26,13 @@ import scala.Tuple2;
  * numerosi o dei cluster di Matching (non avremo un singolo matching sdoppiato)*/
 public class PairMatchingMaker {
 
-	//TODO prossimo: 5 persona; 10 dominio; 10 successi
+	// prossimo: 5 persona; 10 dominio; 10 successi
 	//e 5 domini (o 6 se vuoi metterci quello piccolino)
 	//prima era 10 e 5 per pb
 	//ora devi fare full mesh aenza controllo
 	static int successiPersona = 5;
 	static int successiDominio = 10;
-	//TODO
+	//
 //	static int sufficientiSuccessi = 10;
 //	static int sufficientiSuccessi_pb = 20;
 	//	static List<String> idSorgenti = new ArrayList<>();
@@ -172,7 +172,7 @@ public class PairMatchingMaker {
 										if (esito == 0) {
 											//un buon quadrato è stato trovato.
 											// segnarsi un +1 per ogni dominio
-											//TODO
+											//
 //											int successiDom1 = dominio2successi.get(domain1);
 //											successiDom1++;
 //											dominio2successi.put(domain1, successiDom1);
@@ -544,7 +544,7 @@ public class PairMatchingMaker {
 	}
 
 	public static void inizializzaMappaSuccessi(Map<String,Integer> dominio2successi) {
-		//TODO
+		//
 		for (int i=0;i<SourceInput.getSorgenti().size();i++) {
 			for (int j=i+1;j<SourceInput.getSorgenti().size();j++) {
 				dominio2successi.put(SourceInput.getSorgenti().get(i)+"_"+SourceInput.getSorgenti().get(j), 0);
@@ -577,7 +577,7 @@ public class PairMatchingMaker {
 	//controllo se i domini specificati hanno già abbastanza successi (5)
 	public static boolean sufficientiSuccessi(Map<String,Integer> dominio2successi,
 			String dom1, String dom2) {
-		//TODO modificato controllo
+		// modificato controllo
 		//		int successi1 = dominio2successi.get(dom1);
 		//		int successi2 = dominio2successi.get(dom2);
 		//		if (successi2 >= successiDominio && successi1 >= successiDominio) {
