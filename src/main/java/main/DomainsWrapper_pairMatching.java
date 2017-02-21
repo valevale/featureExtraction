@@ -271,8 +271,10 @@ public class DomainsWrapper_pairMatching {
 					// qui controllo id
 					// qui modifichi
 					
+					//TODO QUI HAI MESSO &&
+					//PRIMA ERA ||
 					if (isXpathIdentificativo_conCache(genericXpath_firstSegment, xpath2isIdentificativa_d1)
-							|| isXpathIdentificativo_conCache(genericXpath_secondSegment, xpath2isIdentificativa_d2)){
+							&& isXpathIdentificativo_conCache(genericXpath_secondSegment, xpath2isIdentificativa_d2)){
 						
 						
 						//						System.out.println("ALLELUJA");

@@ -22,7 +22,7 @@ public class Main {
 
 	static double parameterTextFusion = -1;
 	
-	public static String path = "output/CC-Cache_10/";
+	public static String path = "output/CC-Cache_10_conAND/";
 
 	public static void main(String[] args) throws Exception {
 
