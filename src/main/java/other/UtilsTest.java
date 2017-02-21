@@ -10,15 +10,21 @@ import java.util.List;
 import java.util.Map;
 
 import lucene.SegmentSearcher;
+import main.CronologiaStampe;
 
 public class UtilsTest {
 
 	public static void main(String[] args) throws IOException {
 
-		String currentContent="ci\"\nao";
-		currentContent = currentContent.replaceAll("\"", "");
-		currentContent = currentContent.replaceAll("\n", "");
-		System.out.println(currentContent);
+		CronologiaStampe.println("ciao");
+		CronologiaStampe.close();
+		CronologiaStampe.println("ok");
+		
+		
+//		String currentContent="ci\"\nao";
+//		currentContent = currentContent.replaceAll("\"", "");
+//		currentContent = currentContent.replaceAll("\n", "");
+//		System.out.println(currentContent);
 		
 //		String path = "ciao/come/va/spero/bene";
 //		File dir = new File(path);

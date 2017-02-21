@@ -31,14 +31,16 @@ public class PairMatchingMaker {
 	//prima era 10 e 5 per pb
 	//ora devi fare full mesh aenza controllo
 	static int successiPersona = 5;
-	static int successiDominio = 30;
+	static int successiDominio = 10;
 	//TODO
 //	static int sufficientiSuccessi = 10;
-	static int sufficientiSuccessi_pb = 20;
+//	static int sufficientiSuccessi_pb = 20;
 	//	static List<String> idSorgenti = new ArrayList<>();
 	static PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
 
 	public static Map<Tuple2<String,String>,Set<PairMatching>> getMainMatchings() throws Exception {
+		
+		
 		//		PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
 		//	public static void getMainMatchings() throws Exception {
 		//al posto di questo, devi recuperare un insieme di pagine web dal dataset
@@ -74,6 +76,8 @@ public class PairMatchingMaker {
 				String domain2 = SourceInput.getSorgenti().get(j);
 				System.out.println("NUOVO d1:" + domain1);
 				System.out.println("NUOVO d2:" + domain2);
+				CronologiaStampe.println("NUOVO d1:" + domain1);
+				CronologiaStampe.println("NUOVO d2:" + domain2);
 				//controllo: se quella coppia ha già 5 successi, passa a un'altra
 				if (!sufficientiSuccessi(dominio2successi,domain1,domain2)) {
 					System.out.println("non ho sufficienti successi per d1 e d2");
@@ -109,6 +113,18 @@ public class PairMatchingMaker {
 										System.out.println("d2:" + domain2);
 										System.out.println("p1: "+first_person);
 										System.out.println("p2: "+second_person);
+										CronologiaStampe.println("d1:" + domain1);
+										CronologiaStampe.println("d2:" + domain2);
+										CronologiaStampe.println("p1: "+first_person);
+										CronologiaStampe.println("p2: "+second_person);
+										CronologiaStampe.println("wp_p1_d1 id: "+wp_p1_d1.getId().toString());
+										CronologiaStampe.println("wp_p1_d1 url: "+wp_p1_d1.getUrl());
+										CronologiaStampe.println("wp_p1_d2 id: "+wp_p1_d2.getId().toString());
+										CronologiaStampe.println("wp_p1_d2 url: "+wp_p1_d2.getUrl());
+										CronologiaStampe.println("wp_p2_d1 id: "+wp_p2_d1.getId().toString());
+										CronologiaStampe.println("wp_p2_d1 url: "+wp_p2_d1.getUrl());
+										CronologiaStampe.println("wp_p2_d2 id: "+wp_p2_d2.getId().toString());
+										CronologiaStampe.println("wp_p2_d2 url: "+wp_p2_d2.getUrl());
 										//creo i documenti
 										WebPageDocument wpd_p1_d1 = new WebPageDocument(wp_p1_d1, domain1);
 										WebPageDocument wpd_p1_d2 = new WebPageDocument(wp_p1_d2, domain2);
@@ -123,6 +139,8 @@ public class PairMatchingMaker {
 												wpd_p2_d1, wpd_p2_d2, second_person, false);
 										cont++;
 										System.out.println("ESITO: "+esito);
+										CronologiaStampe.println("ESITO: "+esito);
+										CronologiaStampe.println("________________________");
 										if (esito ==1 || cont>=10) {
 											//devo blacklistare la prima persona
 											Tuple2<String,String> bannedDomainPairs = new Tuple2<>(domain1,domain2);

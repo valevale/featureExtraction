@@ -2,6 +2,7 @@ package main;
 
 import java.io.File;
 import java.io.PrintWriter;
+import java.sql.Timestamp;
 //import java.io.PrintWriter;
 import java.util.List;
 import java.util.Map;
@@ -20,20 +21,29 @@ import model.WebPage;
 public class Main {
 
 	static double parameterTextFusion = -1;
-	static String path = "outputFinale/outputFinale8/";
+	
+	static String path = "output/SC_10/";
 
 	public static void main(String[] args) throws Exception {
 
+		Timestamp timestamp = new Timestamp(System.currentTimeMillis());
+		CronologiaStampe.println("inizio: "+timestamp);
+		
 		SourceInput.inizializzaLista();
 		System.out.println("lista inizializzata");
+		CronologiaStampe.println("lista inizializzata");
 
 		List<InformationsMatching> informations = 
 				SegmentGraphGenerator.getInformations();
 		System.out.println("informazioni generate");
+		CronologiaStampe.println("informazioni generate");
 
 		ProfileRepository pr = ProfileRepository.getInstance();
 		pr.updateProfiles(informations);
 		System.out.println("profili generati");
+		CronologiaStampe.println("profili generati");
+		
+		CronologiaStampe.close();
 
 		//hai i profili, per ogni profilo  prendi il dominio
 		//per ogni dominio prendi le pagine web
