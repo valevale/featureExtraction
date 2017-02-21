@@ -141,14 +141,14 @@ public class DomainsWrapper_pairMatching {
 							e.printStackTrace();
 						}
 						Segment seg_secondDocument = secondDocument.getSegmentByXpath(lucDoc.get("segmentPath"));
-						id_found = addLink_new(seg, seg_secondDocument, thirdDocument, fourthDocument, scoreDoc.score,
-								relevantSegments_thirdDocument, relevantSegments_fourthDocument,
-								segment2hits_secondaPersona, indexPathDominio2, id_found);
+//						id_found = addLink_new(seg, seg_secondDocument, thirdDocument, fourthDocument, scoreDoc.score,
+//								relevantSegments_thirdDocument, relevantSegments_fourthDocument,
+//								segment2hits_secondaPersona, indexPathDominio2, id_found);
 						//TODO cambia!!!
-						//						addLink(seg, seg_secondDocument, thirdDocument, fourthDocument, scoreDoc.score,
-						//								relevantSegments_thirdDocument, relevantSegments_fourthDocument,
-						//								segment2hits_secondaPersona, indexPathDominio2);
-						//						id_found = true;
+												addLink(seg, seg_secondDocument, thirdDocument, fourthDocument, scoreDoc.score,
+														relevantSegments_thirdDocument, relevantSegments_fourthDocument,
+														segment2hits_secondaPersona, indexPathDominio2);
+												id_found = true;
 						//fine cambiamento
 					}
 				}
