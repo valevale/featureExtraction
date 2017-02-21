@@ -1,0 +1,1565 @@
+lista inizializzata
+NUOVO d1:5750678b3387e31f516fa1c7
+NUOVO d2:5750678b3387e31f516fa1d0
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: gerardo adinolfi
+p2: antonietta de stefano
+wp_p1_d1 id: 5750f10f3ceacf06c839b520
+wp_p1_d1 url: http://www.icitta.it/caramico_gerardo-1188473-a.html
+wp_p1_d2 id: 5750f1093ceacf06c839b4bb
+wp_p1_d2 url: https://www.cylex.it/nocera_superiore/di-marino-gennaro--dr---8080145.html
+wp_p2_d1 id: 5750b3733ceacf06c835e6dc
+wp_p2_d1 url: http://www.icitta.it/di_stefano_antonietta-2917215-a.html
+wp_p2_d2 id: 5750b3713ceacf06c835e6c1
+wp_p2_d2 url: https://www.cylex.it/monza/di-stefano-antonietta-tabaccheria-12557954.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: gerardo adinolfi
+p2: domenico galimi
+wp_p1_d1 id: 5750f10f3ceacf06c839b520
+wp_p1_d1 url: http://www.icitta.it/caramico_gerardo-1188473-a.html
+wp_p1_d2 id: 5750f1093ceacf06c839b4bb
+wp_p1_d2 url: https://www.cylex.it/nocera_superiore/di-marino-gennaro--dr---8080145.html
+wp_p2_d1 id: 5750c3f23ceacf06c836ec1a
+wp_p2_d1 url: http://www.icitta.it/macelleria_crea_domenico-4422587-a.html
+wp_p2_d2 id: 5750c3f33ceacf06c836ec24
+wp_p2_d2 url: https://www.cylex.it/san_donato_milanese/galimi-carlo-8374864.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: gerardo adinolfi
+p2: domenico sena
+wp_p1_d1 id: 5750f10f3ceacf06c839b520
+wp_p1_d1 url: http://www.icitta.it/caramico_gerardo-1188473-a.html
+wp_p1_d2 id: 5750f1093ceacf06c839b4bb
+wp_p1_d2 url: https://www.cylex.it/nocera_superiore/di-marino-gennaro--dr---8080145.html
+wp_p2_d1 id: 5750a2e63ceacf06c834c4fb
+wp_p2_d1 url: http://www.icitta.it/sena_domenico_taxi-825256-a.html
+wp_p2_d2 id: 5750a2e63ceacf06c834c501
+wp_p2_d2 url: https://www.cylex.it/siena/bar-s--domenico-7460010.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: gerardo adinolfi
+p2: umberto silvestri
+wp_p1_d1 id: 5750f10f3ceacf06c839b520
+wp_p1_d1 url: http://www.icitta.it/caramico_gerardo-1188473-a.html
+wp_p1_d2 id: 5750f1093ceacf06c839b4bb
+wp_p1_d2 url: https://www.cylex.it/nocera_superiore/di-marino-gennaro--dr---8080145.html
+wp_p2_d1 id: 5750a28e3ceacf06c834bead
+wp_p2_d1 url: http://www.icitta.it/silvestri_snc_di_bacaloni_umberto_c_vernici_lechler_herberts-4137909-a.html
+wp_p2_d2 id: 5750a28b3ceacf06c834be7a
+wp_p2_d2 url: https://www.cylex.it/castellanza/silvestri-umberto-6806717.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: gerardo adinolfi
+p2: bruno marton
+wp_p1_d1 id: 5750f10f3ceacf06c839b520
+wp_p1_d1 url: http://www.icitta.it/caramico_gerardo-1188473-a.html
+wp_p1_d2 id: 5750f1093ceacf06c839b4bb
+wp_p1_d2 url: https://www.cylex.it/nocera_superiore/di-marino-gennaro--dr---8080145.html
+wp_p2_d1 id: 5750dae73ceacf06c8385251
+wp_p2_d1 url: http://www.icitta.it/trattoria_da_marton_snc-2077329-a.html
+wp_p2_d2 id: 5750dae73ceacf06c838525a
+wp_p2_d2 url: https://www.cylex.it/zero_branco/falegnameria-mg-di-marton-moreno-8227696.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: gerardo adinolfi
+p2: antonio damele
+wp_p1_d1 id: 5750f10f3ceacf06c839b520
+wp_p1_d1 url: http://www.icitta.it/caramico_gerardo-1188473-a.html
+wp_p1_d2 id: 5750f1093ceacf06c839b4bb
+wp_p1_d2 url: https://www.cylex.it/nocera_superiore/di-marino-gennaro--dr---8080145.html
+wp_p2_d1 id: 57506f2c3ceacf06c82edd43
+wp_p2_d1 url: http://www.icitta.it/damele_antonio_eredi-927206-a.html
+wp_p2_d2 id: 57506f2b3ceacf06c82edd42
+wp_p2_d2 url: https://www.cylex.it/camporosso/damele-antonio-eredi-8017308.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: gerardo adinolfi
+p2: giorgio cassiani
+wp_p1_d1 id: 5750f10f3ceacf06c839b520
+wp_p1_d1 url: http://www.icitta.it/caramico_gerardo-1188473-a.html
+wp_p1_d2 id: 5750f1093ceacf06c839b4bb
+wp_p1_d2 url: https://www.cylex.it/nocera_superiore/di-marino-gennaro--dr---8080145.html
+wp_p2_d1 id: 575072e03ceacf06c82f75bf
+wp_p2_d1 url: http://www.icitta.it/cassiani_dr_giorgio-98436-a.html
+wp_p2_d2 id: 575072df3ceacf06c82f75a1
+wp_p2_d2 url: https://www.cylex.it/roma/cassiani-giorgio-7754046.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: gerardo adinolfi
+p2: salvatore marchica
+wp_p1_d1 id: 5750f10f3ceacf06c839b520
+wp_p1_d1 url: http://www.icitta.it/caramico_gerardo-1188473-a.html
+wp_p1_d2 id: 5750f1093ceacf06c839b4bb
+wp_p1_d2 url: https://www.cylex.it/nocera_superiore/di-marino-gennaro--dr---8080145.html
+wp_p2_d1 id: 5750a5f93ceacf06c834fd54
+wp_p2_d1 url: http://www.icitta.it/marchica_avvocato_alessandro-3298539-a.html
+wp_p2_d2 id: 5750a5fb3ceacf06c834fd77
+wp_p2_d2 url: https://www.cylex.it/termini_imerese/arnone-salvatore-7299049.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: gerardo adinolfi
+p2: raffaele riggio
+wp_p1_d1 id: 5750f10f3ceacf06c839b520
+wp_p1_d1 url: http://www.icitta.it/caramico_gerardo-1188473-a.html
+wp_p1_d2 id: 5750f1093ceacf06c839b4bb
+wp_p1_d2 url: https://www.cylex.it/nocera_superiore/di-marino-gennaro--dr---8080145.html
+wp_p2_d1 id: 5750778f3ceacf06c8301e39
+wp_p2_d1 url: http://www.icitta.it/riggio_angelo_raffaele-326737-a.html
+wp_p2_d2 id: 5750778f3ceacf06c8301e34
+wp_p2_d2 url: https://www.cylex.it/montecchio_emilia/riggio-raffaele-7022173.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: antonietta de stefano
+p2: domenico galimi
+wp_p1_d1 id: 5750b3733ceacf06c835e6dc
+wp_p1_d1 url: http://www.icitta.it/di_stefano_antonietta-2917215-a.html
+wp_p1_d2 id: 5750b3713ceacf06c835e6c1
+wp_p1_d2 url: https://www.cylex.it/monza/di-stefano-antonietta-tabaccheria-12557954.html
+wp_p2_d1 id: 5750c3f23ceacf06c836ec1a
+wp_p2_d1 url: http://www.icitta.it/macelleria_crea_domenico-4422587-a.html
+wp_p2_d2 id: 5750c3f33ceacf06c836ec24
+wp_p2_d2 url: https://www.cylex.it/san_donato_milanese/galimi-carlo-8374864.html
+ESITO: 0
+________________________
+NUOVO d1:5750678b3387e31f516fa1c7
+NUOVO d2:575067b33387e31f516face0
+d1:5750678b3387e31f516fa1c7
+d2:575067b33387e31f516face0
+p1: alessandro longo
+p2: giovanni blandi
+wp_p1_d1 id: 5750fc923ceacf06c83a6978
+wp_p1_d1 url: http://www.icitta.it/longo_dr_alessandro_medico_chirurgo-158717-a.html
+wp_p1_d2 id: 5750fc9b3ceacf06c83a69f9
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=6609201-privati&nome=Longo%20Longo
+wp_p2_d1 id: 575073223ceacf06c82f7fd0
+wp_p2_d1 url: http://www.icitta.it/blandi_antonio-1264521-a.html
+wp_p2_d2 id: 575073223ceacf06c82f7fbc
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=4679678-privativie&nome=Blando%20Giovanni
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:575067b33387e31f516face0
+p1: alessandro longo
+p2: raffaele sardo
+wp_p1_d1 id: 5750fc923ceacf06c83a6978
+wp_p1_d1 url: http://www.icitta.it/longo_dr_alessandro_medico_chirurgo-158717-a.html
+wp_p1_d2 id: 5750fc9b3ceacf06c83a69f9
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=6609201-privati&nome=Longo%20Longo
+wp_p2_d1 id: 5750e5613ceacf06c838f6b3
+wp_p2_d1 url: http://www.icitta.it/bar_caffe_l_oasi_di_brundu_raffaele-4965716-a.html
+wp_p2_d2 id: 5750e5683ceacf06c838f72e
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=13699178-privati&nome=Centro%20Veterinario%20Sardo%20S.A.S.%20Di%20Marco%20Piras%20e%20Raffaele%20Caddeo
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:575067b33387e31f516face0
+p1: alessandro longo
+p2: roberto soldani
+wp_p1_d1 id: 5750fc923ceacf06c83a6978
+wp_p1_d1 url: http://www.icitta.it/longo_dr_alessandro_medico_chirurgo-158717-a.html
+wp_p1_d2 id: 5750fc9b3ceacf06c83a69f9
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=6609201-privati&nome=Longo%20Longo
+wp_p2_d1 id: 575078323ceacf06c83033a7
+wp_p2_d1 url: http://www.icitta.it/soldani_roberto_impianti_elettrici-1651861-a.html
+wp_p2_d2 id: 575078333ceacf06c83033b7
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=801531-privati&nome=Barberini%20Roberto
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:575067b33387e31f516face0
+p1: alessandro longo
+p2: enzo bacciardi
+wp_p1_d1 id: 5750fc923ceacf06c83a6978
+wp_p1_d1 url: http://www.icitta.it/longo_dr_alessandro_medico_chirurgo-158717-a.html
+wp_p1_d2 id: 5750fc9b3ceacf06c83a69f9
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=6609201-privati&nome=Longo%20Longo
+wp_p2_d1 id: 575070ef3ceacf06c82f28c0
+wp_p2_d1 url: http://www.icitta.it/bacciardi_avv_enzo_associati-87049-a.html
+wp_p2_d2 id: 575070ef3ceacf06c82f28c6
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=1615842-privati14&nome=Bacciardi%20Avv.%20Enzo%20&%20Associati
+ESITO: 1
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:575067b33387e31f516face0
+p1: enzo bacciardi
+p2: marco benedetti
+wp_p1_d1 id: 575070ef3ceacf06c82f28c0
+wp_p1_d1 url: http://www.icitta.it/bacciardi_avv_enzo_associati-87049-a.html
+wp_p1_d2 id: 575070ef3ceacf06c82f28c6
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=1615842-privati14&nome=Bacciardi%20Avv.%20Enzo%20&%20Associati
+wp_p2_d1 id: 575099c33ceacf06c833f796
+wp_p2_d1 url: http://www.icitta.it/t_m_s_elettronica_sas_di_benedetti_marco-849968-a.html
+wp_p2_d2 id: 575099c73ceacf06c833f7f6
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=1109245-privati&nome=Ristorante%20Onda%20Marina%20Di%20Benedetti%20Marco%20e%20Massimo%20Snc
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:575067b33387e31f516face0
+p1: enzo bacciardi
+p2: giuseppe tecchio
+wp_p1_d1 id: 575070ef3ceacf06c82f28c0
+wp_p1_d1 url: http://www.icitta.it/bacciardi_avv_enzo_associati-87049-a.html
+wp_p1_d2 id: 575070ef3ceacf06c82f28c6
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=1615842-privati14&nome=Bacciardi%20Avv.%20Enzo%20&%20Associati
+wp_p2_d1 id: 5750ab663ceacf06c8355e36
+wp_p2_d1 url: http://www.icitta.it/iezzi_avv_giuseppe-445013-a.html
+wp_p2_d2 id: 5750ab653ceacf06c8355e28
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=11926679-privati&nome=Tecchio%20Giuseppe
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:575067b33387e31f516face0
+p1: enzo bacciardi
+p2: baldassarri mario
+wp_p1_d1 id: 575070ef3ceacf06c82f28c0
+wp_p1_d1 url: http://www.icitta.it/bacciardi_avv_enzo_associati-87049-a.html
+wp_p1_d2 id: 575070ef3ceacf06c82f28c6
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=1615842-privati14&nome=Bacciardi%20Avv.%20Enzo%20&%20Associati
+wp_p2_d1 id: 5750690c3ceacf06c82d7271
+wp_p2_d1 url: http://www.icitta.it/cim_di_baldassarri_mario-3552180-a.html
+wp_p2_d2 id: 5750690c3ceacf06c82d7266
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=699325-privati&nome=Baldassarri%20Mario
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:575067b33387e31f516face0
+p1: enzo bacciardi
+p2: giovanni bozzano
+wp_p1_d1 id: 575070ef3ceacf06c82f28c0
+wp_p1_d1 url: http://www.icitta.it/bacciardi_avv_enzo_associati-87049-a.html
+wp_p1_d2 id: 575070ef3ceacf06c82f28c6
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=1615842-privati14&nome=Bacciardi%20Avv.%20Enzo%20&%20Associati
+wp_p2_d1 id: 5750a6243ceacf06c835006d
+wp_p2_d1 url: http://www.icitta.it/bozzano_avv_alfredo_stefano_studio_legale-947553-a.html
+wp_p2_d2 id: 5750a6253ceacf06c835007d
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=11906608-privati&nome=Tassistro%20Giovanni
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:575067b33387e31f516face0
+p1: enzo bacciardi
+p2: daniele bazzoni
+wp_p1_d1 id: 575070ef3ceacf06c82f28c0
+wp_p1_d1 url: http://www.icitta.it/bacciardi_avv_enzo_associati-87049-a.html
+wp_p1_d2 id: 575070ef3ceacf06c82f28c6
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=1615842-privati14&nome=Bacciardi%20Avv.%20Enzo%20&%20Associati
+wp_p2_d1 id: 575070503ceacf06c82f0f32
+wp_p2_d1 url: http://www.icitta.it/bazzoni_dr_daniele_notaio_studio-1113199-a.html
+wp_p2_d2 id: 575070503ceacf06c82f0f38
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=993961-privati&nome=Bazzoni%20Dr.%20Daniele%20Notaio%20Studio
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:575067b33387e31f516face0
+p1: enzo bacciardi
+p2: antonio galtieri
+wp_p1_d1 id: 575070ef3ceacf06c82f28c0
+wp_p1_d1 url: http://www.icitta.it/bacciardi_avv_enzo_associati-87049-a.html
+wp_p1_d2 id: 575070ef3ceacf06c82f28c6
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=1615842-privati14&nome=Bacciardi%20Avv.%20Enzo%20&%20Associati
+wp_p2_d1 id: 5750afed3ceacf06c835abd6
+wp_p2_d1 url: http://www.icitta.it/c_s_onsult_di_antonino_galtieri-2040526-a.html
+wp_p2_d2 id: 5750afec3ceacf06c835abc3
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=5168320-privati&nome=Galtieri%20Antonino
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:575067b33387e31f516face0
+p1: enzo bacciardi
+p2: sabino picariello
+wp_p1_d1 id: 575070ef3ceacf06c82f28c0
+wp_p1_d1 url: http://www.icitta.it/bacciardi_avv_enzo_associati-87049-a.html
+wp_p1_d2 id: 575070ef3ceacf06c82f28c6
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=1615842-privati14&nome=Bacciardi%20Avv.%20Enzo%20&%20Associati
+wp_p2_d1 id: 5750b1753ceacf06c835c56a
+wp_p2_d1 url: http://www.icitta.it/picariello_ferdinando-3746924-a.html
+wp_p2_d2 id: 5750b1713ceacf06c835c53d
+wp_p2_d2 url: http://www.inelenco.com/?dir=cerca&cerca=indirizzo:Contrada%20AND%20indirizzo:Archi%20AND%20%20cap:83100%20AND%20provincia:AV&da=70
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:575067b33387e31f516face0
+p1: enzo bacciardi
+p2: gianni bordignon
+wp_p1_d1 id: 575070ef3ceacf06c82f28c0
+wp_p1_d1 url: http://www.icitta.it/bacciardi_avv_enzo_associati-87049-a.html
+wp_p1_d2 id: 575070ef3ceacf06c82f28c6
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=1615842-privati14&nome=Bacciardi%20Avv.%20Enzo%20&%20Associati
+wp_p2_d1 id: 5750b14e3ceacf06c835c2e1
+wp_p2_d1 url: http://www.icitta.it/bo_m_ar_di_bordignon_giovanni_e_c_snc-2147838-a.html
+wp_p2_d2 id: 5750b14c3ceacf06c835c2c8
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=1900978-privati&nome=Bordignon%20Funeraria%20Accessori%20Bronzo%20Giovanni%20Carlo
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:575067b33387e31f516face0
+p1: enzo bacciardi
+p2: rosaria castiglione
+wp_p1_d1 id: 575070ef3ceacf06c82f28c0
+wp_p1_d1 url: http://www.icitta.it/bacciardi_avv_enzo_associati-87049-a.html
+wp_p1_d2 id: 575070ef3ceacf06c82f28c6
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=1615842-privati14&nome=Bacciardi%20Avv.%20Enzo%20&%20Associati
+wp_p2_d1 id: 5750baa23ceacf06c8365c56
+wp_p2_d1 url: http://www.icitta.it/l_altro_sole_di_cris_sas_di_ghisolfi_rosaria-3496693-a.html
+wp_p2_d2 id: 5750ba9f3ceacf06c8365c1e
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=5565955-privativie&nome=Parfum%20Impresa%20Di%20Pulizie%20-%20Di%20Nocerino%20Rosaria
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:575067b33387e31f516face0
+p1: marco benedetti
+p2: giuseppe tecchio
+wp_p1_d1 id: 575099c33ceacf06c833f796
+wp_p1_d1 url: http://www.icitta.it/t_m_s_elettronica_sas_di_benedetti_marco-849968-a.html
+wp_p1_d2 id: 575099c73ceacf06c833f7f6
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=1109245-privati&nome=Ristorante%20Onda%20Marina%20Di%20Benedetti%20Marco%20e%20Massimo%20Snc
+wp_p2_d1 id: 5750ab663ceacf06c8355e36
+wp_p2_d1 url: http://www.icitta.it/iezzi_avv_giuseppe-445013-a.html
+wp_p2_d2 id: 5750ab653ceacf06c8355e28
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=11926679-privati&nome=Tecchio%20Giuseppe
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:575067b33387e31f516face0
+p1: marco benedetti
+p2: baldassarri mario
+wp_p1_d1 id: 575099c33ceacf06c833f796
+wp_p1_d1 url: http://www.icitta.it/t_m_s_elettronica_sas_di_benedetti_marco-849968-a.html
+wp_p1_d2 id: 575099c73ceacf06c833f7f6
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=1109245-privati&nome=Ristorante%20Onda%20Marina%20Di%20Benedetti%20Marco%20e%20Massimo%20Snc
+wp_p2_d1 id: 5750690c3ceacf06c82d7271
+wp_p2_d1 url: http://www.icitta.it/cim_di_baldassarri_mario-3552180-a.html
+wp_p2_d2 id: 5750690c3ceacf06c82d7266
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=699325-privati&nome=Baldassarri%20Mario
+ESITO: 1
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:575067b33387e31f516face0
+p1: baldassarri mario
+p2: giovanni bozzano
+wp_p1_d1 id: 5750690c3ceacf06c82d7271
+wp_p1_d1 url: http://www.icitta.it/cim_di_baldassarri_mario-3552180-a.html
+wp_p1_d2 id: 5750690c3ceacf06c82d7266
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=699325-privati&nome=Baldassarri%20Mario
+wp_p2_d1 id: 5750a6243ceacf06c835006d
+wp_p2_d1 url: http://www.icitta.it/bozzano_avv_alfredo_stefano_studio_legale-947553-a.html
+wp_p2_d2 id: 5750a6253ceacf06c835007d
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=11906608-privati&nome=Tassistro%20Giovanni
+ESITO: 0
+________________________
+NUOVO d1:5750678b3387e31f516fa1c7
+NUOVO d2:5750678b3387e31f516fa1cd
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1cd
+p1: domenico benincasa
+p2: gerardo adinolfi
+wp_p1_d1 id: 575070843ceacf06c82f17b9
+wp_p1_d1 url: http://www.icitta.it/benincasa_domenico-563527-a.html
+wp_p1_d2 id: 575070843ceacf06c82f17ca
+wp_p1_d2 url: http://www.misterimprese.it/campania/salerno/salerno/ingegneri-studi/1725032.html
+wp_p2_d1 id: 5750f10f3ceacf06c839b520
+wp_p2_d1 url: http://www.icitta.it/caramico_gerardo-1188473-a.html
+wp_p2_d2 id: 5750f1113ceacf06c839b53d
+wp_p2_d2 url: http://www.misterimprese.it/campania/salerno/angri/autoscuole/1699321.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1cd
+p1: domenico benincasa
+p2: giovanni baccani
+wp_p1_d1 id: 575070843ceacf06c82f17b9
+wp_p1_d1 url: http://www.icitta.it/benincasa_domenico-563527-a.html
+wp_p1_d2 id: 575070843ceacf06c82f17ca
+wp_p1_d2 url: http://www.misterimprese.it/campania/salerno/salerno/ingegneri-studi/1725032.html
+wp_p2_d1 id: 575073123ceacf06c82f7d39
+wp_p2_d1 url: http://www.icitta.it/baccani_cav_giovanni_stampe_e_cornici-1639354-a.html
+wp_p2_d2 id: 575073123ceacf06c82f7d30
+wp_p2_d2 url: http://www.misterimprese.it/toscana/firenze/firenze/cornici-ed-aste-vendita-al-dettaglio/1296065.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1cd
+p1: domenico benincasa
+p2: antonietta de stefano
+wp_p1_d1 id: 575070843ceacf06c82f17b9
+wp_p1_d1 url: http://www.icitta.it/benincasa_domenico-563527-a.html
+wp_p1_d2 id: 575070843ceacf06c82f17ca
+wp_p1_d2 url: http://www.misterimprese.it/campania/salerno/salerno/ingegneri-studi/1725032.html
+wp_p2_d1 id: 5750b3733ceacf06c835e6dc
+wp_p2_d1 url: http://www.icitta.it/di_stefano_antonietta-2917215-a.html
+wp_p2_d2 id: 5750b3723ceacf06c835e6d1
+wp_p2_d2 url: http://www.misterimprese.it/piemonte/torino/collegno/automazione-e-robotica-apparecchiature-e-componenti/15388.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1cd
+p1: domenico benincasa
+p2: pier antonio bacci
+wp_p1_d1 id: 575070843ceacf06c82f17b9
+wp_p1_d1 url: http://www.icitta.it/benincasa_domenico-563527-a.html
+wp_p1_d2 id: 575070843ceacf06c82f17ca
+wp_p1_d2 url: http://www.misterimprese.it/campania/salerno/salerno/ingegneri-studi/1725032.html
+wp_p2_d1 id: 575077203ceacf06c8300f34
+wp_p2_d1 url: http://www.icitta.it/bacci_dr_pier_antonio_specialista_in_chirurgia-1600233-a.html
+wp_p2_d2 id: 575077203ceacf06c8300f2c
+wp_p2_d2 url: http://www.misterimprese.it/toscana/arezzo/arezzo/medici-specialisti-chirurgia-generale/1364700.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1cd
+p1: domenico benincasa
+p2: francesco luban
+wp_p1_d1 id: 575070843ceacf06c82f17b9
+wp_p1_d1 url: http://www.icitta.it/benincasa_domenico-563527-a.html
+wp_p1_d2 id: 575070843ceacf06c82f17ca
+wp_p1_d2 url: http://www.misterimprese.it/campania/salerno/salerno/ingegneri-studi/1725032.html
+wp_p2_d1 id: 575071a73ceacf06c82f45e5
+wp_p2_d1 url: http://www.icitta.it/luban_francesco-1852176-a.html
+wp_p2_d2 id: 575071a73ceacf06c82f45e4
+wp_p2_d2 url: http://www.misterimprese.it/piemonte/torino/gassino-torinese/imprese-edili/19057.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1cd
+p1: domenico benincasa
+p2: vincenzo pipitone
+wp_p1_d1 id: 575070843ceacf06c82f17b9
+wp_p1_d1 url: http://www.icitta.it/benincasa_domenico-563527-a.html
+wp_p1_d2 id: 575070843ceacf06c82f17ca
+wp_p1_d2 url: http://www.misterimprese.it/campania/salerno/salerno/ingegneri-studi/1725032.html
+wp_p2_d1 id: 575098f93ceacf06c833e3df
+wp_p2_d1 url: http://www.icitta.it/edi_2000_di_pipitone_vincenzo-5299416-a.html
+wp_p2_d2 id: 575098fe3ceacf06c833e451
+wp_p2_d2 url: http://www.misterimprese.it/sicilia/trapani/trapani/pizzerie/1983752.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1cd
+p1: domenico benincasa
+p2: roberto scaramuzzino
+wp_p1_d1 id: 575070843ceacf06c82f17b9
+wp_p1_d1 url: http://www.icitta.it/benincasa_domenico-563527-a.html
+wp_p1_d2 id: 575070843ceacf06c82f17ca
+wp_p1_d2 url: http://www.misterimprese.it/campania/salerno/salerno/ingegneri-studi/1725032.html
+wp_p2_d1 id: 5750782f3ceacf06c8303336
+wp_p2_d1 url: http://www.icitta.it/scaramuzzino_roberto_bar_tabacchi-336729-a.html
+wp_p2_d2 id: 5750782f3ceacf06c830332b
+wp_p2_d2 url: http://www.misterimprese.it/calabria/catanzaro/soverato/lotto-ricevitorie-concorsi-e-giocate/1957054.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1cd
+p1: domenico benincasa
+p2: domenico sena
+wp_p1_d1 id: 575070843ceacf06c82f17b9
+wp_p1_d1 url: http://www.icitta.it/benincasa_domenico-563527-a.html
+wp_p1_d2 id: 575070843ceacf06c82f17ca
+wp_p1_d2 url: http://www.misterimprese.it/campania/salerno/salerno/ingegneri-studi/1725032.html
+wp_p2_d1 id: 5750a2e63ceacf06c834c4fb
+wp_p2_d1 url: http://www.icitta.it/sena_domenico_taxi-825256-a.html
+wp_p2_d2 id: 5750a2ea3ceacf06c834c542
+wp_p2_d2 url: http://www.misterimprese.it/campania/napoli/acerra/agenzie-immobiliari/1611679.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1cd
+p1: domenico benincasa
+p2: giovanni silano
+wp_p1_d1 id: 575070843ceacf06c82f17b9
+wp_p1_d1 url: http://www.icitta.it/benincasa_domenico-563527-a.html
+wp_p1_d2 id: 575070843ceacf06c82f17ca
+wp_p1_d2 url: http://www.misterimprese.it/campania/salerno/salerno/ingegneri-studi/1725032.html
+wp_p2_d1 id: 5750736b3ceacf06c82f8a1c
+wp_p2_d1 url: http://www.icitta.it/silano_silvio_giovanni-5079575-a.html
+wp_p2_d2 id: 5750736b3ceacf06c82f8a25
+wp_p2_d2 url: http://www.misterimprese.it/campania/avellino/zungoli/autofficine-e-centri-assistenza/1697523.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1cd
+p1: gerardo adinolfi
+p2: giovanni baccani
+wp_p1_d1 id: 5750f10f3ceacf06c839b520
+wp_p1_d1 url: http://www.icitta.it/caramico_gerardo-1188473-a.html
+wp_p1_d2 id: 5750f1113ceacf06c839b53d
+wp_p1_d2 url: http://www.misterimprese.it/campania/salerno/angri/autoscuole/1699321.html
+wp_p2_d1 id: 575073123ceacf06c82f7d39
+wp_p2_d1 url: http://www.icitta.it/baccani_cav_giovanni_stampe_e_cornici-1639354-a.html
+wp_p2_d2 id: 575073123ceacf06c82f7d30
+wp_p2_d2 url: http://www.misterimprese.it/toscana/firenze/firenze/cornici-ed-aste-vendita-al-dettaglio/1296065.html
+ESITO: 0
+________________________
+NUOVO d1:5750678b3387e31f516fa1c7
+NUOVO d2:5750678a3387e31f516fa185
+d1:5750678b3387e31f516fa1c7
+d2:5750678a3387e31f516fa185
+p1: walter pinato
+p2: antonietta de stefano
+wp_p1_d1 id: 57507a103ceacf06c8307169
+wp_p1_d1 url: http://www.icitta.it/pinato_geom_walter_studio_tecnico-1090978-a.html
+wp_p1_d2 id: 57507a103ceacf06c8307173
+wp_p1_d2 url: http://www.paginebianche.it/piemonte/torino/pinato.html
+wp_p2_d1 id: 5750b3733ceacf06c835e6dc
+wp_p2_d1 url: http://www.icitta.it/di_stefano_antonietta-2917215-a.html
+wp_p2_d2 id: 5750b3733ceacf06c835e6db
+wp_p2_d2 url: http://www.paginebianche.it/D/Antonietta-De-Stefano.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678a3387e31f516fa185
+p1: walter pinato
+p2: pier antonio bacci
+wp_p1_d1 id: 57507a103ceacf06c8307169
+wp_p1_d1 url: http://www.icitta.it/pinato_geom_walter_studio_tecnico-1090978-a.html
+wp_p1_d2 id: 57507a103ceacf06c8307173
+wp_p1_d2 url: http://www.paginebianche.it/piemonte/torino/pinato.html
+wp_p2_d1 id: 575077203ceacf06c8300f34
+wp_p2_d1 url: http://www.icitta.it/bacci_dr_pier_antonio_specialista_in_chirurgia-1600233-a.html
+wp_p2_d2 id: 5750771f3ceacf06c8300f21
+wp_p2_d2 url: http://www.paginebianche.it/arezzo/bacci-pier-antonio-specialista-chirurgia.143363
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678a3387e31f516fa185
+p1: walter pinato
+p2: diego bogliolo
+wp_p1_d1 id: 57507a103ceacf06c8307169
+wp_p1_d1 url: http://www.icitta.it/pinato_geom_walter_studio_tecnico-1090978-a.html
+wp_p1_d2 id: 57507a103ceacf06c8307173
+wp_p1_d2 url: http://www.paginebianche.it/piemonte/torino/pinato.html
+wp_p2_d1 id: 575070733ceacf06c82f14d7
+wp_p2_d1 url: http://www.icitta.it/bogliolo_dr_roberto_dottore_commercialista-926089-a.html
+wp_p2_d2 id: 575070723ceacf06c82f14c9
+wp_p2_d2 url: http://www.paginebianche.it/liguria/alassio/bogliolo.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678a3387e31f516fa185
+p1: walter pinato
+p2: roberto scaramuzzino
+wp_p1_d1 id: 57507a103ceacf06c8307169
+wp_p1_d1 url: http://www.icitta.it/pinato_geom_walter_studio_tecnico-1090978-a.html
+wp_p1_d2 id: 57507a103ceacf06c8307173
+wp_p1_d2 url: http://www.paginebianche.it/piemonte/torino/pinato.html
+wp_p2_d1 id: 5750782f3ceacf06c8303336
+wp_p2_d1 url: http://www.icitta.it/scaramuzzino_roberto_bar_tabacchi-336729-a.html
+wp_p2_d2 id: 5750782f3ceacf06c8303329
+wp_p2_d2 url: http://www.paginebianche.it/soverato/scaramuzzino-roberto-bar-tabacchi.3137621
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678a3387e31f516fa185
+p1: walter pinato
+p2: bruno marton
+wp_p1_d1 id: 57507a103ceacf06c8307169
+wp_p1_d1 url: http://www.icitta.it/pinato_geom_walter_studio_tecnico-1090978-a.html
+wp_p1_d2 id: 57507a103ceacf06c8307173
+wp_p1_d2 url: http://www.paginebianche.it/piemonte/torino/pinato.html
+wp_p2_d1 id: 5750dae73ceacf06c8385251
+wp_p2_d1 url: http://www.icitta.it/trattoria_da_marton_snc-2077329-a.html
+wp_p2_d2 id: 5750dae83ceacf06c8385269
+wp_p2_d2 url: http://www.paginebianche.it/piemonte/agrate-conturbia/marton.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678a3387e31f516fa185
+p1: walter pinato
+p2: ernesto martegiani
+wp_p1_d1 id: 57507a103ceacf06c8307169
+wp_p1_d1 url: http://www.icitta.it/pinato_geom_walter_studio_tecnico-1090978-a.html
+wp_p1_d2 id: 57507a103ceacf06c8307173
+wp_p1_d2 url: http://www.paginebianche.it/piemonte/torino/pinato.html
+wp_p2_d1 id: 575071043ceacf06c82f2c50
+wp_p2_d1 url: http://www.icitta.it/tps_ingegneria_srl_martegiani_ing_ernesto-214664-a.html
+wp_p2_d2 id: 575071043ceacf06c82f2c4e
+wp_p2_d2 url: http://www.paginebianche.it/teramo/tps-ingegneria-martegiani-ing-ernesto.5731076
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678a3387e31f516fa185
+p1: walter pinato
+p2: lorenzo cantarutti
+wp_p1_d1 id: 57507a103ceacf06c8307169
+wp_p1_d1 url: http://www.icitta.it/pinato_geom_walter_studio_tecnico-1090978-a.html
+wp_p1_d2 id: 57507a103ceacf06c8307173
+wp_p1_d2 url: http://www.paginebianche.it/piemonte/torino/pinato.html
+wp_p2_d1 id: 5750748d3ceacf06c82fb3e3
+wp_p2_d1 url: http://www.icitta.it/cantarutti_lorenzo-138240-a.html
+wp_p2_d2 id: 5750748e3ceacf06c82fb3e8
+wp_p2_d2 url: http://www.paginebianche.it/friuli-venezia-giulia/remanzacco/cantarutti.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678a3387e31f516fa185
+p1: walter pinato
+p2: antonio stefano caridi
+wp_p1_d1 id: 57507a103ceacf06c8307169
+wp_p1_d1 url: http://www.icitta.it/pinato_geom_walter_studio_tecnico-1090978-a.html
+wp_p1_d2 id: 57507a103ceacf06c8307173
+wp_p1_d2 url: http://www.paginebianche.it/piemonte/torino/pinato.html
+wp_p2_d1 id: 5750d0933ceacf06c837b4d6
+wp_p2_d1 url: http://www.icitta.it/assicurazioni_fondiaria_sai_divisione_sai-1575876-a.html
+wp_p2_d2 id: 5750d0973ceacf06c837b50a
+wp_p2_d2 url: http://www.paginebianche.it/reggio-di-calabria/antonio-caridi.ajgfddgeba
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678a3387e31f516fa185
+p1: walter pinato
+p2: luigi d ambrosio lettieri
+wp_p1_d1 id: 57507a103ceacf06c8307169
+wp_p1_d1 url: http://www.icitta.it/pinato_geom_walter_studio_tecnico-1090978-a.html
+wp_p1_d2 id: 57507a103ceacf06c8307173
+wp_p1_d2 url: http://www.paginebianche.it/piemonte/torino/pinato.html
+wp_p2_d1 id: 5750c9e53ceacf06c8374b6a
+wp_p2_d1 url: http://www.icitta.it/farmacia_d_ambrosio_lettieri_luigi-1391667-a.html
+wp_p2_d2 id: 5750c9d53ceacf06c8374a73
+wp_p2_d2 url: http://www.paginebianche.it/puglia/bari/lettieri.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678a3387e31f516fa185
+p1: antonietta de stefano
+p2: pier antonio bacci
+wp_p1_d1 id: 5750b3733ceacf06c835e6dc
+wp_p1_d1 url: http://www.icitta.it/di_stefano_antonietta-2917215-a.html
+wp_p1_d2 id: 5750b3733ceacf06c835e6db
+wp_p1_d2 url: http://www.paginebianche.it/D/Antonietta-De-Stefano.html
+wp_p2_d1 id: 575077203ceacf06c8300f34
+wp_p2_d1 url: http://www.icitta.it/bacci_dr_pier_antonio_specialista_in_chirurgia-1600233-a.html
+wp_p2_d2 id: 5750771f3ceacf06c8300f21
+wp_p2_d2 url: http://www.paginebianche.it/arezzo/bacci-pier-antonio-specialista-chirurgia.143363
+ESITO: 0
+________________________
+NUOVO d1:5750678b3387e31f516fa1d0
+NUOVO d2:575067b33387e31f516face0
+d1:5750678b3387e31f516fa1d0
+d2:575067b33387e31f516face0
+p1: raffaele sardo
+p2: baldassarri mario
+wp_p1_d1 id: 5750e5643ceacf06c838f6e6
+wp_p1_d1 url: https://www.cylex.it/modena/lo-sardo-raffaele-8727414.html
+wp_p1_d2 id: 5750e5683ceacf06c838f72e
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=13699178-privati&nome=Centro%20Veterinario%20Sardo%20S.A.S.%20Di%20Marco%20Piras%20e%20Raffaele%20Caddeo
+wp_p2_d1 id: 5750690c3ceacf06c82d725f
+wp_p2_d1 url: https://www.cylex.it/calcinate/baldassari-mario-7407261.html
+wp_p2_d2 id: 5750690c3ceacf06c82d7266
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=699325-privati&nome=Baldassarri%20Mario
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:575067b33387e31f516face0
+p1: raffaele sardo
+p2: maurizio rossi
+wp_p1_d1 id: 5750e5643ceacf06c838f6e6
+wp_p1_d1 url: https://www.cylex.it/modena/lo-sardo-raffaele-8727414.html
+wp_p1_d2 id: 5750e5683ceacf06c838f72e
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=13699178-privati&nome=Centro%20Veterinario%20Sardo%20S.A.S.%20Di%20Marco%20Piras%20e%20Raffaele%20Caddeo
+wp_p2_d1 id: 5750d1fa3ceacf06c837ca8d
+wp_p2_d1 url: https://www.cylex.it/bressanone/rossi-maurizio-6968815.html
+wp_p2_d2 id: 5750d2003ceacf06c837cae2
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=10414666-privati&nome=Rossi%20Maurizio
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:575067b33387e31f516face0
+p1: raffaele sardo
+p2: matteo sacchi
+wp_p1_d1 id: 5750e5643ceacf06c838f6e6
+wp_p1_d1 url: https://www.cylex.it/modena/lo-sardo-raffaele-8727414.html
+wp_p1_d2 id: 5750e5683ceacf06c838f72e
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=13699178-privati&nome=Centro%20Veterinario%20Sardo%20S.A.S.%20Di%20Marco%20Piras%20e%20Raffaele%20Caddeo
+wp_p2_d1 id: 5750deb93ceacf06c838863c
+wp_p2_d1 url: https://www.cylex.it/bologna/matteo-sacco-9902436.html
+wp_p2_d2 id: 5750deaa3ceacf06c8388560
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=10850688-privati&nome=Sacco%20Alfredo%20Matteo
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:575067b33387e31f516face0
+p1: raffaele sardo
+p2: bruno ravaioli
+wp_p1_d1 id: 5750e5643ceacf06c838f6e6
+wp_p1_d1 url: https://www.cylex.it/modena/lo-sardo-raffaele-8727414.html
+wp_p1_d2 id: 5750e5683ceacf06c838f72e
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=13699178-privati&nome=Centro%20Veterinario%20Sardo%20S.A.S.%20Di%20Marco%20Piras%20e%20Raffaele%20Caddeo
+wp_p2_d1 id: 5750a5113ceacf06c834ece1
+wp_p2_d1 url: https://www.cylex.it/villanova/ravaioli-srl-7048928.html
+wp_p2_d2 id: 5750a5103ceacf06c834ecd4
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=10163384-privati&nome=Ravaioli%20Rag.%20Bruno
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:575067b33387e31f516face0
+p1: raffaele sardo
+p2: andrea sorrentino
+wp_p1_d1 id: 5750e5643ceacf06c838f6e6
+wp_p1_d1 url: https://www.cylex.it/modena/lo-sardo-raffaele-8727414.html
+wp_p1_d2 id: 5750e5683ceacf06c838f72e
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=13699178-privati&nome=Centro%20Veterinario%20Sardo%20S.A.S.%20Di%20Marco%20Piras%20e%20Raffaele%20Caddeo
+wp_p2_d1 id: 5750f5ca3ceacf06c83a000d
+wp_p2_d1 url: https://www.cylex.it/torre_del_greco/ansor-di-andrea-sorrentino---c---s-n-c---7274639.html
+wp_p2_d2 id: 5750f5ca3ceacf06c83a0009
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=11579109-privati&nome=Sorrentino%20Giovanni
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:575067b33387e31f516face0
+p1: raffaele sardo
+p2: rosaria castiglione
+wp_p1_d1 id: 5750e5643ceacf06c838f6e6
+wp_p1_d1 url: https://www.cylex.it/modena/lo-sardo-raffaele-8727414.html
+wp_p1_d2 id: 5750e5683ceacf06c838f72e
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=13699178-privati&nome=Centro%20Veterinario%20Sardo%20S.A.S.%20Di%20Marco%20Piras%20e%20Raffaele%20Caddeo
+wp_p2_d1 id: 5750ba9e3ceacf06c8365c0e
+wp_p2_d1 url: https://www.cylex.it/castiglione_delle_stiviere/l'altro-sole-di-cris-sas-di-ghisolfi-rosaria-11638222.html
+wp_p2_d2 id: 5750ba9f3ceacf06c8365c1e
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=5565955-privativie&nome=Parfum%20Impresa%20Di%20Pulizie%20-%20Di%20Nocerino%20Rosaria
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:575067b33387e31f516face0
+p1: raffaele sardo
+p2: giuseppa piccolo
+wp_p1_d1 id: 5750e5643ceacf06c838f6e6
+wp_p1_d1 url: https://www.cylex.it/modena/lo-sardo-raffaele-8727414.html
+wp_p1_d2 id: 5750e5683ceacf06c838f72e
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=13699178-privati&nome=Centro%20Veterinario%20Sardo%20S.A.S.%20Di%20Marco%20Piras%20e%20Raffaele%20Caddeo
+wp_p2_d1 id: 5750a5063ceacf06c834ec1d
+wp_p2_d1 url: https://www.cylex.it/san_vito_al_tagliamento/tabacchi-piccolo-giuseppina-12418674.html
+wp_p2_d2 id: 5750a5063ceacf06c834ec1a
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=9517414-privati&nome=Piccolo%20Giuseppina
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:575067b33387e31f516face0
+p1: raffaele sardo
+p2: giovanni cosseddu
+wp_p1_d1 id: 5750e5643ceacf06c838f6e6
+wp_p1_d1 url: https://www.cylex.it/modena/lo-sardo-raffaele-8727414.html
+wp_p1_d2 id: 5750e5683ceacf06c838f72e
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=13699178-privati&nome=Centro%20Veterinario%20Sardo%20S.A.S.%20Di%20Marco%20Piras%20e%20Raffaele%20Caddeo
+wp_p2_d1 id: 575073363ceacf06c82f8285
+wp_p2_d1 url: https://www.cylex.it/olbia/cosseddu-giovanni--dr---7963036.html
+wp_p2_d2 id: 575073363ceacf06c82f829f
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=3555139-privati&nome=Cosseddu%20Dr.%20Giovanni%20Studio%20Di%20Neurologia%20e%20Psichiatria
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:575067b33387e31f516face0
+p1: raffaele sardo
+p2: antonella pastorini
+wp_p1_d1 id: 5750e5643ceacf06c838f6e6
+wp_p1_d1 url: https://www.cylex.it/modena/lo-sardo-raffaele-8727414.html
+wp_p1_d2 id: 5750e5683ceacf06c838f72e
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=13699178-privati&nome=Centro%20Veterinario%20Sardo%20S.A.S.%20Di%20Marco%20Piras%20e%20Raffaele%20Caddeo
+wp_p2_d1 id: 57506ef33ceacf06c82ed341
+wp_p2_d1 url: https://www.cylex.it/pistoia/l-a--merceria-del-villaggio-di-pastorini-lia-e-tesi-antonella-s-n-c--11058417.html
+wp_p2_d2 id: 57506ef33ceacf06c82ed33d
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=14361521-privativie&nome=Pastorini%20Antonella
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:575067b33387e31f516face0
+p1: baldassarri mario
+p2: maurizio rossi
+wp_p1_d1 id: 5750690c3ceacf06c82d725f
+wp_p1_d1 url: https://www.cylex.it/calcinate/baldassari-mario-7407261.html
+wp_p1_d2 id: 5750690c3ceacf06c82d7266
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=699325-privati&nome=Baldassarri%20Mario
+wp_p2_d1 id: 5750d1fa3ceacf06c837ca8d
+wp_p2_d1 url: https://www.cylex.it/bressanone/rossi-maurizio-6968815.html
+wp_p2_d2 id: 5750d2003ceacf06c837cae2
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=10414666-privati&nome=Rossi%20Maurizio
+ESITO: 1
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:575067b33387e31f516face0
+p1: maurizio rossi
+p2: matteo sacchi
+wp_p1_d1 id: 5750d1fa3ceacf06c837ca8d
+wp_p1_d1 url: https://www.cylex.it/bressanone/rossi-maurizio-6968815.html
+wp_p1_d2 id: 5750d2003ceacf06c837cae2
+wp_p1_d2 url: http://www.inelenco.com/?dir=vedi&id=10414666-privati&nome=Rossi%20Maurizio
+wp_p2_d1 id: 5750deb93ceacf06c838863c
+wp_p2_d1 url: https://www.cylex.it/bologna/matteo-sacco-9902436.html
+wp_p2_d2 id: 5750deaa3ceacf06c8388560
+wp_p2_d2 url: http://www.inelenco.com/?dir=vedi&id=10850688-privati&nome=Sacco%20Alfredo%20Matteo
+ESITO: 0
+________________________
+NUOVO d1:5750678b3387e31f516fa1d0
+NUOVO d2:5750678b3387e31f516fa1cd
+d1:5750678b3387e31f516fa1d0
+d2:5750678b3387e31f516fa1cd
+p1: gerardo adinolfi
+p2: antonietta de stefano
+wp_p1_d1 id: 5750f1093ceacf06c839b4bb
+wp_p1_d1 url: https://www.cylex.it/nocera_superiore/di-marino-gennaro--dr---8080145.html
+wp_p1_d2 id: 5750f1113ceacf06c839b53d
+wp_p1_d2 url: http://www.misterimprese.it/campania/salerno/angri/autoscuole/1699321.html
+wp_p2_d1 id: 5750b3713ceacf06c835e6c1
+wp_p2_d1 url: https://www.cylex.it/monza/di-stefano-antonietta-tabaccheria-12557954.html
+wp_p2_d2 id: 5750b3723ceacf06c835e6d1
+wp_p2_d2 url: http://www.misterimprese.it/piemonte/torino/collegno/automazione-e-robotica-apparecchiature-e-componenti/15388.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:5750678b3387e31f516fa1cd
+p1: gerardo adinolfi
+p2: antonio bentivoglio
+wp_p1_d1 id: 5750f1093ceacf06c839b4bb
+wp_p1_d1 url: https://www.cylex.it/nocera_superiore/di-marino-gennaro--dr---8080145.html
+wp_p1_d2 id: 5750f1113ceacf06c839b53d
+wp_p1_d2 url: http://www.misterimprese.it/campania/salerno/angri/autoscuole/1699321.html
+wp_p2_d1 id: 5750c0553ceacf06c836b52d
+wp_p2_d1 url: https://www.cylex.it/bentivoglio/rusconi-antonio-6957007.html
+wp_p2_d2 id: 5750c0543ceacf06c836b51a
+wp_p2_d2 url: http://www.misterimprese.it/emilia-romagna/bologna/bologna/dottori-commercialisti-studi-di-commercialisti/2277695.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:5750678b3387e31f516fa1cd
+p1: gerardo adinolfi
+p2: filomena serra
+wp_p1_d1 id: 5750f1093ceacf06c839b4bb
+wp_p1_d1 url: https://www.cylex.it/nocera_superiore/di-marino-gennaro--dr---8080145.html
+wp_p1_d2 id: 5750f1113ceacf06c839b53d
+wp_p1_d2 url: http://www.misterimprese.it/campania/salerno/angri/autoscuole/1699321.html
+wp_p2_d1 id: 5750c2663ceacf06c836d4aa
+wp_p2_d1 url: https://www.cylex.it/cosenza/punto-casa-di-greco-filomena-aurelia-11496880.html
+wp_p2_d2 id: 5750c2643ceacf06c836d48c
+wp_p2_d2 url: http://www.misterimprese.it/calabria/cosenza/cosenza//perizie-consulenza-e-stime.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:5750678b3387e31f516fa1cd
+p1: gerardo adinolfi
+p2: elio faussone
+wp_p1_d1 id: 5750f1093ceacf06c839b4bb
+wp_p1_d1 url: https://www.cylex.it/nocera_superiore/di-marino-gennaro--dr---8080145.html
+wp_p1_d2 id: 5750f1113ceacf06c839b53d
+wp_p1_d2 url: http://www.misterimprese.it/campania/salerno/angri/autoscuole/1699321.html
+wp_p2_d1 id: 575070be3ceacf06c82f20fe
+wp_p2_d1 url: https://www.cylex.it/rosta/faussone-elio--dr---8255389.html
+wp_p2_d2 id: 575070be3ceacf06c82f2103
+wp_p2_d2 url: http://www.misterimprese.it/piemonte/torino/rosta/geometri-studi/41392.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:5750678b3387e31f516fa1cd
+p1: gerardo adinolfi
+p2: domenico sena
+wp_p1_d1 id: 5750f1093ceacf06c839b4bb
+wp_p1_d1 url: https://www.cylex.it/nocera_superiore/di-marino-gennaro--dr---8080145.html
+wp_p1_d2 id: 5750f1113ceacf06c839b53d
+wp_p1_d2 url: http://www.misterimprese.it/campania/salerno/angri/autoscuole/1699321.html
+wp_p2_d1 id: 5750a2e63ceacf06c834c501
+wp_p2_d1 url: https://www.cylex.it/siena/bar-s--domenico-7460010.html
+wp_p2_d2 id: 5750a2ea3ceacf06c834c542
+wp_p2_d2 url: http://www.misterimprese.it/campania/napoli/acerra/agenzie-immobiliari/1611679.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:5750678b3387e31f516fa1cd
+p1: gerardo adinolfi
+p2: lino ferrari
+wp_p1_d1 id: 5750f1093ceacf06c839b4bb
+wp_p1_d1 url: https://www.cylex.it/nocera_superiore/di-marino-gennaro--dr---8080145.html
+wp_p1_d2 id: 5750f1113ceacf06c839b53d
+wp_p1_d2 url: http://www.misterimprese.it/campania/salerno/angri/autoscuole/1699321.html
+wp_p2_d1 id: 5750aa5d3ceacf06c8354c01
+wp_p2_d1 url: https://www.cylex.it/milano/carrozzeria-fg-di-ferrari-lino---c---s-a-s---7722238.html
+wp_p2_d2 id: 5750aa5b3ceacf06c8354be5
+wp_p2_d2 url: http://www.misterimprese.it/piemonte/novara/paruzzaro/agenti-e-rappresentanti-di-commercio/103011.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:5750678b3387e31f516fa1cd
+p1: gerardo adinolfi
+p2: sergio giunta
+wp_p1_d1 id: 5750f1093ceacf06c839b4bb
+wp_p1_d1 url: https://www.cylex.it/nocera_superiore/di-marino-gennaro--dr---8080145.html
+wp_p1_d2 id: 5750f1113ceacf06c839b53d
+wp_p1_d2 url: http://www.misterimprese.it/campania/salerno/angri/autoscuole/1699321.html
+wp_p2_d1 id: 575078ec3ceacf06c8304bda
+wp_p2_d1 url: https://www.cylex.it/nichelino/giunta-sergio-11153290.html
+wp_p2_d2 id: 575078ec3ceacf06c8304be3
+wp_p2_d2 url: http://www.misterimprese.it/piemonte/torino/nichelino/massaggi/29008.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:5750678b3387e31f516fa1cd
+p1: gerardo adinolfi
+p2: arelli daniele
+wp_p1_d1 id: 5750f1093ceacf06c839b4bb
+wp_p1_d1 url: https://www.cylex.it/nocera_superiore/di-marino-gennaro--dr---8080145.html
+wp_p1_d2 id: 5750f1113ceacf06c839b53d
+wp_p1_d2 url: http://www.misterimprese.it/campania/salerno/angri/autoscuole/1699321.html
+wp_p2_d1 id: 5750682e3ceacf06c82d1102
+wp_p2_d1 url: https://www.cylex.it/sondrio/mottarelli-vanna--d-ssa--8952784.html
+wp_p2_d2 id: 5750682d3ceacf06c82d10e8
+wp_p2_d2 url: http://www.misterimprese.it/umbria/terni/narni/dentisti-ed-odontoiatri/1441397.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:5750678b3387e31f516fa1cd
+p1: gerardo adinolfi
+p2: raffaele riggio
+wp_p1_d1 id: 5750f1093ceacf06c839b4bb
+wp_p1_d1 url: https://www.cylex.it/nocera_superiore/di-marino-gennaro--dr---8080145.html
+wp_p1_d2 id: 5750f1113ceacf06c839b53d
+wp_p1_d2 url: http://www.misterimprese.it/campania/salerno/angri/autoscuole/1699321.html
+wp_p2_d1 id: 5750778f3ceacf06c8301e34
+wp_p2_d1 url: https://www.cylex.it/montecchio_emilia/riggio-raffaele-7022173.html
+wp_p2_d2 id: 5750778f3ceacf06c8301e36
+wp_p2_d2 url: http://www.misterimprese.it/emilia-romagna/reggio-emilia/montecchio-emilia/pavimenti/998521.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:5750678b3387e31f516fa1cd
+p1: antonietta de stefano
+p2: antonio bentivoglio
+wp_p1_d1 id: 5750b3713ceacf06c835e6c1
+wp_p1_d1 url: https://www.cylex.it/monza/di-stefano-antonietta-tabaccheria-12557954.html
+wp_p1_d2 id: 5750b3723ceacf06c835e6d1
+wp_p1_d2 url: http://www.misterimprese.it/piemonte/torino/collegno/automazione-e-robotica-apparecchiature-e-componenti/15388.html
+wp_p2_d1 id: 5750c0553ceacf06c836b52d
+wp_p2_d1 url: https://www.cylex.it/bentivoglio/rusconi-antonio-6957007.html
+wp_p2_d2 id: 5750c0543ceacf06c836b51a
+wp_p2_d2 url: http://www.misterimprese.it/emilia-romagna/bologna/bologna/dottori-commercialisti-studi-di-commercialisti/2277695.html
+ESITO: 0
+________________________
+NUOVO d1:5750678b3387e31f516fa1d0
+NUOVO d2:5750678a3387e31f516fa185
+d1:5750678b3387e31f516fa1d0
+d2:5750678a3387e31f516fa185
+p1: vincenzo iorio
+p2: antonietta de stefano
+wp_p1_d1 id: 575079bd3ceacf06c83066d8
+wp_p1_d1 url: https://www.cylex.it/napoli/iorio-vincenzo-8589776.html
+wp_p1_d2 id: 575079bd3ceacf06c83066d1
+wp_p1_d2 url: http://www.paginebianche.it/I/Vincenzo-Iorio.html
+wp_p2_d1 id: 5750b3713ceacf06c835e6c1
+wp_p2_d1 url: https://www.cylex.it/monza/di-stefano-antonietta-tabaccheria-12557954.html
+wp_p2_d2 id: 5750b3733ceacf06c835e6db
+wp_p2_d2 url: http://www.paginebianche.it/D/Antonietta-De-Stefano.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:5750678a3387e31f516fa185
+p1: vincenzo iorio
+p2: bruno marton
+wp_p1_d1 id: 575079bd3ceacf06c83066d8
+wp_p1_d1 url: https://www.cylex.it/napoli/iorio-vincenzo-8589776.html
+wp_p1_d2 id: 575079bd3ceacf06c83066d1
+wp_p1_d2 url: http://www.paginebianche.it/I/Vincenzo-Iorio.html
+wp_p2_d1 id: 5750dae73ceacf06c838525a
+wp_p2_d1 url: https://www.cylex.it/zero_branco/falegnameria-mg-di-marton-moreno-8227696.html
+wp_p2_d2 id: 5750dae83ceacf06c8385269
+wp_p2_d2 url: http://www.paginebianche.it/piemonte/agrate-conturbia/marton.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:5750678a3387e31f516fa185
+p1: vincenzo iorio
+p2: paola remo de
+wp_p1_d1 id: 575079bd3ceacf06c83066d8
+wp_p1_d1 url: https://www.cylex.it/napoli/iorio-vincenzo-8589776.html
+wp_p1_d2 id: 575079bd3ceacf06c83066d1
+wp_p1_d2 url: http://www.paginebianche.it/I/Vincenzo-Iorio.html
+wp_p2_d1 id: 575076a73ceacf06c82ffefd
+wp_p2_d1 url: https://www.cylex.it/bressanone/de-paola-remo--ing---8038910.html
+wp_p2_d2 id: 575076a73ceacf06c82ffefc
+wp_p2_d2 url: http://www.paginebianche.it/bressanone/de-paola-remo.8509240
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:5750678a3387e31f516fa185
+p1: vincenzo iorio
+p2: arelli daniele
+wp_p1_d1 id: 575079bd3ceacf06c83066d8
+wp_p1_d1 url: https://www.cylex.it/napoli/iorio-vincenzo-8589776.html
+wp_p1_d2 id: 575079bd3ceacf06c83066d1
+wp_p1_d2 url: http://www.paginebianche.it/I/Vincenzo-Iorio.html
+wp_p2_d1 id: 5750682e3ceacf06c82d1102
+wp_p2_d1 url: https://www.cylex.it/sondrio/mottarelli-vanna--d-ssa--8952784.html
+wp_p2_d2 id: 5750682e3ceacf06c82d1112
+wp_p2_d2 url: http://www.paginebianche.it/sardegna/cagliari/scittarelli.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:5750678a3387e31f516fa185
+p1: vincenzo iorio
+p2: roberto guarnero
+wp_p1_d1 id: 575079bd3ceacf06c83066d8
+wp_p1_d1 url: https://www.cylex.it/napoli/iorio-vincenzo-8589776.html
+wp_p1_d2 id: 575079bd3ceacf06c83066d1
+wp_p1_d2 url: http://www.paginebianche.it/I/Vincenzo-Iorio.html
+wp_p2_d1 id: 575078133ceacf06c8302f9f
+wp_p2_d1 url: https://www.cylex.it/torino/guarnero-di-guarnero-giovanni-e-roberto-snc-8492802.html
+wp_p2_d2 id: 575078133ceacf06c8302f96
+wp_p2_d2 url: http://www.paginebianche.it/torino/roberto-guarnero.abbeehcjjd
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:5750678a3387e31f516fa185
+p1: vincenzo iorio
+p2: franco piodi
+wp_p1_d1 id: 575079bd3ceacf06c83066d8
+wp_p1_d1 url: https://www.cylex.it/napoli/iorio-vincenzo-8589776.html
+wp_p1_d2 id: 575079bd3ceacf06c83066d1
+wp_p1_d2 url: http://www.paginebianche.it/I/Vincenzo-Iorio.html
+wp_p2_d1 id: 575072113ceacf06c82f55dd
+wp_p2_d1 url: https://www.cylex.it/bari/fioreria-padre-pio-di-martone-francesco-7688711.html
+wp_p2_d2 id: 575072113ceacf06c82f55d3
+wp_p2_d2 url: http://www.paginebianche.it/cunevo/calzature-pio-dellantonio-franco.3520345
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:5750678a3387e31f516fa185
+p1: vincenzo iorio
+p2: artibani alessia
+wp_p1_d1 id: 575079bd3ceacf06c83066d8
+wp_p1_d1 url: https://www.cylex.it/napoli/iorio-vincenzo-8589776.html
+wp_p1_d2 id: 575079bd3ceacf06c83066d1
+wp_p1_d2 url: http://www.paginebianche.it/I/Vincenzo-Iorio.html
+wp_p2_d1 id: 575068623ceacf06c82d2bbb
+wp_p2_d1 url: https://www.cylex.it/roma/artibani-rolando-7307312.html
+wp_p2_d2 id: 575068623ceacf06c82d2bce
+wp_p2_d2 url: http://www.paginebianche.it/porto-recanati/fiorista-bottega-fiori.3339622
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:5750678a3387e31f516fa185
+p1: vincenzo iorio
+p2: alvaro rigamonti
+wp_p1_d1 id: 575079bd3ceacf06c83066d8
+wp_p1_d1 url: https://www.cylex.it/napoli/iorio-vincenzo-8589776.html
+wp_p1_d2 id: 575079bd3ceacf06c83066d1
+wp_p1_d2 url: http://www.paginebianche.it/I/Vincenzo-Iorio.html
+wp_p2_d1 id: 57506eb43ceacf06c82ec797
+wp_p2_d1 url: https://www.cylex.it/brescia/rigamonti-alvaro--dr---7022629.html
+wp_p2_d2 id: 57506eb43ceacf06c82ec79a
+wp_p2_d2 url: http://www.paginebianche.it/brescia/rigamonti-alvaro.1080039
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:5750678a3387e31f516fa185
+p1: vincenzo iorio
+p2: claudia balboni
+wp_p1_d1 id: 575079bd3ceacf06c83066d8
+wp_p1_d1 url: https://www.cylex.it/napoli/iorio-vincenzo-8589776.html
+wp_p1_d2 id: 575079bd3ceacf06c83066d1
+wp_p1_d2 url: http://www.paginebianche.it/I/Vincenzo-Iorio.html
+wp_p2_d1 id: 57509ceb3ceacf06c8344396
+wp_p2_d1 url: https://www.cylex.it/sant_agostino/balboni-claudia--proc--leg---7406779.html
+wp_p2_d2 id: 57509ce73ceacf06c8344330
+wp_p2_d2 url: http://www.paginebianche.it/modena/claudia-balboni.afjechjaji
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:5750678a3387e31f516fa185
+p1: antonietta de stefano
+p2: bruno marton
+wp_p1_d1 id: 5750b3713ceacf06c835e6c1
+wp_p1_d1 url: https://www.cylex.it/monza/di-stefano-antonietta-tabaccheria-12557954.html
+wp_p1_d2 id: 5750b3733ceacf06c835e6db
+wp_p1_d2 url: http://www.paginebianche.it/D/Antonietta-De-Stefano.html
+wp_p2_d1 id: 5750dae73ceacf06c838525a
+wp_p2_d1 url: https://www.cylex.it/zero_branco/falegnameria-mg-di-marton-moreno-8227696.html
+wp_p2_d2 id: 5750dae83ceacf06c8385269
+wp_p2_d2 url: http://www.paginebianche.it/piemonte/agrate-conturbia/marton.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:5750678a3387e31f516fa185
+p1: antonietta de stefano
+p2: paola remo de
+wp_p1_d1 id: 5750b3713ceacf06c835e6c1
+wp_p1_d1 url: https://www.cylex.it/monza/di-stefano-antonietta-tabaccheria-12557954.html
+wp_p1_d2 id: 5750b3733ceacf06c835e6db
+wp_p1_d2 url: http://www.paginebianche.it/D/Antonietta-De-Stefano.html
+wp_p2_d1 id: 575076a73ceacf06c82ffefd
+wp_p2_d1 url: https://www.cylex.it/bressanone/de-paola-remo--ing---8038910.html
+wp_p2_d2 id: 575076a73ceacf06c82ffefc
+wp_p2_d2 url: http://www.paginebianche.it/bressanone/de-paola-remo.8509240
+ESITO: 1
+________________________
+d1:5750678b3387e31f516fa1d0
+d2:5750678a3387e31f516fa185
+p1: paola remo de
+p2: arelli daniele
+wp_p1_d1 id: 575076a73ceacf06c82ffefd
+wp_p1_d1 url: https://www.cylex.it/bressanone/de-paola-remo--ing---8038910.html
+wp_p1_d2 id: 575076a73ceacf06c82ffefc
+wp_p1_d2 url: http://www.paginebianche.it/bressanone/de-paola-remo.8509240
+wp_p2_d1 id: 5750682e3ceacf06c82d1102
+wp_p2_d1 url: https://www.cylex.it/sondrio/mottarelli-vanna--d-ssa--8952784.html
+wp_p2_d2 id: 5750682e3ceacf06c82d1112
+wp_p2_d2 url: http://www.paginebianche.it/sardegna/cagliari/scittarelli.html
+ESITO: 0
+________________________
+NUOVO d1:575067b33387e31f516face0
+NUOVO d2:5750678b3387e31f516fa1cd
+d1:575067b33387e31f516face0
+d2:5750678b3387e31f516fa1cd
+p1: raffaele sardo
+p2: roberto soldani
+wp_p1_d1 id: 5750e5683ceacf06c838f72e
+wp_p1_d1 url: http://www.inelenco.com/?dir=vedi&id=13699178-privati&nome=Centro%20Veterinario%20Sardo%20S.A.S.%20Di%20Marco%20Piras%20e%20Raffaele%20Caddeo
+wp_p1_d2 id: 5750e56d3ceacf06c838f782
+wp_p1_d2 url: http://www.misterimprese.it/sardegna/cagliari/cagliari/drogherie/2140848.html
+wp_p2_d1 id: 575078333ceacf06c83033b7
+wp_p2_d1 url: http://www.inelenco.com/?dir=vedi&id=801531-privati&nome=Barberini%20Roberto
+wp_p2_d2 id: 575078323ceacf06c830339e
+wp_p2_d2 url: http://www.misterimprese.it/toscana/firenze/firenze/impianti-elettrici-industriali-e-civili-installazione-e-manutenzione/1307718.html
+ESITO: 1
+________________________
+d1:575067b33387e31f516face0
+d2:5750678b3387e31f516fa1cd
+p1: roberto soldani
+p2: baldassarri mario
+wp_p1_d1 id: 575078333ceacf06c83033b7
+wp_p1_d1 url: http://www.inelenco.com/?dir=vedi&id=801531-privati&nome=Barberini%20Roberto
+wp_p1_d2 id: 575078323ceacf06c830339e
+wp_p1_d2 url: http://www.misterimprese.it/toscana/firenze/firenze/impianti-elettrici-industriali-e-civili-installazione-e-manutenzione/1307718.html
+wp_p2_d1 id: 5750690c3ceacf06c82d7266
+wp_p2_d1 url: http://www.inelenco.com/?dir=vedi&id=699325-privati&nome=Baldassarri%20Mario
+wp_p2_d2 id: 5750690c3ceacf06c82d7267
+wp_p2_d2 url: http://www.misterimprese.it/umbria/perugia/collazzone/aziende-agricole/1414471.html
+ESITO: 0
+________________________
+d1:575067b33387e31f516face0
+d2:5750678b3387e31f516fa1cd
+p1: roberto soldani
+p2: daniele bazzoni
+wp_p1_d1 id: 575078333ceacf06c83033b7
+wp_p1_d1 url: http://www.inelenco.com/?dir=vedi&id=801531-privati&nome=Barberini%20Roberto
+wp_p1_d2 id: 575078323ceacf06c830339e
+wp_p1_d2 url: http://www.misterimprese.it/toscana/firenze/firenze/impianti-elettrici-industriali-e-civili-installazione-e-manutenzione/1307718.html
+wp_p2_d1 id: 575070503ceacf06c82f0f38
+wp_p2_d1 url: http://www.inelenco.com/?dir=vedi&id=993961-privati&nome=Bazzoni%20Dr.%20Daniele%20Notaio%20Studio
+wp_p2_d2 id: 575070503ceacf06c82f0f1f
+wp_p2_d2 url: http://www.misterimprese.it/piemonte/torino/torino/notai-studi/65038.html
+ESITO: 0
+________________________
+d1:575067b33387e31f516face0
+d2:5750678b3387e31f516fa1cd
+p1: roberto soldani
+p2: claudio vergano
+wp_p1_d1 id: 575078333ceacf06c83033b7
+wp_p1_d1 url: http://www.inelenco.com/?dir=vedi&id=801531-privati&nome=Barberini%20Roberto
+wp_p1_d2 id: 575078323ceacf06c830339e
+wp_p1_d2 url: http://www.misterimprese.it/toscana/firenze/firenze/impianti-elettrici-industriali-e-civili-installazione-e-manutenzione/1307718.html
+wp_p2_d1 id: 575070343ceacf06c82f0a68
+wp_p2_d1 url: http://www.inelenco.com/?dir=vedi&id=12610721-privati&nome=Vergano%20Claudio
+wp_p2_d2 id: 575070333ceacf06c82f0a60
+wp_p2_d2 url: http://www.misterimprese.it/piemonte/alessandria/altavilla-monferrato/macchine-agricole-commercio-e-riparazione/154012.html
+ESITO: 0
+________________________
+d1:575067b33387e31f516face0
+d2:5750678b3387e31f516fa1cd
+p1: roberto soldani
+p2: matteo sacchi
+wp_p1_d1 id: 575078333ceacf06c83033b7
+wp_p1_d1 url: http://www.inelenco.com/?dir=vedi&id=801531-privati&nome=Barberini%20Roberto
+wp_p1_d2 id: 575078323ceacf06c830339e
+wp_p1_d2 url: http://www.misterimprese.it/toscana/firenze/firenze/impianti-elettrici-industriali-e-civili-installazione-e-manutenzione/1307718.html
+wp_p2_d1 id: 5750deaa3ceacf06c8388560
+wp_p2_d1 url: http://www.inelenco.com/?dir=vedi&id=10850688-privati&nome=Sacco%20Alfredo%20Matteo
+wp_p2_d2 id: 5750dead3ceacf06c838858e
+wp_p2_d2 url: http://www.misterimprese.it/lombardia/como/erba/autofficine-e-centri-assistenza/296681.html
+ESITO: 0
+________________________
+d1:575067b33387e31f516face0
+d2:5750678b3387e31f516fa1cd
+p1: roberto soldani
+p2: giovanni bellizzi
+wp_p1_d1 id: 575078333ceacf06c83033b7
+wp_p1_d1 url: http://www.inelenco.com/?dir=vedi&id=801531-privati&nome=Barberini%20Roberto
+wp_p1_d2 id: 575078323ceacf06c830339e
+wp_p1_d2 url: http://www.misterimprese.it/toscana/firenze/firenze/impianti-elettrici-industriali-e-civili-installazione-e-manutenzione/1307718.html
+wp_p2_d1 id: 5750afae3ceacf06c835a7a0
+wp_p2_d1 url: http://www.inelenco.com/?dir=vedi&id=1051689-privati&nome=Bellizzi%20Giovanni%20Battista
+wp_p2_d2 id: 5750afae3ceacf06c835a793
+wp_p2_d2 url: http://www.misterimprese.it/lazio/roma/ardea/farmacie/1543570.html
+ESITO: 0
+________________________
+d1:575067b33387e31f516face0
+d2:5750678b3387e31f516fa1cd
+p1: roberto soldani
+p2: andrea sorrentino
+wp_p1_d1 id: 575078333ceacf06c83033b7
+wp_p1_d1 url: http://www.inelenco.com/?dir=vedi&id=801531-privati&nome=Barberini%20Roberto
+wp_p1_d2 id: 575078323ceacf06c830339e
+wp_p1_d2 url: http://www.misterimprese.it/toscana/firenze/firenze/impianti-elettrici-industriali-e-civili-installazione-e-manutenzione/1307718.html
+wp_p2_d1 id: 5750f5ca3ceacf06c83a0009
+wp_p2_d1 url: http://www.inelenco.com/?dir=vedi&id=11579109-privati&nome=Sorrentino%20Giovanni
+wp_p2_d2 id: 5750f5c43ceacf06c839ffa9
+wp_p2_d2 url: http://www.misterimprese.it/sicilia/palermo/monreale/macellerie/1992083.html
+ESITO: 0
+________________________
+d1:575067b33387e31f516face0
+d2:5750678b3387e31f516fa1cd
+p1: roberto soldani
+p2: paolo bonaiuti
+wp_p1_d1 id: 575078333ceacf06c83033b7
+wp_p1_d1 url: http://www.inelenco.com/?dir=vedi&id=801531-privati&nome=Barberini%20Roberto
+wp_p1_d2 id: 575078323ceacf06c830339e
+wp_p1_d2 url: http://www.misterimprese.it/toscana/firenze/firenze/impianti-elettrici-industriali-e-civili-installazione-e-manutenzione/1307718.html
+wp_p2_d1 id: 5750db183ceacf06c8385541
+wp_p2_d1 url: http://www.inelenco.com/?dir=vedi&id=1576954-privati&nome=Bonaiuti%20Avv.%20Domenico%20e%20Paolo
+wp_p2_d2 id: 5750db1e3ceacf06c83855a3
+wp_p2_d2 url: http://www.misterimprese.it/umbria/perugia/citta-di-castello/avvocati-studi/1413083.html
+ESITO: 0
+________________________
+d1:575067b33387e31f516face0
+d2:5750678b3387e31f516fa1cd
+p1: roberto soldani
+p2: giuseppa piccolo
+wp_p1_d1 id: 575078333ceacf06c83033b7
+wp_p1_d1 url: http://www.inelenco.com/?dir=vedi&id=801531-privati&nome=Barberini%20Roberto
+wp_p1_d2 id: 575078323ceacf06c830339e
+wp_p1_d2 url: http://www.misterimprese.it/toscana/firenze/firenze/impianti-elettrici-industriali-e-civili-installazione-e-manutenzione/1307718.html
+wp_p2_d1 id: 5750a5063ceacf06c834ec1a
+wp_p2_d1 url: http://www.inelenco.com/?dir=vedi&id=9517414-privati&nome=Piccolo%20Giuseppina
+wp_p2_d2 id: 5750a5083ceacf06c834ec33
+wp_p2_d2 url: http://www.misterimprese.it/campania/napoli/napoli/articoli-sportivi/1654755.html
+ESITO: 0
+________________________
+d1:575067b33387e31f516face0
+d2:5750678b3387e31f516fa1cd
+p1: roberto soldani
+p2: antonella pastorini
+wp_p1_d1 id: 575078333ceacf06c83033b7
+wp_p1_d1 url: http://www.inelenco.com/?dir=vedi&id=801531-privati&nome=Barberini%20Roberto
+wp_p1_d2 id: 575078323ceacf06c830339e
+wp_p1_d2 url: http://www.misterimprese.it/toscana/firenze/firenze/impianti-elettrici-industriali-e-civili-installazione-e-manutenzione/1307718.html
+wp_p2_d1 id: 57506ef33ceacf06c82ed33d
+wp_p2_d1 url: http://www.inelenco.com/?dir=vedi&id=14361521-privativie&nome=Pastorini%20Antonella
+wp_p2_d2 id: 57506ef33ceacf06c82ed34d
+wp_p2_d2 url: http://www.misterimprese.it/toscana/pistoia/pistoia/mercerie/1274951.html
+ESITO: 0
+________________________
+d1:575067b33387e31f516face0
+d2:5750678b3387e31f516fa1cd
+p1: baldassarri mario
+p2: daniele bazzoni
+wp_p1_d1 id: 5750690c3ceacf06c82d7266
+wp_p1_d1 url: http://www.inelenco.com/?dir=vedi&id=699325-privati&nome=Baldassarri%20Mario
+wp_p1_d2 id: 5750690c3ceacf06c82d7267
+wp_p1_d2 url: http://www.misterimprese.it/umbria/perugia/collazzone/aziende-agricole/1414471.html
+wp_p2_d1 id: 575070503ceacf06c82f0f38
+wp_p2_d1 url: http://www.inelenco.com/?dir=vedi&id=993961-privati&nome=Bazzoni%20Dr.%20Daniele%20Notaio%20Studio
+wp_p2_d2 id: 575070503ceacf06c82f0f1f
+wp_p2_d2 url: http://www.misterimprese.it/piemonte/torino/torino/notai-studi/65038.html
+ESITO: 0
+________________________
+NUOVO d1:575067b33387e31f516face0
+NUOVO d2:5750678a3387e31f516fa185
+d1:575067b33387e31f516face0
+d2:5750678a3387e31f516fa185
+p1: elisabetta marini
+p2: maurizio rossi
+wp_p1_d1 id: 5750a2173ceacf06c834b644
+wp_p1_d1 url: http://www.inelenco.com/?dir=vedi&id=7583264-privati&nome=Marino%20Elisabetta
+wp_p1_d2 id: 5750a21a3ceacf06c834b675
+wp_p1_d2 url: http://www.paginebianche.it/M/Elisabetta-Marino.html
+wp_p2_d1 id: 5750d2003ceacf06c837cae2
+wp_p2_d1 url: http://www.inelenco.com/?dir=vedi&id=10414666-privati&nome=Rossi%20Maurizio
+wp_p2_d2 id: 5750d1fe3ceacf06c837cacd
+wp_p2_d2 url: http://www.paginebianche.it/R/roma/Maurizio-Rossi.html
+ESITO: 0
+________________________
+d1:575067b33387e31f516face0
+d2:5750678a3387e31f516fa185
+p1: elisabetta marini
+p2: umberto ridi
+wp_p1_d1 id: 5750a2173ceacf06c834b644
+wp_p1_d1 url: http://www.inelenco.com/?dir=vedi&id=7583264-privati&nome=Marino%20Elisabetta
+wp_p1_d2 id: 5750a21a3ceacf06c834b675
+wp_p1_d2 url: http://www.paginebianche.it/M/Elisabetta-Marino.html
+wp_p2_d1 id: 575079803ceacf06c8305f18
+wp_p2_d1 url: http://www.inelenco.com/?dir=vedi&id=10334115-privati&nome=Ridi%20Umberto
+wp_p2_d2 id: 5750797f3ceacf06c8305f15
+wp_p2_d2 url: http://www.paginebianche.it/viareggio/umberto-ridi.afiedbfbj
+ESITO: 0
+________________________
+d1:575067b33387e31f516face0
+d2:5750678a3387e31f516fa185
+p1: elisabetta marini
+p2: paolo bonaiuti
+wp_p1_d1 id: 5750a2173ceacf06c834b644
+wp_p1_d1 url: http://www.inelenco.com/?dir=vedi&id=7583264-privati&nome=Marino%20Elisabetta
+wp_p1_d2 id: 5750a21a3ceacf06c834b675
+wp_p1_d2 url: http://www.paginebianche.it/M/Elisabetta-Marino.html
+wp_p2_d1 id: 5750db183ceacf06c8385541
+wp_p2_d1 url: http://www.inelenco.com/?dir=vedi&id=1576954-privati&nome=Bonaiuti%20Avv.%20Domenico%20e%20Paolo
+wp_p2_d2 id: 5750db223ceacf06c83855d2
+wp_p2_d2 url: http://www.paginebianche.it/pontassieve/paolo-bonaiuti.affidbhggd
+ESITO: 0
+________________________
+d1:575067b33387e31f516face0
+d2:5750678a3387e31f516fa185
+p1: elisabetta marini
+p2: antonella pastorini
+wp_p1_d1 id: 5750a2173ceacf06c834b644
+wp_p1_d1 url: http://www.inelenco.com/?dir=vedi&id=7583264-privati&nome=Marino%20Elisabetta
+wp_p1_d2 id: 5750a21a3ceacf06c834b675
+wp_p1_d2 url: http://www.paginebianche.it/M/Elisabetta-Marino.html
+wp_p2_d1 id: 57506ef33ceacf06c82ed33d
+wp_p2_d1 url: http://www.inelenco.com/?dir=vedi&id=14361521-privativie&nome=Pastorini%20Antonella
+wp_p2_d2 id: 57506ef33ceacf06c82ed35a
+wp_p2_d2 url: http://www.paginebianche.it/toscana/firenze/pastorini.html
+ESITO: 0
+________________________
+d1:575067b33387e31f516face0
+d2:5750678a3387e31f516fa185
+p1: elisabetta marini
+p2: giuseppe taranto
+wp_p1_d1 id: 5750a2173ceacf06c834b644
+wp_p1_d1 url: http://www.inelenco.com/?dir=vedi&id=7583264-privati&nome=Marino%20Elisabetta
+wp_p1_d2 id: 5750a21a3ceacf06c834b675
+wp_p1_d2 url: http://www.paginebianche.it/M/Elisabetta-Marino.html
+wp_p2_d1 id: 5750b7723ceacf06c83628ba
+wp_p2_d1 url: http://www.inelenco.com/?dir=vedi&id=11881249-privati&nome=Taranto%20Giuseppe
+wp_p2_d2 id: 5750b7713ceacf06c836289b
+wp_p2_d2 url: http://www.paginebianche.it/T/Giuseppe-Taranto.html
+ESITO: 0
+________________________
+d1:575067b33387e31f516face0
+d2:5750678a3387e31f516fa185
+p1: elisabetta marini
+p2: gianfranco battistella
+wp_p1_d1 id: 5750a2173ceacf06c834b644
+wp_p1_d1 url: http://www.inelenco.com/?dir=vedi&id=7583264-privati&nome=Marino%20Elisabetta
+wp_p1_d2 id: 5750a21a3ceacf06c834b675
+wp_p1_d2 url: http://www.paginebianche.it/M/Elisabetta-Marino.html
+wp_p2_d1 id: 5750c5263ceacf06c836fe37
+wp_p2_d1 url: http://www.inelenco.com/?dir=vedi&id=974131-privati&nome=Battistella%20Gianfranco
+wp_p2_d2 id: 5750c5253ceacf06c836fe30
+wp_p2_d2 url: http://www.paginebianche.it/B/Gianfranco-Battistella.html
+ESITO: 0
+________________________
+d1:575067b33387e31f516face0
+d2:5750678a3387e31f516fa185
+p1: elisabetta marini
+p2: domenico cossu
+wp_p1_d1 id: 5750a2173ceacf06c834b644
+wp_p1_d1 url: http://www.inelenco.com/?dir=vedi&id=7583264-privati&nome=Marino%20Elisabetta
+wp_p1_d2 id: 5750a21a3ceacf06c834b675
+wp_p1_d2 url: http://www.paginebianche.it/M/Elisabetta-Marino.html
+wp_p2_d1 id: 5750bad23ceacf06c8365f3e
+wp_p2_d1 url: http://www.inelenco.com/?dir=vedi&id=3556839-privati&nome=Cossu%20Domenico
+wp_p2_d2 id: 5750bad23ceacf06c8365f47
+wp_p2_d2 url: http://www.paginebianche.it/C/Domenico-Cossu.html
+ESITO: 0
+________________________
+d1:575067b33387e31f516face0
+d2:5750678a3387e31f516fa185
+p1: elisabetta marini
+p2: antonino mannisi
+wp_p1_d1 id: 5750a2173ceacf06c834b644
+wp_p1_d1 url: http://www.inelenco.com/?dir=vedi&id=7583264-privati&nome=Marino%20Elisabetta
+wp_p1_d2 id: 5750a21a3ceacf06c834b675
+wp_p1_d2 url: http://www.paginebianche.it/M/Elisabetta-Marino.html
+wp_p2_d1 id: 57506f013ceacf06c82ed59c
+wp_p2_d1 url: http://www.inelenco.com/?dir=vedi&id=24485260-privativie&nome=Mannisi%20Antonino
+wp_p2_d2 id: 57506f013ceacf06c82ed5a2
+wp_p2_d2 url: http://www.paginebianche.it/sicilia/salemi/mannisi.html
+ESITO: 0
+________________________
+d1:575067b33387e31f516face0
+d2:5750678a3387e31f516fa185
+p1: elisabetta marini
+p2: pippo pagano
+wp_p1_d1 id: 5750a2173ceacf06c834b644
+wp_p1_d1 url: http://www.inelenco.com/?dir=vedi&id=7583264-privati&nome=Marino%20Elisabetta
+wp_p1_d2 id: 5750a21a3ceacf06c834b675
+wp_p1_d2 url: http://www.paginebianche.it/M/Elisabetta-Marino.html
+wp_p2_d1 id: 5750dc7f3ceacf06c83869d7
+wp_p2_d1 url: http://www.inelenco.com/?dir=vedi&id=8809542-privati&nome=Pagano%20Maria
+wp_p2_d2 id: 5750dc873ceacf06c8386a5b
+wp_p2_d2 url: http://www.paginebianche.it/P/Giuseppe-Pagano.html
+ESITO: 0
+________________________
+d1:575067b33387e31f516face0
+d2:5750678a3387e31f516fa185
+p1: maurizio rossi
+p2: umberto ridi
+wp_p1_d1 id: 5750d2003ceacf06c837cae2
+wp_p1_d1 url: http://www.inelenco.com/?dir=vedi&id=10414666-privati&nome=Rossi%20Maurizio
+wp_p1_d2 id: 5750d1fe3ceacf06c837cacd
+wp_p1_d2 url: http://www.paginebianche.it/R/roma/Maurizio-Rossi.html
+wp_p2_d1 id: 575079803ceacf06c8305f18
+wp_p2_d1 url: http://www.inelenco.com/?dir=vedi&id=10334115-privati&nome=Ridi%20Umberto
+wp_p2_d2 id: 5750797f3ceacf06c8305f15
+wp_p2_d2 url: http://www.paginebianche.it/viareggio/umberto-ridi.afiedbfbj
+ESITO: 0
+________________________
+NUOVO d1:5750678b3387e31f516fa1cd
+NUOVO d2:5750678a3387e31f516fa185
+d1:5750678b3387e31f516fa1cd
+d2:5750678a3387e31f516fa185
+p1: antonietta de stefano
+p2: pier antonio bacci
+wp_p1_d1 id: 5750b3723ceacf06c835e6d1
+wp_p1_d1 url: http://www.misterimprese.it/piemonte/torino/collegno/automazione-e-robotica-apparecchiature-e-componenti/15388.html
+wp_p1_d2 id: 5750b3733ceacf06c835e6db
+wp_p1_d2 url: http://www.paginebianche.it/D/Antonietta-De-Stefano.html
+wp_p2_d1 id: 575077203ceacf06c8300f2c
+wp_p2_d1 url: http://www.misterimprese.it/toscana/arezzo/arezzo/medici-specialisti-chirurgia-generale/1364700.html
+wp_p2_d2 id: 5750771f3ceacf06c8300f21
+wp_p2_d2 url: http://www.paginebianche.it/arezzo/bacci-pier-antonio-specialista-chirurgia.143363
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1cd
+d2:5750678a3387e31f516fa185
+p1: antonietta de stefano
+p2: sergio corio
+wp_p1_d1 id: 5750b3723ceacf06c835e6d1
+wp_p1_d1 url: http://www.misterimprese.it/piemonte/torino/collegno/automazione-e-robotica-apparecchiature-e-componenti/15388.html
+wp_p1_d2 id: 5750b3733ceacf06c835e6db
+wp_p1_d2 url: http://www.paginebianche.it/D/Antonietta-De-Stefano.html
+wp_p2_d1 id: 575078e33ceacf06c8304abe
+wp_p2_d1 url: http://www.misterimprese.it/piemonte/torino/corio/studi-tecnici-ed-industriali/16951.html
+wp_p2_d2 id: 575078e33ceacf06c8304abf
+wp_p2_d2 url: http://www.paginebianche.it/corio/sergio-ferrando-battista'.abbjcicgeh
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1cd
+d2:5750678a3387e31f516fa185
+p1: antonietta de stefano
+p2: roberto scaramuzzino
+wp_p1_d1 id: 5750b3723ceacf06c835e6d1
+wp_p1_d1 url: http://www.misterimprese.it/piemonte/torino/collegno/automazione-e-robotica-apparecchiature-e-componenti/15388.html
+wp_p1_d2 id: 5750b3733ceacf06c835e6db
+wp_p1_d2 url: http://www.paginebianche.it/D/Antonietta-De-Stefano.html
+wp_p2_d1 id: 5750782f3ceacf06c830332b
+wp_p2_d1 url: http://www.misterimprese.it/calabria/catanzaro/soverato/lotto-ricevitorie-concorsi-e-giocate/1957054.html
+wp_p2_d2 id: 5750782f3ceacf06c8303329
+wp_p2_d2 url: http://www.paginebianche.it/soverato/scaramuzzino-roberto-bar-tabacchi.3137621
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1cd
+d2:5750678a3387e31f516fa185
+p1: antonietta de stefano
+p2: tommaso claudio mineo
+wp_p1_d1 id: 5750b3723ceacf06c835e6d1
+wp_p1_d1 url: http://www.misterimprese.it/piemonte/torino/collegno/automazione-e-robotica-apparecchiature-e-componenti/15388.html
+wp_p1_d2 id: 5750b3733ceacf06c835e6db
+wp_p1_d2 url: http://www.paginebianche.it/D/Antonietta-De-Stefano.html
+wp_p2_d1 id: 57507a283ceacf06c83074f0
+wp_p2_d1 url: http://www.misterimprese.it/toscana/pisa/buti/orologerie/1344317.htm
+wp_p2_d2 id: 57507a283ceacf06c83074fd
+wp_p2_d2 url: http://www.paginebianche.it/N/Daniele-Nardi.htm
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1cd
+d2:5750678a3387e31f516fa185
+p1: antonietta de stefano
+p2: arelli daniele
+wp_p1_d1 id: 5750b3723ceacf06c835e6d1
+wp_p1_d1 url: http://www.misterimprese.it/piemonte/torino/collegno/automazione-e-robotica-apparecchiature-e-componenti/15388.html
+wp_p1_d2 id: 5750b3733ceacf06c835e6db
+wp_p1_d2 url: http://www.paginebianche.it/D/Antonietta-De-Stefano.html
+wp_p2_d1 id: 5750682d3ceacf06c82d10e8
+wp_p2_d1 url: http://www.misterimprese.it/umbria/terni/narni/dentisti-ed-odontoiatri/1441397.html
+wp_p2_d2 id: 5750682e3ceacf06c82d1112
+wp_p2_d2 url: http://www.paginebianche.it/sardegna/cagliari/scittarelli.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1cd
+d2:5750678a3387e31f516fa185
+p1: antonietta de stefano
+p2: lorenzo cantarutti
+wp_p1_d1 id: 5750b3723ceacf06c835e6d1
+wp_p1_d1 url: http://www.misterimprese.it/piemonte/torino/collegno/automazione-e-robotica-apparecchiature-e-componenti/15388.html
+wp_p1_d2 id: 5750b3733ceacf06c835e6db
+wp_p1_d2 url: http://www.paginebianche.it/D/Antonietta-De-Stefano.html
+wp_p2_d1 id: 5750748d3ceacf06c82fb3e4
+wp_p2_d1 url: http://www.misterimprese.it/friuli-venezia-giulia/udine/remanzacco/lubrificanti-produzione-e-commercio/923523.html
+wp_p2_d2 id: 5750748e3ceacf06c82fb3e8
+wp_p2_d2 url: http://www.paginebianche.it/friuli-venezia-giulia/remanzacco/cantarutti.html
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1cd
+d2:5750678a3387e31f516fa185
+p1: antonietta de stefano
+p2: marina diomedi
+wp_p1_d1 id: 5750b3723ceacf06c835e6d1
+wp_p1_d1 url: http://www.misterimprese.it/piemonte/torino/collegno/automazione-e-robotica-apparecchiature-e-componenti/15388.html
+wp_p1_d2 id: 5750b3733ceacf06c835e6db
+wp_p1_d2 url: http://www.paginebianche.it/D/Antonietta-De-Stefano.html
+wp_p2_d1 id: 57507bcc3ceacf06c830ad9d
+wp_p2_d1 url: http://www.misterimprese.it/marche/fermo/porto-sant-elpidio/ragionieri-e-periti-commerciali-studi/1227321.htm
+wp_p2_d2 id: 57507bcc3ceacf06c830ad8d
+wp_p2_d2 url: http://www.paginebianche.it/abruzzo/trasacco/carlesimo.htm
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1cd
+d2:5750678a3387e31f516fa185
+p1: antonietta de stefano
+p2: edoardo pinna
+wp_p1_d1 id: 5750b3723ceacf06c835e6d1
+wp_p1_d1 url: http://www.misterimprese.it/piemonte/torino/collegno/automazione-e-robotica-apparecchiature-e-componenti/15388.html
+wp_p1_d2 id: 5750b3733ceacf06c835e6db
+wp_p1_d2 url: http://www.paginebianche.it/D/Antonietta-De-Stefano.html
+wp_p2_d1 id: 575070b13ceacf06c82f1ec8
+wp_p2_d1 url: http://www.misterimprese.it/sardegna/sassari/castelsardo/ristoranti-trattorie-ed-osterie/2117462.html
+wp_p2_d2 id: 575070b13ceacf06c82f1ec4
+wp_p2_d2 url: http://www.paginebianche.it/maracalagonis/edoardo-pinna.ahahijefg
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1cd
+d2:5750678a3387e31f516fa185
+p1: antonietta de stefano
+p2: giampaolo d'aiello
+wp_p1_d1 id: 5750b3723ceacf06c835e6d1
+wp_p1_d1 url: http://www.misterimprese.it/piemonte/torino/collegno/automazione-e-robotica-apparecchiature-e-componenti/15388.html
+wp_p1_d2 id: 5750b3733ceacf06c835e6db
+wp_p1_d2 url: http://www.paginebianche.it/D/Antonietta-De-Stefano.html
+wp_p2_d1 id: 575072663ceacf06c82f62fb
+wp_p2_d1 url: http://www.misterimprese.it/campania/caserta/teano/avvocati-studi/1601606.html
+wp_p2_d2 id: 575072663ceacf06c82f62fa
+wp_p2_d2 url: http://www.paginebianche.it/teano/gian-paolo-d'aiello-gianpaolo.aicdiifdec
+ESITO: 0
+________________________
+d1:5750678b3387e31f516fa1cd
+d2:5750678a3387e31f516fa185
+p1: pier antonio bacci
+p2: sergio corio
+wp_p1_d1 id: 575077203ceacf06c8300f2c
+wp_p1_d1 url: http://www.misterimprese.it/toscana/arezzo/arezzo/medici-specialisti-chirurgia-generale/1364700.html
+wp_p1_d2 id: 5750771f3ceacf06c8300f21
+wp_p1_d2 url: http://www.paginebianche.it/arezzo/bacci-pier-antonio-specialista-chirurgia.143363
+wp_p2_d1 id: 575078e33ceacf06c8304abe
+wp_p2_d1 url: http://www.misterimprese.it/piemonte/torino/corio/studi-tecnici-ed-industriali/16951.html
+wp_p2_d2 id: 575078e33ceacf06c8304abf
+wp_p2_d2 url: http://www.paginebianche.it/corio/sergio-ferrando-battista'.abbjcicgeh
+ESITO: 0
+________________________
+informazioni generate
+profili generati
+inizio: 2017-02-21 15:42:06.706
+fine: 2017-02-21 15:48:24.167
