@@ -24,7 +24,7 @@ public class MainWithXpaths {
 
 	static double parameterTextFusion = -1;
 	
-	public static String path = "output/CC-DoppiaCache_10/";
+	public static String path = "output/CC-DoppiaCacheAndEfficienza_10/";
 
 	public static void main(String[] args) throws Exception {
 

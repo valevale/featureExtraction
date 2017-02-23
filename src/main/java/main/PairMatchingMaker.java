@@ -147,10 +147,18 @@ public class PairMatchingMaker {
 										//all'interno del processo è stata identificata una coppia di
 										//xpath identificative, permettendoci di capire se
 										//stiamo usando 2 coppie di pagine che parlano ciascuna della stessa persona, o no
-										int esito = DomainsWrapper_pairMatching.getSegmentsFrom_server(
+										
+										//TODO prova
+//										int esito = DomainsWrapper_pairMatching.getSegmentsFrom_server(
+//												wpd_p1_d1, wpd_p1_d2, first_person,xpath2isIdentificativa_d1,
+//												wpd_p2_d1, wpd_p2_d2, second_person, xpath2isIdentificativa_d2,
+//												false);
+										
+										int esito = DomainsWrapper_pairMatching.getSegmentsFrom_serverNEW(
 												wpd_p1_d1, wpd_p1_d2, first_person,xpath2isIdentificativa_d1,
 												wpd_p2_d1, wpd_p2_d2, second_person, xpath2isIdentificativa_d2,
 												false);
+												
 										cont++;
 										System.out.println("ESITO: "+esito);
 										CronologiaStampe.println("ESITO: "+esito);

@@ -83,4 +83,39 @@ public class Segment {
 	public XpathVersions getXpathVersions() {
 		return this.xpathVersions;
 	}
+
+
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + ((absoluteXpath == null) ? 0 : absoluteXpath.hashCode());
+		result = prime * result + ((document == null) ? 0 : document.hashCode());
+		return result;
+	}
+
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		Segment other = (Segment) obj;
+		if (absoluteXpath == null) {
+			if (other.absoluteXpath != null)
+				return false;
+		} else if (!absoluteXpath.equals(other.absoluteXpath))
+			return false;
+		if (document == null) {
+			if (other.document != null)
+				return false;
+		} else if (!document.equals(other.document))
+			return false;
+		return true;
+	}
+	
+	
 }

@@ -136,6 +136,31 @@ public class WebPageDocument {
 		return documentCleaned;
 	}
 
+	@Override
+	public int hashCode() {
+		final int prime = 31;
+		int result = 1;
+		result = prime * result + ((idWebPage == null) ? 0 : idWebPage.hashCode());
+		return result;
+	}
+
+	@Override
+	public boolean equals(Object obj) {
+		if (this == obj)
+			return true;
+		if (obj == null)
+			return false;
+		if (getClass() != obj.getClass())
+			return false;
+		WebPageDocument other = (WebPageDocument) obj;
+		if (idWebPage == null) {
+			if (other.idWebPage != null)
+				return false;
+		} else if (!idWebPage.equals(other.idWebPage))
+			return false;
+		return true;
+	}
+
 	
 
 }
