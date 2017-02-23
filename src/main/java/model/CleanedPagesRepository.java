@@ -15,9 +15,9 @@ public class CleanedPagesRepository {
 	static Map<String,List<Document>> domains2cleanedPages = new HashMap<>();
 
 	public static void clean(List<String> idSorgenti) throws Exception {
-		List<Document> cleanedPages = new ArrayList<>();
 		DomRepToClean drtc = DomRepToClean.getInstance();
 		for (int i=0;i<idSorgenti.size();i++) {
+			List<Document> cleanedPages = new ArrayList<>();
 			Source s = SourceRep.getSource(idSorgenti.get(i));
 			drtc.addDomain(s);
 			//prendo le prime 100 pagine
