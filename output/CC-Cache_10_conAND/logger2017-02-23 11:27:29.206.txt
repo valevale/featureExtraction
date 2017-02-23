@@ -1,0 +1,925 @@
+lista inizializzata
+pagine per la verifica di significatività delle xpath pulite
+NUOVO d1:5750678b3387e31f516fa1c7
+NUOVO d2:5750678b3387e31f516fa1d0
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: gerardo adinolfi
+p2: antonietta de stefano
+wp_p1_d1 id: 5750f10f3ceacf06c839b520
+wp_p1_d1 url: http://www.icitta.it/caramico_gerardo-1188473-a.html
+wp_p1_d2 id: 5750f1093ceacf06c839b4bb
+wp_p1_d2 url: https://www.cylex.it/nocera_superiore/di-marino-gennaro--dr---8080145.html
+wp_p2_d1 id: 5750b3733ceacf06c835e6dc
+wp_p2_d1 url: http://www.icitta.it/di_stefano_antonietta-2917215-a.html
+wp_p2_d2 id: 5750b3713ceacf06c835e6c1
+wp_p2_d2 url: https://www.cylex.it/monza/di-stefano-antonietta-tabaccheria-12557954.html
+ESITO: 1
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: antonietta de stefano
+p2: domenico galimi
+wp_p1_d1 id: 5750b3733ceacf06c835e6dc
+wp_p1_d1 url: http://www.icitta.it/di_stefano_antonietta-2917215-a.html
+wp_p1_d2 id: 5750b3713ceacf06c835e6c1
+wp_p1_d2 url: https://www.cylex.it/monza/di-stefano-antonietta-tabaccheria-12557954.html
+wp_p2_d1 id: 5750c3f23ceacf06c836ec1a
+wp_p2_d1 url: http://www.icitta.it/macelleria_crea_domenico-4422587-a.html
+wp_p2_d2 id: 5750c3f33ceacf06c836ec24
+wp_p2_d2 url: https://www.cylex.it/san_donato_milanese/galimi-carlo-8374864.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: antonietta de stefano
+p2: domenico sena
+wp_p1_d1 id: 5750b3733ceacf06c835e6dc
+wp_p1_d1 url: http://www.icitta.it/di_stefano_antonietta-2917215-a.html
+wp_p1_d2 id: 5750b3713ceacf06c835e6c1
+wp_p1_d2 url: https://www.cylex.it/monza/di-stefano-antonietta-tabaccheria-12557954.html
+wp_p2_d1 id: 5750a2e63ceacf06c834c4fb
+wp_p2_d1 url: http://www.icitta.it/sena_domenico_taxi-825256-a.html
+wp_p2_d2 id: 5750a2e63ceacf06c834c501
+wp_p2_d2 url: https://www.cylex.it/siena/bar-s--domenico-7460010.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: antonietta de stefano
+p2: umberto silvestri
+wp_p1_d1 id: 5750b3733ceacf06c835e6dc
+wp_p1_d1 url: http://www.icitta.it/di_stefano_antonietta-2917215-a.html
+wp_p1_d2 id: 5750b3713ceacf06c835e6c1
+wp_p1_d2 url: https://www.cylex.it/monza/di-stefano-antonietta-tabaccheria-12557954.html
+wp_p2_d1 id: 5750a28e3ceacf06c834bead
+wp_p2_d1 url: http://www.icitta.it/silvestri_snc_di_bacaloni_umberto_c_vernici_lechler_herberts-4137909-a.html
+wp_p2_d2 id: 5750a28b3ceacf06c834be7a
+wp_p2_d2 url: https://www.cylex.it/castellanza/silvestri-umberto-6806717.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: antonietta de stefano
+p2: bruno marton
+wp_p1_d1 id: 5750b3733ceacf06c835e6dc
+wp_p1_d1 url: http://www.icitta.it/di_stefano_antonietta-2917215-a.html
+wp_p1_d2 id: 5750b3713ceacf06c835e6c1
+wp_p1_d2 url: https://www.cylex.it/monza/di-stefano-antonietta-tabaccheria-12557954.html
+wp_p2_d1 id: 5750dae73ceacf06c8385251
+wp_p2_d1 url: http://www.icitta.it/trattoria_da_marton_snc-2077329-a.html
+wp_p2_d2 id: 5750dae73ceacf06c838525a
+wp_p2_d2 url: https://www.cylex.it/zero_branco/falegnameria-mg-di-marton-moreno-8227696.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: antonietta de stefano
+p2: antonio damele
+wp_p1_d1 id: 5750b3733ceacf06c835e6dc
+wp_p1_d1 url: http://www.icitta.it/di_stefano_antonietta-2917215-a.html
+wp_p1_d2 id: 5750b3713ceacf06c835e6c1
+wp_p1_d2 url: https://www.cylex.it/monza/di-stefano-antonietta-tabaccheria-12557954.html
+wp_p2_d1 id: 57506f2c3ceacf06c82edd43
+wp_p2_d1 url: http://www.icitta.it/damele_antonio_eredi-927206-a.html
+wp_p2_d2 id: 57506f2b3ceacf06c82edd42
+wp_p2_d2 url: https://www.cylex.it/camporosso/damele-antonio-eredi-8017308.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: antonietta de stefano
+p2: giorgio cassiani
+wp_p1_d1 id: 5750b3733ceacf06c835e6dc
+wp_p1_d1 url: http://www.icitta.it/di_stefano_antonietta-2917215-a.html
+wp_p1_d2 id: 5750b3713ceacf06c835e6c1
+wp_p1_d2 url: https://www.cylex.it/monza/di-stefano-antonietta-tabaccheria-12557954.html
+wp_p2_d1 id: 575072e03ceacf06c82f75bf
+wp_p2_d1 url: http://www.icitta.it/cassiani_dr_giorgio-98436-a.html
+wp_p2_d2 id: 575072df3ceacf06c82f75a1
+wp_p2_d2 url: https://www.cylex.it/roma/cassiani-giorgio-7754046.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: antonietta de stefano
+p2: salvatore marchica
+wp_p1_d1 id: 5750b3733ceacf06c835e6dc
+wp_p1_d1 url: http://www.icitta.it/di_stefano_antonietta-2917215-a.html
+wp_p1_d2 id: 5750b3713ceacf06c835e6c1
+wp_p1_d2 url: https://www.cylex.it/monza/di-stefano-antonietta-tabaccheria-12557954.html
+wp_p2_d1 id: 5750a5f93ceacf06c834fd54
+wp_p2_d1 url: http://www.icitta.it/marchica_avvocato_alessandro-3298539-a.html
+wp_p2_d2 id: 5750a5fb3ceacf06c834fd77
+wp_p2_d2 url: https://www.cylex.it/termini_imerese/arnone-salvatore-7299049.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: antonietta de stefano
+p2: raffaele riggio
+wp_p1_d1 id: 5750b3733ceacf06c835e6dc
+wp_p1_d1 url: http://www.icitta.it/di_stefano_antonietta-2917215-a.html
+wp_p1_d2 id: 5750b3713ceacf06c835e6c1
+wp_p1_d2 url: https://www.cylex.it/monza/di-stefano-antonietta-tabaccheria-12557954.html
+wp_p2_d1 id: 5750778f3ceacf06c8301e39
+wp_p2_d1 url: http://www.icitta.it/riggio_angelo_raffaele-326737-a.html
+wp_p2_d2 id: 5750778f3ceacf06c8301e34
+wp_p2_d2 url: https://www.cylex.it/montecchio_emilia/riggio-raffaele-7022173.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: antonietta de stefano
+p2: giovanni bilardi
+wp_p1_d1 id: 5750b3733ceacf06c835e6dc
+wp_p1_d1 url: http://www.icitta.it/di_stefano_antonietta-2917215-a.html
+wp_p1_d2 id: 5750b3713ceacf06c835e6c1
+wp_p1_d2 url: https://www.cylex.it/monza/di-stefano-antonietta-tabaccheria-12557954.html
+wp_p2_d1 id: 5750ca9c3ceacf06c83756f7
+wp_p2_d1 url: http://www.icitta.it/bilardi_luca-4422621-a.html
+wp_p2_d2 id: 5750ca8b3ceacf06c83755d6
+wp_p2_d2 url: https://www.cylex.it/alghero/bilardi-nicolo'-7543004.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: giovanni tanca
+p2: claudio cosentino
+wp_p1_d1 id: 5750b36a3ceacf06c835e653
+wp_p1_d1 url: http://www.icitta.it/lavanderia_tanca_manna_di_pileri_giovanni_franco_c_-4716435-a.html
+wp_p1_d2 id: 5750b36d3ceacf06c835e678
+wp_p1_d2 url: https://www.cylex.it/grizzana-morandi/gt-di-tanca-giovannino-ristorante-pizzeria-11572814.html
+wp_p2_d1 id: 5750701a3ceacf06c82f0637
+wp_p2_d1 url: http://www.icitta.it/cosentino_claudio_emanuele-5199148-a.html
+wp_p2_d2 id: 5750701a3ceacf06c82f0631
+wp_p2_d2 url: https://www.cylex.it/cosenza/cosentino-claudio-emanuele-7961520.html
+ESITO: 1
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: claudio cosentino
+p2: raffaele bufano
+wp_p1_d1 id: 5750701a3ceacf06c82f0637
+wp_p1_d1 url: http://www.icitta.it/cosentino_claudio_emanuele-5199148-a.html
+wp_p1_d2 id: 5750701a3ceacf06c82f0631
+wp_p1_d2 url: https://www.cylex.it/cosenza/cosentino-claudio-emanuele-7961520.html
+wp_p2_d1 id: 575077873ceacf06c8301d18
+wp_p2_d1 url: http://www.icitta.it/bufano_ing_raffaele-3003705-a.html
+wp_p2_d2 id: 575077873ceacf06c8301d14
+wp_p2_d2 url: https://www.cylex.it/san_donato_milanese/bufano-raffaele--ing---7614368.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: claudio cosentino
+p2: franco barbagli
+wp_p1_d1 id: 5750701a3ceacf06c82f0637
+wp_p1_d1 url: http://www.icitta.it/cosentino_claudio_emanuele-5199148-a.html
+wp_p1_d2 id: 5750701a3ceacf06c82f0631
+wp_p1_d2 url: https://www.cylex.it/cosenza/cosentino-claudio-emanuele-7961520.html
+wp_p2_d1 id: 575071e63ceacf06c82f4f6e
+wp_p2_d1 url: http://www.icitta.it/barbagli_dr_franco_studio_ginecologico-1600292-a.html
+wp_p2_d2 id: 575071e53ceacf06c82f4f49
+wp_p2_d2 url: https://www.cylex.it/piombino/barbagli-franco-ivio-7470875.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: claudio cosentino
+p2: achille fontana
+wp_p1_d1 id: 5750701a3ceacf06c82f0637
+wp_p1_d1 url: http://www.icitta.it/cosentino_claudio_emanuele-5199148-a.html
+wp_p1_d2 id: 5750701a3ceacf06c82f0631
+wp_p1_d2 url: https://www.cylex.it/cosenza/cosentino-claudio-emanuele-7961520.html
+wp_p2_d1 id: 57506e483ceacf06c82eb1f4
+wp_p2_d1 url: http://www.icitta.it/franzoso_dr_achille-1348726-a.html
+wp_p2_d2 id: 57506e483ceacf06c82eb1f1
+wp_p2_d2 url: https://www.cylex.it/francavilla_fontana/montanaro-achille-istituto-investigativo-aemme-10863934.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: claudio cosentino
+p2: francesco adinari
+wp_p1_d1 id: 5750701a3ceacf06c82f0637
+wp_p1_d1 url: http://www.icitta.it/cosentino_claudio_emanuele-5199148-a.html
+wp_p1_d2 id: 5750701a3ceacf06c82f0631
+wp_p1_d2 url: https://www.cylex.it/cosenza/cosentino-claudio-emanuele-7961520.html
+wp_p2_d1 id: 5750717c3ceacf06c82f3f3e
+wp_p2_d1 url: http://www.icitta.it/adimari_francesco-325382-a.html
+wp_p2_d2 id: 5750717d3ceacf06c82f3f54
+wp_p2_d2 url: https://www.cylex.it/roma/sbrocca-dr--francesco-medico-veterinario-12747993.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: claudio cosentino
+p2: arpino mario
+wp_p1_d1 id: 5750701a3ceacf06c82f0637
+wp_p1_d1 url: http://www.icitta.it/cosentino_claudio_emanuele-5199148-a.html
+wp_p1_d2 id: 5750701a3ceacf06c82f0631
+wp_p1_d2 url: https://www.cylex.it/cosenza/cosentino-claudio-emanuele-7961520.html
+wp_p2_d1 id: 575068593ceacf06c82d26c8
+wp_p2_d1 url: http://www.icitta.it/crispino_dr_mario-403798-a.html
+wp_p2_d2 id: 575068593ceacf06c82d26b2
+wp_p2_d2 url: https://www.cylex.it/torino/arpino-mario--ing---7299698.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: claudio cosentino
+p2: avitabile antonio
+wp_p1_d1 id: 5750701a3ceacf06c82f0637
+wp_p1_d1 url: http://www.icitta.it/cosentino_claudio_emanuele-5199148-a.html
+wp_p1_d2 id: 5750701a3ceacf06c82f0631
+wp_p1_d2 url: https://www.cylex.it/cosenza/cosentino-claudio-emanuele-7961520.html
+wp_p2_d1 id: 575068bc3ceacf06c82d52b7
+wp_p2_d1 url: http://www.icitta.it/autofficina_c_i_a_t_di_cuomo_innocenzo_e_avitabile_antonio_snc-542973-a.html
+wp_p2_d2 id: 575068bc3ceacf06c82d52b9
+wp_p2_d2 url: https://www.cylex.it/nocera_inferiore/avitabile-antonio--avv---7376389.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: claudio cosentino
+p2: ciro sindona
+wp_p1_d1 id: 5750701a3ceacf06c82f0637
+wp_p1_d1 url: http://www.icitta.it/cosentino_claudio_emanuele-5199148-a.html
+wp_p1_d2 id: 5750701a3ceacf06c82f0631
+wp_p1_d2 url: https://www.cylex.it/cosenza/cosentino-claudio-emanuele-7961520.html
+wp_p2_d1 id: 5750700e3ceacf06c82f0453
+wp_p2_d1 url: http://www.icitta.it/sindona_avv_ciro_studio_legale-4136266-a.html
+wp_p2_d2 id: 5750700e3ceacf06c82f044d
+wp_p2_d2 url: https://www.cylex.it/roma/sindona-ciro--avv---6801017.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: claudio cosentino
+p2: raffaele sardo
+wp_p1_d1 id: 5750701a3ceacf06c82f0637
+wp_p1_d1 url: http://www.icitta.it/cosentino_claudio_emanuele-5199148-a.html
+wp_p1_d2 id: 5750701a3ceacf06c82f0631
+wp_p1_d2 url: https://www.cylex.it/cosenza/cosentino-claudio-emanuele-7961520.html
+wp_p2_d1 id: 5750e5613ceacf06c838f6b3
+wp_p2_d1 url: http://www.icitta.it/bar_caffe_l_oasi_di_brundu_raffaele-4965716-a.html
+wp_p2_d2 id: 5750e5643ceacf06c838f6e6
+wp_p2_d2 url: https://www.cylex.it/modena/lo-sardo-raffaele-8727414.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: claudio cosentino
+p2: alvaro rigamonti
+wp_p1_d1 id: 5750701a3ceacf06c82f0637
+wp_p1_d1 url: http://www.icitta.it/cosentino_claudio_emanuele-5199148-a.html
+wp_p1_d2 id: 5750701a3ceacf06c82f0631
+wp_p1_d2 url: https://www.cylex.it/cosenza/cosentino-claudio-emanuele-7961520.html
+wp_p2_d1 id: 57506eb43ceacf06c82ec7a2
+wp_p2_d1 url: http://www.icitta.it/rigamonti_alvaro_impresa_edile-2508657-a.html
+wp_p2_d2 id: 57506eb43ceacf06c82ec797
+wp_p2_d2 url: https://www.cylex.it/brescia/rigamonti-alvaro--dr---7022629.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: gianni gatti
+p2: claudia balboni
+wp_p1_d1 id: 5750a5de3ceacf06c834fb5c
+wp_p1_d1 url: http://www.icitta.it/gatti_giovanni-5043319-a.html
+wp_p1_d2 id: 5750a5da3ceacf06c834fb20
+wp_p1_d2 url: https://www.cylex.it/barlassina/gatti-gianni-8397544.html
+wp_p2_d1 id: 57509ce53ceacf06c8344308
+wp_p2_d1 url: http://www.icitta.it/fiori_di_balboni_claudia_commercio-637309-a.html
+wp_p2_d2 id: 57509ceb3ceacf06c8344396
+wp_p2_d2 url: https://www.cylex.it/sant_agostino/balboni-claudia--proc--leg---7406779.html
+ESITO: 1
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: claudia balboni
+p2: vincenzo del monaco
+wp_p1_d1 id: 57509ce53ceacf06c8344308
+wp_p1_d1 url: http://www.icitta.it/fiori_di_balboni_claudia_commercio-637309-a.html
+wp_p1_d2 id: 57509ceb3ceacf06c8344396
+wp_p1_d2 url: https://www.cylex.it/sant_agostino/balboni-claudia--proc--leg---7406779.html
+wp_p2_d1 id: 5750b7c83ceacf06c8362e30
+wp_p2_d1 url: http://www.icitta.it/la_ceramica_di_vincenzo_del_monaco-4191980-a.html
+wp_p2_d2 id: 5750b7c73ceacf06c8362e25
+wp_p2_d2 url: https://www.cylex.it/napoli/monaco-vincenzo-8926850.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: claudia balboni
+p2: antonio soave
+wp_p1_d1 id: 57509ce53ceacf06c8344308
+wp_p1_d1 url: http://www.icitta.it/fiori_di_balboni_claudia_commercio-637309-a.html
+wp_p1_d2 id: 57509ceb3ceacf06c8344396
+wp_p1_d2 url: https://www.cylex.it/sant_agostino/balboni-claudia--proc--leg---7406779.html
+wp_p2_d1 id: 5750a8d33ceacf06c83530bd
+wp_p2_d1 url: http://www.icitta.it/roncolato_antonio_azienda_agricola-2094667-a.html
+wp_p2_d2 id: 5750a8d43ceacf06c83530ce
+wp_p2_d2 url: https://www.cylex.it/cervaro/elettrotecnica-soave-di-soave-antonio---c--snc-8155812.html
+ESITO: 1
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: antonio soave
+p2: carletto gigli
+wp_p1_d1 id: 5750a8d33ceacf06c83530bd
+wp_p1_d1 url: http://www.icitta.it/roncolato_antonio_azienda_agricola-2094667-a.html
+wp_p1_d2 id: 5750a8d43ceacf06c83530ce
+wp_p1_d2 url: https://www.cylex.it/cervaro/elettrotecnica-soave-di-soave-antonio---c--snc-8155812.html
+wp_p2_d1 id: 57506fb13ceacf06c82ef473
+wp_p2_d1 url: http://www.icitta.it/gigli_dr_carlo-2416288-a.html
+wp_p2_d2 id: 57506fb13ceacf06c82ef468
+wp_p2_d2 url: https://www.cylex.it/salussola/giglio-carlo-13906182.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: antonio soave
+p2: baldan emanuele
+wp_p1_d1 id: 5750a8d33ceacf06c83530bd
+wp_p1_d1 url: http://www.icitta.it/roncolato_antonio_azienda_agricola-2094667-a.html
+wp_p1_d2 id: 5750a8d43ceacf06c83530ce
+wp_p1_d2 url: https://www.cylex.it/cervaro/elettrotecnica-soave-di-soave-antonio---c--snc-8155812.html
+wp_p2_d1 id: 575069043ceacf06c82d6ec8
+wp_p2_d1 url: http://www.icitta.it/studio_legale_di_muccio_e_baldan-4559175-a.html
+wp_p2_d2 id: 575069043ceacf06c82d6eac
+wp_p2_d2 url: https://www.cylex.it/napoli/i-n-te-c--snc-di-e--di-franco-e-s--baldan-11232066.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: antonio soave
+p2: stefano casadei
+wp_p1_d1 id: 5750a8d33ceacf06c83530bd
+wp_p1_d1 url: http://www.icitta.it/roncolato_antonio_azienda_agricola-2094667-a.html
+wp_p1_d2 id: 5750a8d43ceacf06c83530ce
+wp_p1_d2 url: https://www.cylex.it/cervaro/elettrotecnica-soave-di-soave-antonio---c--snc-8155812.html
+wp_p2_d1 id: 5750c1793ceacf06c836c693
+wp_p2_d1 url: http://www.icitta.it/casadei_stefano_tabaccheria_ricevitoria-700276-a.html
+wp_p2_d2 id: 5750c1783ceacf06c836c689
+wp_p2_d2 url: https://www.cylex.it/rimini/cellular-time-di-casadei-stefano-11083266.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: antonio soave
+p2: nazzareno marinucci
+wp_p1_d1 id: 5750a8d33ceacf06c83530bd
+wp_p1_d1 url: http://www.icitta.it/roncolato_antonio_azienda_agricola-2094667-a.html
+wp_p1_d2 id: 5750a8d43ceacf06c83530ce
+wp_p1_d2 url: https://www.cylex.it/cervaro/elettrotecnica-soave-di-soave-antonio---c--snc-8155812.html
+wp_p2_d1 id: 5750b2103ceacf06c835cf95
+wp_p2_d1 url: http://www.icitta.it/verdicchio_nazzareno-4963176-a.html
+wp_p2_d2 id: 5750b20e3ceacf06c835cf75
+wp_p2_d2 url: https://www.cylex.it/pesaro/tipografia-vescovi-di-paolucci-roberto---c--snc-6625709.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: antonio soave
+p2: arnaud francesco
+wp_p1_d1 id: 5750a8d33ceacf06c83530bd
+wp_p1_d1 url: http://www.icitta.it/roncolato_antonio_azienda_agricola-2094667-a.html
+wp_p1_d2 id: 5750a8d43ceacf06c83530ce
+wp_p1_d2 url: https://www.cylex.it/cervaro/elettrotecnica-soave-di-soave-antonio---c--snc-8155812.html
+wp_p2_d1 id: 575068503ceacf06c82d224f
+wp_p2_d1 url: http://www.icitta.it/arnaud_oreste_francesco_studio_dentistico-3981588-a.html
+wp_p2_d2 id: 575068503ceacf06c82d2248
+wp_p2_d2 url: https://www.cylex.it/san_damiano_d_asti/arnaud-oreste-francesco-7298709.html
+ESITO: 1
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: arnaud francesco
+p2: salvatore bellavia
+wp_p1_d1 id: 575068503ceacf06c82d224f
+wp_p1_d1 url: http://www.icitta.it/arnaud_oreste_francesco_studio_dentistico-3981588-a.html
+wp_p1_d2 id: 575068503ceacf06c82d2248
+wp_p1_d2 url: https://www.cylex.it/san_damiano_d_asti/arnaud-oreste-francesco-7298709.html
+wp_p2_d1 id: 5750b2773ceacf06c835d657
+wp_p2_d1 url: http://www.icitta.it/bellavia_diego-4295729-a.html
+wp_p2_d2 id: 5750b2753ceacf06c835d62a
+wp_p2_d2 url: https://www.cylex.it/castelletto_monferrato/bellavia-salvatore-7499417.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: arnaud francesco
+p2: baldassarri mario
+wp_p1_d1 id: 575068503ceacf06c82d224f
+wp_p1_d1 url: http://www.icitta.it/arnaud_oreste_francesco_studio_dentistico-3981588-a.html
+wp_p1_d2 id: 575068503ceacf06c82d2248
+wp_p1_d2 url: https://www.cylex.it/san_damiano_d_asti/arnaud-oreste-francesco-7298709.html
+wp_p2_d1 id: 5750690c3ceacf06c82d7271
+wp_p2_d1 url: http://www.icitta.it/cim_di_baldassarri_mario-3552180-a.html
+wp_p2_d2 id: 5750690c3ceacf06c82d725f
+wp_p2_d2 url: https://www.cylex.it/calcinate/baldassari-mario-7407261.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: arnaud francesco
+p2: rinaldo buratti
+wp_p1_d1 id: 575068503ceacf06c82d224f
+wp_p1_d1 url: http://www.icitta.it/arnaud_oreste_francesco_studio_dentistico-3981588-a.html
+wp_p1_d2 id: 575068503ceacf06c82d2248
+wp_p1_d2 url: https://www.cylex.it/san_damiano_d_asti/arnaud-oreste-francesco-7298709.html
+wp_p2_d1 id: 575085803ceacf06c831d764
+wp_p2_d1 url: http://www.icitta.it/vetrine-bergamo-29.html
+wp_p2_d2 id: 5750857f3ceacf06c831d754
+wp_p2_d2 url: https://www.cylex.it/biella/lampadari.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: arnaud francesco
+p2: antonelli andrea
+wp_p1_d1 id: 575068503ceacf06c82d224f
+wp_p1_d1 url: http://www.icitta.it/arnaud_oreste_francesco_studio_dentistico-3981588-a.html
+wp_p1_d2 id: 575068503ceacf06c82d2248
+wp_p1_d2 url: https://www.cylex.it/san_damiano_d_asti/arnaud-oreste-francesco-7298709.html
+wp_p2_d1 id: 575067dc3ceacf06c82ce55e
+wp_p2_d1 url: http://www.icitta.it/antonelli_andrea-2389861-a.html
+wp_p2_d2 id: 575067dc3ceacf06c82ce55f
+wp_p2_d2 url: https://www.cylex.it/roma/antonelli-andrea-7278817.html
+ESITO: 1
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: antonelli andrea
+p2: angelo melone
+wp_p1_d1 id: 575067dc3ceacf06c82ce55e
+wp_p1_d1 url: http://www.icitta.it/antonelli_andrea-2389861-a.html
+wp_p1_d2 id: 575067dc3ceacf06c82ce55f
+wp_p1_d2 url: https://www.cylex.it/roma/antonelli-andrea-7278817.html
+wp_p2_d1 id: 5750eca83ceacf06c8396e94
+wp_p2_d1 url: http://www.icitta.it/melone_dr_vincenzo_studio_medico_dentistico-2490019-a.html
+wp_p2_d2 id: 5750eca43ceacf06c8396e4c
+wp_p2_d2 url: https://www.cylex.it/iglesias/meloni-angelo--p-i---8874993.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: antonelli andrea
+p2: anna maria bernini
+wp_p1_d1 id: 575067dc3ceacf06c82ce55e
+wp_p1_d1 url: http://www.icitta.it/antonelli_andrea-2389861-a.html
+wp_p1_d2 id: 575067dc3ceacf06c82ce55f
+wp_p1_d2 url: https://www.cylex.it/roma/antonelli-andrea-7278817.html
+wp_p2_d1 id: 5750c7c53ceacf06c83728fc
+wp_p2_d1 url: http://www.icitta.it/farmacia_bernini_dottoressa_anna_maria-1255939-a.html
+wp_p2_d2 id: 5750c7bf3ceacf06c83728a8
+wp_p2_d2 url: https://www.cylex.it/napoli/strazzullo-anna-maria-11005537.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: antonelli andrea
+p2: marco scibona
+wp_p1_d1 id: 575067dc3ceacf06c82ce55e
+wp_p1_d1 url: http://www.icitta.it/antonelli_andrea-2389861-a.html
+wp_p1_d2 id: 575067dc3ceacf06c82ce55f
+wp_p1_d2 url: https://www.cylex.it/roma/antonelli-andrea-7278817.html
+wp_p2_d1 id: 5750d29b3ceacf06c837d477
+wp_p2_d1 url: http://www.icitta.it/scibona_avv_ruggero_studio_legale-2909224-a.html
+wp_p2_d2 id: 5750d29a3ceacf06c837d468
+wp_p2_d2 url: https://www.cylex.it/milano/scibona-alberto--dr---6875020.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: antonelli andrea
+p2: aurelio greco
+wp_p1_d1 id: 575067dc3ceacf06c82ce55e
+wp_p1_d1 url: http://www.icitta.it/antonelli_andrea-2389861-a.html
+wp_p1_d2 id: 575067dc3ceacf06c82ce55f
+wp_p1_d2 url: https://www.cylex.it/roma/antonelli-andrea-7278817.html
+wp_p2_d1 id: 575097e33ceacf06c833c886
+wp_p2_d1 url: http://www.icitta.it/accademia_d_armi_aurelio_greco-2311452-a.html
+wp_p2_d2 id: 575097e33ceacf06c833c88e
+wp_p2_d2 url: https://www.cylex.it/roma/accademia-d'armi-aurelio-greco-7173179.html
+ESITO: 1
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: aurelio greco
+p2: erika stefani
+wp_p1_d1 id: 575097e33ceacf06c833c886
+wp_p1_d1 url: http://www.icitta.it/accademia_d_armi_aurelio_greco-2311452-a.html
+wp_p1_d2 id: 575097e33ceacf06c833c88e
+wp_p1_d2 url: https://www.cylex.it/roma/accademia-d'armi-aurelio-greco-7173179.html
+wp_p2_d1 id: 5750d4ff3ceacf06c837f8f2
+wp_p2_d1 url: http://www.icitta.it/stefani_avv_erika_studio_legale-695953-a.html
+wp_p2_d2 id: 5750d5033ceacf06c837f934
+wp_p2_d2 url: https://www.cylex.it/zoppola/st--tecnico-ass--geom--aligi-jus-e-geom--erica-de-stefani-6754719.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: aurelio greco
+p2: massimo cervellini
+wp_p1_d1 id: 575097e33ceacf06c833c886
+wp_p1_d1 url: http://www.icitta.it/accademia_d_armi_aurelio_greco-2311452-a.html
+wp_p1_d2 id: 575097e33ceacf06c833c88e
+wp_p1_d2 url: https://www.cylex.it/roma/accademia-d'armi-aurelio-greco-7173179.html
+wp_p2_d1 id: 5750d0273ceacf06c837ae3c
+wp_p2_d1 url: http://www.icitta.it/il_giardino_della_frutta_di_piancatelli_massimo_fabrizio_snc-4333066-a.html
+wp_p2_d2 id: 5750d0283ceacf06c837ae4f
+wp_p2_d2 url: https://www.cylex.it/roma/sbaglia-massimo-6890814.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: aurelio greco
+p2: renata salerno
+wp_p1_d1 id: 575097e33ceacf06c833c886
+wp_p1_d1 url: http://www.icitta.it/accademia_d_armi_aurelio_greco-2311452-a.html
+wp_p1_d2 id: 575097e33ceacf06c833c88e
+wp_p1_d2 url: https://www.cylex.it/roma/accademia-d'armi-aurelio-greco-7173179.html
+wp_p2_d1 id: 575077a33ceacf06c83020bd
+wp_p2_d1 url: http://www.icitta.it/fiasco_renata-552828-a.html
+wp_p2_d2 id: 575077a33ceacf06c83020b9
+wp_p2_d2 url: https://www.cylex.it/napoli/renata-gatta-11229867.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: aurelio greco
+p2: gianfranco anselmo
+wp_p1_d1 id: 575097e33ceacf06c833c886
+wp_p1_d1 url: http://www.icitta.it/accademia_d_armi_aurelio_greco-2311452-a.html
+wp_p1_d2 id: 575097e33ceacf06c833c88e
+wp_p1_d2 url: https://www.cylex.it/roma/accademia-d'armi-aurelio-greco-7173179.html
+wp_p2_d1 id: 575072933ceacf06c82f69f5
+wp_p2_d1 url: http://www.icitta.it/anselmo_gianfranco-1234017-a.html
+wp_p2_d2 id: 575072933ceacf06c82f69f4
+wp_p2_d2 url: https://www.cylex.it/asti/anselmo-gianfranco-10819323.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: aurelio greco
+p2: giuseppe vitale
+wp_p1_d1 id: 575097e33ceacf06c833c886
+wp_p1_d1 url: http://www.icitta.it/accademia_d_armi_aurelio_greco-2311452-a.html
+wp_p1_d2 id: 575097e33ceacf06c833c88e
+wp_p1_d2 url: https://www.cylex.it/roma/accademia-d'armi-aurelio-greco-7173179.html
+wp_p2_d1 id: 5750740e3ceacf06c82fa15b
+wp_p2_d1 url: http://www.icitta.it/vitale_giuseppe-1958575-a.html
+wp_p2_d2 id: 5750740e3ceacf06c82fa157
+wp_p2_d2 url: https://www.cylex.it/catania/vitale-giuseppe-6513231.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: aurelio greco
+p2: antonelli valentina
+wp_p1_d1 id: 575097e33ceacf06c833c886
+wp_p1_d1 url: http://www.icitta.it/accademia_d_armi_aurelio_greco-2311452-a.html
+wp_p1_d2 id: 575097e33ceacf06c833c88e
+wp_p1_d2 url: https://www.cylex.it/roma/accademia-d'armi-aurelio-greco-7173179.html
+wp_p2_d1 id: 575067e03ceacf06c82ce8d1
+wp_p2_d1 url: http://www.icitta.it/antonelli_valentina-5221800-a.html
+wp_p2_d2 id: 575067e03ceacf06c82ce8cd
+wp_p2_d2 url: https://www.cylex.it/roma/antonelli-ivo-7278911.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: aurelio greco
+p2: andrea altadonna
+wp_p1_d1 id: 575097e33ceacf06c833c886
+wp_p1_d1 url: http://www.icitta.it/accademia_d_armi_aurelio_greco-2311452-a.html
+wp_p1_d2 id: 575097e33ceacf06c833c88e
+wp_p1_d2 url: https://www.cylex.it/roma/accademia-d'armi-aurelio-greco-7173179.html
+wp_p2_d1 id: 57506eba3ceacf06c82ec8ce
+wp_p2_d1 url: http://www.icitta.it/altadonna_avv_andrea_studio_legale-3208629-a.html
+wp_p2_d2 id: 57506eba3ceacf06c82ec8ca
+wp_p2_d2 url: https://www.cylex.it/messina/altadonna-andrea--avv---7249334.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: aurelio greco
+p2: maddalena mancini
+wp_p1_d1 id: 575097e33ceacf06c833c886
+wp_p1_d1 url: http://www.icitta.it/accademia_d_armi_aurelio_greco-2311452-a.html
+wp_p1_d2 id: 575097e33ceacf06c833c88e
+wp_p1_d2 url: https://www.cylex.it/roma/accademia-d'armi-aurelio-greco-7173179.html
+wp_p2_d1 id: 5750b9753ceacf06c8364956
+wp_p2_d1 url: http://www.icitta.it/assicurazioni_mancini_maria_maddalena-2353297-a.html
+wp_p2_d2 id: 5750b9733ceacf06c836493c
+wp_p2_d2 url: https://www.cylex.it/marino/assicurazioni-mancini-maria-maddalena-7320795.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: aurelio greco
+p2: girolamo gulotta
+wp_p1_d1 id: 575097e33ceacf06c833c886
+wp_p1_d1 url: http://www.icitta.it/accademia_d_armi_aurelio_greco-2311452-a.html
+wp_p1_d2 id: 575097e33ceacf06c833c88e
+wp_p1_d2 url: https://www.cylex.it/roma/accademia-d'armi-aurelio-greco-7173179.html
+wp_p2_d1 id: 575073773ceacf06c82f8bf1
+wp_p2_d1 url: http://www.icitta.it/gulotta_paolo_falegnameria_porte_corazzate-3177691-a.html
+wp_p2_d2 id: 575073773ceacf06c82f8be9
+wp_p2_d2 url: https://www.cylex.it/castelvetrano/montalto-girolamo-8932575.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: michele santarsiere
+p2: enrico bosio
+wp_p1_d1 id: 5750bcdc3ceacf06c8367f58
+wp_p1_d1 url: http://www.icitta.it/avvocati_studi-sala_consilina-1-12778-d.html
+wp_p1_d2 id: 5750bcde3ceacf06c8367f7a
+wp_p1_d2 url: https://www.cylex.it/potenza/michele-santarsiere-9723730.html
+wp_p2_d1 id: 5750a4a83ceacf06c834e54b
+wp_p2_d1 url: http://www.icitta.it/bosio_enrico-1128858-a.html
+wp_p2_d2 id: 5750a4aa3ceacf06c834e577
+wp_p2_d2 url: https://www.cylex.it/torino/bosio-enrico-7584688.html
+ESITO: 1
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: enrico bosio
+p2: ardizzone vittorio
+wp_p1_d1 id: 5750a4a83ceacf06c834e54b
+wp_p1_d1 url: http://www.icitta.it/bosio_enrico-1128858-a.html
+wp_p1_d2 id: 5750a4aa3ceacf06c834e577
+wp_p1_d2 url: https://www.cylex.it/torino/bosio-enrico-7584688.html
+wp_p2_d1 id: 5750682b3ceacf06c82d0f79
+wp_p2_d1 url: http://www.icitta.it/piante_e_fiori_=rita=_di_ardizzone_melissa-3218652-a.html
+wp_p2_d2 id: 5750682b3ceacf06c82d0f45
+wp_p2_d2 url: https://www.cylex.it/voghera/ardizzone-fabrizio-11036469.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: enrico bosio
+p2: giovanni massini
+wp_p1_d1 id: 5750a4a83ceacf06c834e54b
+wp_p1_d1 url: http://www.icitta.it/bosio_enrico-1128858-a.html
+wp_p1_d2 id: 5750a4aa3ceacf06c834e577
+wp_p1_d2 url: https://www.cylex.it/torino/bosio-enrico-7584688.html
+wp_p2_d1 id: 5750a5a63ceacf06c834f758
+wp_p2_d1 url: http://www.icitta.it/massini_dr_luca-1019376-a.html
+wp_p2_d2 id: 5750a5a83ceacf06c834f77c
+wp_p2_d2 url: https://www.cylex.it/roma/massini-gianluca--dr---8846271.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: enrico bosio
+p2: giovanni riso
+wp_p1_d1 id: 5750a4a83ceacf06c834e54b
+wp_p1_d1 url: http://www.icitta.it/bosio_enrico-1128858-a.html
+wp_p1_d2 id: 5750a4aa3ceacf06c834e577
+wp_p1_d2 url: https://www.cylex.it/torino/bosio-enrico-7584688.html
+wp_p2_d1 id: 5750a62f3ceacf06c835013e
+wp_p2_d1 url: http://www.icitta.it/de_riso_avv_giovanni-4929260-a.html
+wp_p2_d2 id: 5750a62c3ceacf06c83500f9
+wp_p2_d2 url: https://www.cylex.it/milano/de-riso-giovanni--avv---8040253.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: enrico bosio
+p2: alfredo bonizzoni
+wp_p1_d1 id: 5750a4a83ceacf06c834e54b
+wp_p1_d1 url: http://www.icitta.it/bosio_enrico-1128858-a.html
+wp_p1_d2 id: 5750a4aa3ceacf06c834e577
+wp_p1_d2 url: https://www.cylex.it/torino/bosio-enrico-7584688.html
+wp_p2_d1 id: 57506ea73ceacf06c82ec532
+wp_p2_d1 url: http://www.icitta.it/bonizzoni_alfredo_medico_medicina_generale-4408054-a.html
+wp_p2_d2 id: 57506ea73ceacf06c82ec522
+wp_p2_d2 url: https://www.cylex.it/milano/bonizzoni-alfredo--dr---7571987.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: enrico bosio
+p2: fiorenzo prina
+wp_p1_d1 id: 5750a4a83ceacf06c834e54b
+wp_p1_d1 url: http://www.icitta.it/bosio_enrico-1128858-a.html
+wp_p1_d2 id: 5750a4aa3ceacf06c834e577
+wp_p1_d2 url: https://www.cylex.it/torino/bosio-enrico-7584688.html
+wp_p2_d1 id: 5750716c3ceacf06c82f3cb9
+wp_p2_d1 url: http://www.icitta.it/studio_tecnico_prina_geom_fiorenzo-1088359-a.html
+wp_p2_d2 id: 5750716b3ceacf06c82f3cb2
+wp_p2_d2 url: https://www.cylex.it/grugliasco/prina-fiorenzo--geom---7106863.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: enrico bosio
+p2: nicola acone
+wp_p1_d1 id: 5750a4a83ceacf06c834e54b
+wp_p1_d1 url: http://www.icitta.it/bosio_enrico-1128858-a.html
+wp_p1_d2 id: 5750a4aa3ceacf06c834e577
+wp_p1_d2 url: https://www.cylex.it/torino/bosio-enrico-7584688.html
+wp_p2_d1 id: 5750766b3ceacf06c82ff6ac
+wp_p2_d1 url: http://www.icitta.it/elettro_service_di_acone_nicola_impianti_elettrici_telefonici_citofonici-1080677-a.html
+wp_p2_d2 id: 5750766b3ceacf06c82ff6a8
+wp_p2_d2 url: https://www.cylex.it/torino/elettro-service-di-acone-nicola-11148385.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: enrico bosio
+p2: paolo conti
+wp_p1_d1 id: 5750a4a83ceacf06c834e54b
+wp_p1_d1 url: http://www.icitta.it/bosio_enrico-1128858-a.html
+wp_p1_d2 id: 5750a4aa3ceacf06c834e577
+wp_p1_d2 url: https://www.cylex.it/torino/bosio-enrico-7584688.html
+wp_p2_d1 id: 57507d2d3ceacf06c830db29
+wp_p2_d1 url: http://www.icitta.it/conti_pasquarello_paolo-3265906-a.html
+wp_p2_d2 id: 57507d263ceacf06c830da40
+wp_p2_d2 url: https://www.cylex.it/misano-monte/conti-paolo-alfio-7934839.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: enrico bosio
+p2: elisa vanni
+wp_p1_d1 id: 5750a4a83ceacf06c834e54b
+wp_p1_d1 url: http://www.icitta.it/bosio_enrico-1128858-a.html
+wp_p1_d2 id: 5750a4aa3ceacf06c834e577
+wp_p1_d2 url: https://www.cylex.it/torino/bosio-enrico-7584688.html
+wp_p2_d1 id: 57509a513ceacf06c834054d
+wp_p2_d1 url: http://www.icitta.it/pasta_fresca_da_roberto_di_vanni_elisa_e_montagnani_simone_snc-1564483-a.html
+wp_p2_d2 id: 57509a513ceacf06c8340545
+wp_p2_d2 url: https://www.cylex.it/san_vincenzo_san_vincenzo/pasta-fresca-da-roberto-di-vanni-elisa-e-montagnani-simone-snc-9143106.html
+ESITO: 1
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: elisa vanni
+p2: alberto gabbrielli
+wp_p1_d1 id: 57509a513ceacf06c834054d
+wp_p1_d1 url: http://www.icitta.it/pasta_fresca_da_roberto_di_vanni_elisa_e_montagnani_simone_snc-1564483-a.html
+wp_p1_d2 id: 57509a513ceacf06c8340545
+wp_p1_d2 url: https://www.cylex.it/san_vincenzo_san_vincenzo/pasta-fresca-da-roberto-di-vanni-elisa-e-montagnani-simone-snc-9143106.html
+wp_p2_d1 id: 57506e673ceacf06c82eb890
+wp_p2_d1 url: http://www.icitta.it/gabrielli_alberto-5288908-a.html
+wp_p2_d2 id: 57506e673ceacf06c82eb885
+wp_p2_d2 url: https://www.cylex.it/seravezza/gabrielli-alberto-12762489.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: elisa vanni
+p2: diego rosa
+wp_p1_d1 id: 57509a513ceacf06c834054d
+wp_p1_d1 url: http://www.icitta.it/pasta_fresca_da_roberto_di_vanni_elisa_e_montagnani_simone_snc-1564483-a.html
+wp_p1_d2 id: 57509a513ceacf06c8340545
+wp_p1_d2 url: https://www.cylex.it/san_vincenzo_san_vincenzo/pasta-fresca-da-roberto-di-vanni-elisa-e-montagnani-simone-snc-9143106.html
+wp_p2_d1 id: 57509f4b3ceacf06c8347a0a
+wp_p2_d1 url: http://www.icitta.it/dalla_rosa_diego_autotrasporti-2152416-a.html
+wp_p2_d2 id: 57509f4c3ceacf06c8347a0f
+wp_p2_d2 url: https://www.cylex.it/modena/de-rosa-diego--dr---8040587.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: elisa vanni
+p2: giuseppe pieluigi
+wp_p1_d1 id: 57509a513ceacf06c834054d
+wp_p1_d1 url: http://www.icitta.it/pasta_fresca_da_roberto_di_vanni_elisa_e_montagnani_simone_snc-1564483-a.html
+wp_p1_d2 id: 57509a513ceacf06c8340545
+wp_p1_d2 url: https://www.cylex.it/san_vincenzo_san_vincenzo/pasta-fresca-da-roberto-di-vanni-elisa-e-montagnani-simone-snc-9143106.html
+wp_p2_d1 id: 575073ef3ceacf06c82f9d11
+wp_p2_d1 url: http://www.icitta.it/pierluigi_giuseppe-5259283-a.html
+wp_p2_d2 id: 575073f03ceacf06c82f9d13
+wp_p2_d2 url: https://www.cylex.it/milano/bardusco-pierluigi-giuseppe-10962367.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: elisa vanni
+p2: antonio campagnoli
+wp_p1_d1 id: 57509a513ceacf06c834054d
+wp_p1_d1 url: http://www.icitta.it/pasta_fresca_da_roberto_di_vanni_elisa_e_montagnani_simone_snc-1564483-a.html
+wp_p1_d2 id: 57509a513ceacf06c8340545
+wp_p1_d2 url: https://www.cylex.it/san_vincenzo_san_vincenzo/pasta-fresca-da-roberto-di-vanni-elisa-e-montagnani-simone-snc-9143106.html
+wp_p2_d1 id: 5750b4163ceacf06c835f180
+wp_p2_d1 url: http://www.icitta.it/campagnolo_antonio_riproduzione_mobili_d_arte-2183035-a.html
+wp_p2_d2 id: 5750b4143ceacf06c835f15f
+wp_p2_d2 url: https://www.cylex.it/modena/campagnoli-tinteggiature-snc-di-campagnoli-giorgio---padovano-antonio-10994707.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: elisa vanni
+p2: piero ciompi
+wp_p1_d1 id: 57509a513ceacf06c834054d
+wp_p1_d1 url: http://www.icitta.it/pasta_fresca_da_roberto_di_vanni_elisa_e_montagnani_simone_snc-1564483-a.html
+wp_p1_d2 id: 57509a513ceacf06c8340545
+wp_p1_d2 url: https://www.cylex.it/san_vincenzo_san_vincenzo/pasta-fresca-da-roberto-di-vanni-elisa-e-montagnani-simone-snc-9143106.html
+wp_p2_d1 id: 575077403ceacf06c83013a4
+wp_p2_d1 url: http://www.icitta.it/ciompi_assicurazioni_1949_del_dott_umberto_sas-628655-a.html
+wp_p2_d2 id: 575077403ceacf06c8301394
+wp_p2_d2 url: https://www.cylex.it/castel_san_pietro_terme/ciompi-assicurazioni-1949-del-dott--umberto-ciompi-sas-11571465.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: elisa vanni
+p2: manuela serra
+wp_p1_d1 id: 57509a513ceacf06c834054d
+wp_p1_d1 url: http://www.icitta.it/pasta_fresca_da_roberto_di_vanni_elisa_e_montagnani_simone_snc-1564483-a.html
+wp_p1_d2 id: 57509a513ceacf06c8340545
+wp_p1_d2 url: https://www.cylex.it/san_vincenzo_san_vincenzo/pasta-fresca-da-roberto-di-vanni-elisa-e-montagnani-simone-snc-9143106.html
+wp_p2_d1 id: 5750cd2e3ceacf06c8377f91
+wp_p2_d1 url: http://www.icitta.it/serra_dr_manuela_commercialista-1459858-a.html
+wp_p2_d2 id: 5750cd323ceacf06c8377fd4
+wp_p2_d2 url: https://www.cylex.it/rho/emanuela-giulia-marchese-10978921.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: elisa vanni
+p2: vincenzo gilli
+wp_p1_d1 id: 57509a513ceacf06c834054d
+wp_p1_d1 url: http://www.icitta.it/pasta_fresca_da_roberto_di_vanni_elisa_e_montagnani_simone_snc-1564483-a.html
+wp_p1_d2 id: 57509a513ceacf06c8340545
+wp_p1_d2 url: https://www.cylex.it/san_vincenzo_san_vincenzo/pasta-fresca-da-roberto-di-vanni-elisa-e-montagnani-simone-snc-9143106.html
+wp_p2_d1 id: 575079bb3ceacf06c83066a1
+wp_p2_d1 url: http://www.icitta.it/gilli_dr_vincenzo_ostetrico_ginecologo-1110122-a.html
+wp_p2_d2 id: 575079bb3ceacf06c83066a0
+wp_p2_d2 url: https://www.cylex.it/torino/gilli-vincenzo--dr---8437391.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: elisa vanni
+p2: antonio parlavecchio
+wp_p1_d1 id: 57509a513ceacf06c834054d
+wp_p1_d1 url: http://www.icitta.it/pasta_fresca_da_roberto_di_vanni_elisa_e_montagnani_simone_snc-1564483-a.html
+wp_p1_d2 id: 57509a513ceacf06c8340545
+wp_p1_d2 url: https://www.cylex.it/san_vincenzo_san_vincenzo/pasta-fresca-da-roberto-di-vanni-elisa-e-montagnani-simone-snc-9143106.html
+wp_p2_d1 id: 57506f423ceacf06c82ee0fd
+wp_p2_d1 url: http://www.icitta.it/a_e_p_di_antonio_parlavecchio_snc-3897758-a.html
+wp_p2_d2 id: 57506f423ceacf06c82ee0fb
+wp_p2_d2 url: https://www.cylex.it/palermo/a-e-p-di-antonio-parlavecchio-e-c--snc-13847333.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: elisa vanni
+p2: ascani enrico
+wp_p1_d1 id: 57509a513ceacf06c834054d
+wp_p1_d1 url: http://www.icitta.it/pasta_fresca_da_roberto_di_vanni_elisa_e_montagnani_simone_snc-1564483-a.html
+wp_p1_d2 id: 57509a513ceacf06c8340545
+wp_p1_d2 url: https://www.cylex.it/san_vincenzo_san_vincenzo/pasta-fresca-da-roberto-di-vanni-elisa-e-montagnani-simone-snc-9143106.html
+wp_p2_d1 id: 5750686a3ceacf06c82d2d80
+wp_p2_d1 url: http://www.icitta.it/ascani_grazia-4592980-a.html
+wp_p2_d2 id: 5750686a3ceacf06c82d2d7e
+wp_p2_d2 url: https://www.cylex.it/tivoli/ascani-carla-7310682.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: angelo carabelli
+p2: monica casaletto
+wp_p1_d1 id: 5750ba403ceacf06c836561f
+wp_p1_d1 url: http://www.icitta.it/carabelli_dr_angelo_dermatologo-2775587-a.html
+wp_p1_d2 id: 5750ba413ceacf06c8365626
+wp_p1_d2 url: https://www.cylex.it/asti/carabelli-fiorenza-10819377.html
+wp_p2_d1 id: 5750c97e3ceacf06c83744e5
+wp_p2_d1 url: http://www.icitta.it/impianti_elettrici_industriali_e_civili_installazione_e_manutenzione-casaletto_ceredano-3-3001-d.html
+wp_p2_d2 id: 5750c97f3ceacf06c83744fc
+wp_p2_d2 url: https://www.cylex.it/lodi/ica--s-p-a---8535399.html
+ESITO: 1
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: monica casaletto
+p2: arinelli arianna
+wp_p1_d1 id: 5750c97e3ceacf06c83744e5
+wp_p1_d1 url: http://www.icitta.it/impianti_elettrici_industriali_e_civili_installazione_e_manutenzione-casaletto_ceredano-3-3001-d.html
+wp_p1_d2 id: 5750c97f3ceacf06c83744fc
+wp_p1_d2 url: https://www.cylex.it/lodi/ica--s-p-a---8535399.html
+wp_p2_d1 id: 5750683e3ceacf06c82d1b1b
+wp_p2_d1 url: http://www.icitta.it/tabaccheria_marinelli_arianna-2139172-a.html
+wp_p2_d2 id: 5750683e3ceacf06c82d1b0c
+wp_p2_d2 url: https://www.cylex.it/velletri/marinelli-roberto-8821785.html
+ESITO: 2
+________________________
+d1:5750678b3387e31f516fa1c7
+d2:5750678b3387e31f516fa1d0
+p1: monica casaletto
+p2: graziella tommasella
+wp_p1_d1 id: 5750c97e3ceacf06c83744e5
+wp_p1_d1 url: http://www.icitta.it/impianti_elettrici_industriali_e_civili_installazione_e_manutenzione-casaletto_ceredano-3-3001-d.html
+wp_p1_d2 id: 5750c97f3ceacf06c83744fc
+wp_p1_d2 url: https://www.cylex.it/lodi/ica--s-p-a---8535399.html
+wp_p2_d1 id: 5750741b3ceacf06c82fa337
+wp_p2_d1 url: http://www.icitta.it/vivai_tomasella_silvio_srl-173363-a.html
+wp_p2_d2 id: 5750741b3ceacf06c82f
