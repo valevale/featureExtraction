@@ -14,10 +14,6 @@ public class PrettyPrintMap<K, V> {
         this.mapList = entities;
     }
 
-    
-
-
-
 	public String toString() {
         StringBuilder sb = new StringBuilder();
         Iterator<Entry<String, List<String>>> iter = mapList.entrySet().iterator();

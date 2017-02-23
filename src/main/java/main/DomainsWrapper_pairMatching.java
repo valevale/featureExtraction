@@ -25,6 +25,7 @@ import lib.utils.DocumentUtils;
 import lib.utils.NodeW3cUtils;
 import lib.utils.XpathApplier;
 import lucene.SegmentSearcher;
+import model.CleanedPagesRepository;
 import model.DomainSource;
 import model.PairMatching;
 import model.PairMatchingRepository;
@@ -56,9 +57,7 @@ public class DomainsWrapper_pairMatching {
 			boolean id_found)
 					throws Exception {
 		
-		//TODO togli quando è senza cache!
-		//creo la cache
-//		Map<String,Boolean> xpath2isIdentificativa = new HashMap<>();
+		
 
 		TopSegmentsFinder finder = TopSegmentsFinder.getInstance();
 
@@ -153,10 +152,18 @@ public class DomainsWrapper_pairMatching {
 //								segment2hits_secondaPersona, indexPathDominio2, id_found);
 						
 						//TODO 2 con controllo e cache
-						id_found = addLink_CCconCache(seg, seg_secondDocument, thirdDocument, fourthDocument, scoreDoc.score,
+//						id_found = addLink_CCconCache(seg, seg_secondDocument, thirdDocument, fourthDocument, scoreDoc.score,
+//								relevantSegments_thirdDocument, relevantSegments_fourthDocument,
+//								segment2hits_secondaPersona, indexPathDominio2, id_found,
+//								xpath2isIdentificativa_d1,xpath2isIdentificativa_d2);
+						
+						//TODO 2 con controllo e doppia cache
+						id_found = addLink_CCconDoppiaCache(seg, seg_secondDocument, thirdDocument, fourthDocument, scoreDoc.score,
 								relevantSegments_thirdDocument, relevantSegments_fourthDocument,
 								segment2hits_secondaPersona, indexPathDominio2, id_found,
 								xpath2isIdentificativa_d1,xpath2isIdentificativa_d2);
+						
+						
 
 						//TODO 3 senza controllo
 						//						addLink_SC(seg, seg_secondDocument, thirdDocument, fourthDocument, scoreDoc.score,
@@ -190,6 +197,134 @@ public class DomainsWrapper_pairMatching {
 		return 0;
 	} //fine main
 
+	private static boolean addLink_CCconDoppiaCache(Segment firstSegment, Segment secondSegment,
+			WebPageDocument doc3, WebPageDocument doc4, float score,
+			List<Segment> relevantSegments_thirdDocument,
+			List<Segment> relevantSegments_fourthDocument, 
+			List<Tuple2<Segment, TopDocs>> segment2hits_secondaPersona,
+			String indexPath, boolean id_found, Map<String,Boolean> xpath2isIdentificativa_d1,
+			Map<String,Boolean> xpath2isIdentificativa_d2) throws Exception {
+//		System.out.println("NUOVO ADDLINK");
+		//creazione degli xpath generici
+		//OTTIMIZZAZIONE: controllo che i due segmenti non abbiano già un xpath generico
+		//PRIMA controlli che per quel segmento non sia già stato generato un xpath generico
+		//SE SÌ allora metti quello nella coppia collegamento
+		//SE NO generi un xpath generico
+		//prima persona - primo dominio
+		Xpath genericXpath_firstSegment = getGenericXpath(firstSegment, firstSegment.getDocument());
+		if (genericXpath_firstSegment == null) {
+			//generi un xpath generico
+			firstSegment.makeXpathVersions();
+			int specificityParameter = 0;
+			boolean onlyOneSegmentFound = false;
+			while(specificityParameter <= 5 && !onlyOneSegmentFound) {
+				Xpath currentXpath = new Xpath(firstSegment.getJsoupNode(),
+						firstSegment.getXpathVersions().getPathBySpecificity(specificityParameter),
+						firstSegment.getDocument().getIdDomain(),
+						specificityParameter);
+				//se corrisponde a 1 unico segmento RILEVANTE nel terzo documento
+				//(sarebbe seconda persona - primo dominio)
+				if (isARelevantSegment(currentXpath.getXpath(), doc3, relevantSegments_thirdDocument)) {
+					onlyOneSegmentFound = true;
+					//sovrascrivo l'xpath assoluto
+					firstSegment.setXPath(currentXpath);
+					//					firstSegment.getDocument().getSource().addGenericXpath(currentXpath);
+					genericXpath_firstSegment = currentXpath;
+				}
+				else
+					specificityParameter++;
+			}
+		}
+		//stesso procedimento per seconda persona - primo dominio
+		Xpath genericXpath_secondSegment = getGenericXpath(secondSegment, secondSegment.getDocument());
+		if (genericXpath_secondSegment == null) {
+			//generi un xpath generico
+			secondSegment.makeXpathVersions();
+			int specificityParameter = 0;
+			boolean onlyOneSegmentFound = false;
+			while(specificityParameter <= 5 && !onlyOneSegmentFound) {
+				Xpath currentXpath = new Xpath(secondSegment.getJsoupNode(),
+						secondSegment.getXpathVersions().getPathBySpecificity(specificityParameter),
+						secondSegment.getDocument().getIdDomain(),
+						specificityParameter);
+				//se corrisponde a 1 unico segmento RILEVANTE
+				if (isARelevantSegment(currentXpath.getXpath(), doc4, relevantSegments_fourthDocument)) {
+					onlyOneSegmentFound = true;
+					//sovrascrivo l'xpath assoluto
+					secondSegment.setXPath(currentXpath);
+					//					secondSegment.getDocument().getSource().addGenericXpath(currentXpath);
+					genericXpath_secondSegment = currentXpath;
+				}
+				else
+					specificityParameter++;
+			}
+		}
+		if (genericXpath_firstSegment != null && genericXpath_secondSegment != null) {
+			//CONTROLLO AGGIUNTIVO: i segmenti ottenuti da questi xpath generici sono stati matchati
+			//per alta coseno similarità nell'insieme segment2hits_secondaPersona
+			if (isARelevantMatching(genericXpath_firstSegment.getXpath(), doc3, 
+					genericXpath_secondSegment.getXpath(), doc4, 
+					segment2hits_secondaPersona, indexPath)) {
+				if (id_found) {
+					PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
+					//aggiungo le xpath al dominio
+					firstSegment.getDocument().getSource().addGenericXpath(genericXpath_firstSegment);
+					secondSegment.getDocument().getSource().addGenericXpath(genericXpath_secondSegment);
+					//aggiungo il matching al repository
+					pmr.addMatching(genericXpath_firstSegment, firstSegment.getDocument().getSource().getParameter(),
+							genericXpath_secondSegment, secondSegment.getDocument().getSource().getParameter(), score);
+				}
+				else {
+					// qui controllo id
+					// qui modifichi
+					
+					//TODO QUI HAI MESSO &&
+					//PRIMA ERA ||
+					if (isXpathIdentificativo_conDoppiaCache(genericXpath_firstSegment, xpath2isIdentificativa_d1)
+							|| isXpathIdentificativo_conDoppiaCache(genericXpath_secondSegment, xpath2isIdentificativa_d2)){
+						
+						
+						//						System.out.println("ALLELUJA");
+						PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
+						//setto che ho trovato l'identificativo
+						id_found = true;
+						//aggiungo le xpath al dominio
+						firstSegment.getDocument().getSource().addGenericXpath(genericXpath_firstSegment);
+						secondSegment.getDocument().getSource().addGenericXpath(genericXpath_secondSegment);
+						//aggiungo anche le xpath generiche del repository al dominio
+						PairMatchingRepository temp_repository = pmr.getTempRepository();
+						Map<PairMatching,Float> matchings2vote = temp_repository.getMatchings2vote();
+						Iterator<PairMatching> it = matchings2vote.keySet().iterator();
+						while (it.hasNext()) {
+							PairMatching currentMatching = it.next();
+							Xpath xpath1 = currentMatching.getXpath1();
+							Xpath xpath2 = currentMatching.getXpath2();
+							firstSegment.getDocument().getSource().addGenericXpath(xpath1);
+							secondSegment.getDocument().getSource().addGenericXpath(xpath2);
+						}
+						//aggiungo il matching al repository
+						pmr.addMatching(genericXpath_firstSegment, firstSegment.getDocument().getSource().getParameter(),
+								genericXpath_secondSegment, secondSegment.getDocument().getSource().getParameter(), score);
+						//aggiungo anche gli altri matching del repository temporaneo al repository corretto
+						pmr.moveTempRepMatchings(firstSegment.getDocument().getSource().getParameter(),
+								secondSegment.getDocument().getSource().getParameter());
+						//poi distruggi il repository temporaneo
+						pmr.destroy_tempRep();
+					}
+					else {
+						//aggiungo il matching a un repository temporaneo
+						PairMatchingRepositoryRepository pmr = PairMatchingRepositoryRepository.getInstance();
+						pmr.addMatching_tempRep(genericXpath_firstSegment, genericXpath_secondSegment, score);
+
+					}
+				}
+			}
+		}
+		return id_found;
+	}
+	
+	
+	
 	private static boolean addLink_CCconCache(Segment firstSegment, Segment secondSegment,
 			WebPageDocument doc3, WebPageDocument doc4, float score,
 			List<Segment> relevantSegments_thirdDocument,
@@ -274,7 +409,7 @@ public class DomainsWrapper_pairMatching {
 					//TODO QUI HAI MESSO &&
 					//PRIMA ERA ||
 					if (isXpathIdentificativo_conCache(genericXpath_firstSegment, xpath2isIdentificativa_d1)
-							&& isXpathIdentificativo_conCache(genericXpath_secondSegment, xpath2isIdentificativa_d2)){
+							|| isXpathIdentificativo_conCache(genericXpath_secondSegment, xpath2isIdentificativa_d2)){
 						
 						
 						//						System.out.println("ALLELUJA");
@@ -687,7 +822,7 @@ public class DomainsWrapper_pairMatching {
 		return false;
 	}
 	
-	public static boolean isXpathIdentificativo_conCache(Xpath genericXpath,
+	private static boolean isXpathIdentificativo_conCache(Xpath genericXpath,
 			Map<String,Boolean> xpath2isIdentificativa) throws Exception {
 		System.out.println("CONTROLLO CHE XPATH SIA SIGNIFICATIVO");
 
@@ -713,6 +848,75 @@ public class DomainsWrapper_pairMatching {
 			//per ogni pagina, applico la xpath
 			WebPage currentPage = source.getPages().get(j);
 			Document doc = DocumentUtils.prepareDocument(currentPage.getHtml(), idSource);
+			XpathApplier xapplier = XpathApplier.getInstance();
+			NodeList nl = xapplier.getNodes(genericXpath.getXpath(), doc);
+			//come ci organizziamo?
+			//ciò che devo memorizzare
+			//-totale pagine
+			//-numero di "--" raccolti
+			//-numero di valori unici
+			//creo una mappa contenuto_numero di volte incontrato
+			//se il numero di volte incontrato supera 3, tolgo l'elemento dalla mappa
+			if (nl.getLength() != 0) {
+				String currentContent = nl.item(0).getTextContent();
+				Integer volte = contenuto2volte.get(currentContent);
+				if (volte == null)
+					volte = 0;
+				volte++;
+				if (volte <= 3)
+					contenuto2volte.put(currentContent, volte);
+				else
+					contenuto2volte.remove(currentContent);
+			}
+			else	{ //l'xpath non ha restituito nessun segmento
+				numeroPagineSenzaContenuto++;
+			}
+		}
+		//ora valutiamo
+		//se il numero di pagine senza contenuto è minore del 50%
+		System.out.println("numeroPagineSenzaContenuto "+numeroPagineSenzaContenuto);
+		System.out.println("contenuto "+contenuto2volte.size());
+		if (numeroPagineSenzaContenuto < (100/2)) {
+			//se il numero di valori unici è maggiore del 65%
+			if (contenuto2volte.size() >= (65)) {
+				//				System.out.println("significativo!!");
+				xpath2isIdentificativa.put(genericXpath.getXpath(), true);
+				return true;
+			}
+		}
+		//		System.out.println("non significativo");
+		xpath2isIdentificativa.put(genericXpath.getXpath(), false);
+		return false;
+	}
+	
+	private static boolean isXpathIdentificativo_conDoppiaCache(Xpath genericXpath,
+			Map<String,Boolean> xpath2isIdentificativa) throws Exception {
+		System.out.println("CONTROLLO CHE XPATH SIA SIGNIFICATIVO");
+
+		System.out.println("Dimensione cache: "+xpath2isIdentificativa.size());
+		//NOVITÀ: controllo se è già presente in cache
+		if (xpath2isIdentificativa.containsKey(genericXpath.getXpath())) {
+			System.out.println(genericXpath.getXpath()+" Contiene: "+xpath2isIdentificativa.get(genericXpath.getXpath()));
+			return xpath2isIdentificativa.get(genericXpath.getXpath());
+		}
+		
+		// qui è meglio un repository
+		//		MongoFacade facade = new MongoFacade("web_search_pages");
+		//		Source source = facade.getSourceWithId(idSource);
+		String idSource = genericXpath.getIdDomain();
+//		Source source = SourceRep.getSource(idSource);
+		Map<String,Integer> contenuto2volte = new HashMap<>();
+		int numeroPagineSenzaContenuto = 0;
+		//sarebbe bello analizzarle tutte, ma ci vuole troppo tempo, quindi farò le primo 100 :/
+		//		for (int j=0;j<source.getPages().size();j++) {
+		List<Document> cleanedPages = CleanedPagesRepository.getCleanedpages(idSource);
+		for (int j=0;j<cleanedPages.size();j++) {
+			if ((j+1)%10==0)
+				System.out.print("*****pagina numero: "+(j+1)+"/100");
+			//per ogni pagina, applico la xpath
+//			WebPage currentPage = source.getPages().get(j);
+//			Document doc = DocumentUtils.prepareDocument(currentPage.getHtml(), idSource);
+			Document doc = cleanedPages.get(j);
 			XpathApplier xapplier = XpathApplier.getInstance();
 			NodeList nl = xapplier.getNodes(genericXpath.getXpath(), doc);
 			//come ci organizziamo?

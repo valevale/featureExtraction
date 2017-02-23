@@ -133,12 +133,17 @@ public class TrovaNomiUnici {
 				currentPath+"statistiche_ancore_uniche.txt", "UTF-8");
 		PrintWriter statPrinterDet = new PrintWriter(
 				currentPath+"statistiche_ancore_uniche_DETTAGLI.txt", "UTF-8");
+		PrintWriter statPrinterDet2 = new PrintWriter(
+				currentPath+"statistiche_ancore_uniche_solo_domini_interessanti.txt", "UTF-8");
 
 		statPrinter.println("NUMERO DI ANCORE UNICHE: "+ancoraUnica2numeroDominiInCuiEUnica.size());
 		statPrinter.println();
 
 		statPrinterDet.println("NUMERO DI ANCORE UNICHE: "+ancoraUnica2numeroDominiInCuiEUnica.size());
 		statPrinterDet.println();
+
+		statPrinterDet2.println("NUMERO DI ANCORE UNICHE: "+ancoraUnica2numeroDominiInCuiEUnica.size());
+		statPrinterDet2.println();
 
 		//ordina la mappa per valore
 		Map<String,Integer> ancora2domini_sorted = 
@@ -152,15 +157,27 @@ public class TrovaNomiUnici {
 
 			statPrinterDet.println("\""+ancoraCorrente+"\" è un nome unico in "+
 					ancora2domini_sorted.get(ancoraCorrente)+" domini.");
+
+			statPrinterDet2.println("\""+ancoraCorrente+"\" è un nome unico in "+
+					ancora2domini_sorted.get(ancoraCorrente)+" domini.");
 			//fai un altro file di analisi in cui mostri anche gli url dei domini
 			//è uguale, solo con questo dettaglio in più
 			//dettagli
 			List<String> listaDomini = ancoraUnica2urlDominiInCuiEUnica.get(ancoraCorrente);
 			for (int i=0;i<listaDomini.size();i++) {
 				statPrinterDet.println(listaDomini.get(i));
+				if (listaDomini.get(i).equals("www.paginebianche.it")
+						|| listaDomini.get(i).equals("www.misterimprese.it")
+						|| listaDomini.get(i).equals("www.cylex.it")
+						|| listaDomini.get(i).equals("www.inelenco.com")
+						) {
+					statPrinterDet2.print(listaDomini.get(i)+"_");
+				}
 			}
 			statPrinterDet.println();
+			statPrinterDet2.println();
 		}
+		statPrinterDet2.close();
 		statPrinterDet.close();
 		statPrinter.close();
 	}

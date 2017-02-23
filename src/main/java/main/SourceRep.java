@@ -10,9 +10,10 @@ public class SourceRep {
 
 	static Map<String,Source> id2source = new HashMap<>();
 
-	public static void addSource(Source s) {
-		id2source.put(s.getId().toString(), s);
-	}
+//	public static void addSource(Source s) {
+//		if (!id2source.containsKey(s.getId().toString()))
+//			id2source.put(s.getId().toString(), s);
+//	}
 
 	public static Source getSource(String id) {
 		Source s = id2source.get(id);

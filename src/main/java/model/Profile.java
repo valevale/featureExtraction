@@ -14,6 +14,7 @@ import org.w3c.dom.NodeList;
 
 import lib.utils.DocumentUtils;
 import lib.utils.XpathApplier;
+import scala.Tuple2;
 import segmentation.DocumentCleaner;
 
 public class Profile {
@@ -77,6 +78,24 @@ public class Profile {
 				currentContent = "--";
 			}
 			contentInformations.add(currentContent);
+		}
+		return contentInformations;
+	}
+	
+	public List<Tuple2<String,String>> getXpathAndContentInformation(WebPage page, String idSource) throws Exception {
+		Document doc = DocumentUtils.prepareDocument(page.getHtml(), idSource);
+		List<Tuple2<String,String>> contentInformations = new ArrayList<>();
+		for (int i=0;i<this.profileInformations.size();i++) {
+			RelevantInformation info = this.profileInformations.get(i);
+			NodeList nl = xapplier.getNodes(info.getXpath().getXpath(), doc);
+			String currentContent;
+			if (nl.getLength() != 0) {
+				currentContent = nl.item(0).getTextContent();
+			}
+			else	{ //l'xpath non ha restituito nessun segmento
+				currentContent = "--";
+			}
+			contentInformations.add(new Tuple2<>(info.getXpath().getXpath(),currentContent));
 		}
 		return contentInformations;
 	}
