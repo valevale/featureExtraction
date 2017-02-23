@@ -16,8 +16,10 @@ public class CleanedPagesRepository {
 
 	public static void clean(List<String> idSorgenti) throws Exception {
 		List<Document> cleanedPages = new ArrayList<>();
+		DomRepToClean drtc = DomRepToClean.getInstance();
 		for (int i=0;i<idSorgenti.size();i++) {
 			Source s = SourceRep.getSource(idSorgenti.get(i));
+			drtc.addDomain(s);
 			//prendo le prime 100 pagine
 			for (int j=0;j<100;j++) {
 //				if ((j+1)%10==0)
