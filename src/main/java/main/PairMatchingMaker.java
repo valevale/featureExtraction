@@ -53,7 +53,9 @@ public class PairMatchingMaker {
 		//		inizializzaLista();
 		//primo modulo: raccolta di pagine con ancore uniche dai domini scelti
 		//magari poi puoi vedere se anche con la source sfigata ci sono abbastanza pagine
-		Map<String,List<WebPage>> domain2pages = selectDomainsAndGetPagesWithUniqueName();
+//		Map<String,List<WebPage>> domain2pages = PagesWithUniqueNamesRepository.
+//				selectDomainsAndGetPagesWithUniqueName();
+		Map<String,List<WebPage>> domain2pages = PagesWithUniqueNamesRepository.getPages();
 
 		//secondo modulo: filtri e selezioni le pagine di persone che compaiono in almeno 2 domini
 		//WUNIMTOS = WithUniqueNamesInMoreThanOneSource
@@ -79,8 +81,8 @@ public class PairMatchingMaker {
 				String domain2 = SourceInput.getSorgenti().get(j);
 				System.out.println("NUOVO d1:" + domain1);
 				System.out.println("NUOVO d2:" + domain2);
-				CronologiaStampe.println("NUOVO d1:" + domain1);
-				CronologiaStampe.println("NUOVO d2:" + domain2);
+//				CronologiaStampe.println("NUOVO d1:" + domain1);
+//				CronologiaStampe.println("NUOVO d2:" + domain2);
 				Map<String,Boolean> xpath2isIdentificativa_d1 = domain2xpathsCache.get(domain1);
 				if (xpath2isIdentificativa_d1 == null) {
 					xpath2isIdentificativa_d1 = new HashMap<>();
@@ -126,18 +128,18 @@ public class PairMatchingMaker {
 										System.out.println("d2:" + domain2);
 										System.out.println("p1: "+first_person);
 										System.out.println("p2: "+second_person);
-										CronologiaStampe.println("d1:" + domain1);
-										CronologiaStampe.println("d2:" + domain2);
-										CronologiaStampe.println("p1: "+first_person);
-										CronologiaStampe.println("p2: "+second_person);
-										CronologiaStampe.println("wp_p1_d1 id: "+wp_p1_d1.getId().toString());
-										CronologiaStampe.println("wp_p1_d1 url: "+wp_p1_d1.getUrl());
-										CronologiaStampe.println("wp_p1_d2 id: "+wp_p1_d2.getId().toString());
-										CronologiaStampe.println("wp_p1_d2 url: "+wp_p1_d2.getUrl());
-										CronologiaStampe.println("wp_p2_d1 id: "+wp_p2_d1.getId().toString());
-										CronologiaStampe.println("wp_p2_d1 url: "+wp_p2_d1.getUrl());
-										CronologiaStampe.println("wp_p2_d2 id: "+wp_p2_d2.getId().toString());
-										CronologiaStampe.println("wp_p2_d2 url: "+wp_p2_d2.getUrl());
+//										CronologiaStampe.println("d1:" + domain1);
+//										CronologiaStampe.println("d2:" + domain2);
+//										CronologiaStampe.println("p1: "+first_person);
+//										CronologiaStampe.println("p2: "+second_person);
+//										CronologiaStampe.println("wp_p1_d1 id: "+wp_p1_d1.getId().toString());
+//										CronologiaStampe.println("wp_p1_d1 url: "+wp_p1_d1.getUrl());
+//										CronologiaStampe.println("wp_p1_d2 id: "+wp_p1_d2.getId().toString());
+//										CronologiaStampe.println("wp_p1_d2 url: "+wp_p1_d2.getUrl());
+//										CronologiaStampe.println("wp_p2_d1 id: "+wp_p2_d1.getId().toString());
+//										CronologiaStampe.println("wp_p2_d1 url: "+wp_p2_d1.getUrl());
+//										CronologiaStampe.println("wp_p2_d2 id: "+wp_p2_d2.getId().toString());
+//										CronologiaStampe.println("wp_p2_d2 url: "+wp_p2_d2.getUrl());
 										//creo i documenti
 										WebPageDocument wpd_p1_d1 = new WebPageDocument(wp_p1_d1, domain1);
 										WebPageDocument wpd_p1_d2 = new WebPageDocument(wp_p1_d2, domain2);
@@ -161,8 +163,8 @@ public class PairMatchingMaker {
 												
 										cont++;
 										System.out.println("ESITO: "+esito);
-										CronologiaStampe.println("ESITO: "+esito);
-										CronologiaStampe.println("________________________");
+//										CronologiaStampe.println("ESITO: "+esito);
+//										CronologiaStampe.println("________________________");
 										if (esito ==1 || cont>=10) {
 											//devo blacklistare la prima persona
 											Tuple2<String,String> bannedDomainPairs = new Tuple2<>(domain1,domain2);
@@ -516,20 +518,7 @@ public class PairMatchingMaker {
 		return null;
 	}
 
-	public static Map<String,List<WebPage>> selectDomainsAndGetPagesWithUniqueName() {
-//		MongoFacade facade = new MongoFacade("web_search_pages");
-		Map<String,List<WebPage>> domain2pages = new HashMap<>();
-		DomRepToClean drtc = DomRepToClean.getInstance();
-		for (int i=0;i<SourceInput.getSorgenti().size();i++) {
-			Source currentSource = SourceRep.getSource(SourceInput.getSorgenti().get(i));
-//			Source currentSource = facade.getSourceWithId(SourceInput.getSorgenti().get(i));
-			drtc.addDomain(currentSource);
-//			SourceRep.addSource(currentSource);
-			List<WebPage> pagesOfCurrentSource = WebPageSelector.getPageWithUniqueName(currentSource);
-			domain2pages.put(currentSource.getId().toString(), pagesOfCurrentSource);
-		}
-		return domain2pages;
-	}
+	
 
 	//	public static void inizializzaLista() {
 	//		idSorgenti.add("5750678b3387e31f516fa1c7");

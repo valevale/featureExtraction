@@ -10,7 +10,7 @@ import java.sql.Timestamp;
 public class CronologiaStampe {
 
 	static PrintWriter testPrinter = null;
-	static String path = MainWithXpaths.path;
+	static String path = MainNEW.path;
 
 //	private static void createPrinter() throws IOException {
 //		//elimina quello che è stato scritto prima
