@@ -57,8 +57,6 @@ public class DomainsWrapper_pairMatching {
 			boolean id_found)
 					throws Exception {
 
-
-
 		TopSegmentsFinder finder = TopSegmentsFinder.getInstance();
 
 		String path = Configurator.getIndexesPath();

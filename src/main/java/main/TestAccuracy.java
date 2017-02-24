@@ -101,9 +101,12 @@ public class TestAccuracy {
 				Tuple2<String,String> dom_wp = d_wpIt.next();
 				String domain = dom_wp._1();
 				String webPageId = dom_wp._2();
-				List<Tuple2<String,String>> valori = dom_wp2valori.get(dom_wp);
 				
 				List<Tuple2<String,String>> valoriGT = dom_wp2valori.get(dom_wp);
+				//TODO da qui continua
+				
+				
+				
 				//prendo il profilo del rispettivo dominio
 				Profile profilo = domains2profile.get(domain);
 				//prendo la pagina web che ci interessa
@@ -111,6 +114,7 @@ public class TestAccuracy {
 				WebPage webpage = facade.getWebPageWithId(webPageId);
 				List<String> contents = profilo.getContentInformation(webpage,
 						domain);
+				//TODO qui fai una mappa: per ogni contenuto -> altri contenuti delle altre pagine allineate
 				//TODO ricordati di privare le stringhe che estrai dalle pagine web di virgole,\m e ALTRO
 				//pulisco i contents in valoriR
 				List<String> valoriR = new ArrayList<>();

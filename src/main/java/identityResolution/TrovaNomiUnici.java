@@ -170,6 +170,7 @@ public class TrovaNomiUnici {
 						|| listaDomini.get(i).equals("www.misterimprese.it")
 						|| listaDomini.get(i).equals("www.cylex.it")
 						|| listaDomini.get(i).equals("www.inelenco.com")
+						|| listaDomini.get(i).equals("www.icitta.it")
 						) {
 					statPrinterDet2.print(listaDomini.get(i)+"_");
 				}
